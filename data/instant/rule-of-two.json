@@ -1,0 +1,1759 @@
+{
+ "thread": {
+  "id": "rule-of-two",
+  "title": "Darth Bane's Rule of Two: Canon vs. Legends",
+  "hook": "One master, one apprentice: where the rule came from, and which parts are still canon.",
+  "mode": "lore",
+  "packs": [
+   "star_wars"
+  ],
+  "era": "",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "lore"
+ },
+ "title": "One Master, One Apprentice",
+ "logline": "Trace Darth Bane’s Rule of Two from its Legends origins to the parts that survive in current Star Wars canon.",
+ "plan": [
+  {
+   "title": "The Sith Become Two",
+   "focus": "Open on the stark promise of the Rule of Two, then trace how Darth Bane establishes it in Legends after the Sith’s destruction. Keep the focus on what the Legends account actually says about the rule and Bane’s purpose.",
+   "queries": [
+    "star_wars: Darth Bane Legends",
+    "star_wars: Rule of Two Legends",
+    "star_wars: New Sith Wars"
+   ],
+   "packs": [
+    "star_wars"
+   ]
+  },
+  {
+   "title": "What Canon Keeps",
+   "focus": "Set the Legends account beside current canon: identify what canon states about the Rule of Two and Darth Bane, and what details remain exclusive to Legends. End by distinguishing confirmed lore from tempting assumptions about how much of Bane’s story carried over.",
+   "queries": [
+    "star_wars: Darth Bane",
+    "star_wars: Rule of Two",
+    "star_wars: Darth Bane canon"
+   ],
+   "packs": [
+    "star_wars"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Sith Become Two",
+  "narration": "“One master. One apprentice.” That is the stark promise at the heart of the Rule of Two: a Sith order reduced to a pair, one to embody power, the other to crave it. [c1] In the Legends account, this is not a slogan floating free of history. It is a rejection of a failed system, forged after a war that nearly broke both sides. [c2]\n\nThe story begins in the long shadow of the New Sith Wars. After nearly a thousand years of conflict, Jedi and Sith alike stood near collapse. [c3] The eleventh century BBY would later be called the Republic Dark Age, though the record offers little sign of a coherent Sith threat through much of that period. [c4] That distinction matters: a long war does not mean one united enemy marched through every year of it.\n\nThen, in the last decade of the Republic Dark Age, a new Sith power rose. [c5] Jedi Master Skere Kaan turned Dark Lord and founded the Brotherhood of Darkness, also called the Dark Army. [c6] The Brotherhood gathered fragmented New Sith, slaughtered many of its strongest lords, and aimed at the shattered Galactic Republic. [c7]\n\nBut Kaan’s answer to division was not a small, disciplined order. It was a brotherhood that claimed equality among Sith Lords and forbade the title “Darth.” [c8] The Rule of Two would replace that model as the guiding principle of the Sith Lords who followed the New Sith Wars. [c9] The contrast is almost theatrical: Kaan says, in effect, “we are equals”; Bane’s system makes succession the whole engine of the order.\n\nAnd here is the name behind the change. Darth Bane was born Dessel in 1026 BBY, a poor miner on the Outer Rim world of Apatros. [c10] The Legends account credits him with creating the Rule of Two. [c11] It also gives him a cold, practical purpose: the Brotherhood’s leadership looked frail to him, and he wanted the Brotherhood destroyed. [c12]\n\nBane did not merely wait for the old order to collapse. He contacted the Sith fleet in orbit and ordered it to attack Jedi reinforcements, knowing that the Jedi could then send dropships past the blockade. [c13] His choice turned the Brotherhood’s own military strength into the instrument of its ruin. It is a brutal reversal: the fleet meant to secure victory helps open the way to destruction.\n\nAfter the Ruusan campaign, Bane still needed someone to inherit the future he was building. [c14] He encountered a young Force-sensitive girl named Zannah, who had been brought to Ruusan by the Jedi months earlier and separated from them. [c15] She had spent her time there trying to survive. [c16] In this account, the apprentice is not an ornament beside the master. She is the next contest, the next threat, and the reason the system must keep moving.\n\nHere is my read: Kaan’s Brotherhood treats unity as a gathering of equals, while Bane’s Rule of Two makes conflict between generations the mechanism of survival. [c17] One Sith order spreads power across a brotherhood; the other concentrates it in a master and an apprentice. [c18] The parallel is explicit in the structure, even if the story’s drama comes from the people trapped inside it.\n\nSo: the old Sith emerge from a long, exhausting war, and Kaan builds a brotherhood that claims equality. Bane destroys that system and leaves a pair to carry the Sith forward. [c19] But if one apprentice is meant to surpass one master, what happens when the apprentice is ready?\n\nNext, choose the path: Zannah’s first test, the Rule’s succession gamble, or the fate of the Sith beyond Ruusan.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The Rule of Two is a promise of one master and one apprentice.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Rule of Two/Legends card identifies the doctrine, but this card does not state the one-master-and-one-apprentice formulation; the cited support is only from Legends.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The Legends account presents the Rule of Two as a response to a failed Sith system after the New Sith Wars.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Legends card says the Rule of Two replaced Kaan’s Brotherhood after the New Sith Wars, and the New Sith Wars card describes near-collapse, supporting this as a Legends account.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E8",
+      "pack": "star_wars",
+      "page_title": "New Sith Wars",
+      "url": "https://starwars.fandom.com/wiki/New_Sith_Wars",
+      "snippet": "After nearly a thousand years of war, both sides were in near-collapse—although the eleventh century BBY would later be described as the \"Republic Dark Age,\" there is little evidence for any coherent Sith threat for much of the period.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "After nearly a thousand years of war, both sides were near collapse.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The New Sith Wars card states that after nearly a thousand years of war both sides were near collapse.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "star_wars",
+      "page_title": "New Sith Wars",
+      "url": "https://starwars.fandom.com/wiki/New_Sith_Wars",
+      "snippet": "After nearly a thousand years of war, both sides were in near-collapse—although the eleventh century BBY would later be described as the \"Republic Dark Age,\" there is little evidence for any coherent Sith threat for much of the period.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The eleventh century BBY was later described as the Republic Dark Age, with little evidence of a coherent Sith threat for much of that period.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The New Sith Wars card says the eleventh century BBY was later described as the Republic Dark Age and that evidence for a coherent Sith threat is limited for much of it.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "star_wars",
+      "page_title": "New Sith Wars",
+      "url": "https://starwars.fandom.com/wiki/New_Sith_Wars",
+      "snippet": "After nearly a thousand years of war, both sides were in near-collapse—although the eleventh century BBY would later be described as the \"Republic Dark Age,\" there is little evidence for any coherent Sith threat for much of the period.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The Brotherhood of Darkness rose in the last decade of the Republic Dark Age.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Brotherhood of Darkness/Legends card states that it rose to power in the last decade of the Republic Dark Age.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "The Brotherhood of Darkness , known also as the Dark Army , was a Sith army that rose to power in the last decade of the Republic Dark Age . Founded by Jedi Master –turned– Dark Lord of the Sith Skere Kaan , the Brotherhood was formed out of the fragmented New Sith after slaughtering many of its most powerful lords and sought to destroy the shattered Galactic Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Jedi Master Skere Kaan became a Dark Lord of the Sith and founded the Brotherhood of Darkness, also called the Dark Army.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Brotherhood of Darkness/Legends card identifies Skere Kaan as its founder and the Brotherhood as also known as the Dark Army.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "The Brotherhood of Darkness , known also as the Dark Army , was a Sith army that rose to power in the last decade of the Republic Dark Age . Founded by Jedi Master –turned– Dark Lord of the Sith Skere Kaan , the Brotherhood was formed out of the fragmented New Sith after slaughtering many of its most powerful lords and sought to destroy the shattered Galactic Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The Brotherhood formed from fragmented New Sith, slaughtered many powerful lords, and sought to destroy the shattered Galactic Republic.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Brotherhood of Darkness/Legends card says it formed from fragmented New Sith after slaughtering many powerful lords and sought to destroy the shattered Galactic Republic.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "The Brotherhood of Darkness , known also as the Dark Army , was a Sith army that rose to power in the last decade of the Republic Dark Age . Founded by Jedi Master –turned– Dark Lord of the Sith Skere Kaan , the Brotherhood was formed out of the fragmented New Sith after slaughtering many of its most powerful lords and sought to destroy the shattered Galactic Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "The Brotherhood claimed equality among Sith Lords and forbade the title Darth.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Rule of Two/Legends card says Kaan’s Brotherhood claimed equality among Sith Lords and forbade the title Darth.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The Rule of Two replaced the Brotherhood's practices as the guiding principle of the Sith Lords after the New Sith Wars.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Rule of Two/Legends card says the doctrine replaced the Brotherhood’s practices as the guiding principle after the New Sith Wars.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Darth Bane was born Dessel in 1026 BBY and raised as a poor miner on Apatros.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Darth Bane/Legends card gives his birth name, year, and upbringing as a poor miner on Apatros.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "star_wars",
+      "page_title": "Darth Bane/Legends",
+      "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+      "snippet": "Darth Bane , born Dessel , and known to his proxies as Lord Eddels , was the Sith'ari and the Dark Lord of the Sith responsible for creating the Rule of Two . Born in 1026 BBY , he was raised as a poor miner on the Outer Rim planet Apatros .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Darth Bane created the Rule of Two.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Darth Bane/Legends card explicitly credits him with creating the Rule of Two.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "star_wars",
+      "page_title": "Darth Bane/Legends",
+      "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+      "snippet": "Darth Bane , born Dessel , and known to his proxies as Lord Eddels , was the Sith'ari and the Dark Lord of the Sith responsible for creating the Rule of Two . Born in 1026 BBY , he was raised as a poor miner on the Outer Rim planet Apatros .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Bane viewed the Brotherhood's leadership as frail and sought its destruction.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Brotherhood of Darkness/Legends card says Bane considered its leadership frail and sought its destruction.",
+    "evidence": [
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "Enraged at the frailty of the Brotherhood's leadership, Bane moved quickly to ensure the ultimate destruction of the Brotherhood. Contacting the Sith's fleet in orbit, he ordered it to engage the Jedi reinforcements despite knowing that they would then be able to slip dropships past the blockade .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Bane ordered the Sith fleet to attack Jedi reinforcements, knowing this would let Jedi dropships pass the blockade.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Brotherhood of Darkness/Legends card states that Bane ordered the fleet to engage Jedi reinforcements, knowing this would let dropships slip past the blockade.",
+    "evidence": [
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "Enraged at the frailty of the Brotherhood's leadership, Bane moved quickly to ensure the ultimate destruction of the Brotherhood. Contacting the Sith's fleet in orbit, he ordered it to engage the Jedi reinforcements despite knowing that they would then be able to slip dropships past the blockade .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "After the Ruusan campaign, Bane still needed an apprentice.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Darth Bane/Legends card says Bane still needed an apprentice after his plan and the Ruusan campaign.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "star_wars",
+      "page_title": "Darth Bane/Legends",
+      "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+      "snippet": "However, though Bane had successfully executed his plan, he still needed an apprentice. Exploring the planet in the aftermath of the Ruusan campaign , he encountered a young Force-sensitive girl named Zannah . Zannah had been taken to the planet by the Jedi several months earlier, but had been separated from them, and had spent all her time on Ruusan merely trying to survive.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "Bane encountered Zannah, a young Force-sensitive girl brought to Ruusan by the Jedi months earlier and separated from them.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Darth Bane/Legends card says Zannah was a young Force-sensitive girl brought to Ruusan by the Jedi months earlier and separated from them.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "star_wars",
+      "page_title": "Darth Bane/Legends",
+      "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+      "snippet": "However, though Bane had successfully executed his plan, he still needed an apprentice. Exploring the planet in the aftermath of the Ruusan campaign , he encountered a young Force-sensitive girl named Zannah . Zannah had been taken to the planet by the Jedi several months earlier, but had been separated from them, and had spent all her time on Ruusan merely trying to survive.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "Zannah spent her time on Ruusan trying to survive.",
+    "kind": "lore",
+    "grade": "Legends",
+    "note": "The Darth Bane/Legends card says Zannah spent all her time on Ruusan trying to survive.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "star_wars",
+      "page_title": "Darth Bane/Legends",
+      "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+      "snippet": "However, though Bane had successfully executed his plan, he still needed an apprentice. Exploring the planet in the aftermath of the Ruusan campaign , he encountered a young Force-sensitive girl named Zannah . Zannah had been taken to the planet by the Jedi several months earlier, but had been separated from them, and had spent all her time on Ruusan merely trying to survive.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "The Brotherhood treats unity as a gathering of equals, while Bane's Rule of Two makes generational conflict a mechanism of survival.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is the narrator’s comparison of the Brotherhood and the Rule of Two, grounded in the card’s contrast between claimed equality and the later doctrine.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "The Brotherhood distributed authority among Sith Lords, while the Rule of Two centers the order on a master and an apprentice.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a structural comparison: the card describes the Brotherhood’s claimed equality and the Rule of Two replacing its practices, rather than stating this exact contrast.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c19",
+    "text": "The old Sith emerged from a long war, Kaan built an egalitarian Brotherhood, and Bane destroyed it and established a two-person succession system.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a summary and dramatic framing of the cited Legends account, not a single factual statement established verbatim by the cards.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Rule of Two/Legends",
+      "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+      "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E8",
+      "pack": "star_wars",
+      "page_title": "New Sith Wars",
+      "url": "https://starwars.fandom.com/wiki/New_Sith_Wars",
+      "snippet": "After nearly a thousand years of war, both sides were in near-collapse—although the eleventh century BBY would later be described as the \"Republic Dark Age,\" there is little evidence for any coherent Sith threat for much of the period.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "The Brotherhood of Darkness , known also as the Dark Army , was a Sith army that rose to power in the last decade of the Republic Dark Age . Founded by Jedi Master –turned– Dark Lord of the Sith Skere Kaan , the Brotherhood was formed out of the fragmented New Sith after slaughtering many of its most powerful lords and sought to destroy the shattered Galactic Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Brotherhood of Darkness/Legends",
+      "url": "https://starwars.fandom.com/wiki/Brotherhood_of_Darkness/Legends",
+      "snippet": "Enraged at the frailty of the Brotherhood's leadership, Bane moved quickly to ensure the ultimate destruction of the Brotherhood. Contacting the Sith's fleet in orbit, he ordered it to engage the Jedi reinforcements despite knowing that they would then be able to slip dropships past the blockade .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Zannah’s first test: the apprentice learns to survive",
+   "The succession gamble: when should an apprentice strike?",
+   "Beyond Ruusan: what becomes of the hidden Sith"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The Sith Brotherhood of Darkness claimed equality among its Lords and banned the title Darth.",
+     "verdict": "fact",
+     "explanation": "The Legends account says the Brotherhood claimed equality among Sith Lords and forbade the title Darth. The Rule of Two later replaced its practices.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The Rule of Two doctrine, also called the Banite system and known as Chwayatyun in Sith , was the guiding principle of the Order of the Sith Lords after the internecine New Sith Wars . It replaced the practices of Lord Kaan's Brotherhood of Darkness , which claimed equality among Sith Lords and forbade the use of the title \" Darth .\"",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "statement": "A coherent Sith threat dominated the Republic Dark Age for nearly a thousand years.",
+     "verdict": "myth",
+     "explanation": "The evidence distinguishes the nearly thousand-year war from the Republic Dark Age: it says there is little evidence of a coherent Sith threat through much of the Dark Age.",
+     "evidence_ids": [
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "star_wars",
+       "page_title": "New Sith Wars",
+       "url": "https://starwars.fandom.com/wiki/New_Sith_Wars",
+       "snippet": "After nearly a thousand years of war, both sides were in near-collapse—although the eleventh century BBY would later be described as the \"Republic Dark Age,\" there is little evidence for any coherent Sith threat for much of the period.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "statement": "Darth Bane created the Rule of Two after being born Dessel on Apatros.",
+     "verdict": "fact",
+     "explanation": "The Legends account identifies Bane as Dessel, born in 1026 BBY and raised as a poor miner on Apatros, and credits him with creating the Rule of Two.",
+     "evidence_ids": [
+      "E3"
+     ],
+     "evidence": [
+      {
+       "id": "E3",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Darth Bane , born Dessel , and known to his proxies as Lord Eddels , was the Sith'ari and the Dark Lord of the Sith responsible for creating the Rule of Two . Born in 1026 BBY , he was raised as a poor miner on the Outer Rim planet Apatros .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "After Bane’s plan succeeds at Ruusan, what does he still need?",
+    "options": [
+     "A new Sith fleet",
+     "An apprentice",
+     "A truce with the Jedi"
+    ],
+    "answer_index": 1,
+    "reveal_para": 6,
+    "explanation": "After the Ruusan campaign, Bane still needs an apprentice and encounters Zannah."
+   }
+  }
+ },
+ "branches": {
+  "Zannah’s first test: the apprentice learns to survive": {
+   "index": 2,
+   "title": "Zannah’s First Test",
+   "narration": "Ambria. Zannah has a datacard holding all of Hetton’s knowledge, and she brings Hetton and his Umbaran minions to attack her master. [c1] The plan has a sharp edge: she is not simply sending enemies at Darth Bane. She is standing close enough to watch what happens when the old master is caught unawares. [c2]\n\nEight assassins rush Bane. He kills all eight in rapid succession, then kills Hetton, while Zannah watches. [c3] That is her first hard lesson in succession: a clever plan can arrange the test, but it cannot make the master easy to kill. [c4]\n\nAnd remember what this test is testing. Bane created the Rule of Two because he believed the Sith Order’s infighting was inevitably self-destructive. [c5] The rule leaves two places: master and apprentice. Its design turns ambition into a succession mechanism, with the apprentice meant to grow powerful enough to take the master’s title. [c6]\n\nThat means Zannah’s job is a contradiction with teeth. She must learn from Bane, carry his teachings forward, and become dangerous enough to replace him. [c7] If she stays weak, the line fails. If she becomes strong, the master has every reason to fear her. Here’s my read: the Rule of Two is less a peace treaty than a fuse. [c8]\n\nIn this Legends account, Zannah is Bane’s apprentice after the war between the Sith and Jedi Orders, chosen to carry the teachings and the Rule of Two forward. [c9] The story gives her no easy inheritance. Her path runs through observation, preparation, and the possibility that one day she must make the lesson personal. [c10]\n\nThere is a second measure of her ambition. Zannah wanted an apprentice of her own before attacking Bane, so that if she won, she could continue the Rule of Two’s legacy without delay. [c11] She is already thinking beyond victory. She wants the next link ready before she breaks the present one.\n\nAnd Bane is not waiting passively for the future. Without Zannah’s knowledge, he investigates the legend of Darth Andeddu’s holocron, said to hold the secret of eternal life. [c12] The master who built a system around being replaced is now looking for a way to outlast replacement. That is the tension in one image: the apprentice preparing a successor, the master searching for more time.\n\nThe payoff belongs to Legends, not current canon: Zannah becomes a Dark Lord of the Sith, and Bane’s apprentice is trained to carry the Rule of Two onward. [c13] Her credibility as successor rests not on a clean triumph in this first test, but on the ambition and preparation the account gives her. She studies the master, survives the danger around him, and plans for what comes after him.\n\nSo: Bane’s rule makes succession the engine of Sith survival, and Zannah learns that replacing a master requires more than wanting his place. [c14] The apprentice must become powerful enough to end the master’s reign, while preserving the order that makes the struggle matter. [c15]\n\nWhere next? We can follow Bane’s search for eternal life, trace Zannah’s plan to claim the mantle, or examine how the Rule of Two reshapes Sith history.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Zannah received a datacard containing Hetton’s knowledge and took Hetton and his Umbaran minions to attack Bane.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends page states that Zannah received Hetton’s knowledge on a datacard and took him and his Umbaran minions to attack Bane.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Zannah watched the confrontation after the assassins caught Bane unawares.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends account says the assassins caught Bane unawares while Zannah watched the confrontation.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Bane killed all eight assassins rapidly and then killed Hetton while Zannah watched.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends account says Bane slew all eight assassins in rapid succession, then killed Hetton as Zannah watched.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The failed attack showed that Bane remained difficult to kill.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s inference from Bane defeating the attackers; the card recounts the event but does not explicitly draw this lesson.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Bane instituted the Rule of Two in response to what he viewed as inevitable self-destructive Sith infighting.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Rule of Two/Legends page says Bane instituted the rule in response to what he viewed as inevitable, self-destructive Sith infighting.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The Rule of Two was instituted by Darth Bane , once a student at Kaan's Sith academy , in response to what he viewed as inevitable, self-destructive infighting within the Sith Order . The Rule of Two states that there would be only two Sith at one time, a master and an apprentice , guaranteeing that when the apprentice becomes powerful enough in the ways of the dark side to take the title of …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Rule of Two made ambition a succession mechanism, with an apprentice expected to become powerful enough to take the master’s title.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Darth Bane page says the rule used Sith ambition as a mechanism of succession, while the Legends page describes the apprentice becoming powerful enough to take the title.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The Rule of Two was instituted by Darth Bane , once a student at Kaan's Sith academy , in response to what he viewed as inevitable, self-destructive infighting within the Sith Order . The Rule of Two states that there would be only two Sith at one time, a master and an apprentice , guaranteeing that when the apprentice becomes powerful enough in the ways of the dark side to take the title of …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E44",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "The goal of Bane's decree, and the new hierarchy that it created, was to ensure the survival of the Sith Order. The Rule of Two recognized the ambition for power inherent in Sith philosophy and utilized it as a mechanism of succession from one Sith Master to the next.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Zannah was Bane’s apprentice and was trained to carry his teachings forward.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Darth Zannah page states that she was Bane’s apprentice and was trained to carry his teachings and the Rule of Two forward.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah",
+       "snippet": "Darth Zannah was a Dark Lord of the Sith and the Sith apprentice of Darth Bane . Zannah was trained to carry Bane's teachings and the Rule of Two forward after a war between the Sith and Jedi Orders .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E40",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah",
+       "snippet": "Approximately one thousand years prior to the Invasion of Naboo , the Sith Lord Darth Bane enacted the Rule of Two . This teaching mandated that there would only be two Sith at any given time ; a master to embody power, and an apprentice to crave it. As part of the Rule of Two, Bane took on an apprentice, Darth Zannah, to whom he passed on his teachings.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Rule of Two creates a tension between the apprentice’s rise and the master’s security.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The tension between an apprentice’s rise and a master’s security is the narrator’s reading of the rule, not a stated lore fact.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The Rule of Two was instituted by Darth Bane , once a student at Kaan's Sith academy , in response to what he viewed as inevitable, self-destructive infighting within the Sith Order . The Rule of Two states that there would be only two Sith at one time, a master and an apprentice , guaranteeing that when the apprentice becomes powerful enough in the ways of the dark side to take the title of …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E44",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "The goal of Bane's decree, and the new hierarchy that it created, was to ensure the survival of the Sith Order. The Rule of Two recognized the ambition for power inherent in Sith philosophy and utilized it as a mechanism of succession from one Sith Master to the next.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "In the Legends account, Zannah was Bane’s apprentice after a war between the Sith and Jedi Orders and was tasked with carrying the Rule of Two forward.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The cited Darth Zannah page is explicitly a Legends page and states that she was Bane’s apprentice after the Sith–Jedi war, trained to carry the teachings and Rule of Two forward.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah",
+       "snippet": "Darth Zannah was a Dark Lord of the Sith and the Sith apprentice of Darth Bane . Zannah was trained to carry Bane's teachings and the Rule of Two forward after a war between the Sith and Jedi Orders .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Zannah’s account involves observing and preparing around Bane’s rule.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "Observation and preparation are the narrator’s thematic framing of Zannah’s story, rather than a claim established by the cited cards.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Secondly, she wanted to acquire an apprentice of her own before attacking him, so that if she won, she would be ready to continue the legacy of the Rule of Two without further delay. Without Zannah's knowledge, Bane then began to look into the legend of Darth Andeddu's holocron , which was said to hold the secret of eternal life—an ability that would allow him to live long enough to find and …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Zannah wanted to acquire her own apprentice before attacking Bane so the legacy could continue immediately if she won.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends account says Zannah wanted an apprentice before attacking Bane so she could continue the Rule of Two’s legacy without delay if she won.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Secondly, she wanted to acquire an apprentice of her own before attacking him, so that if she won, she would be ready to continue the legacy of the Rule of Two without further delay. Without Zannah's knowledge, Bane then began to look into the legend of Darth Andeddu's holocron , which was said to hold the secret of eternal life—an ability that would allow him to live long enough to find and …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Bane secretly investigated the legend of Darth Andeddu’s holocron, said to hold the secret of eternal life.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends account says Bane investigated the legend of Andeddu’s holocron, said to hold the secret of eternal life.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Secondly, she wanted to acquire an apprentice of her own before attacking him, so that if she won, she would be ready to continue the legacy of the Rule of Two without further delay. Without Zannah's knowledge, Bane then began to look into the legend of Darth Andeddu's holocron , which was said to hold the secret of eternal life—an ability that would allow him to live long enough to find and …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Legends account identifies Zannah as a Dark Lord and Bane’s apprentice, trained to carry the Rule of Two onward.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The cited Legends page identifies Zannah as a Dark Lord and Bane’s apprentice, trained to carry the Rule of Two onward; no canon card here establishes this payoff.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah",
+       "snippet": "Darth Zannah was a Dark Lord of the Sith and the Sith apprentice of Darth Bane . Zannah was trained to carry Bane's teachings and the Rule of Two forward after a war between the Sith and Jedi Orders .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Bane’s rule made succession central to Sith survival, and Zannah’s account emphasizes the challenge of replacing the master.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The claim that succession is the engine of Sith survival and that Zannah learns the challenge of replacing a master is the narrator’s synthesis of the cited material.",
+     "evidence": [
+      {
+       "id": "E44",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "The goal of Bane's decree, and the new hierarchy that it created, was to ensure the survival of the Sith Order. The Rule of Two recognized the ambition for power inherent in Sith philosophy and utilized it as a mechanism of succession from one Sith Master to the next.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E35",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The Rule of Two requires an apprentice to become powerful enough to replace the master while sustaining Sith succession.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This summarizes the rule and adds the narrator’s framing that succession preserves the order that makes the struggle matter.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The Rule of Two was instituted by Darth Bane , once a student at Kaan's Sith academy , in response to what he viewed as inevitable, self-destructive infighting within the Sith Order . The Rule of Two states that there would be only two Sith at one time, a master and an apprentice , guaranteeing that when the apprentice becomes powerful enough in the ways of the dark side to take the title of …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E44",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "The goal of Bane's decree, and the new hierarchy that it created, was to ensure the survival of the Sith Order. The Rule of Two recognized the ambition for power inherent in Sith philosophy and utilized it as a mechanism of succession from one Sith Master to the next.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Bane’s hunt for eternal life—and the apprentice left waiting",
+    "Zannah’s succession: what makes a Sith master credible?",
+    "From two Sith to a thousand years of hidden ambition"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Bane killed all eight assassins and then killed Hetton while Zannah watched.",
+      "verdict": "fact",
+      "explanation": "In the Legends account, Bane rapidly killed the eight assassins before killing Hetton, with Zannah watching.",
+      "evidence_ids": [
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E35",
+        "pack": "star_wars",
+        "page_title": "Darth Zannah/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+        "snippet": "Zannah was given a datacard that contained the sum of Hetton's knowledge. She then took him and his Umbaran minions to Ambria, to attack her Master. Although the assassins caught Bane unawares, they were no match for the Dark Lord, who slew all eight of them in rapid succession before finally killing Hetton, all while Zannah stood by and watched.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Rule of Two was created because Bane believed Sith infighting would destroy the Order.",
+      "verdict": "fact",
+      "explanation": "The account says Bane instituted the rule in response to what he viewed as inevitable, self-destructive infighting among the Sith.",
+      "evidence_ids": [
+       "E42"
+      ],
+      "evidence": [
+       {
+        "id": "E42",
+        "pack": "star_wars",
+        "page_title": "Rule of Two/Legends",
+        "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+        "snippet": "The Rule of Two was instituted by Darth Bane , once a student at Kaan's Sith academy , in response to what he viewed as inevitable, self-destructive infighting within the Sith Order . The Rule of Two states that there would be only two Sith at one time, a master and an apprentice , guaranteeing that when the apprentice becomes powerful enough in the ways of the dark side to take the title of …",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Bane searched for Darth Andeddu’s holocron to learn how to live forever.",
+      "verdict": "myth",
+      "explanation": "The Legends account says Bane investigated the holocron legend, which was said to contain the secret of eternal life; it does not establish that the holocron actually granted immortality.",
+      "evidence_ids": [
+       "E37"
+      ],
+      "evidence": [
+       {
+        "id": "E37",
+        "pack": "star_wars",
+        "page_title": "Darth Zannah/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+        "snippet": "Secondly, she wanted to acquire an apprentice of her own before attacking him, so that if she won, she would be ready to continue the legacy of the Rule of Two without further delay. Without Zannah's knowledge, Bane then began to look into the legend of Darth Andeddu's holocron , which was said to hold the secret of eternal life—an ability that would allow him to live long enough to find and …",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After Zannah’s attack fails, what future step was she already planning so the Rule of Two could continue if she defeated Bane?",
+     "options": [
+      "Find an apprentice of her own",
+      "Seek Darth Andeddu’s holocron",
+      "Recruit the eight assassins"
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "Zannah wanted her own apprentice ready before attacking Bane, so she could continue the Rule of Two’s legacy without delay if she won."
+    }
+   }
+  },
+  "The succession gamble: when should an apprentice strike?": {
+   "index": 2,
+   "title": "The Moment to Strike",
+   "narration": "A thousand years before the Clone Wars, the Brotherhood of Darkness falls at Ruusan. [c1] Darth Bane survives, and sees what Sith infighting has cost his order. [c2] His answer is not another council, another crowded room of rivals, or another promise that everyone will share power. It is a pair. One master. One apprentice. [c3]\n\nYou chose the succession gamble: when should the apprentice strike? In the Legends account, Bane and Zannah do not answer that question quickly. They leave Onderon, take a vessel from a Neimoidian merchant, and settle on Ambria. [c4] There, they spend ten years building an intelligence network with money from Qordis's account. [c5] Their aim is to learn enough to destroy the Jedi and seize galactic control. [c6]\n\nTen years. That is the first answer: patience is not idleness. It is work conducted out of sight. The apprentice waits, learns, and prepares. The master waits too, because a succession that arrives before the successor is ready is merely another way to lose.\n\nBut a hidden network cannot settle the question forever. In Legends, Bane and Zannah eventually confront one another in the Stone Prison. [c7] Zannah corners him more than once and withstands or evades his Force lightning, yet she cannot kill him. [c8] She is defensive by instinct and training, and struggles when she must become the primary aggressor. [c9]\n\nThat is the trap. The apprentice has to be dangerous enough to challenge the master, but the challenge itself exposes every weakness. Zannah can hold ground. She can survive. But survival is not succession. The throne does not pass to the person who nearly wins.\n\nThen the contest changes shape. In the Legends account, Bane and Zannah battle for possession of her body, their wills fighting where their weapons once did. [c10] Bane's essence takes hold, and he sees and hears through Zannah. [c11] The succession gamble has become something more intimate and more horrifying than a duel: the master may try to inherit the apprentice instead.\n\nNow set that story beside current canon. The Rule of Two is an essay authored by Bane after Ruusan, and it becomes the cornerstone of his reformed Sith Order. [c12] It is preserved in hidden Sith Archives and passed from master to apprentice for centuries. [c13] In the Republic's last decades, it reaches Darth Sidious, whose public identity is the politician Palpatine. [c14]\n\nThat gives us a sharp contrast. Legends supplies this particular Bane-and-Zannah succession drama, including the mind-battle. Current canon establishes the doctrine's long transmission and its arrival with Sidious, but these cards do not establish the Zannah episode as canon. [c15]\n\nHere's my read: Bane is the architect of the test, while Zannah is the apprentice forced to live inside it. Their parallel is not that they are the same person; it is that the rule turns inheritance into a contest between a system's founder and the next generation. Bane wants the Sith legacy to outlast him. Zannah must prove she can take it without becoming merely its vessel.\n\nStrike too soon, and you may lack the strength to finish the master. Wait too long, and the master may decide your strength belongs to him. The Rule of Two makes patience a weapon, but it also makes patience dangerous. Every year spent preparing is another year the master remains in control.\n\nSo: Ruusan's defeat gives Bane the reason to replace Sith infighting with a pair. In Legends, Zannah's long preparation leads to a failed killing attempt and a battle for possession; canon carries the Rule forward to Sidious. [c16] The question is still hanging in the dark: when the master and apprentice are both waiting, who moves first—and what story should we follow next: Bane's rise after Ruusan, Sidious inheriting the rule, or another master-apprentice gamble in Star Wars?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Brotherhood of Darkness was defeated at the Seventh Battle of Ruusan in 1000 BBY, a thousand years before the Clone Wars.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon cards place the Brotherhood’s defeat at the Seventh Battle of Ruusan in 1000 BBY, a thousand years before the Clone Wars.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "Darth Bane was a legendary human male Dark Lord of the Sith and the sole survivor of the destruction of the Brotherhood of Darkness at the hands of the Jedi Order during the Jedi-Sith War a thousand years before the Clone Wars . As the only surviving Sith , Bane recognized that Sith infighting had weakened them to the point that the Jedi could destroy them.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "In 1000 BBY , the Brotherhood of Darkness , a Sith organization founded and led by Lord Skere Kaan , was defeated by the Jedi Order during the Seventh Battle of Ruusan . Darth Bane , the last surviving Dark Lord , decided to restructure the Sith into a new order , in which the practices of the Brotherhood were replaced with his own system, the Rule of Two .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Bane was the sole survivor of the Brotherhood's destruction and recognized Sith infighting had weakened the Sith.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Darth Bane card identifies him as the sole survivor and says he recognized that Sith infighting had weakened them.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "Darth Bane was a legendary human male Dark Lord of the Sith and the sole survivor of the destruction of the Brotherhood of Darkness at the hands of the Jedi Order during the Jedi-Sith War a thousand years before the Clone Wars . As the only surviving Sith , Bane recognized that Sith infighting had weakened them to the point that the Jedi could destroy them.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Bane restructured the Sith into the Rule of Two after the Brotherhood's defeat.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Rule of Two card says Bane decided to restructure the Sith and replace the Brotherhood’s practices with the Rule of Two.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "In 1000 BBY , the Brotherhood of Darkness , a Sith organization founded and led by Lord Skere Kaan , was defeated by the Jedi Order during the Seventh Battle of Ruusan . Darth Bane , the last surviving Dark Lord , decided to restructure the Sith into a new order , in which the practices of the Brotherhood were replaced with his own system, the Rule of Two .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "In Legends, Bane and Zannah acquired a vessel from a Neimoidian merchant, left Onderon, and established a camp on Ambria.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card states that Bane and Zannah obtained the vessel, left Onderon, and established their camp on Ambria.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Bane and Zannah acquired a new vessel from a Neimoidian merchant and left Onderon, establishing a camp on Ambria, where they spent the next ten years. Thanks to the credits they had obtained from Qordis's account, the two built up a vast intelligence network, learning secrets that they hoped would one day allow them to destroy the Jedi and gain galactic control.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "In Legends, Bane and Zannah spent ten years building an intelligence network using credits from Qordis's account.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card says they spent ten years building an intelligence network using credits from Qordis’s account.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Bane and Zannah acquired a new vessel from a Neimoidian merchant and left Onderon, establishing a camp on Ambria, where they spent the next ten years. Thanks to the credits they had obtained from Qordis's account, the two built up a vast intelligence network, learning secrets that they hoped would one day allow them to destroy the Jedi and gain galactic control.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Their stated aim was to learn secrets to destroy the Jedi and gain galactic control.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card gives their hope of destroying the Jedi and gaining galactic control as the purpose of their intelligence gathering.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Bane and Zannah acquired a new vessel from a Neimoidian merchant and left Onderon, establishing a camp on Ambria, where they spent the next ten years. Thanks to the credits they had obtained from Qordis's account, the two built up a vast intelligence network, learning secrets that they hoped would one day allow them to destroy the Jedi and gain galactic control.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In Legends, Bane and Zannah battled in the Stone Prison.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card places Bane and Zannah’s confrontation in the Stone Prison.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Zannah cornered Bane and evaded or held off his Force lightning but could not kill him.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card says Zannah cornered Bane and evaded or held off his Force lightning but was unable to kill him.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Zannah's defensive focus made it difficult for her to act as the primary aggressor.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card directly attributes her difficulty acting as the primary aggressor to her focus on defensive cadences.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "In Legends, Bane and Zannah fought for possession of her body through a battle of wills.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card describes the two battling in Zannah’s mind for possession of her body.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "The two Sith Lords battled within Zannah's mind, fighting for possession of her body. Their wills battled where once blade and keen impulses had, each trying to push the other out and into the great void from which there was no return. Bane's essence occupied Zannah's body, rooting in, and he could see from Zannah's eyes, and hear with her ears.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Bane's essence occupied Zannah's body, allowing him to see through her eyes and hear through her ears.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The /Legends card says Bane’s essence occupied Zannah’s body and that he could see through her eyes and hear through her ears.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "The two Sith Lords battled within Zannah's mind, fighting for possession of her body. Their wills battled where once blade and keen impulses had, each trying to push the other out and into the great void from which there was no return. Bane's essence occupied Zannah's body, rooting in, and he could see from Zannah's eyes, and hear with her ears.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Rule of Two was an essay authored by Bane after Ruusan and became the cornerstone of his reformed Sith Order.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card identifies the Rule of Two as Bane’s essay, authored after Ruusan, and says it became the cornerstone of his reformed Sith Order.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "The Rule of Two was an essay pertaining to an eponymous doctrine authored by the Dark Lord of the Sith Darth Bane some time after the Seventh Battle of Ruusan . It became the cornerstone of Bane's reformed Sith Order and was passed down from master to apprentice in the Sith Archives . It was eventually included in Darth Sidious's Book of Sith sometime after the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The document was preserved in hidden Sith Archives and passed down from master to apprentice for centuries.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon cards say the document was preserved in the hidden Sith Archives and passed down from master to apprentice for centuries.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "The Rule of Two was an essay pertaining to an eponymous doctrine authored by the Dark Lord of the Sith Darth Bane some time after the Seventh Battle of Ruusan . It became the cornerstone of Bane's reformed Sith Order and was passed down from master to apprentice in the Sith Archives . It was eventually included in Darth Sidious's Book of Sith sometime after the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E26",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "That document was conserved in the hidden Sith Archives and was passed down from master to apprentice for centuries . In the last decades of the Galactic Republic , it fell into the hands of Darth Sidious , the Sith alter ego of the politician Palpatine.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "In the last decades of the Galactic Republic, the Rule document reached Darth Sidious, whose Sith identity was Palpatine.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card says the document reached Darth Sidious in the Republic’s last decades and identifies Sidious as Palpatine’s Sith alter ego.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "That document was conserved in the hidden Sith Archives and was passed down from master to apprentice for centuries . In the last decades of the Galactic Republic , it fell into the hands of Darth Sidious , the Sith alter ego of the politician Palpatine.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The supplied current-canon cards establish the Rule's transmission to Sidious but do not establish the Legends Zannah episode as canon.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is a correctly bounded comparison: the cited cards support the Legends Zannah events and the canon transmission, but do not establish those events as canon.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "The two Sith Lords battled within Zannah's mind, fighting for possession of her body. Their wills battled where once blade and keen impulses had, each trying to push the other out and into the great void from which there was no return. Bane's essence occupied Zannah's body, rooting in, and he could see from Zannah's eyes, and hear with her ears.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E24",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "The Rule of Two was an essay pertaining to an eponymous doctrine authored by the Dark Lord of the Sith Darth Bane some time after the Seventh Battle of Ruusan . It became the cornerstone of Bane's reformed Sith Order and was passed down from master to apprentice in the Sith Archives . It was eventually included in Darth Sidious's Book of Sith sometime after the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E26",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "That document was conserved in the hidden Sith Archives and was passed down from master to apprentice for centuries . In the last decades of the Galactic Republic , it fell into the hands of Darth Sidious , the Sith alter ego of the politician Palpatine.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Ruusan's defeat led Bane to replace Sith infighting with the Rule of Two; Legends depicts Zannah's failed attempt and possession struggle, while the Rule later reaches Sidious.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This closing summary accurately frames the connection while distinguishing canon evidence about Bane’s reform and the Rule’s transmission from the Zannah events found only in Legends.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "Darth Bane was a legendary human male Dark Lord of the Sith and the sole survivor of the destruction of the Brotherhood of Darkness at the hands of the Jedi Order during the Jedi-Sith War a thousand years before the Clone Wars . As the only surviving Sith , Bane recognized that Sith infighting had weakened them to the point that the Jedi could destroy them.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "In 1000 BBY , the Brotherhood of Darkness , a Sith organization founded and led by Lord Skere Kaan , was defeated by the Jedi Order during the Seventh Battle of Ruusan . Darth Bane , the last surviving Dark Lord , decided to restructure the Sith into a new order , in which the practices of the Brotherhood were replaced with his own system, the Rule of Two .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "The two Sith Lords battled within Zannah's mind, fighting for possession of her body. Their wills battled where once blade and keen impulses had, each trying to push the other out and into the great void from which there was no return. Bane's essence occupied Zannah's body, rooting in, and he could see from Zannah's eyes, and hear with her ears.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Darth Zannah/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+       "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E24",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "The Rule of Two was an essay pertaining to an eponymous doctrine authored by the Dark Lord of the Sith Darth Bane some time after the Seventh Battle of Ruusan . It became the cornerstone of Bane's reformed Sith Order and was passed down from master to apprentice in the Sith Archives . It was eventually included in Darth Sidious's Book of Sith sometime after the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E26",
+       "pack": "star_wars",
+       "page_title": "The Rule of Two",
+       "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+       "snippet": "That document was conserved in the hidden Sith Archives and was passed down from master to apprentice for centuries . In the last decades of the Galactic Republic , it fell into the hands of Darth Sidious , the Sith alter ego of the politician Palpatine.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Bane after Ruusan: how a survivor builds a new Sith order",
+    "Sidious inherits the Rule: the secret behind Palpatine",
+    "Another apprentice waits: Star Wars' most dangerous inheritance"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Bane and Zannah spent ten years building an intelligence network on Ambria.",
+      "verdict": "fact",
+      "explanation": "In the Legends account, they spent ten years on Ambria building a network with credits from Qordis's account.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "star_wars",
+        "page_title": "Darth Bane/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+        "snippet": "Bane and Zannah acquired a new vessel from a Neimoidian merchant and left Onderon, establishing a camp on Ambria, where they spent the next ten years. Thanks to the credits they had obtained from Qordis's account, the two built up a vast intelligence network, learning secrets that they hoped would one day allow them to destroy the Jedi and gain galactic control.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Zannah killed Bane in the Stone Prison.",
+      "verdict": "myth",
+      "explanation": "She cornered him and withstood or evaded his lightning, but could not kill him. Their later struggle became a battle for possession of her body.",
+      "evidence_ids": [
+       "E23",
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "star_wars",
+        "page_title": "Darth Zannah/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Zannah/Legends",
+        "snippet": "Because of her heavy focus on defensive cadences, however, Zannah found difficulty in maintaining situations that saw her as the primary aggressor. During her confrontation with Bane in the Stone Prison, she successfully cornered him multiple times and evaded or held off his Force lightning, but despite the Dark Lord's lack of a weapon and her landing a kick, she was unable to kill him.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E14",
+        "pack": "star_wars",
+        "page_title": "Darth Bane/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+        "snippet": "The two Sith Lords battled within Zannah's mind, fighting for possession of her body. Their wills battled where once blade and keen impulses had, each trying to push the other out and into the great void from which there was no return. Bane's essence occupied Zannah's body, rooting in, and he could see from Zannah's eyes, and hear with her ears.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Rule of Two was passed down through the Sith Archives and eventually reached Sidious.",
+      "verdict": "fact",
+      "explanation": "The evidence says the document was preserved in hidden Sith Archives, passed between masters and apprentices for centuries, and reached Sidious in the Republic's last decades.",
+      "evidence_ids": [
+       "E24",
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "star_wars",
+        "page_title": "The Rule of Two",
+        "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+        "snippet": "The Rule of Two was an essay pertaining to an eponymous doctrine authored by the Dark Lord of the Sith Darth Bane some time after the Seventh Battle of Ruusan . It became the cornerstone of Bane's reformed Sith Order and was passed down from master to apprentice in the Sith Archives . It was eventually included in Darth Sidious's Book of Sith sometime after the end of the Clone Wars .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E26",
+        "pack": "star_wars",
+        "page_title": "The Rule of Two",
+        "url": "https://starwars.fandom.com/wiki/The_Rule_of_Two",
+        "snippet": "That document was conserved in the hidden Sith Archives and was passed down from master to apprentice for centuries . In the last decades of the Galactic Republic , it fell into the hands of Darth Sidious , the Sith alter ego of the politician Palpatine.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the long preparation, what happens when Bane and Zannah confront one another in the Stone Prison?",
+     "options": [
+      "Zannah kills Bane with his own weapon.",
+      "She cannot kill him, despite cornering him and surviving his lightning.",
+      "Bane immediately takes control of her body."
+     ],
+     "answer_index": 1,
+     "reveal_para": 3,
+     "explanation": "Zannah corners Bane and withstands or evades his lightning, but she is unable to kill him."
+    }
+   }
+  },
+  "Beyond Ruusan: what becomes of the hidden Sith": {
+   "index": 2,
+   "title": "The Sith After Ruusan",
+   "narration": "Ruusan is quiet at last, but quiet is not the same as safe. You chose to follow the hidden Sith beyond the battlefield, where survival means becoming a secret passed from one pair of hands to another.\n\nThe Legends account begins with a battlefield built to end the Sith. In the seventh battle of Ruusan, Jedi Lord Valenthyne Farfalla crushed the Sith in the pivotal engagement. [c1] The battle was the final major engagement of the New Sith Wars, and the thought bomb made this last clash the one people remembered. [c2] Kaan, the Sith leader, unleashed that bomb, destroying every Force-sensitive caught in its blast radius. [c3] Farfalla had already withdrawn with most of the Army of Light, following Lord Hoth’s final orders. [c4]\n\nNow look at the strange figure standing on the edge of that catastrophe: Darth Bane. He wanted to destroy the Brotherhood of Darkness and remake the Sith. [c5] The order’s infighting and greed helped bring defeat at Ruusan in 1032 BBY, as the Jedi nearly destroyed the weakened Sith. [c6] Bane helped the Jedi gain the upper hand by ordering the Sith fleet to break formation and engage them. [c7]\n\nThat is the hinge. Bane does not preserve the old Sith by making them larger. In Legends, he answers weakness with radical compression: master and apprentice, power and hunger, one succession at a time. After Bane’s death, Zannah took Cognus as her apprentice, continuing the Rule of Two. [c8] A civilization-sized war machine has become a family business with murder in the job description. That last phrase is my description, not a record.\n\nAnd what is the pair doing while the galaxy looks elsewhere? The Rule of Two’s establishment coincided with a plan called the Grand Plan: corrupt the Galactic Republic from within, diminish and disgrace the Jedi, then rise and conquer the galaxy. [c9] That is patient ambition on a scale that makes ordinary coups look like impatience with paperwork.\n\nIn Legends, the succession carries forward for nearly a thousand years. [c10] Then, in 181 BBY, a fallen Padawan named Kibh Jeen revealed the Sith’s survival and the Rule of Two to the Jedi with his dying words. [c11] Remember the shape of that reveal: not an army returning over the horizon, but one dying voice giving away the existence of a hidden line.\n\nHere’s the contrast you came for. The fuller account of Bane’s survival and the succession described here is Legends material; these cards do not establish that same sequence as current canon. [c12] The Rule of Two is the thread, but the thread runs through different continuities, not one combined biography.\n\nEven the Legends line is not a perfectly obedient chain. The practice continued for a thousand years with varying levels of enforcement. [c13] In 67 BBY, Darth Tenebrous was murdered by his apprentice; Darth Plagueis held the doctrine in contempt and intended to live forever alongside his own apprentice, Darth Sidious. [c14] The rule survives, then bends under the very appetite it was designed to discipline. A Sith can inherit the rule and still dream of being the exception.\n\nSo: Ruusan ends the age of open Sith war, and Legends gives Bane a hidden succession that reaches toward the era of Plagueis and Sidious. [c15] The account we have traced is a Legends line, not evidence for that same succession in current canon. [c16] Where should the next journey lead: into the Republic’s slow corruption, toward Plagueis and Sidious testing the rule, or to another empire’s secret machinery?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Jedi Lord Valenthyne Farfalla crushed the Sith in the pivotal seventh battle of Ruusan.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Seventh Battle of Ruusan page states that Farfalla crushed the Sith in the pivotal seventh battle.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "The Jedi Lord Valenthyne Farfalla crushed the Sith in the pivotal seventh battle of Ruusan. Sith Lord Darth Bane , who desired to destroy the Brotherhood of Darkness and reform the Sith, aided the Jedi by ordering the Sith's Fleet to break formation and engage the Jedi, which allowed the Jedi to gain the upper hand and force the Sith to retreat.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Seventh Battle of Ruusan was the final major engagement of the New Sith Wars and was remembered in part for the thought bomb.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The battle page identifies it as the New Sith Wars’ final major engagement and says the thought bomb helped make it the most remembered.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "The Seventh Battle of Ruusan was the final major engagement of the conflict known as the New Sith Wars . There were actually seven prior battles on the world during the last days of the war, but the pivotal and last battle was the one most remembered, due to the use of the thought bomb ; it was usually referred to as just the Battle of Ruusan .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Kaan unleashed the thought bomb, which destroyed every Force-sensitive within its blast radius.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The battle page says Kaan unleashed the thought bomb and every Force-sensitive in its blast radius was destroyed.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "In an act of desperation, Kaan , leader of the Sith, unleashed the thought bomb and in an instant, every Force-sensitive in the blast radius was destroyed. Lord Farfalla had retreated with the majority of the Army of Light in accordance with Lord Hoth's final orders.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Farfalla withdrew with most of the Army of Light under Lord Hoth’s final orders.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The battle page states Farfalla had retreated with most of the Army of Light in accordance with Hoth’s final orders.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "In an act of desperation, Kaan , leader of the Sith, unleashed the thought bomb and in an instant, every Force-sensitive in the blast radius was destroyed. Lord Farfalla had retreated with the majority of the Army of Light in accordance with Lord Hoth's final orders.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Darth Bane wanted to destroy the Brotherhood of Darkness and reform the Sith.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The battle page states that Bane desired to destroy the Brotherhood of Darkness and reform the Sith.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "The Jedi Lord Valenthyne Farfalla crushed the Sith in the pivotal seventh battle of Ruusan. Sith Lord Darth Bane , who desired to destroy the Brotherhood of Darkness and reform the Sith, aided the Jedi by ordering the Sith's Fleet to break formation and engage the Jedi, which allowed the Jedi to gain the upper hand and force the Sith to retreat.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Sith infighting and greed contributed to the order’s defeat at Ruusan in 1032 BBY, where the Jedi nearly destroyed the weakened Sith.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Darth Bane page says infighting and greed led to the Sith defeat at Ruusan in 1032 BBY, where the Jedi nearly destroyed the weakened Sith.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "While serving in the Sith Empire , known as the Brotherhood of Darkness , Bane realized that infighting and greed from other dark side warriors created a weakness. The infighting eventually led to the defeat of their order at the Mid Rim planet Ruusan in 1032 BBY , as the Jedi were able to all but destroy the weakened Sith.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Bane ordered the Sith fleet to break formation and engage the Jedi, giving the Jedi the upper hand.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The battle page says Bane ordered the Sith fleet to break formation and engage, allowing the Jedi to gain the upper hand.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Seventh Battle of Ruusan",
+       "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+       "snippet": "The Jedi Lord Valenthyne Farfalla crushed the Sith in the pivotal seventh battle of Ruusan. Sith Lord Darth Bane , who desired to destroy the Brotherhood of Darkness and reform the Sith, aided the Jedi by ordering the Sith's Fleet to break formation and engage the Jedi, which allowed the Jedi to gain the upper hand and force the Sith to retreat.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "After Bane’s death, Zannah took Cognus as her apprentice and continued the Rule of Two.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The cited Darth Bane/Legends page says Zannah took Cognus as her apprentice after Bane’s death and continued the Rule of Two.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Rule of Two’s establishment coincided with the Grand Plan to corrupt the Republic, diminish the Jedi, and ultimately conquer the galaxy.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Darth Bane page states that the Rule of Two’s establishment coincided with the Grand Plan to corrupt the Republic, diminish the Jedi, and conquer the galaxy.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "star_wars",
+       "page_title": "Darth Bane",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane",
+       "snippet": "The Rule of Two's establishment coincided with the creation of a plot, known as the Grand Plan , for the Sith to corrupt the Galactic Republic from within, diminish and disgrace the Jedi Order, and eventually rise and conquer the galaxy ; the Sith would soften up their enemies before zeroing them in for total subjugation.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "In Legends, the Sith succession continued for nearly a thousand years.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends material describes a Sith succession continuing for nearly a thousand years.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "In 181 BBY, Kibh Jeen revealed the survival of the Sith and the Rule of Two to the Jedi with his dying words.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends page says Kibh Jeen revealed the Sith’s survival and the Rule of Two to the Jedi with his dying words in 181 BBY.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The cited fuller account of Bane’s survival and succession is Legends material and does not establish that same sequence as current canon.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The fuller Bane survival-and-succession account cited here comes from a Legends page, which does not establish that same sequence as current canon.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Rule of Two continued for a thousand years with varying levels of enforcement.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Rule of Two/Legends page says the practice continued for a thousand years with varying levels of enforcement.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The practice survived with varying levels of enforcement for a thousand years until the murder of Darth Tenebrous at the hands of his apprentice in 67 BBY — Darth Plagueis held the doctrine in contempt, and intended to live forever together with his own apprentice, Darth Sidious .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Tenebrous was murdered by his apprentice in 67 BBY, while Plagueis held the doctrine in contempt and intended immortality with Sidious.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends page states that Tenebrous was murdered by his apprentice in 67 BBY and that Plagueis held the doctrine in contempt while intending immortality with Sidious.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The practice survived with varying levels of enforcement for a thousand years until the murder of Darth Tenebrous at the hands of his apprentice in 67 BBY — Darth Plagueis held the doctrine in contempt, and intended to live forever together with his own apprentice, Darth Sidious .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The Legends account describes a hidden succession after Ruusan, continuing toward the era of Plagueis and Sidious.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This summarizes a Legends succession across the cited Bane and Rule of Two accounts; the claim that it reaches toward Plagueis and Sidious is a narrative connection rather than an explicit sequence stated by these cards.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Rule of Two/Legends",
+       "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+       "snippet": "The practice survived with varying levels of enforcement for a thousand years until the murder of Darth Tenebrous at the hands of his apprentice in 67 BBY — Darth Plagueis held the doctrine in contempt, and intended to live forever together with his own apprentice, Darth Sidious .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The account traced here is Legends material and does not establish the same succession in current canon.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The cited succession account is explicitly from a Legends page and does not establish the same succession in current canon.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Darth Bane/Legends",
+       "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+       "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Grand Plan: how the Sith quietly bend the Republic",
+    "Plagueis and Sidious: when the Rule of Two bends",
+    "Rome’s secret machinery: power hidden behind an empire"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The thought bomb destroyed every Force-sensitive caught in its blast radius.",
+      "verdict": "fact",
+      "explanation": "Kaan unleashed the thought bomb, which destroyed every Force-sensitive within its blast radius.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "star_wars",
+        "page_title": "Seventh Battle of Ruusan",
+        "url": "https://starwars.fandom.com/wiki/Seventh_Battle_of_Ruusan",
+        "snippet": "In an act of desperation, Kaan , leader of the Sith, unleashed the thought bomb and in an instant, every Force-sensitive in the blast radius was destroyed. Lord Farfalla had retreated with the majority of the Army of Light in accordance with Lord Hoth's final orders.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Sith survived Ruusan as a large army that soon returned to open war.",
+      "verdict": "myth",
+      "explanation": "The chapter describes the Legends account as a hidden succession under the Rule of Two, not an army returning over the horizon.",
+      "evidence_ids": [
+       "E16",
+       "E30"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "star_wars",
+        "page_title": "Darth Bane/Legends",
+        "url": "https://starwars.fandom.com/wiki/Darth_Bane/Legends",
+        "snippet": "Following Bane's death, Zannah took Cognus as her apprentice, continuing the Rule of Two. Nearly a thousand years later, in 181 BBY , the fallen Padawan Kibh Jeen revealed to the Jedi with his dying words the survival of the Sith and the Rule of Two.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E30",
+        "pack": "star_wars",
+        "page_title": "Rule of Two/Legends",
+        "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+        "snippet": "The practice survived with varying levels of enforcement for a thousand years until the murder of Darth Tenebrous at the hands of his apprentice in 67 BBY — Darth Plagueis held the doctrine in contempt, and intended to live forever together with his own apprentice, Darth Sidious .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Rule of Two was enforced perfectly for a thousand years.",
+      "verdict": "myth",
+      "explanation": "The Legends account says enforcement varied. It also describes Plagueis holding the doctrine in contempt and seeking immortality with Sidious.",
+      "evidence_ids": [
+       "E30"
+      ],
+      "evidence": [
+       {
+        "id": "E30",
+        "pack": "star_wars",
+        "page_title": "Rule of Two/Legends",
+        "url": "https://starwars.fandom.com/wiki/Rule_of_Two/Legends",
+        "snippet": "The practice survived with varying levels of enforcement for a thousand years until the murder of Darth Tenebrous at the hands of his apprentice in 67 BBY — Darth Plagueis held the doctrine in contempt, and intended to live forever together with his own apprentice, Darth Sidious .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After Bane’s death, who continues the Rule of Two by taking an apprentice?",
+     "options": [
+      "Darth Zannah",
+      "Darth Cognus",
+      "Darth Tenebrous"
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "After Bane’s death, Zannah took Cognus as her apprentice and continued the Rule of Two."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Star Wars Episode III - Revenge of the Sith",
+   "author": "Matthew Woodring Stover",
+   "year": 2005,
+   "why": "Its focus on Sith power, succession, and the fall of the Jedi connects with the episode’s story of how the Sith endured after Ruusan.",
+   "url": "https://openlibrary.org/works/OL2727030W"
+  },
+  {
+   "title": "Star Wars - Shatterpoint",
+   "author": "Matthew Woodring Stover",
+   "year": 2003,
+   "why": "This novel explores the dark side and the costs of power, making it a good next read after an episode about the Sith’s secret master-and-apprentice line.",
+   "url": "https://openlibrary.org/works/OL2727035W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8285,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 513,
+   "output_tokens": 887,
+   "cost_usd": 0.00063072
+  },
+  {
+   "agent": "researcher",
+   "requests": 20,
+   "input_tokens": 57707,
+   "cached_tokens": 47537,
+   "cache_write_tokens": 7650,
+   "output_tokens": 1693,
+   "cost_usd": 0.00253013
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 21826,
+   "cached_tokens": 15835,
+   "cache_write_tokens": 5361,
+   "output_tokens": 7792,
+   "cost_usd": 0.00478749
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 22240,
+   "cached_tokens": 11425,
+   "cache_write_tokens": 10185,
+   "output_tokens": 4707,
+   "cost_usd": 0.00380389
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1633,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 183,
+   "output_tokens": 165,
+   "cost_usd": 0.00013122
+  }
+ ],
+ "build_cost_usd": 0.011883,
+ "build_seconds": 92.6
+}

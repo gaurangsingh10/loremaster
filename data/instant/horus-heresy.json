@@ -1,0 +1,1504 @@
+{
+ "thread": {
+  "id": "horus-heresy",
+  "title": "The Horus Heresy: A Tragedy in Betrayals",
+  "hook": "The Emperor's favorite son turns on him, and the galaxy burns for ten thousand years.",
+  "mode": "lore",
+  "packs": [
+   "warhammer40k"
+  ],
+  "era": "",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "lore"
+ },
+ "title": "The Betrayal That Broke the Imperium",
+ "logline": "Follow Horus from the Emperor’s favored son to the architect of a civil war whose scars still define the Imperium ten thousand years later.",
+ "plan": [
+  {
+   "title": "The Favorite Falls",
+   "focus": "Open with the irresistible turn: Horus, raised to command the Great Crusade and named Warmaster, becomes the Emperor’s enemy. Trace the betrayal through its key choices and the loyalties it fractures across the Legions.",
+   "queries": [
+    "warhammer40k: Horus Heresy",
+    "warhammer40k: Horus Lupercal",
+    "warhammer40k: Isstvan III Atrocity"
+   ],
+   "packs": [
+    "warhammer40k"
+   ]
+  },
+  {
+   "title": "A Throne of Ashes",
+   "focus": "Show the rebellion’s culmination at the Siege of Terra and the fatal confrontation between Horus and the Emperor. Pay off the opening by tracing how the Emperor’s wound, Horus’s death, and the Imperium’s changed order leave the Heresy as a living catastrophe in the far future.",
+   "queries": [
+    "warhammer40k: Siege of Terra",
+    "warhammer40k: Battle of Terra",
+    "warhammer40k: Emperor of Mankind"
+   ],
+   "packs": [
+    "warhammer40k"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Favorite Falls",
+  "narration": "The betrayal does not begin with a battlefield. It begins with a choice hidden inside a command: send your own warriors down to die, and call the slaughter loyalty. In the grim story of the Horus Heresy, that is the terrible turn waiting at Isstvan III. [c1]\n\nHorus has become the enemy of the Imperium, but the trap is not revealed all at once. The chronology places his turn to Chaos several standard years before the civil war officially begins. [c2] For years, then, the danger is not simply that a commander might rebel. It is that the commander can still issue orders, and those orders can still sound like duty.\n\nThat delay is the blade. The Heresy officially begins with the Isstvan III Atrocity, because Horus’s duplicity has not yet been revealed. [c3] The name sounds like a date stamped into a history book. The reality is a betrayal designed to make the history book possible: the people sent to fight do not yet know that their own commander has marked them for death.\n\nAt the end of the Great Crusade, in the year five thousand five M thirty-first, Horus orders a virus-bombing that destroys Isstvan III’s population. [c4] The attack comes during a major deployment of Space Marine Legion forces. [c5] This is no clean separation between a war zone and the people caught inside it. The planet’s inhabitants are destroyed, and Horus’s own Astartes troops on the surface are also targets of his order. [c6]\n\nListen to the shape of that choice. A commander does not merely turn against a distant throne. He turns command itself into a weapon against the people who trusted it. The Legion is supposed to be a bond. Here, that bond becomes the thing that makes the trap work. The order can travel through familiar channels; the danger wears the face of duty.\n\nBut a secret is only safe until one person sees through it. In the Emperor’s Children fleet, Captain Saul Tarvitz has long been suspicious of his Legion’s secrecy and unorthodox actions. [c7] Mere minutes before the onslaught, he uncovers the truth of the coming betrayal. [c8] The clock is almost cruelly small. Tarvitz does not get the luxury of a long investigation, a council, or a speech that can fix everything. He gets minutes, and those minutes are enough to change what the attackers will face.\n\nElsewhere, the attack has already done its work. Many loyalists from the four Traitor Legions survive the global inferno. [c9] That survival turns a planned killing into a battle among the Emperor’s own forces. Angron, acting against Horus’s orders, leads his World Eaters down to the surface to slaughter the survivors. [c10]\n\nThen comes the line that makes the horror sound almost cheerful. Upon seeing the devastation, Angron is said to exclaim, “It is well done!” [c11] The story gives him no speech about necessity. It gives him approval, and another order: spread through the city and find more survivors to kill. [c12] The cruel joke is that a victory over the planet’s people does not settle the matter. The fighting among the Legions is beginning.\n\nThis is how loyalties fracture: not as an abstract argument about who deserves obedience, but as a choice made under fire. Some have been assigned to die without knowing it. Some survive the inferno. Some discover the treachery just before it begins. And Angron carries out violence even beyond Horus’s orders. The old chain of command still exists, but its links now pull in opposite directions.\n\nThe account calls this the first battle in the Imperium’s history in which its greatest defenders, the Space Marines, turn on one another. [c13] That is the scale of the rupture. The Imperium’s defenders have become the danger, and the word “loyalty” no longer tells you who will be standing beside you when the smoke clears.\n\nSo: Horus’s secret turn predates the open civil war, and Isstvan III exposes it through a mass killing and a betrayal of his own troops. Tarvitz’s discovery gives surviving loyalists a chance to resist, while Angron brings the slaughter down to the surface. [c14] Now the question is what comes next: the survivors’ fight to endure, the loyalties that split across the Legions, or the wider civil war that Isstvan III sets in motion. [c15]\n\nDo we follow the loyalists who survived the inferno? [c16] Do we track the Legion loyalties splitting under betrayal? [c17] Or do we follow the war spreading beyond Isstvan III? [c18]",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Horus's betrayal turns against his own warriors through orders targeting them at Isstvan III.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Isstvan III card says Horus ordered the action against his own Astartes troops deployed on the surface.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "Horus turned to Chaos several standard years before the civil war began.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The chronology states that Horus turned to Chaos several standard years before the conflict began.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Horus Heresy Chronology",
+      "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+      "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The Horus Heresy officially began with the Isstvan III Atrocity while Horus's duplicity remained unrevealed.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The chronology says the Heresy officially began with the Isstvan III Atrocity while Horus’s duplicity remained unrevealed.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Horus Heresy Chronology",
+      "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+      "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "In 005.M31, Horus ordered a virus-bombing that destroyed Isstvan III's population.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Isstvan III card dates the virus-bombing to 005.M31 and says it destroyed the planet’s population on Horus’s order.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The bombing occurred during a major deployment of Space Marine Legion forces.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card places the virus-bombing during a major deployment of Space Marine Legion forces.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Horus's order targeted his own Astartes troops deployed on Isstvan III's surface.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card explicitly says Horus’s order targeted his own Astartes troops deployed on the planet’s surface.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Saul Tarvitz had long been suspicious of secrecy and unorthodox actions in the Emperor's Children.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The account says Tarvitz had long suspected the growing secrecy and unorthodox actions in his Legion.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Elsewhere amid the Emperor's Children's fleet, Captain Saul Tarvitz , a line officer of his Legion who had long harboured deep suspicions about his Legion's growing secrecy and unorthodox actions, had uncovered the truth of the coming betrayal mere minutes before the onslaught was to begin.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Tarvitz uncovered the coming betrayal mere minutes before the attack began.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The account says Tarvitz uncovered the coming betrayal mere minutes before the onslaught began.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Elsewhere amid the Emperor's Children's fleet, Captain Saul Tarvitz , a line officer of his Legion who had long harboured deep suspicions about his Legion's growing secrecy and unorthodox actions, had uncovered the truth of the coming betrayal mere minutes before the onslaught was to begin.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Many loyalists from the four Traitor Legions survived the global inferno.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The account says many Loyalists from the four Traitor Legions survived the global inferno.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Angron disobeyed Horus and led the World Eaters to the surface to kill survivors.",
+    "kind": "lore",
+    "grade": "Conflicting",
+    "note": "The account says Angron acted against Horus’s orders when he led his Legion to the surface to slaughter survivors.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The account says Angron exclaimed, “It is well done!” after seeing the destruction.",
+    "kind": "lore",
+    "grade": "Conflicting",
+    "note": "The account hedges the reported exclamation with “is said to have,” so its attribution is not presented as certain.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Upon viewing the horror that had been wrought, Angron is said to have exclaimed, \" It is well done! \" He then ordered his World Eaters to spread out through the city and seek more survivors to kill. So began the true bloodshed of the first inter-Legionary war, the first battle in the Imperium's history when its greatest defenders, the Space Marines, turned upon themselves in battle without …",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Angron ordered the World Eaters to search the city for more survivors to kill.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The account says Angron ordered the World Eaters to seek more survivors in the city to kill.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Upon viewing the horror that had been wrought, Angron is said to have exclaimed, \" It is well done! \" He then ordered his World Eaters to spread out through the city and seek more survivors to kill. So began the true bloodshed of the first inter-Legionary war, the first battle in the Imperium's history when its greatest defenders, the Space Marines, turned upon themselves in battle without …",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The account describes the battle as the first in Imperial history where Space Marines fought each other.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The account describes this as the first battle in Imperial history in which Space Marines fought one another.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Upon viewing the horror that had been wrought, Angron is said to have exclaimed, \" It is well done! \" He then ordered his World Eaters to spread out through the city and seek more survivors to kill. So began the true bloodshed of the first inter-Legionary war, the first battle in the Imperium's history when its greatest defenders, the Space Marines, turned upon themselves in battle without …",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Isstvan III involved Horus's betrayal, Tarvitz's discovery, and Angron's attack on survivors.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The cited cards support the combined account of Horus’s betrayal, Tarvitz’s discovery, and Angron’s attack on survivors.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Elsewhere amid the Emperor's Children's fleet, Captain Saul Tarvitz , a line officer of his Legion who had long harboured deep suspicions about his Legion's growing secrecy and unorthodox actions, had uncovered the truth of the coming betrayal mere minutes before the onslaught was to begin.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E6",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Horus Heresy Chronology",
+      "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+      "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "The next chapter could explore survivors, fractured loyalties, or the widening civil war.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a set of proposed narrative directions, not a factual assertion about what happened next.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Horus Heresy Chronology",
+      "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+      "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "One possible next direction is the loyalists who survived the inferno.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a proposed branch for the story rather than a factual claim.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "One possible next direction is the division of loyalties across the Legions.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a proposed branch for the story rather than a factual claim.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Elsewhere amid the Emperor's Children's fleet, Captain Saul Tarvitz , a line officer of his Legion who had long harboured deep suspicions about his Legion's growing secrecy and unorthodox actions, had uncovered the truth of the coming betrayal mere minutes before the onslaught was to begin.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E4",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+      "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "One possible next direction is the war spreading beyond Isstvan III.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a proposed branch for the story rather than a factual claim.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Isstvan III Atrocity",
+      "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+      "snippet": "Upon viewing the horror that had been wrought, Angron is said to have exclaimed, \" It is well done! \" He then ordered his World Eaters to spread out through the city and seek more survivors to kill. So began the true bloodshed of the first inter-Legionary war, the first battle in the Imperium's history when its greatest defenders, the Space Marines, turned upon themselves in battle without …",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Horus Heresy Chronology",
+      "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+      "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The loyalists who survived the inferno",
+   "Legion loyalties split under betrayal",
+   "The war spreads beyond Isstvan III"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Horus turned to Chaos several years before the Horus Heresy officially began.",
+     "verdict": "fact",
+     "explanation": "The chronology says Horus turned to Chaos several standard years before the conflict began, while the Heresy officially began with the Isstvan III Atrocity.",
+     "evidence_ids": [
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "Below is a chronology of the events immediately preceding the start of the interstellar civil war later called the Horus Heresy . Though the Warmaster Horus turned to the service of Chaos several standard years before the start of the conflict, the Heresy only officially began with the Isstvan III Atrocity as Horus's duplicity was not yet revealed.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "statement": "Horus’s virus-bombing at Isstvan III targeted only the planet’s population.",
+     "verdict": "myth",
+     "explanation": "The bombing destroyed the population, but Horus also ordered it against his own Astartes troops deployed on the surface.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "Its population was destroyed by a virus-bombing ordered by the Warmaster Horus during a major deployment of Space Marine Legion forces at the end of the Great Crusade in 005.M31 at the Battle of Isstvan III . This action had been ordered by Horus against his own Astartes troops deployed to the surface of Isstvan III.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "statement": "Angron disobeyed Horus’s orders and led the World Eaters to kill the survivors on Isstvan III.",
+     "verdict": "debated",
+     "explanation": "The account says Angron acted against Horus’s orders and led his Legion to the surface, but this claim is graded Conflicting in the chapter’s evidence.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "Despite this massive destruction, many Loyalists of the four Traitor Legions managed to survive the global inferno, and an enraged Angron , acting against Horus ' orders, led his Legion to the surface to slaughter the survivors.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "Saul Tarvitz discovers the coming betrayal just before the attack. What makes that discovery possible?",
+    "options": [
+     "He has long been suspicious of his Legion’s secrecy and unorthodox actions.",
+     "Angron warns him before leading the World Eaters down.",
+     "Horus reveals the plan to him during a council."
+    ],
+    "answer_index": 0,
+    "reveal_para": 5,
+    "explanation": "Tarvitz had long been suspicious of secrecy and unorthodox actions in the Emperor’s Children, and he uncovers the betrayal mere minutes before the onslaught."
+   }
+  }
+ },
+ "branches": {
+  "The loyalists who survived the inferno": {
+   "index": 2,
+   "title": "The Survivors’ Vow",
+   "narration": "The loyalists who survived the inferno are not walking out of a victory parade. They are walking into the harder part: carrying a truth that the people who ordered the slaughter would rather bury. [c1]\n\nThe choice you made brings us back to Isstvan III, where Horus’s purge turns suspicion into open war. The story so far gave us the command at the heart of the betrayal: send your own warriors down to die, and call it loyalty. Now the question is what can survive that command. [c2]\n\nFour Legions have gathered. Within them, the warriors whose loyalty to Horus cannot be trusted are ordered to prepare for an assault on the planet below. They are meant to form its core. [c3] The purge is not a stray act of battlefield cruelty. It is a plan aimed inside the Legions themselves. About one-third of each Legion is marked for that assault. [c4]\n\nThat fraction matters. A Legion is not simply a weapon you point outward. It is a bond of comrades, a chain of command, a world of shared names and obligations. The plan turns those bonds against the people who trusted them. That is the trap: obedience becomes the mechanism of murder. The order may sound like military necessity, but the target is loyalty itself.\n\nThen the planet becomes a battlefield between brothers. At the ruins of Khry Vanak, the Sons of Horus, Emperor’s Children, World Eaters, and Death Guard fight their own Loyalist elements. [c5] The city’s name is rendered as “Choral City” in Imperial Low Gothic. [c6] There is a cruel music in that name now: not harmony, but voices forced into the same ruin, each side hearing the other as an enemy.\n\nThis internecine battle is described as the first overt sign of Horus’s turn to Chaos, and the first battle of the Horus Heresy in the early thirty-first millennium. [c7] The word “overt” is the hinge. A hidden decision has become something no one can mistake for an ordinary command. The betrayal has entered the open, and its proof is written in the fighting between the Legions.\n\nBut proof does not carry itself to the people who need it. Someone has to live long enough to speak. Crysos Morturg does. Against the odds, he survives with help from Calleb Decima of the Ordo Reductor. [c8] The account gives us no neat escape scene to admire, no easy route out of the ruins. It gives us a survivor, another person’s intervention, and the bare fact of endurance. That is enough to change what survival means.\n\nMorturg is one of only a handful who later tell the Terran War Council what happened on Isstvan III. [c9] Think about the weight packed into that phrase: a handful. The truth reaches the Council through living witnesses, not through a clean victory or a triumphant return. The survivors do not undo the slaughter. They make it harder for the slaughter to become the only story anyone hears.\n\nAnd Morturg’s survival does not end in a quiet retreat. He rises as a commander of the Loyalist resistance. [c10] He gathers remnants of the slaughtered Loyalists into an ad-hoc formation of Blackshields, a force that the account describes as deadly and effective. [c11] Here is the transformation: the people selected to disappear become a resistance, assembled from what the purge failed to erase.\n\nIf you ask me, that is the real vow in this chapter. It is not a promise that the dead can be brought back, or that resistance will make the cost fair. It is the refusal to let an order define the survivors’ loyalty for them. Horus tries to turn loyalty into a test of obedience. The survivors give it another meaning: remember, report, gather, resist.\n\nSo: the purge targets roughly a third of each Legion, and the fighting at Khry Vanak makes Horus’s betrayal visible. Morturg survives, carries testimony to the Terran War Council, and helps turn scattered remnants into resistance. [c12] Survival is not victory here. It is the costly beginning of opposition, and the truth has to travel with the people who lived.\n\nFor the next episode, do you want the hidden machinery of the Heresy, the making of the Blackshields, or another empire’s betrayal? We could follow the first: “How Horus turned command into a weapon.” Or the second: “Blackshields: the Legion’s broken pieces fight back.” Or the third: “When Rome’s generals chose the wrong side.”",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The loyalist survivors carried knowledge of the slaughter forward rather than achieving a simple victory.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The cards describe survivors and their later testimony, while the idea that they carried knowledge forward rather than winning is the narration’s framing.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "Despite the odds stacked against him, Morturg miraculously survived, thanks to the actions of Calleb Decima of the Ordo Reductor , and was a part of only a handful of survivors that would later tell the Terran War Council their first-hand accounts of the events of the Warmaster's perfidy that had transpired on Istvaan III .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "But Morturg did not die and instead endured, rising to become one of the most deadly commanders of the Loyalist resistance. Despite all the odds, Morturg survived the savage internecine fighting on Istvaan III and he and the few remnants of the slaughtered Loyalists he had gathered to him, formed a deadly and highly effective ad-hoc formation of Blackshields , who would live to avenge themselves …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Isstvan III purge targeted loyalist elements within the Legions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The cards identify Horus’s purge as targeting Loyalist elements within the Legions and describe the ensuing conflict.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Those sections of the four assembled Legions whose loyalty to Horus could not be guaranteed (approximately one-third of each Legion) were commanded to prepare for an assault on the planet beneath and would form its core.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E17",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "He would be betrayed upon the world of Isstvan III alongside one-third of the forces of the first Traitor Legions when the Warmaster Horus attempted to cull the Legions under his command of Loyalist elements during the Isstvan III Atrocity .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Loyalists whose allegiance to Horus was uncertain were ordered to prepare for an assault on the planet and form its core.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account states that forces whose loyalty could not be guaranteed were ordered to prepare for the planetary assault and form its core.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Those sections of the four assembled Legions whose loyalty to Horus could not be guaranteed (approximately one-third of each Legion) were commanded to prepare for an assault on the planet beneath and would form its core.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Approximately one-third of each Legion was designated for the assault.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account explicitly gives approximately one-third of each Legion as designated for the assault.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Those sections of the four assembled Legions whose loyalty to Horus could not be guaranteed (approximately one-third of each Legion) were commanded to prepare for an assault on the planet beneath and would form its core.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "At Khry Vanak, four Traitor Legions fought their own Loyalist elements.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account names the four Traitor Legions and says they fought their own Loyalist elements at Khry Vanak.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "The internecine battle that followed between the Sons of Horus , Emperor's Children , World Eaters and Death Guard Traitor Legions and their own Loyalist elements within the ruins of the planetary capital Khry Vanak (translated as the \"Choral City\" into Imperial Low Gothic ) was the first overt sign of Horus ' turn to Chaos , and the first battle of the Horus Heresy in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Khry Vanak is translated as the Choral City in Imperial Low Gothic.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account explicitly translates Khry Vanak as the Choral City in Imperial Low Gothic.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "The internecine battle that followed between the Sons of Horus , Emperor's Children , World Eaters and Death Guard Traitor Legions and their own Loyalist elements within the ruins of the planetary capital Khry Vanak (translated as the \"Choral City\" into Imperial Low Gothic ) was the first overt sign of Horus ' turn to Chaos , and the first battle of the Horus Heresy in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The battle was the first overt sign of Horus's turn to Chaos and the first battle of the Horus Heresy in the early thirty-first millennium.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account explicitly calls the battle the first overt sign of Horus’s turn to Chaos and the first battle of the Heresy in the early thirty-first millennium.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "The internecine battle that followed between the Sons of Horus , Emperor's Children , World Eaters and Death Guard Traitor Legions and their own Loyalist elements within the ruins of the planetary capital Khry Vanak (translated as the \"Choral City\" into Imperial Low Gothic ) was the first overt sign of Horus ' turn to Chaos , and the first battle of the Horus Heresy in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Crysos Morturg survived with help from Calleb Decima of the Ordo Reductor.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account says Morturg survived with help from Calleb Decima of the Ordo Reductor.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "Despite the odds stacked against him, Morturg miraculously survived, thanks to the actions of Calleb Decima of the Ordo Reductor , and was a part of only a handful of survivors that would later tell the Terran War Council their first-hand accounts of the events of the Warmaster's perfidy that had transpired on Istvaan III .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Morturg was among a handful of survivors who later gave the Terran War Council firsthand accounts of the betrayal on Isstvan III.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account says Morturg was among a handful of survivors who later gave the Terran War Council firsthand accounts.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "Despite the odds stacked against him, Morturg miraculously survived, thanks to the actions of Calleb Decima of the Ordo Reductor , and was a part of only a handful of survivors that would later tell the Terran War Council their first-hand accounts of the events of the Warmaster's perfidy that had transpired on Istvaan III .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Morturg became a commander of the Loyalist resistance.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account says Morturg rose to become a commander of the Loyalist resistance.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "But Morturg did not die and instead endured, rising to become one of the most deadly commanders of the Loyalist resistance. Despite all the odds, Morturg survived the savage internecine fighting on Istvaan III and he and the few remnants of the slaughtered Loyalists he had gathered to him, formed a deadly and highly effective ad-hoc formation of Blackshields , who would live to avenge themselves …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Morturg and remnants of the slaughtered Loyalists formed an ad-hoc Blackshields formation described as deadly and effective.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The account describes Morturg and gathered remnants forming a deadly and highly effective ad-hoc Blackshields formation.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "But Morturg did not die and instead endured, rising to become one of the most deadly commanders of the Loyalist resistance. Despite all the odds, Morturg survived the savage internecine fighting on Istvaan III and he and the few remnants of the slaughtered Loyalists he had gathered to him, formed a deadly and highly effective ad-hoc formation of Blackshields , who would live to avenge themselves …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The purge, battle, testimony, and subsequent Loyalist resistance form the sequence described in this chapter.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The cards support the component events, while describing them as a connected sequence is the chapter’s framing.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Those sections of the four assembled Legions whose loyalty to Horus could not be guaranteed (approximately one-third of each Legion) were commanded to prepare for an assault on the planet beneath and would form its core.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "The internecine battle that followed between the Sons of Horus , Emperor's Children , World Eaters and Death Guard Traitor Legions and their own Loyalist elements within the ruins of the planetary capital Khry Vanak (translated as the \"Choral City\" into Imperial Low Gothic ) was the first overt sign of Horus ' turn to Chaos , and the first battle of the Horus Heresy in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "Despite the odds stacked against him, Morturg miraculously survived, thanks to the actions of Calleb Decima of the Ordo Reductor , and was a part of only a handful of survivors that would later tell the Terran War Council their first-hand accounts of the events of the Warmaster's perfidy that had transpired on Istvaan III .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Crysos Morturg",
+       "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+       "snippet": "But Morturg did not die and instead endured, rising to become one of the most deadly commanders of the Loyalist resistance. Despite all the odds, Morturg survived the savage internecine fighting on Istvaan III and he and the few remnants of the slaughtered Loyalists he had gathered to him, formed a deadly and highly effective ad-hoc formation of Blackshields , who would live to avenge themselves …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "How Horus turned command into a weapon",
+    "Blackshields: the Legion’s broken pieces fight back",
+    "When Rome’s generals chose the wrong side"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "About one-third of each Legion was sent to attack Isstvan III.",
+      "verdict": "fact",
+      "explanation": "The Legions’ sections whose loyalty to Horus was uncertain were ordered to prepare for the assault, and the account puts them at approximately one-third of each Legion.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "warhammer40k",
+        "page_title": "Isstvan III Atrocity",
+        "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+        "snippet": "Those sections of the four assembled Legions whose loyalty to Horus could not be guaranteed (approximately one-third of each Legion) were commanded to prepare for an assault on the planet beneath and would form its core.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The battle at Khry Vanak was only a secret plot, not an open sign of Horus’s betrayal.",
+      "verdict": "myth",
+      "explanation": "The account describes the internecine battle as the first overt sign of Horus’s turn to Chaos and the first battle of the Horus Heresy.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "warhammer40k",
+        "page_title": "Isstvan III",
+        "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+        "snippet": "The internecine battle that followed between the Sons of Horus , Emperor's Children , World Eaters and Death Guard Traitor Legions and their own Loyalist elements within the ruins of the planetary capital Khry Vanak (translated as the \"Choral City\" into Imperial Low Gothic ) was the first overt sign of Horus ' turn to Chaos , and the first battle of the Horus Heresy in the early 31st Millennium.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Crysos Morturg escaped Isstvan III entirely on his own.",
+      "verdict": "myth",
+      "explanation": "Morturg survived with help from Calleb Decima of the Ordo Reductor; the evidence does not describe a solo escape.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "warhammer40k",
+        "page_title": "Crysos Morturg",
+        "url": "https://warhammer40k.fandom.com/wiki/Crysos_Morturg",
+        "snippet": "Despite the odds stacked against him, Morturg miraculously survived, thanks to the actions of Calleb Decima of the Ordo Reductor , and was a part of only a handful of survivors that would later tell the Terran War Council their first-hand accounts of the events of the Warmaster's perfidy that had transpired on Istvaan III .",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Crysos Morturg survives Isstvan III and later reaches the Terran War Council as a witness. What role does he take up afterward?",
+     "options": [
+      "He becomes a commander of the Loyalist resistance.",
+      "He returns to command the Sons of Horus.",
+      "He leads the Terran War Council."
+     ],
+     "answer_index": 0,
+     "reveal_para": 8,
+     "explanation": "Morturg becomes a commander of the Loyalist resistance and gathers remnants into a Blackshields formation."
+    }
+   }
+  },
+  "Legion loyalties split under betrayal": {
+   "index": 2,
+   "title": "The Legions Turn on Themselves",
+   "narration": "The branch you chose is the fracture inside the legions. Horus sends warriors who still serve the Emperor to die, and the order turns suspicion into a battlefield. [c1] On Isstvan III, that hidden command becomes a war among brothers.\n\nThe campaign is remembered as the Isstvan III Atrocity, or the Battle of Isstvan III. [c2] Horus, now corrupted by Chaos, launches it against loyalist Astartes in his own Sons of Horus Legion and three allied Traitor Legions. [c3] That scale matters. The betrayal is not a tidy story of one legion choosing one side. It is a purge aimed at loyalists inside several legions. [c4]\n\nAnd here is the twist: Horus’s plan is already coming apart before the first virus-bombs fall. [c5] Several Astartes in the orbiting fleet discover what is coming. They remain loyal to the Emperor and to their comrades, and they resist. [c6] Their courage changes the meaning of the order. Horus intends to erase witnesses and opposition together; instead, the condemned understand the trap.\n\nThe scene shifts from command rooms to Khry Vanak, the capital of Isstvan III. Horus deploys suspected loyalists there in Drop Pods. [c7] He denies them the traditional Stormbirds and cuts their communication lines to the fleet after they land. [c8] The isolation is the point: no easy return to orbit, no reliable call for help, no legion standing neatly behind its primarch.\n\nImagine the city below, the sky above, and warriors learning that the enemy is not merely across a line. The enemy has worn the same colors, shared the same campaigns, and obeyed the same commands. Here’s my read: Isstvan III makes the Heresy intimate. The empire-wide rebellion enters the squad, the ship, the brotherhood. That is why the split hurts more than a change of allegiance on a map.\n\nBut the loyalists are not simply trapped and silent. While the battle rages, Battle Captain Nathaniel Garro of the Death Guard leads a handful of loyalists in taking the frigate Eisenstein. [c9] They flee into the Warp, and Garro eventually warns the Emperor that Horus has betrayed him. [c10] The act does not undo the slaughter on Isstvan III. It carries the truth beyond it.\n\nSo the opening hook lands: send your own warriors down, sever their connection to the fleet, and call the operation loyalty. Horus’s plan is meant to make betrayal look like an order followed. Instead, resistance survives the deployment, and the Eisenstein carries warning out of the fight. [c11] The legions’ loyalties do not divide in one uniform pattern; this campaign targets loyalists within Horus’s legion and three allied traitor legions. [c12]\n\nSo: Isstvan III turns a command into an internal war, and the loyalists’ resistance keeps the secret from holding. Garro’s escape carries the betrayal toward the Emperor, while the battle leaves the fate of the trapped warriors hanging. [c13] What should we follow next: the Eisenstein’s desperate flight, Garro’s warning reaching the Emperor, or the wider Heresy spreading across the stars?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Horus sends loyal warriors to die, turning the order into betrayal.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence describes Horus’s campaign as a treacherous attack on loyalist Astartes, though it does not separately establish the narration’s phrasing that the order itself turns suspicion into a battlefield.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "All of the suspected Loyalists in the Traitor Legions were deployed with Drop Pods upon Khry Vanak, the planetary capital of Isstvan III, which translated to the \"Choral City\" in Imperial Low Gothic . Not allowing the Loyalists to use the traditional Stormbirds , and cutting their communication lines to the fleet after their deployment, Horus tried to ensure that none of the Loyalists would …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The campaign is known as the Isstvan III Atrocity or Battle of Isstvan III.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence names the campaign the Isstvan III Atrocity and says Imperial scholars also call it the Battle of Isstvan III.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Chaos-corrupted Horus launches the campaign against loyalist Astartes in his own Sons of Horus and three allied Traitor Legions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence explicitly identifies Chaos-corrupted Horus as conducting the campaign against loyalists in his own legion and three Traitor Legion allies.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The campaign targets loyalists within multiple traitor legions rather than describing one uniform division.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence identifies loyalist Astartes among Horus’s legion and three allied legions as the campaign’s targets, supporting a purge within multiple legions.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "By no means is this list complete, as much of the information presented in various canon sources is often ambiguous and even at times contradictory, as would be expected from events that occurred so long ago and involved such destruction and strife across thousands of light years and tens of thousands of worlds.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Horus’s plan begins to unravel before the virus-bombs fall.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence directly says Horus’s plan had begun to unravel before the first treacherous blow and before the virus-bombs fell.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Even before the first treacherous blow was struck, Horus' grand plan had, unknown to him, begun to unravel. Before the virus-bombs fell, the impending atrocity had been discovered by several Astartes among the orbiting fleet who remained loyal to their Emperor and their comrades and who resisted.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Several Astartes in the orbiting fleet discover the impending atrocity, remain loyal, and resist.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence says several Astartes in the orbiting fleet discovered the impending atrocity, remained loyal, and resisted.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Even before the first treacherous blow was struck, Horus' grand plan had, unknown to him, begun to unravel. Before the virus-bombs fell, the impending atrocity had been discovered by several Astartes among the orbiting fleet who remained loyal to their Emperor and their comrades and who resisted.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Horus deploys suspected loyalists in Drop Pods on Khry Vanak, Isstvan III’s capital.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence says suspected loyalists were deployed by Drop Pod on Khry Vanak, the planetary capital of Isstvan III.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "All of the suspected Loyalists in the Traitor Legions were deployed with Drop Pods upon Khry Vanak, the planetary capital of Isstvan III, which translated to the \"Choral City\" in Imperial Low Gothic . Not allowing the Loyalists to use the traditional Stormbirds , and cutting their communication lines to the fleet after their deployment, Horus tried to ensure that none of the Loyalists would …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Horus withholds traditional Stormbirds and cuts deployed loyalists’ communication lines to the fleet.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence states that Horus denied the loyalists traditional Stormbirds and cut their communication lines to the fleet after deployment.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "All of the suspected Loyalists in the Traitor Legions were deployed with Drop Pods upon Khry Vanak, the planetary capital of Isstvan III, which translated to the \"Choral City\" in Imperial Low Gothic . Not allowing the Loyalists to use the traditional Stormbirds , and cutting their communication lines to the fleet after their deployment, Horus tried to ensure that none of the Loyalists would …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Battle Captain Nathaniel Garro of the Death Guard leads loyalists who commandeer the frigate Eisenstein.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence says Battle Captain Nathaniel Garro of the Death Guard led a handful of loyalists who commandeered the Eisenstein.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "While the battle raged upon the planet, a handful of Loyalists led by Battle Captain Nathaniel Garro of the Death Guard managed to commandeer a vessel, the Death Guard frigate Eisenstein . The Eisenstein quickly fled into the Warp , and Garro eventually managed to warn the Emperor of Horus ' betrayal.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Garro’s group flees into the Warp, and he eventually warns the Emperor of Horus’s betrayal.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence says the Eisenstein fled into the Warp and Garro eventually warned the Emperor of Horus’s betrayal.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "While the battle raged upon the planet, a handful of Loyalists led by Battle Captain Nathaniel Garro of the Death Guard managed to commandeer a vessel, the Death Guard frigate Eisenstein . The Eisenstein quickly fled into the Warp , and Garro eventually managed to warn the Emperor of Horus ' betrayal.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Resistance survives the deployment, and the Eisenstein carries warning out of the battle.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The cited evidence supports surviving resistance and the Eisenstein’s escape with Garro’s eventual warning, though “carries warning out of the fight” compresses those events.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Even before the first treacherous blow was struck, Horus' grand plan had, unknown to him, begun to unravel. Before the virus-bombs fell, the impending atrocity had been discovered by several Astartes among the orbiting fleet who remained loyal to their Emperor and their comrades and who resisted.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "While the battle raged upon the planet, a handful of Loyalists led by Battle Captain Nathaniel Garro of the Death Guard managed to commandeer a vessel, the Death Guard frigate Eisenstein . The Eisenstein quickly fled into the Warp , and Garro eventually managed to warn the Emperor of Horus ' betrayal.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The campaign targets loyalists within Horus’s legion and three allied Traitor Legions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence explicitly says the campaign targeted loyalist Astartes in Horus’s legion and three allied Traitor Legions.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The loyalists’ resistance keeps the secret from holding, and Garro’s escape carries warning toward the Emperor.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence supports loyalists resisting the atrocity and Garro eventually warning the Emperor, though “keeps the secret from holding” is narrative framing rather than a separately stated lore fact.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Even before the first treacherous blow was struck, Horus' grand plan had, unknown to him, begun to unravel. Before the virus-bombs fell, the impending atrocity had been discovered by several Astartes among the orbiting fleet who remained loyal to their Emperor and their comrades and who resisted.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+       "snippet": "While the battle raged upon the planet, a handful of Loyalists led by Battle Captain Nathaniel Garro of the Death Guard managed to commandeer a vessel, the Death Guard frigate Eisenstein . The Eisenstein quickly fled into the Warp , and Garro eventually managed to warn the Emperor of Horus ' betrayal.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Eisenstein’s escape: one frigate carrying a warning",
+    "Garro reaches Terra: the Emperor hears of Horus’s betrayal",
+    "The Heresy spreads: loyal worlds face an impossible choice"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Horus’s purge at Isstvan III targeted loyalists in his own legion and three allied Traitor Legions.",
+      "verdict": "fact",
+      "explanation": "The campaign targeted loyalist Astartes within the Sons of Horus and three allied Traitor Legions.",
+      "evidence_ids": [
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "warhammer40k",
+        "page_title": "Isstvan III Atrocity",
+        "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+        "snippet": "The Isstvan III Atrocity , alternately spelled Istvaan III Atrocity in some sources, also known as the Battle of Isstvan III to Imperial scholars, was the treacherous military campaign conducted by the Chaos -corrupted Warmaster Horus on the rebellious Civilised World of Isstvan III against the Loyalist Astartes among his own Sons of Horus Legion and his three Traitor Legion allies.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Horus’s plan held together until the first virus-bombs fell.",
+      "verdict": "myth",
+      "explanation": "The plan had already begun to unravel: loyal Astartes in the orbiting fleet discovered the impending atrocity and resisted before the virus-bombs fell.",
+      "evidence_ids": [
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "warhammer40k",
+        "page_title": "Isstvan III Atrocity",
+        "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+        "snippet": "Even before the first treacherous blow was struck, Horus' grand plan had, unknown to him, begun to unravel. Before the virus-bombs fell, the impending atrocity had been discovered by several Astartes among the orbiting fleet who remained loyal to their Emperor and their comrades and who resisted.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nathaniel Garro and his loyalists escaped aboard the Eisenstein and warned the Emperor of Horus’s betrayal.",
+      "verdict": "fact",
+      "explanation": "Garro led loyalists in commandeering the frigate, fleeing into the Warp, and eventually warning the Emperor.",
+      "evidence_ids": [
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "warhammer40k",
+        "page_title": "Isstvan III",
+        "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III",
+        "snippet": "While the battle raged upon the planet, a handful of Loyalists led by Battle Captain Nathaniel Garro of the Death Guard managed to commandeer a vessel, the Death Guard frigate Eisenstein . The Eisenstein quickly fled into the Warp , and Garro eventually managed to warn the Emperor of Horus ' betrayal.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Before the virus-bombs fall, what happens among the Astartes in the orbiting fleet?",
+     "options": [
+      "They discover the coming atrocity and resist",
+      "They abandon the fleet and land on Khry Vanak",
+      "They join Horus’s attack on the loyalists"
+     ],
+     "answer_index": 0,
+     "reveal_para": 2,
+     "explanation": "Several Astartes in the orbiting fleet discover the impending atrocity and resist while remaining loyal."
+    }
+   }
+  },
+  "The war spreads beyond Isstvan III": {
+   "index": 2,
+   "title": "Betrayal Becomes a Galaxy-Wide War",
+   "narration": "We chose the branch where the war spreads beyond Isstvan III. The opening betrayal now has a larger shape: one command turns loyalty into a weapon, and the wound reaches far beyond the warriors ordered to die. [c1]\n\nThe story gives us a second Isstvan, and a second kind of fracture. The Drop Site Massacre at Isstvan V is described as one of the major turning points early in the galactic civil war later known as the Horus Heresy. [c2] That is a remarkable escalation. The first atrocity shows betrayal from inside a legion. The later turning point gives that betrayal the scale of an empire coming apart. That connection is my reading of the sequence, not a separate event.\n\nAt Isstvan III, Horus’s betrayal falls on loyalist Astartes in the Sons of Horus, Emperor’s Children, World Eaters, and Death Guard. [c3] The names matter because this is not a clean division between strangers. The fracture cuts through the forces gathered under Horus himself. The command says: prove your loyalty by accepting your own destruction. The trap says: if you survive, your survival makes you suspect.\n\nThen the story widens its frame. Horus appears to turn the ground war to a broader advantage concerning the loyalty of those who have pledged to help him seize the Throne of Terra. [c4] The important word is loyalty. Not victory. Not territory. Loyalty. Horus needs the people beside him to trust the rebellion, even as the rebellion has made trust dangerous. That is the terrible efficiency of the first betrayal: it does not merely remove opponents. It teaches everyone to wonder who is being tested next.\n\nAnd the loyalist side is not simply a single hand gripping the same sword. The Drop Site account describes Ferrus Manus and his warriors as consumed by rage at their brothers’ treachery. [c5] They receive the Emperor’s orders through Rogal Dorn. [c6] The detail is small, but it gives the larger war a human hinge: grief, anger, and a command arriving through another brother. If you ask me, that is the real mirror of Horus’s scheme. One order turns comrades against comrades; another order tries to gather the scattered loyalists back into purpose.\n\nThe chronology gives us a glimpse of how far the danger can reach. In 004.M31, Fulgrim meets the Aeldari Farseer Eldrad Ulthran on the Maiden World of Tarsus. [c7] Eldrad attempts to warn Fulgrim about Horus’s corruption by Chaos. [c8] A warning is not a cure. It is a moment when the future seems to knock, and the person who hears it still has to choose what to do. The story places that encounter within the wider spread of the Heresy, not as a neat answer that heals the fracture.\n\nLater comes the Solar War, dated 007 to 015.M31 in the chronology. [c9] It is the battle for the Sol System, with Traitor infiltration forces and probing raids from outside, alongside Dark Mechanicum attacks and attempted breakouts from besieged Traitor-controlled Mars, testing the Throneworld’s defenses. [c10] The scale has changed. The betrayal that began by disguising a killing as loyalty now presses toward the center of human power. The empire’s own divisions have become openings through which danger can move.\n\nThat is the payoff of the command. Betrayal does not stay where it was ordered. It changes what loyalty means, and makes every later order carry the shadow of the first one. Isstvan III gives us the choice hidden inside the command. Isstvan V marks a major turning point; Tarsus gives us a warning; the Solar War brings the struggle to the Sol System. [c11] The Imperium is not only fighting an enemy. It is fighting the suspicion that its own bonds can be used against it.\n\nWhere should we go next: the Drop Site Massacre and its turning point; Eldrad’s warning to Fulgrim; or the Solar War at the Throneworld’s doorstep?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The story has shifted from the betrayal at Isstvan III to the war's wider spread.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The evidence supports the Isstvan III betrayal and wider conflict, while this sentence is the narrator’s framing of the chapter’s direction.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Once the die had been cast for a brutal war on the ground, the Arch-Traitor Horus appeared to have made a decision to turn the situation to a wider advantage in regards to the loyalty of those that had pledged to fight at his side to usurp the Throne of Terra.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Drop Site Massacre at Isstvan V was a major early turning point in the galactic civil war later known as the Horus Heresy.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence explicitly calls Isstvan V one of the major early turning points in the Horus Heresy.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "The Drop Site Massacre of Isstvan V , also called the Battle of Isstvan V , was one of the major turning points that occurred early in the great galactic civil war that engulfed the Imperium of Man in the early 31st Millennium known in later times as the Horus Heresy .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "At Isstvan III, Horus betrayed loyalist Astartes in the Sons of Horus, Emperor’s Children, World Eaters, and Death Guard.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence states that Horus betrayed loyalist Astartes in these four Legions at Isstvan III.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "Overcome with mind-numbing rage at their brothers' treachery, Ferrus Manus and his warriors gratefully received the Emperor's orders through his brother Rogal Dorn . In response to Horus' betrayal of the Loyalist Astartes in the Sons of Horus , Emperor's Children , World Eaters and Death Guard Legions at Isstvan III , the Primarch of the Imperial Fists Legion , Rogal Dorn , on the direction of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Horus appeared to turn the ground war to a broader advantage concerning the loyalty of those pledged to help him seize the Throne of Terra.",
+     "kind": "lore",
+     "grade": "Conflicting",
+     "note": "The evidence phrases this as how events appeared to unfold, so the claim is appropriately hedged rather than established as an unqualified account.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "warhammer40k",
+       "page_title": "Isstvan III Atrocity",
+       "url": "https://warhammer40k.fandom.com/wiki/Isstvan_III_Atrocity",
+       "snippet": "Once the die had been cast for a brutal war on the ground, the Arch-Traitor Horus appeared to have made a decision to turn the situation to a wider advantage in regards to the loyalty of those that had pledged to fight at his side to usurp the Throne of Terra.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Ferrus Manus and his warriors were overcome with rage at their brothers’ treachery.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence describes Ferrus Manus and his warriors as overcome with rage at their brothers’ treachery.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "Overcome with mind-numbing rage at their brothers' treachery, Ferrus Manus and his warriors gratefully received the Emperor's orders through his brother Rogal Dorn . In response to Horus' betrayal of the Loyalist Astartes in the Sons of Horus , Emperor's Children , World Eaters and Death Guard Legions at Isstvan III , the Primarch of the Imperial Fists Legion , Rogal Dorn , on the direction of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Ferrus Manus and his warriors received the Emperor’s orders through Rogal Dorn.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The evidence says Ferrus Manus and his warriors received the Emperor’s orders through Rogal Dorn.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "Overcome with mind-numbing rage at their brothers' treachery, Ferrus Manus and his warriors gratefully received the Emperor's orders through his brother Rogal Dorn . In response to Horus' betrayal of the Loyalist Astartes in the Sons of Horus , Emperor's Children , World Eaters and Death Guard Legions at Isstvan III , the Primarch of the Imperial Fists Legion , Rogal Dorn , on the direction of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In 004.M31, Fulgrim met Eldrad Ulthran on the Maiden World of Tarsus.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The chronology directly dates Fulgrim’s meeting with Eldrad on Tarsus to 004.M31.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "004.M31 Battle of Tarsus -The Primarch Fulgrim meets with the renowned Aeldari Farseer Eldrad Ulthran of Craftworld Ulthwé on the Maiden World of Tarsus , in which the Farseer attempted to warn Fulgrim of the Warmaster Horus' corruption by Chaos.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Eldrad Ulthran attempted to warn Fulgrim about Horus’s corruption by Chaos.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The chronology says Eldrad attempted to warn Fulgrim about Horus’s corruption by Chaos.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "004.M31 Battle of Tarsus -The Primarch Fulgrim meets with the renowned Aeldari Farseer Eldrad Ulthran of Craftworld Ulthwé on the Maiden World of Tarsus , in which the Farseer attempted to warn Fulgrim of the Warmaster Horus' corruption by Chaos.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Solar War is dated 007 to 015.M31 in the chronology.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The chronology gives the Solar War’s date range as 007–015.M31.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "007-015.M31 Solar War - The battle for the Sol System , known as the Solar War and long-threatened, begins as Traitor infiltration forces and probing raids from without, and Dark Mechanicum attacks and attempted break-outs from besieged Traitor-controlled Mars test the defences of the Throneworld of Humanity .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Solar War was a battle for the Sol System in which traitor infiltration, raids, Dark Mechanicum attacks, and attempted breakouts from besieged traitor-controlled Mars tested the Throneworld’s defenses.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The chronology describes the Solar War and lists the infiltration, raids, Dark Mechanicum attacks, and attempted Mars breakouts testing the Throneworld’s defenses.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "007-015.M31 Solar War - The battle for the Sol System , known as the Solar War and long-threatened, begins as Traitor infiltration forces and probing raids from without, and Dark Mechanicum attacks and attempted break-outs from besieged Traitor-controlled Mars test the defences of the Throneworld of Humanity .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The chapter connects Isstvan III, Isstvan V, Tarsus, and the Solar War as stages in the story’s expanding conflict.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s synthesis linking the four events as stages in an expanding conflict, supported by the individual chronology and event cards.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "Overcome with mind-numbing rage at their brothers' treachery, Ferrus Manus and his warriors gratefully received the Emperor's orders through his brother Rogal Dorn . In response to Horus' betrayal of the Loyalist Astartes in the Sons of Horus , Emperor's Children , World Eaters and Death Guard Legions at Isstvan III , the Primarch of the Imperial Fists Legion , Rogal Dorn , on the direction of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E21",
+       "pack": "warhammer40k",
+       "page_title": "Drop Site Massacre",
+       "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+       "snippet": "The Drop Site Massacre of Isstvan V , also called the Battle of Isstvan V , was one of the major turning points that occurred early in the great galactic civil war that engulfed the Imperium of Man in the early 31st Millennium known in later times as the Horus Heresy .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "004.M31 Battle of Tarsus -The Primarch Fulgrim meets with the renowned Aeldari Farseer Eldrad Ulthran of Craftworld Ulthwé on the Maiden World of Tarsus , in which the Farseer attempted to warn Fulgrim of the Warmaster Horus' corruption by Chaos.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E19",
+       "pack": "warhammer40k",
+       "page_title": "Horus Heresy Chronology",
+       "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+       "snippet": "007-015.M31 Solar War - The battle for the Sol System , known as the Solar War and long-threatened, begins as Traitor infiltration forces and probing raids from without, and Dark Mechanicum attacks and attempted break-outs from besieged Traitor-controlled Mars test the defences of the Throneworld of Humanity .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Isstvan V: the ambush that changes the war",
+    "Eldrad’s warning, and Fulgrim’s choice",
+    "The Solar War closes around Terra"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Horus’s betrayal at Isstvan III targeted loyalists in four Legions.",
+      "verdict": "fact",
+      "explanation": "The account names loyalist Astartes in the Sons of Horus, Emperor’s Children, World Eaters, and Death Guard as targets of the betrayal.",
+      "evidence_ids": [
+       "E20"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "warhammer40k",
+        "page_title": "Drop Site Massacre",
+        "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+        "snippet": "Overcome with mind-numbing rage at their brothers' treachery, Ferrus Manus and his warriors gratefully received the Emperor's orders through his brother Rogal Dorn . In response to Horus' betrayal of the Loyalist Astartes in the Sons of Horus , Emperor's Children , World Eaters and Death Guard Legions at Isstvan III , the Primarch of the Imperial Fists Legion , Rogal Dorn , on the direction of …",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Drop Site Massacre at Isstvan V was a major early turning point in the Horus Heresy.",
+      "verdict": "fact",
+      "explanation": "The source describes it as one of the major turning points early in the galactic civil war later known as the Horus Heresy.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "warhammer40k",
+        "page_title": "Drop Site Massacre",
+        "url": "https://warhammer40k.fandom.com/wiki/Drop_Site_Massacre",
+        "snippet": "The Drop Site Massacre of Isstvan V , also called the Battle of Isstvan V , was one of the major turning points that occurred early in the great galactic civil war that engulfed the Imperium of Man in the early 31st Millennium known in later times as the Horus Heresy .",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Eldrad’s warning cured Fulgrim of Horus’s corruption.",
+      "verdict": "myth",
+      "explanation": "The chronology says Eldrad attempted to warn Fulgrim about Horus’s corruption; it does not say the warning cured him. The chapter explicitly presents the warning as no cure.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "warhammer40k",
+        "page_title": "Horus Heresy Chronology",
+        "url": "https://warhammer40k.fandom.com/wiki/Horus_Heresy_Chronology",
+        "snippet": "004.M31 Battle of Tarsus -The Primarch Fulgrim meets with the renowned Aeldari Farseer Eldrad Ulthran of Craftworld Ulthwé on the Maiden World of Tarsus , in which the Farseer attempted to warn Fulgrim of the Warmaster Horus' corruption by Chaos.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the Isstvan betrayals and the events at Tarsus, where does the Solar War bring the struggle?",
+     "options": [
+      "The Sol System, testing the Throneworld’s defenses",
+      "The Maiden World of Tarsus, where Fulgrim meets Eldrad",
+      "Isstvan V, where the Drop Site Massacre takes place"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The Solar War is the battle for the Sol System, where attacks test the Throneworld’s defenses."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Horus Rising",
+   "author": "Dan Abnett",
+   "year": 2006,
+   "why": "It opens the Horus Heresy with Horus’s rise and the loyalties that begin to fracture, making it a natural next read after the episode’s account of the betrayal.",
+   "url": "https://openlibrary.org/works/OL5843391W"
+  },
+  {
+   "title": "Horus Heresy",
+   "author": "Laurie Goulding",
+   "year": 2016,
+   "why": "This guide offers a broader view of the Heresy’s events and connections, extending the episode’s story of betrayal into a galaxy-wide conflict.",
+   "url": "https://openlibrary.org/works/OL21475361W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8277,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 505,
+   "output_tokens": 725,
+   "cost_usd": 0.00054871
+  },
+  {
+   "agent": "researcher",
+   "requests": 13,
+   "input_tokens": 35639,
+   "cached_tokens": 27723,
+   "cache_write_tokens": 6278,
+   "output_tokens": 1426,
+   "cost_usd": 0.00193877
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 21124,
+   "cached_tokens": 15835,
+   "cache_write_tokens": 4659,
+   "output_tokens": 8309,
+   "cost_usd": 0.00495824
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 21599,
+   "cached_tokens": 11425,
+   "cache_write_tokens": 9544,
+   "output_tokens": 3046,
+   "cost_usd": 0.00289325
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1655,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 205,
+   "output_tokens": 229,
+   "cost_usd": 0.00016597
+  }
+ ],
+ "build_cost_usd": 0.010505,
+ "build_seconds": 85.9
+}

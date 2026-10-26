@@ -1,0 +1,67 @@
+{
+ "hor1": {
+  "text": "At Isstvan V, forces that appeared loyal revealed their treachery and ambushed loyalists.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "hor1"
+ },
+ "hor2": {
+  "text": "After the Heresy, the Imperium endured under the Emperor\u2019s incapacitated presence and became shaped by fear and ritual.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "hor2"
+ },
+ "hor3": {
+  "text": "The Horus Heresy officially began with the Isstvan III Atrocity while Horus's duplicity remained unrevealed.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:horus-heresy",
+  "id": "hor3"
+ },
+ "hor4": {
+  "text": "The campaign targets loyalists within Horus\u2019s legion and three allied Traitor Legions.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:horus-heresy",
+  "id": "hor4"
+ },
+ "hor5": {
+  "text": "Morturg became a commander of the Loyalist resistance.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:horus-heresy",
+  "id": "hor5"
+ },
+ "hor6": {
+  "text": "The civil war forced commanders to choose between competing allegiances.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "hor6"
+ },
+ "hor7": {
+  "text": "The Emperor fought Horus aboard the flagship, killed him, and was mortally wounded.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "hor7"
+ },
+ "hor8": {
+  "text": "Angron disobeyed Horus and led the World Eaters to the surface to kill survivors.",
+  "source": "loremaster",
+  "grade": "Conflicting",
+  "episode": "instant:horus-heresy",
+  "id": "hor8"
+ },
+ "hor9": {
+  "text": "Horus\u2019s forces besieged Terra during the final phase of the Heresy.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "hor9"
+ },
+ "hor10": {
+  "text": "The Solar War was a battle for the Sol System in which traitor infiltration, raids, Dark Mechanicum attacks, and attempted breakouts from besieged traitor-controlled Mars tested the Throneworld\u2019s defenses.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:horus-heresy",
+  "id": "hor10"
+ }
+}

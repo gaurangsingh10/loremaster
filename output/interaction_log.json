@@ -1,0 +1,384 @@
+[
+ {
+  "ts": "2026-10-23T22:30:54+00:00",
+  "user": 10,
+  "kind": "callit_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 1,
+  "data": {
+   "question": "According to Tacitus, where was Nero when the fire broke out?",
+   "answer": 1,
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:00+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 1,
+  "data": {
+   "statement": "Nero performed while Rome burned.",
+   "verdict": "myth",
+   "answer": "debated",
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:07+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 1,
+  "data": {
+   "statement": "The Great Fire of Rome began near the Circus Maximus on July 18 or 19, 64 AD.",
+   "verdict": "fact",
+   "answer": "debated",
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:11+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 1,
+  "data": {
+   "statement": "Nero started the fire to make room for his Golden House.",
+   "verdict": "myth",
+   "answer": "debated",
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:19+00:00",
+  "user": 10,
+  "kind": "branch_choice",
+  "episode_id": "i4d00f7152",
+  "chapter": 1,
+  "data": {
+   "branch": "Follow the Golden House accusation"
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:28+00:00",
+  "user": 10,
+  "kind": "callit_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 2,
+  "data": {
+   "question": "After the fire, what happened to the Forum’s central open space?",
+   "answer": 1,
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:31:34+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i4d00f7152",
+  "chapter": 2,
+  "data": {
+   "statement": "The Domus Aurea was a vast landscaped complex built largely on Rome’s Oppian Hill after the fire of 64 AD.",
+   "verdict": "fact",
+   "answer": "myth",
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:13+00:00",
+  "user": 10,
+  "kind": "callit_answer",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "question": "After Bane’s plan succeeds at Ruusan, what does he still need?",
+   "answer": 1,
+   "correct": true
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:21+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:25+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "statement": "The Sith Brotherhood of Darkness claimed equality among its Lords and banned the title Darth.",
+   "verdict": "fact",
+   "answer": "fact",
+   "correct": true
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:30+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "statement": "A coherent Sith threat dominated the Republic Dark Age for nearly a thousand years.",
+   "verdict": "myth",
+   "answer": "fact",
+   "correct": false
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:38+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "statement": "Darth Bane created the Rule of Two after being born Dessel on Apatros.",
+   "verdict": "fact",
+   "answer": "fact",
+   "correct": true
+  }
+ },
+ {
+  "ts": "2026-10-23T22:32:51+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-23T22:33:21+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-23T22:33:51+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-23T22:34:21+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-23T22:34:51+00:00",
+  "user": 10,
+  "kind": "listen_seconds",
+  "episode_id": "i79b598c31",
+  "chapter": 1,
+  "data": {
+   "seconds": 30
+  }
+ },
+ {
+  "ts": "2026-10-24T02:42:40+00:00",
+  "user": 10,
+  "kind": "claim_open",
+  "episode_id": "i47bc0520c",
+  "chapter": 1,
+  "data": {
+   "grade": "Legends"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:42:45+00:00",
+  "user": 10,
+  "kind": "claim_open",
+  "episode_id": "i47bc0520c",
+  "chapter": 1,
+  "data": {
+   "grade": "Legends"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:42:47+00:00",
+  "user": 10,
+  "kind": "claim_open",
+  "episode_id": "i47bc0520c",
+  "chapter": 1,
+  "data": {
+   "grade": "Canon"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:42:54+00:00",
+  "user": 10,
+  "kind": "claim_open",
+  "episode_id": "iff56756d9",
+  "chapter": 1,
+  "data": {
+   "grade": "Documented"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:42:57+00:00",
+  "user": 10,
+  "kind": "claim_open",
+  "episode_id": "iff56756d9",
+  "chapter": 1,
+  "data": {
+   "grade": "Debated"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:43:10+00:00",
+  "user": 10,
+  "kind": "callit_answer",
+  "episode_id": "iff56756d9",
+  "chapter": 1,
+  "data": {
+   "question": "The Senate expands Palpatine’s emergency powers on the eve of Geonosis. What does that new authority allow him to do?",
+   "answer": 0,
+   "correct": true
+  }
+ },
+ {
+  "ts": "2026-10-24T02:44:18+00:00",
+  "user": null,
+  "kind": "ask",
+  "episode_id": "iff56756d9",
+  "chapter": 1,
+  "data": {
+   "question": "Why did the senate agree to that"
+  }
+ },
+ {
+  "ts": "2026-10-24T02:44:48+00:00",
+  "user": 10,
+  "kind": "myth_answer",
+  "episode_id": "iff56756d9",
+  "chapter": 1,
+  "data": {
+   "statement": "Caesar crossed the Rubicon with the Thirteenth Gemina legion.",
+   "verdict": "fact",
+   "answer": "fact",
+   "correct": true
+  }
+ },
+ {
+  "ts": "2026-10-24T02:48:54+00:00",
+  "user": null,
+  "kind": "claim_open",
+  "episode_id": "id3bb8e67f",
+  "chapter": 1,
+  "data": {
+   "grade": "Debated"
+  }
+ },
+ {
+  "ts": "2026-10-26T01:46:33+00:00",
+  "user": null,
+  "kind": "concierge",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "message": "I love sieges"
+  }
+ },
+ {
+  "ts": "2026-10-26T01:49:57+00:00",
+  "user": null,
+  "kind": "concierge",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "message": "Greek"
+  }
+ },
+ {
+  "ts": "2026-10-26T01:57:21+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ },
+ {
+  "ts": "2026-10-26T01:58:21+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ },
+ {
+  "ts": "2026-10-26T01:59:43+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ },
+ {
+  "ts": "2026-10-26T02:00:28+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ },
+ {
+  "ts": "2026-10-26T02:03:17+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Nikola Tesla"
+  }
+ },
+ {
+  "ts": "2026-10-26T02:09:53+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ },
+ {
+  "ts": "2026-10-26T02:10:11+00:00",
+  "user": null,
+  "kind": "interview",
+  "episode_id": "",
+  "chapter": null,
+  "data": {
+   "character": "Julius Caesar"
+  }
+ }
+]

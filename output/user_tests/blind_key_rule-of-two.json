@@ -1,0 +1,67 @@
+{
+ "rul1": {
+  "text": "The Legends novels provide extensive detail about Bane, while canon acknowledges the essentials without presenting the same full biography on screen.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "rul1"
+ },
+ "rul2": {
+  "text": "The novels' detailed biography and founding narrative are Legends unless separately confirmed by canon sources.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "rul2"
+ },
+ "rul3": {
+  "text": "The Rule of Two is a promise of one master and one apprentice.",
+  "source": "loremaster",
+  "grade": "Legends",
+  "episode": "instant:rule-of-two",
+  "id": "rul3"
+ },
+ "rul4": {
+  "text": "The Rule of Two concerns Sith succession and does not mean every dark-side follower is a Sith Lord.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "rul4"
+ },
+ "rul5": {
+  "text": "In Legends, Bane and Zannah spent ten years building an intelligence network using credits from Qordis's account.",
+  "source": "loremaster",
+  "grade": "Legends",
+  "episode": "instant:rule-of-two",
+  "id": "rul5"
+ },
+ "rul6": {
+  "text": "Current canon retains the Sith master-apprentice arrangement and connects its origin to Darth Bane.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "rul6"
+ },
+ "rul7": {
+  "text": "Sith infighting and greed contributed to the order\u2019s defeat at Ruusan in 1032 BBY, where the Jedi nearly destroyed the weakened Sith.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:rule-of-two",
+  "id": "rul7"
+ },
+ "rul8": {
+  "text": "Bane was the sole survivor of the Brotherhood's destruction and recognized Sith infighting had weakened the Sith.",
+  "source": "loremaster",
+  "grade": "Canon",
+  "episode": "instant:rule-of-two",
+  "id": "rul8"
+ },
+ "rul9": {
+  "text": "In the Legends account, Zannah was Bane\u2019s apprentice after a war between the Sith and Jedi Orders and was tasked with carrying the Rule of Two forward.",
+  "source": "loremaster",
+  "grade": "Legends",
+  "episode": "instant:rule-of-two",
+  "id": "rul9"
+ },
+ "rul10": {
+  "text": "The Rule of Two treats struggle and possible murder of the master as part of succession.",
+  "source": "baseline",
+  "grade": "ungraded",
+  "id": "rul10"
+ }
+}

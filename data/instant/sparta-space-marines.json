@@ -1,0 +1,1454 @@
+{
+ "thread": {
+  "id": "sparta-space-marines",
+  "title": "Sparta's Agoge → Space Marine Training",
+  "hook": "Boys taken at seven, forged into warriors: the real Spartan system and the Astartes recruit trials.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Classical Sparta",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "From Agoge to Astartes",
+ "logline": "Sparta’s agoge and the Space Marines’ brutal recruit trials both turn youth into weapons—but the resemblance has limits, and the truth is more revealing than the myth.",
+ "plan": [
+  {
+   "title": "The Boy at Seven",
+   "focus": "Open on the famous image of Spartan boys entering the agoge at seven, then test that image against what the evidence says about Spartan upbringing and military culture. Pair the agoge with Astartes recruitment and implantation: frame their resemblance as an interpretation, not proof of direct inspiration.",
+   "queries": [
+    "history: Spartan agoge",
+    "history: Spartan education",
+    "warhammer40k: Space Marine creation",
+    "warhammer40k: Space Marine recruitment"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  },
+  {
+   "title": "Forged, Then Deployed",
+   "focus": "Compare the agoge’s civic purpose and limits with Astartes trials and transformation, emphasizing that one belonged to a historical polis while the other is fictional superhuman soldiery. Pay off the opening hook by separating documented Spartan practice from the imagined, deliberately extreme Astartes ideal; do not claim creator inspiration without evidence.",
+   "queries": [
+    "history: Spartan army",
+    "history: Spartan society",
+    "warhammer40k: Space Marine trials",
+    "warhammer40k: Astartes"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Boy at Seven",
+  "narration": "Sparta. A boy is seven years old, and the city takes charge of his education. That famous image is real, but it is only the doorway into a much longer and harder formation. Spartiate-class boys entered the agoge at seven, and ceased to be its students at twenty-one. [c1] The program was a prerequisite for Spartiate, or citizen, status. [c2] It could be violent even by ancient standards, and sometimes fatal. [c3]\n\nNow put that image beside a Space Marine recruit. In the forty-first millennium, a boy does not simply join an army. He is remade. The Adeptus Astartes are described as superhuman warriors, shaped by genetic modification, psycho-conditioning, and rigorous training. [c4] Here is my read: the Spartan boy and the Astartes aspirant make a striking pair because both stories begin with youth surrendered to a martial institution. That resemblance is an interpretation, not evidence of direct inspiration.\n\nBut Sparta’s story gets more complicated as soon as we ask what the agoge actually was. The word itself meant things like training, guidance, or discipline. [c5] There is no evidence it referred to the Spartan education system before the third century BC, and the program’s exact origins remain unclear. [c6] So the neat picture of one timeless institution, unchanged from the city’s beginning, is too tidy. The name and the story have their own history.\n\nThe training was not one endless childhood drill. The agoge divided participants into three broad groups: paides, roughly seven to twelve; paidiskoi, roughly twelve to twenty; and hēbōntes, roughly twenty to thirty. [c7] Those ranges already warn us not to treat “finished at twenty-one” as the whole tale. The evidence describes a system organized across youth and young adulthood, with categories that stretched beyond the student’s endpoint.\n\nAnd the methods were not just weapons and endurance. Boys were deliberately deprived of food, sleep, and shelter. [c8] The program cultivated loyalty to Sparta through military training and pain tolerance, but also hunting, dancing, singing, and rhetoric. [c9] It trained bodies, certainly. It also trained attention, performance, and belonging. Sparta did not merely want a boy who could withstand pain. It wanted someone who knew how to act as part of Sparta.\n\nThat last point matters when we return to the Astartes. Their transformation is explicitly physical and psychological: genetic modification and psycho-conditioning sit beside rigorous training. [c4] Their defining image is not simply the tough recruit. It is the recruit altered into something beyond ordinary humanity. The in-universe words put that ambition plainly: “Like clay I shall mould them.” [c10] The quotation turns recruitment into manufacture. Sparta’s agoge and the Astartes process both make education feel like a tool of the state, but the Astartes evidence describes literal bodily transformation, while the Spartan evidence describes a civic training system.\n\nAnd here is the twist in the Spartan picture: it was not an anti-intellectual boot camp. The agoge trained the mind as well as the body, and Spartans were literate and admired for intellectual culture and poetry. [c11] The evidence even preserves Socrates praising Sparta and Crete as ancient homes of Greek philosophy. [c12] That does not erase deprivation or violence. It does make the easy contrast—brainy cities on one side, brutal Sparta on the other—collapse under inspection.\n\nThree things, then. The age-seven entrance is documented, but it opens onto a system whose origins and name are less certain. And the Spartan education joined hardship to culture, while the Astartes recruit is remade through a fictional regime of bodily and psychological transformation.\n\nNext, we can follow the agoge’s long road through its age groups; watch how the Astartes are forged and organized; or ask what Sparta’s citizens were being trained to serve. Which path do you choose?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Spartiate-class boys entered the agoge at age seven and stopped being its students at twenty-one.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Agoge card says Spartiate-class boys entered at seven and stopped being students at twenty-one.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "In ancient Sparta , the agoge ( Ancient Greek : ἀγωγή , romanized : agōgḗ in Attic Greek , or ἀγωγά , agōgá in Doric Greek ) was the training program prerequisite for Spartiate (citizen) status. Spartiate-class boys entered it at age seven, and would stop being a student of the agoge at age 21. It was considered violent by the standards of the day, and was sometimes fatal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The agoge was a prerequisite for Spartiate, or citizen, status.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly calls the agoge a prerequisite for Spartiate, or citizen, status.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "In ancient Sparta , the agoge ( Ancient Greek : ἀγωγή , romanized : agōgḗ in Attic Greek , or ἀγωγά , agōgá in Doric Greek ) was the training program prerequisite for Spartiate (citizen) status. Spartiate-class boys entered it at age seven, and would stop being a student of the agoge at age 21. It was considered violent by the standards of the day, and was sometimes fatal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The agoge was considered violent even by the standards of its day and was sometimes fatal.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says it was considered violent by the standards of the day and was sometimes fatal.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "In ancient Sparta , the agoge ( Ancient Greek : ἀγωγή , romanized : agōgḗ in Attic Greek , or ἀγωγά , agōgá in Doric Greek ) was the training program prerequisite for Spartiate (citizen) status. Spartiate-class boys entered it at age seven, and would stop being a student of the agoge at age 21. It was considered violent by the standards of the day, and was sometimes fatal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Adeptus Astartes are superhuman warriors created through genetic modification, psycho-conditioning, and rigorous training.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Space Marines card describes the Adeptus Astartes as superhuman and attributes this to genetic modification, psycho-conditioning, and rigorous training.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "warhammer40k",
+      "page_title": "Space Marines",
+      "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+      "snippet": "The Space Marines or Adeptus Astartes are foremost amongst the defenders of Humanity , the greatest of the Emperor of Mankind 's warriors. They are barely Human at all, but superhuman; having been made superior in all respects to a normal man by a harsh regime of genetic modification, psycho-conditioning and rigorous training.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Agōgē had meanings including training, guidance, or discipline.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists training, guidance, and discipline among the word’s earlier meanings.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "The word agōgē had various meanings in Ancient Greek and comes from the verb ἄγω (to lead). There is no evidence that it was used to refer to the Spartiate education system until the 3rd century BC, but it was often used before then to mean training, guidance, or discipline. Sources are unclear about the exact origins of the agōgē .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "There is no evidence that agōgē referred to the Spartan education system before the third century BC, and the program's exact origins are unclear.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states both that use for the Spartan system is unattested before the third century BC and that its exact origins are unclear.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "The word agōgē had various meanings in Ancient Greek and comes from the verb ἄγω (to lead). There is no evidence that it was used to refer to the Spartiate education system until the 3rd century BC, but it was often used before then to mean training, guidance, or discipline. Sources are unclear about the exact origins of the agōgē .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The agoge divided participants into paides, roughly ages seven to twelve; paidiskoi, twelve to twenty; and hēbōntes, twenty to thirty.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card gives these three groups and approximate age ranges, matching the narration’s qualified ranges.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "The agōgē was divided into three age groups, paides, paidiskoi, and hēbōntes, roughly corresponding to young boys (7–12), adolescents (12–20), and young men (20–30). The agōgē deliberately deprived boys of food, sleep, and shelter. It involved cultivating loyalty to Sparta through military training (e.g., pain tolerance), hunting, dancing, singing, and rhetoric .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "The agoge deliberately deprived boys of food, sleep, and shelter.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly says the agoge deliberately deprived boys of food, sleep, and shelter.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "The agōgē was divided into three age groups, paides, paidiskoi, and hēbōntes, roughly corresponding to young boys (7–12), adolescents (12–20), and young men (20–30). The agōgē deliberately deprived boys of food, sleep, and shelter. It involved cultivating loyalty to Sparta through military training (e.g., pain tolerance), hunting, dancing, singing, and rhetoric .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The agoge fostered loyalty to Sparta through military training, pain tolerance, hunting, dancing, singing, and rhetoric.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists loyalty to Sparta, military training and pain tolerance, hunting, dancing, singing, and rhetoric as features of the agoge.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Agoge",
+      "url": "https://en.wikipedia.org/wiki/Agoge",
+      "snippet": "The agōgē was divided into three age groups, paides, paidiskoi, and hēbōntes, roughly corresponding to young boys (7–12), adolescents (12–20), and young men (20–30). The agōgē deliberately deprived boys of food, sleep, and shelter. It involved cultivating loyalty to Sparta through military training (e.g., pain tolerance), hunting, dancing, singing, and rhetoric .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "An in-universe Astartes quotation describes molding recruits like clay.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Space Marines card contains the in-universe quotation describing recruits being molded like clay.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Space Marines",
+      "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+      "snippet": "\" They shall be my finest warriors, these men who give of themselves to me. Like clay I shall mould them and in the furnace of war I shall forge them. They shall be of iron will and steely sinew. In great armour I shall clad them and with the mightiest weapons shall they be armed. They will be untouched by plague or disease; no sickness shall blight them.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The agoge trained mind and body, and Spartans were literate and admired for intellectual culture and poetry.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Spartan army card says the agoge trained mind and body and that Spartans were literate and admired for intellectual culture and poetry.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Spartan army",
+      "url": "https://en.wikipedia.org/wiki/Spartan_army",
+      "snippet": "The Spartan public education system, the agoge , trained the mind as well as the body. Spartans were not only literate but admired for their intellectual culture and poetry. Socrates said the \"most ancient and fertile homes of philosophy among the Greeks are Crete and Sparta, where are found more sophists than anywhere on earth.\" The state provided public education for girls and boys, and …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The evidence reports Socrates praising Sparta and Crete as homes of Greek philosophy.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card reports Socrates’ praise of Sparta and Crete as homes of Greek philosophy; the narration accurately presents it as reported evidence.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Spartan army",
+      "url": "https://en.wikipedia.org/wiki/Spartan_army",
+      "snippet": "The Spartan public education system, the agoge , trained the mind as well as the body. Spartans were not only literate but admired for their intellectual culture and poetry. Socrates said the \"most ancient and fertile homes of philosophy among the Greeks are Crete and Sparta, where are found more sophists than anywhere on earth.\" The state provided public education for girls and boys, and …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The agoge’s long road through three age groups",
+   "How the Astartes are forged—and divided",
+   "What were Spartan citizens being trained to serve?"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Spartiate boys entered the agoge at seven and stopped being its students at twenty-one.",
+     "verdict": "fact",
+     "explanation": "The evidence states that Spartiate-class boys entered at seven and ceased being students at twenty-one.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "In ancient Sparta , the agoge ( Ancient Greek : ἀγωγή , romanized : agōgḗ in Attic Greek , or ἀγωγά , agōgá in Doric Greek ) was the training program prerequisite for Spartiate (citizen) status. Spartiate-class boys entered it at age seven, and would stop being a student of the agoge at age 21. It was considered violent by the standards of the day, and was sometimes fatal.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The agoge was an unchanged institution from Sparta’s earliest beginnings.",
+     "verdict": "myth",
+     "explanation": "The evidence says the system’s exact origins are unclear, and the word was not shown to refer to Spartan education before the third century BC.",
+     "evidence_ids": [
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The word agōgē had various meanings in Ancient Greek and comes from the verb ἄγω (to lead). There is no evidence that it was used to refer to the Spartiate education system until the 3rd century BC, but it was often used before then to mean training, guidance, or discipline. Sources are unclear about the exact origins of the agōgē .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The agoge trained only the body and had no place for intellectual or cultural pursuits.",
+     "verdict": "myth",
+     "explanation": "The evidence describes training in rhetoric, singing, and dancing, and says the agoge trained mind as well as body; Spartans were also admired for intellectual culture and poetry.",
+     "evidence_ids": [
+      "E6",
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age groups, paides, paidiskoi, and hēbōntes, roughly corresponding to young boys (7–12), adolescents (12–20), and young men (20–30). The agōgē deliberately deprived boys of food, sleep, and shelter. It involved cultivating loyalty to Sparta through military training (e.g., pain tolerance), hunting, dancing, singing, and rhetoric .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E8",
+       "pack": "history",
+       "page_title": "Spartan army",
+       "url": "https://en.wikipedia.org/wiki/Spartan_army",
+       "snippet": "The Spartan public education system, the agoge , trained the mind as well as the body. Spartans were not only literate but admired for their intellectual culture and poetry. Socrates said the \"most ancient and fertile homes of philosophy among the Greeks are Crete and Sparta, where are found more sophists than anywhere on earth.\" The state provided public education for girls and boys, and …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The agoge’s age groups extend beyond the age when boys stop being students. What is the oldest group called?",
+    "options": [
+     "Paides",
+     "Paidiskoi",
+     "Hēbōntes"
+    ],
+    "answer_index": 2,
+    "reveal_para": 3,
+    "explanation": "The chapter names the oldest group, roughly ages twenty to thirty, as the hēbōntes."
+   }
+  }
+ },
+ "branches": {
+  "The agoge’s long road through three age groups": {
+   "index": 2,
+   "title": "From Boy to Brother",
+   "narration": "Sparta, after the boy’s seventh birthday: the city’s education is not a single doorway, but a road with stages. You chose to follow that road through its three age groups, and then set it beside the making of an Astartes. [c1]\n\nThe first group is the paides, roughly seven to fourteen. [c2] The boys are divided into agelai, packs in which they sleep, and an older boy, the eirēn, leads each group; Plutarch says the boys chose him. [c3] There is a whole social world inside that word “pack”: the young are grouped together, but leadership already has a face and a voice. Imagine the boy at seven again. He has not just left one room and entered another. He has entered a structure that sorts his years, binds him to peers, and places an older youth above him. That is the opening image becoming a system.\n\nThen the label changes. From about fifteen to nineteen, a Spartan boy is a paidiskos, in a transitional phase between child and adult. [c4] Ducat describes this stage as a point when upper-class boys were encouraged to integrate into adult society. [c5] And here comes the hinge: loyalty shifts from the agelē to the syssition, the common mess where adult Spartiates of all ages were expected to eat and socialize together. [c6]\n\nListen to what that shift means as a story. The boy’s world does not simply get bigger; its center of gravity moves. First, the pack. Then, a shared table with adults. The training ground, in this account, leads toward membership in a society that expects its men to eat together and socialize. The transition is not just about surviving childhood. It is about learning where you belong, and whose company will define belonging.\n\nThe last category is the hēbōntes, roughly twenty to twenty-nine. [c7] Three names, three spans of life: paides, paidiskoi, hēbōntes. The evidence gives us those categories and their ages, not a tidy checklist of every test or ceremony. But the shape is clear enough to feel: a long passage from childhood, through transition, toward adulthood. The boy at seven was never the whole story. He was the first chapter of a formation measured in years.\n\nNow place beside him a very different recruit. The Adeptus Astartes need new warriors, and the account of the Primaris Marines says they can recruit and train fresh waves, creating a “long-term, sustainable wellspring of martial might.” [c8] That is the institution speaking in the language of supply. Not a common table, not a bond between age groups: a continuing source of military strength.\n\nThere is a practical complication even within that fictional system. The Codex Astartes sets no formal size for a Scout Company because recruitment rates are not fixed; some Chapters can field comparatively large tenth-company formations, while others must husband limited resources. [c9] So the path from recruit to warrior is not presented as an identical conveyor belt everywhere. The institution has to work with what it can gather.\n\nAnd the word “Astartes” contains another difference. Firstborn Marines have the Emperor’s original nineteen gene-seed organs, while Primaris Marines are described as taller, stronger, more resilient, and quicker in reflexes. [c10] Both are transhuman warriors, but they are not the same version of the transformation. That is a stark contrast with the Spartan age categories: one system sorts young people through social stages; the other distinguishes kinds of engineered warrior.\n\nHere’s my read: the echo is not that Sparta secretly invented the Space Marine. It is that both stories make youth the raw material of an institution. Sparta’s road, as these cards show it, turns age groups toward adult society and a shared civic life. The Astartes’ road is framed around recruitment, training, and martial capacity. One arrives at a table; the other at an army. The resemblance gives us a striking question, while the differences tell us what each world values.\n\nSo: the agoge’s three groups carry the boy from paides to paidiskos to hēbōntes, with belonging shifting toward the adult mess. [c11] The Astartes recruit is remade for a military order, and even that order must reckon with uneven recruitment and different kinds of Marine. [c12] What should we follow next: the Spartan mess and its politics, the Astartes’ transformation, or another ancient society’s road into adulthood?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The agoge is presented as a long road with stages, beginning with the boy at seven.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the agōgē had three age categories beginning with paides at about age seven.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The paides category covered approximately ages seven to fourteen.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the paides range as about ages seven to fourteen.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Boys were grouped into agelai, slept with their groups, and were led by an older eirēn whom Plutarch says the boys chose.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says boys slept in agelai and were led by an older eirēn, with Plutarch claiming the boys chose him.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The paidiskoi category covered approximately ages fifteen to nineteen.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the paidiskoi range as ages fifteen to nineteen.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Ducat considers the paidiskoi a transitional phase and says upper-class boys were encouraged to integrate into adult society.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card attributes to Ducat the view that paidiskoi was transitional and that upper-class boys were encouraged to integrate into adult society.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "Ducat considers the stage of paidiskoi as a transitional phase between a child and an adult, where upper-class Spartan boys were encouraged to integrate themselves into adult society. At this point, loyalty shifted from the agelē to the syssition , a common mess where adult Spartiates of all ages were expected to eat together and socialize.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "At the paidiskoi stage loyalty shifted from the agelē to the syssition, a common mess where adult Spartiates were expected to eat and socialize.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says loyalty shifted from the agelē to the syssition, where adult Spartiates were expected to eat together and socialize.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "Ducat considers the stage of paidiskoi as a transitional phase between a child and an adult, where upper-class Spartan boys were encouraged to integrate themselves into adult society. At this point, loyalty shifted from the agelē to the syssition , a common mess where adult Spartiates of all ages were expected to eat together and socialize.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The hēbōntes category covered approximately ages twenty to twenty-nine.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the hēbōntes range as ages twenty to twenty-nine.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Primaris Marines could recruit and train fresh waves, providing the Adeptus Astartes with a sustainable source of martial strength.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore card says recruiting and training fresh waves of Primaris Marines provided the Adeptus Astartes a long-term, sustainable source of martial strength.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "However, none could deny that being able to recruit and train fresh waves of Primaris Space Marines provided the Adeptus Astartes with a long-term, sustainable wellspring of martial might. So the process began.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Codex Astartes sets no formal Scout Company size because recruitment is not fixed, so Chapters vary in the size and resources of their tenth-company formations.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that the Codex sets no formal Scout Company size because recruitment is not fixed, resulting in differing tenth-company capacities.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "The Codex Astartes dictates no formal size for a Scout Company as the rate of recruitment is not fixed, meaning that some Chapters will be able to field comparatively large 10th Company formations while others must husband their limited resources carefully.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Firstborn Astartes have the original nineteen gene-seed organs, while Primaris Marines are described as stronger, taller, more resilient, and quicker in reflexes.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card distinguishes Firstborn's original nineteen organs from Primaris Marines' greater strength, height, resilience, and reflexes.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Firstborn",
+       "url": "https://warhammer40k.fandom.com/wiki/Firstborn",
+       "snippet": "Firstborn Astartes possess only the original 19 gene-seed organs crafted by the Emperor. As a result, though still transhuman warriors, they lack the greater strength, height, resilience and reflexes of their Primaris Marine brethren.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The agoge categories run from paides through paidiskoi to hēbōntes, while loyalty shifts toward the adult mess.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Both cards support the stated age categories and the shift toward the adult mess; the narration presents this as a concise summary.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "Ducat considers the stage of paidiskoi as a transitional phase between a child and an adult, where upper-class Spartan boys were encouraged to integrate themselves into adult society. At this point, loyalty shifted from the agelē to the syssition , a common mess where adult Spartiates of all ages were expected to eat together and socialize.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Astartes recruitment is framed around military capacity, and the lore distinguishes variable recruitment and different Marine types.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is a narrator's synthesis contrasting institutional recruitment and military capacity, supported by the cited lore distinctions rather than stated as a single lore fact.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "However, none could deny that being able to recruit and train fresh waves of Primaris Space Marines provided the Adeptus Astartes with a long-term, sustainable wellspring of martial might. So the process began.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E21",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "The Codex Astartes dictates no formal size for a Scout Company as the rate of recruitment is not fixed, meaning that some Chapters will be able to field comparatively large 10th Company formations while others must husband their limited resources carefully.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Firstborn",
+       "url": "https://warhammer40k.fandom.com/wiki/Firstborn",
+       "snippet": "Firstborn Astartes possess only the original 19 gene-seed organs crafted by the Emperor. As a result, though still transhuman warriors, they lack the greater strength, height, resilience and reflexes of their Primaris Marine brethren.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Spartan mess: belonging, status, and the cost of admission",
+    "Inside the Astartes transformation: what the recruits endure",
+    "Other ancient paths from childhood into military service"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Spartan boys from about seven to fourteen were grouped into agelai led by an older eirēn.",
+      "verdict": "fact",
+      "explanation": "The agoge’s paides were about seven to fourteen; boys slept in agelai led by an older boy, whom Plutarch says they chose.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "history",
+        "page_title": "Agoge",
+        "url": "https://en.wikipedia.org/wiki/Agoge",
+        "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The agoge’s three age groups were paides, paidiskoi, and hēbōntes.",
+      "verdict": "fact",
+      "explanation": "The evidence lists those three categories, spanning about ages seven to twenty-nine.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "history",
+        "page_title": "Agoge",
+        "url": "https://en.wikipedia.org/wiki/Agoge",
+        "snippet": "The agōgē was divided into three age categories: the paides (about ages 7–14), paidiskoi (ages 15–19), and the hēbōntes (ages 20–29). The boys were further subdivided into groups called agelai (singular agelē , meaning \"pack\"), with whom they would sleep, and were led by an older boy ( eirēn ) who Plutarch claims was chosen by the boys themselves.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Every Astartes Chapter has the same-sized Scout Company.",
+      "verdict": "myth",
+      "explanation": "The Codex Astartes sets no formal Scout Company size because recruitment rates vary, so Chapters’ tenth-company formations can differ.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "warhammer40k",
+        "page_title": "Primaris Space Marines",
+        "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+        "snippet": "The Codex Astartes dictates no formal size for a Scout Company as the rate of recruitment is not fixed, meaning that some Chapters will be able to field comparatively large 10th Company formations while others must husband their limited resources carefully.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "At what point did the Spartan boy’s loyalty shift from his agelē toward the adult syssition?",
+     "options": [
+      "During the paides stage",
+      "During the paidiskoi stage",
+      "During the hēbōntes stage"
+     ],
+     "answer_index": 1,
+     "reveal_para": 2,
+     "explanation": "During the paidiskoi stage, loyalty shifted from the agelē toward the syssition, the common mess."
+    }
+   }
+  },
+  "How the Astartes are forged—and divided": {
+   "index": 2,
+   "title": "Forged, Then Divided",
+   "narration": "You chose to follow the recruit: how the Astartes are forged, and how they are divided. We return to the Spartan boy at seven, but now the question is what kind of belonging his training creates. [c1]\n\nFor Sparta, the agoge was more than a test of toughness. Plutarch describes its main purpose as preparing boys’ bodies for the harshness of war through intense physical trials. [c2] Competition in athletic events encouraged hard work and merit. [c3] And there may have been another purpose: instilling a collective Spartan identity in the young. [c4] That is the hinge. A boy is not simply trained to endure. He is taught to belong—to imagine that his strength has a civic destination.\n\nBut belonging had a boundary, and it was drawn sharply. The participants were sons of Spartiates and Spartiate-class mothers, a group eligible for citizenship that may have made up only one-tenth to one-thirty-second of the population. [c5] Spartiate-class girls did not enter the agoge, though they may have received a similar state-sponsored education. [c6] So when you picture Sparta producing its warriors, do not picture an entire population marching through one shared school. The institution formed a narrow citizen class. Its ideal was never universal.\n\nBeyond that boundary stood the helots, a subjugated group that made up a majority of the population in the territories Sparta ruled. [c7] Their proportion varied over time; Herodotus reports seven helots for every five thousand Spartan soldiers at Plataea in four hundred seventy-nine BC. [c8] Keeping the helot population in check and preventing rebellion were major Spartan concerns. [c9] There is the pressure beneath the polished image of the citizen-warrior: the system’s sense of security existed beside the domination of people excluded from its civic promise. A warrior’s belonging can look noble from inside the circle, and very different from outside it.\n\nNow turn to the Astartes. Their transformation is not a season of athletic contests. It is a biological and institutional remaking, described through gene-seed implantation and military organization. The evidence gives us a technical glimpse, not a full initiation scene: Primaris implantation procedures are known as the Primaris Alpha and Primaris Beta phases, and both can be introduced simultaneously. [c10] The language sounds like a checklist from a machine age. Alpha. Beta. A body divided into stages, then assembled for service.\n\nPrimaris Space Marines are described as a new breed of transhuman warriors developed across ten thousand standard years by Belisarius Cawl. [c11] Their creation began on Mars on Roboute Guilliman’s order, in the days immediately after the Second Founding in the early thirty-first millennium. [c12] The Spartan boy is formed by a civic institution; the Astartes recruit is transformed within a project stretching across millennia, involving gene-seed, a primarch, and an archmagos. Here’s my read: the contrast is less “old training versus new training” than “city-making versus weapon-making.” That is a comparison of the two systems, not a claim that Sparta directly inspired the Astartes.\n\nAnd then comes division. Sparta’s formation may foster collective identity, but civic belonging is restricted. For the Astartes, division is written into the military structure itself. Guilliman’s Codex Astartes is a great and sacred tome of organization, strategy, and tactics. [c13] It sets out his ideal for a Space Marine Chapter’s moral behaviour, order of battle, and tactical doctrine. [c14] It also defines accepted Chapter organization, recruitment practices, and battlefield roles, including Tactical, Assault, and Devastator squads. [c15]\n\nHere is the specific parallel: the Spartiate boy is shaped to recognize a civic “we”; the Astartes is shaped to serve within a Chapter, where roles and doctrine define how the force acts. [c16] The resemblance is in the problem they solve: how to turn fighters into an ordered body. It is not evidence of a historical connection. One system draws a boundary around citizenship. The other sorts warriors into a formal military structure. Both make belonging powerful. Both make it conditional. And neither ideal warrior exists for himself.\n\nSo: the agoge prepares bodies for war and may cultivate a shared Spartan identity, but that identity belongs to a limited group. The Astartes are remade as transhuman warriors and organized around the Chapter ideal of the Codex. The question left hanging is the one that matters most: what is each ideal warrior made to serve—the city, the Chapter, or something larger and more dangerous?\n\nFor our next journey, choose: the Spartan helots and the cost of civic freedom; Guilliman’s Codex and the making of Chapters; or Rome’s citizen-soldier beside the Imperium’s transhuman armies.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The previous chapter introduced the Spartan boy entering the agoge at seven.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No evidence card supports the prior chapter’s introduction of a Spartan boy entering the agoge at seven.",
+     "evidence": []
+    },
+    {
+     "id": "c2",
+     "text": "Plutarch describes the agoge’s main purpose as preparing boys’ bodies for war through intense physical trials.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 explicitly attributes to Plutarch the agoge’s purpose of preparing boys for war through intense physical trials.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "According to Plutarch, the main purpose of the agōgē was for Spartan boys to undergo intense physical trials to prepare their bodies for the harshness of war. The competitive nature of athletic events encouraged hard work and merit. However, the agōgē likely had a second purpose: to instil in young children a collective Spartan identity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Athletic competition encouraged hard work and merit in the agoge.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 states that competition in athletic events encouraged hard work and merit.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "According to Plutarch, the main purpose of the agōgē was for Spartan boys to undergo intense physical trials to prepare their bodies for the harshness of war. The competitive nature of athletic events encouraged hard work and merit. However, the agōgē likely had a second purpose: to instil in young children a collective Spartan identity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The agoge may have aimed to instill a collective Spartan identity.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E11 says the agoge likely had a second purpose of instilling collective Spartan identity, and the narration appropriately hedges this claim.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "According to Plutarch, the main purpose of the agōgē was for Spartan boys to undergo intense physical trials to prepare their bodies for the harshness of war. The competitive nature of athletic events encouraged hard work and merit. However, the agōgē likely had a second purpose: to instil in young children a collective Spartan identity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Agoge participants were sons of Spartiates and Spartiate-class mothers, an eligible group estimated at one-tenth to one-thirty-second of the population.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E12 identifies participants as sons of Spartiates and Spartiate-class mothers and gives the population estimate as a possibility, as the narration signals.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "Participants were the sons of Spartiates and Spartiate-class mothers (that is, those eligible for citizen status, totalling perhaps 1/10 to 1/32 of the population). Spartiate-class girls (who could not become citizens) did not participate in the agōgē , although they may have received a similar state-sponsored education.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Spartiate-class girls did not participate in the agoge, though they may have received similar state-sponsored education.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E12 says Spartiate-class girls did not participate and may have received similar state-sponsored education; the narration preserves that uncertainty.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "Participants were the sons of Spartiates and Spartiate-class mothers (that is, those eligible for citizen status, totalling perhaps 1/10 to 1/32 of the population). Spartiate-class girls (who could not become citizens) did not participate in the agōgē , although they may have received a similar state-sponsored education.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Helots were a subjugated group making up a majority of the population in territories ruled by Sparta.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 identifies helots as a subjugated group that constituted a majority of the population in Laconia and Messenia.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Helots",
+       "url": "https://en.wikipedia.org/wiki/Helots",
+       "snippet": "The helots ( / ˈ h ɛ l ə t s , ˈ h iː l ə t s / ; Greek : εἵλωτες , heílotes ) were a subjugated group that constituted a majority of the population of Laconia and Messenia – the territories ruled by Sparta in Ancient Greece . There has been controversy since antiquity as to their exact characteristics, such as whether they constituted an Ancient Greek tribe , a social class , or both.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Herodotus reports seven helots for each of five thousand Spartan soldiers at Plataea in 479 BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 reports Herodotus’s figure of seven helots per 5,000 Spartan soldiers at Plataea, and the narration attributes the report to him.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Helots",
+       "url": "https://en.wikipedia.org/wiki/Helots",
+       "snippet": "The proportion of helots in relation to Spartan citizens varied throughout the history of the Spartan state; according to Herodotus , there were seven helots for each of the 5,000 Spartan soldiers at the time of the Battle of Plataea in 479 BC. Thus the need to keep the helot population in check and to prevent rebellion were major concerns of the Spartans.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Keeping helots in check and preventing rebellion were major Spartan concerns.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 plainly says that keeping helots in check and preventing rebellion were major Spartan concerns.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Helots",
+       "url": "https://en.wikipedia.org/wiki/Helots",
+       "snippet": "The proportion of helots in relation to Spartan citizens varied throughout the history of the Spartan state; according to Herodotus , there were seven helots for each of the 5,000 Spartan soldiers at the time of the Battle of Plataea in 479 BC. Thus the need to keep the helot population in check and to prevent rebellion were major concerns of the Spartans.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Primaris gene-seed implantation procedures are called Primaris Alpha and Primaris Beta, and both phases can be introduced simultaneously.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E34 states that the procedures are known as the Primaris Alpha and Beta phases and that both phases can be introduced simultaneously.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "These procedures are known as the \"Primaris Alpha\" and \"Primaris Beta\" phases of the gene-seed organ implantation process. Both phases can be introduced simultaneously.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Primaris Space Marines are described as a new breed of transhuman warriors developed across ten thousand standard years by Belisarius Cawl.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E35 describes Primaris Space Marines as developed across ten thousand standard years by Belisarius Cawl.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "The Primaris Space Marines are a new breed of transhuman warriors developed across the span of ten thousand standard years by Archmagos Dominus Belisarius Cawl . Their creation was initiated on Mars on the order of Primarch Roboute Guilliman in the days immediately after the Second Founding in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Their creation began on Mars on Guilliman’s order after the Second Founding in the early thirty-first millennium.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E35 states that their creation was initiated on Mars on Guilliman’s order immediately after the Second Founding in the early thirty-first millennium.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "warhammer40k",
+       "page_title": "Primaris Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Primaris_Space_Marines",
+       "snippet": "The Primaris Space Marines are a new breed of transhuman warriors developed across the span of ten thousand standard years by Archmagos Dominus Belisarius Cawl . Their creation was initiated on Mars on the order of Primarch Roboute Guilliman in the days immediately after the Second Founding in the early 31st Millennium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Codex Astartes is a tome of military organization, strategy, and tactics written by Guilliman.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E18 identifies the Codex Astartes as a tome of military organization, strategy, and tactics written by Guilliman.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Codex Astartes",
+       "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+       "snippet": "The Codex Astartes is a great and sacred tome of military organisation, strategy and tactics written by Roboute Guilliman , the primarch of the Ultramarines Space Marine Legion . It outlines Guilliman's ideal for the moral behaviour, order of battle and tactical doctrine of a Space Marine Chapter .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The Codex outlines Guilliman’s ideal for a Chapter’s moral behaviour, order of battle, and tactical doctrine.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E18 says the Codex outlines Guilliman’s ideal for a Chapter’s moral behaviour, order of battle, and tactical doctrine.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Codex Astartes",
+       "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+       "snippet": "The Codex Astartes is a great and sacred tome of military organisation, strategy and tactics written by Roboute Guilliman , the primarch of the Ultramarines Space Marine Legion . It outlines Guilliman's ideal for the moral behaviour, order of battle and tactical doctrine of a Space Marine Chapter .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The Codex defines Chapter organization, recruitment practices, and roles including Tactical, Assault, and Devastator squads.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E19 says the Codex defined Chapter organization, recruitment practices, and the Tactical, Assault, and Devastator squad roles.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "warhammer40k",
+       "page_title": "Codex Astartes",
+       "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+       "snippet": "The Codex also further defined the accepted tactical doctrine, Chapter organisation, order of battle, and recruitment practices for a Space Marine Chapter. It explained the different battlefield roles assigned to each squad of Space Marines in a Chapter, originally defining them as Tactical , Assault or Devastator Squads and assigning different equipment and purpose to each (see the excerpts …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The Spartan civic identity and Astartes Chapter structure can be compared as systems that organize fighters into a collective, without claiming direct inspiration.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "The narration explicitly presents this as a comparison of the systems rather than a claim of historical connection, supported by the cards describing Spartan identity and Astartes organization.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "According to Plutarch, the main purpose of the agōgē was for Spartan boys to undergo intense physical trials to prepare their bodies for the harshness of war. The competitive nature of athletic events encouraged hard work and merit. However, the agōgē likely had a second purpose: to instil in young children a collective Spartan identity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "warhammer40k",
+       "page_title": "Codex Astartes",
+       "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+       "snippet": "The Codex Astartes is a great and sacred tome of military organisation, strategy and tactics written by Roboute Guilliman , the primarch of the Ultramarines Space Marine Legion . It outlines Guilliman's ideal for the moral behaviour, order of battle and tactical doctrine of a Space Marine Chapter .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E19",
+       "pack": "warhammer40k",
+       "page_title": "Codex Astartes",
+       "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+       "snippet": "The Codex also further defined the accepted tactical doctrine, Chapter organisation, order of battle, and recruitment practices for a Space Marine Chapter. It explained the different battlefield roles assigned to each squad of Space Marines in a Chapter, originally defining them as Tactical , Assault or Devastator Squads and assigning different equipment and purpose to each (see the excerpts …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Spartan helots and the cost of civic freedom",
+    "Guilliman’s Codex and the making of Chapters",
+    "Rome’s citizen-soldier beside the Imperium’s transhuman armies"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The agoge was designed to prepare Spartan boys for the hardships of war.",
+      "verdict": "fact",
+      "explanation": "Plutarch describes intense physical trials as preparing boys’ bodies for war. Athletic competition also encouraged hard work and merit.",
+      "evidence_ids": [
+       "E11"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "history",
+        "page_title": "Agoge",
+        "url": "https://en.wikipedia.org/wiki/Agoge",
+        "snippet": "According to Plutarch, the main purpose of the agōgē was for Spartan boys to undergo intense physical trials to prepare their bodies for the harshness of war. The competitive nature of athletic events encouraged hard work and merit. However, the agōgē likely had a second purpose: to instil in young children a collective Spartan identity.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The agoge educated all Spartan children, including girls.",
+      "verdict": "myth",
+      "explanation": "Participation was limited to sons of Spartiates and Spartiate-class mothers. Girls did not enter the agoge, though they may have received similar state-sponsored education.",
+      "evidence_ids": [
+       "E12"
+      ],
+      "evidence": [
+       {
+        "id": "E12",
+        "pack": "history",
+        "page_title": "Agoge",
+        "url": "https://en.wikipedia.org/wiki/Agoge",
+        "snippet": "Participants were the sons of Spartiates and Spartiate-class mothers (that is, those eligible for citizen status, totalling perhaps 1/10 to 1/32 of the population). Spartiate-class girls (who could not become citizens) did not participate in the agōgē , although they may have received a similar state-sponsored education.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Codex Astartes defines Chapter organization and battlefield roles such as Tactical, Assault, and Devastator squads.",
+      "verdict": "fact",
+      "explanation": "The lore describes the Codex as setting out Chapter organization and recruitment practices, as well as these squad roles.",
+      "evidence_ids": [
+       "E19"
+      ],
+      "evidence": [
+       {
+        "id": "E19",
+        "pack": "warhammer40k",
+        "page_title": "Codex Astartes",
+        "url": "https://warhammer40k.fandom.com/wiki/Codex_Astartes",
+        "snippet": "The Codex also further defined the accepted tactical doctrine, Chapter organisation, order of battle, and recruitment practices for a Space Marine Chapter. It explained the different battlefield roles assigned to each squad of Space Marines in a Chapter, originally defining them as Tactical , Assault or Devastator Squads and assigning different equipment and purpose to each (see the excerpts …",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The agoge may have done more than prepare boys physically for war. What other purpose might it have served?",
+     "options": [
+      "Instilling a collective Spartan identity",
+      "Training boys to become helot overseers",
+      "Preparing them for naval service"
+     ],
+     "answer_index": 0,
+     "reveal_para": 1,
+     "explanation": "The agoge likely also aimed to instill a collective Spartan identity in young children."
+    }
+   }
+  },
+  "What were Spartan citizens being trained to serve?": {
+   "index": 2,
+   "title": "The City and the Chapter",
+   "narration": "The boy at seven was never the finished product. You chose to ask what Sparta wanted him to become. The answer is bigger than a soldier: a citizen shaped for a military order. [c1] The agoge’s destination was not simply a battlefield. It was a way of belonging to a city whose expectations reached into a man’s whole life.\n\nSparta’s social system was unusual in Greece, and it focused the Spartiate class on military training and physical development. [c2] The system was so demanding that Spartiates were legally barred from productive economic activity. [c3] That detail changes the picture. The city was not asking its elite boys to learn a trade and then fit military service around it. Military discipline sat at the center of their lives.\n\nAnd Sparta was not the whole population. The Spartans were a minority among the people of Lakonia, while helots formed the largest class of inhabitants. [c4] That fact gives the training a hard political edge. A small ruling group did not exist in a vacuum; its discipline belonged to a society of unequal power. We should not soften that into a pretty story about toughness. The agoge formed members of a privileged class within a social order that included a much larger helot population.\n\nBut becoming eligible to serve did not mean becoming fully grown in Sparta’s eyes. The term hēbōntes meant “those who have reached physical adulthood.” Men at that stage could enter military service and vote in the assembly, while remaining under the paidonomos’s authority. [c5] There is the strange hinge: a young man could be old enough for service and political participation, yet still not be treated as a fully adult citizen. The city’s claim on him did not end when childhood did.\n\nSpartan men remained in the active reserve until sixty. [c6] Men were encouraged to marry at twenty, but they could not live with their families until leaving active military service at thirty. [c7] The word homoioi, “equals,” expressed a shared lifestyle and the discipline of a phalanx in which no soldier should stand above his comrades. [c8] Equality here is not a modern promise that everyone in society had equal power. It describes the common discipline claimed among Spartiate men themselves. The aim was not merely brave individuals, but men expected to act together.\n\nNow bring the other half of this story into view. A Space Marine recruit is not being made into a Spartan citizen. He is being shaped within a fictional military order. The Codex Astartes became an influential work laying down basic organizational and tactical rules for a Space Marine Chapter. [c9] It decreed that Space Marines would be created and trained over a controlled period. [c10] One objective was to recognize and expunge genetic weaknesses, and the Codex consequently required Space Marines to be created and trained slowly. [c11]\n\nThe recruits could also be marked by the traditions above them. In many cases, the stamp of the Legions and the will of the primarchs came to outweigh differences of birth or blood. [c12] That is a sharp parallel to the Spartiate ideal of comrades disciplined into a common way of life. If you ask me, the resemblance is not “both make tough boys.” It is the more interesting idea that an institution tries to remake a person’s loyalties, habits, and identity around service.\n\nBut the difference is the payoff. Sparta’s agoge formed members of a citizen class within a real city and its unequal social order. [c13] The Space Marine Chapter, by contrast, is a fictional order of transhuman warriors shaped by controlled training and Chapter doctrine. [c14] One is a citizen-soldier society; the other is an imagined military brotherhood. They rhyme, but they are not the same song.\n\nSo: Sparta’s elite boys were formed for a life organized around military discipline, while the Chapter turns recruits toward service in a fictional order. [c15] The parallel is about institutions shaping service, not direct historical inspiration. [c16] Where should we go next: the Spartan mess hall and the cost of belonging, Guilliman’s Codex and its rules for survival, or citizens, subjects, and the Imperium’s impossible ideal?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The agoge can be understood as shaping Spartiate-class boys for service in Sparta’s military order.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E32 describes Sparta’s military focus, while the claim frames the agoge’s purpose as an interpretation rather than stating a separate documented fact.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Sparta was unusual in Greece, and its system focused the Spartiate class on military training and physical development.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E32 describes Sparta as unusual in Greece and says its system focused the Spartiate class on military training and physical development.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Spartiates were legally barred from productive economic activity.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E32 explicitly says Spartiates were legally barred from productive economic activity.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Spartans were a minority in Lakonia, where helots formed the largest class of inhabitants.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E31 states that Spartans were a minority in Lakonia and that helots were its largest class of inhabitants.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "The Spartans were a minority of the Lakonian population. The largest class of inhabitants were the helots (in Classical Greek Εἵλωτες / Heílôtes ).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Hēbōntes meant those who had reached physical adulthood, and men at that stage could serve and vote while remaining under the paidonomos’s authority.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E27 gives the meaning of hēbōntes and states that men at this stage could serve and vote while remaining under the paidonomos’s authority.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "Agoge",
+       "url": "https://en.wikipedia.org/wiki/Agoge",
+       "snippet": "The term hēbōntes means: \"those who have reached physical adulthood\". It was at this age when Spartan men became eligible for military service and could vote in the assembly, although they were not yet considered full adult citizens and were still under the authority of the paidonomos .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Spartan men remained in the active reserve until age sixty.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 explicitly says Spartan men remained in the active reserve until age sixty.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Spartan men remained in the active reserve until age 60. Men were encouraged to marry at age 20 but could not live with their families until they left their active military service at age 30. They called themselves \" homoioi \" (equals), pointing to their common lifestyle and the discipline of the phalanx , which demanded that no soldier be superior to his comrades.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Men were encouraged to marry at twenty but could not live with their families until leaving active military service at thirty.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 states that men were encouraged to marry at twenty and could not live with their families until leaving active service at thirty.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Spartan men remained in the active reserve until age 60. Men were encouraged to marry at age 20 but could not live with their families until they left their active military service at age 30. They called themselves \" homoioi \" (equals), pointing to their common lifestyle and the discipline of the phalanx , which demanded that no soldier be superior to his comrades.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Homoioi meant equals and referred to shared lifestyle and phalanx discipline in which no soldier should be superior to his comrades.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 connects homoioi with a common lifestyle and phalanx discipline that required no soldier to be superior to his comrades.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Spartan men remained in the active reserve until age 60. Men were encouraged to marry at age 20 but could not live with their families until they left their active military service at age 30. They called themselves \" homoioi \" (equals), pointing to their common lifestyle and the discipline of the phalanx , which demanded that no soldier be superior to his comrades.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Codex Astartes laid down basic organizational and tactical rules for a Space Marine Chapter.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E29 says the Codex Astartes laid down basic organizational and tactical rules for a Space Marine Chapter.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "Of all Guilliman's works, the most influential would prove to be the Codex Astartes , the great prescriptive tome that lays down the basic organisational and tactical rules for a Space Marine Chapter. The Codex Astartes decreed that Space Marines would be created and trained over a controlled period of time.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Codex Astartes decreed that Space Marines would be created and trained over a controlled period.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E29 states that the Codex decreed Space Marines would be created and trained over a controlled period.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "Of all Guilliman's works, the most influential would prove to be the Codex Astartes , the great prescriptive tome that lays down the basic organisational and tactical rules for a Space Marine Chapter. The Codex Astartes decreed that Space Marines would be created and trained over a controlled period of time.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Codex aimed to recognize and expunge genetic weaknesses and required Space Marines to be created and trained slowly.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E30 states that recognizing and expunging genetic weaknesses was an objective of the Codex and that it decreed slow creation and training.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "One of the key objectives of the Codex Astartes was to recognise and expunge these genetic weaknesses. As a result, the Codex decreed that Space Marines would forever more be created and trained slowly.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "In many cases, Legion traditions and primarchs’ influence outweighed recruits’ differences of birth or blood.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E28 states that Legion traditions and primarchs’ influence often outweighed recruits’ differences of birth or blood.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "In many cases the stamp of the Legions and the will of the primarchs on their recruits came to largely outweigh differences of birth or blood.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The agoge formed members of a citizen class within Sparta’s unequal social order.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E32 and E31 support Sparta’s militarized Spartiate class and unequal social order, but describing the agoge as forming that class is a synthesis rather than a direct statement in the cards.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "The Spartans were a minority of the Lakonian population. The largest class of inhabitants were the helots (in Classical Greek Εἵλωτες / Heílôtes ).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Space Marine Chapters are fictional orders of transhuman warriors shaped by controlled training and Chapter doctrine.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E29 and E30 support Space Marine Chapters, doctrine, and controlled training, though the cards do not independently establish the description “transhuman warriors.”",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "Of all Guilliman's works, the most influential would prove to be the Codex Astartes , the great prescriptive tome that lays down the basic organisational and tactical rules for a Space Marine Chapter. The Codex Astartes decreed that Space Marines would be created and trained over a controlled period of time.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E30",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "One of the key objectives of the Codex Astartes was to recognise and expunge these genetic weaknesses. As a result, the Codex decreed that Space Marines would forever more be created and trained slowly.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Sparta’s elite boys were formed for lives organized around military discipline, while Space Marine recruits are trained for a fictional order.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This explicitly framed parallel draws on E32’s account of Spartan military discipline and E29’s account of Chapter rules, without claiming direct historical influence.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Sparta",
+       "url": "https://en.wikipedia.org/wiki/Sparta",
+       "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Space Marines",
+       "url": "https://warhammer40k.fandom.com/wiki/Space_Marines",
+       "snippet": "Of all Guilliman's works, the most influential would prove to be the Codex Astartes , the great prescriptive tome that lays down the basic organisational and tactical rules for a Space Marine Chapter. The Codex Astartes decreed that Space Marines would be created and trained over a controlled period of time.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The comparison is an interpretation and does not assert direct historical inspiration.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No evidence card supports this claim; the narration’s disclaimer about direct inspiration is not established by the cited evidence.",
+     "evidence": []
+    }
+   ],
+   "branch_options": [
+    "Sparta’s shared meals, and the price of belonging",
+    "Guilliman’s Codex: rules written after catastrophe",
+    "Citizens, subjects, and the Imperium’s impossible ideal"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Spartiates were legally barred from productive economic activity.",
+      "verdict": "fact",
+      "explanation": "The evidence describes Sparta’s system as centering the Spartiate class on military training and physical development, and says they were legally barred from productive economic activity.",
+      "evidence_ids": [
+       "E32"
+      ],
+      "evidence": [
+       {
+        "id": "E32",
+        "pack": "history",
+        "page_title": "Sparta",
+        "url": "https://en.wikipedia.org/wiki/Sparta",
+        "snippet": "Sparta was unique in ancient Greece for its social system and constitution , which were supposedly introduced by the semi-mythical lawgiver Lycurgus . Spartan society was exceptionally militarised, focusing the entire attention of the Spartiate class on military training and physical development to the point of legally barring them from productive economic activity.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "All men who could serve and vote in Sparta were considered full adult citizens.",
+      "verdict": "myth",
+      "explanation": "Hēbōntes could serve and vote, but they were not yet considered full adult citizens and remained under the paidonomos’s authority.",
+      "evidence_ids": [
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "history",
+        "page_title": "Agoge",
+        "url": "https://en.wikipedia.org/wiki/Agoge",
+        "snippet": "The term hēbōntes means: \"those who have reached physical adulthood\". It was at this age when Spartan men became eligible for military service and could vote in the assembly, although they were not yet considered full adult citizens and were still under the authority of the paidonomos .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Spartan men could live with their families as soon as they married at twenty.",
+      "verdict": "myth",
+      "explanation": "Men were encouraged to marry at twenty, but they could not live with their families until leaving active military service at thirty.",
+      "evidence_ids": [
+       "E33"
+      ],
+      "evidence": [
+       {
+        "id": "E33",
+        "pack": "history",
+        "page_title": "Sparta",
+        "url": "https://en.wikipedia.org/wiki/Sparta",
+        "snippet": "Spartan men remained in the active reserve until age 60. Men were encouraged to marry at age 20 but could not live with their families until they left their active military service at age 30. They called themselves \" homoioi \" (equals), pointing to their common lifestyle and the discipline of the phalanx , which demanded that no soldier be superior to his comrades.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter turns from Sparta’s citizen-soldiers to the Codex Astartes. What did the Codex require about how Space Marines were created and trained?",
+     "options": [
+      "They were created and trained slowly.",
+      "They were trained only after reaching adulthood.",
+      "Their training was left entirely to each recruit’s birth family."
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "The Codex required Space Marines to be created and trained over a controlled period, and it called for the process to happen slowly."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Pausanias, the Spartan",
+   "author": "Edward Bulwer Lytton, Baron Lytton",
+   "year": 1800,
+   "why": "This historical novel offers a dramatic route into Spartan life and the formation of young warriors that frames the episode’s opening chapters.",
+   "url": "https://openlibrary.org/works/OL61794W"
+  },
+  {
+   "title": "Horus Rising",
+   "author": "Dan Abnett",
+   "year": 2006,
+   "why": "Its account of the Space Marines’ brotherhood and the Great Crusade pairs naturally with the episode’s journey from Spartan training to the Astartes.",
+   "url": "https://openlibrary.org/works/OL5843391W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8276,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 504,
+   "output_tokens": 1048,
+   "cost_usd": 0.00071009
+  },
+  {
+   "agent": "researcher",
+   "requests": 13,
+   "input_tokens": 39848,
+   "cached_tokens": 29994,
+   "cache_write_tokens": 8216,
+   "output_tokens": 1777,
+   "cost_usd": 0.00237923
+  },
+  {
+   "agent": "storyteller",
+   "requests": 6,
+   "input_tokens": 27568,
+   "cached_tokens": 19002,
+   "cache_write_tokens": 7810,
+   "output_tokens": 10797,
+   "cost_usd": 0.00664038
+  },
+  {
+   "agent": "skeptic",
+   "requests": 6,
+   "input_tokens": 27618,
+   "cached_tokens": 13710,
+   "cache_write_tokens": 13152,
+   "output_tokens": 4648,
+   "cost_usd": 0.0041807
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1778,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 328,
+   "output_tokens": 222,
+   "cost_usd": 0.00017784
+  }
+ ],
+ "build_cost_usd": 0.014088,
+ "build_seconds": 109.4
+}

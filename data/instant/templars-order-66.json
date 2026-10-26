@@ -1,0 +1,1734 @@
+{
+ "thread": {
+  "id": "templars-order-66",
+  "title": "Friday the 13th → Order 66",
+  "hook": "1307: a king arrests every Templar in France in one morning. A Republic's guardians fall the same way.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "The Templars, 1307",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Friday the 13th: The Great Purge",
+ "logline": "A real royal roundup on Friday, October 13, 1307, opens a careful comparison with the day a galactic republic turned on its guardians.",
+ "plan": [
+  {
+   "title": "One Morning, Two Purges",
+   "focus": "Open with the arrest of the Knights Templar in France on October 13, 1307, then braid it with Order 66: Philip IV’s coordinated action and Palpatine’s command both turn trusted protectors into targets. Make clear that the parallel is an interpretation, not a claim of direct inspiration, and put the Friday-the-13th origin story on trial rather than treating it as settled fact.",
+   "queries": [
+    "history: Arrest of the Knights Templar",
+    "history: Friday the 13th superstition",
+    "star_wars: Order 66",
+    "star_wars: Order 66 inspiration"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  },
+  {
+   "title": "The Story After the Fall",
+   "focus": "Compare the Templars’ arrests, accusations, and suppression with the Jedi purge and its aftermath: how power frames a former institution as a threat, and how survivors and later memory reshape the story. Return to the opening date with the distinction between a documented arrest and the debated popular claim that it created Friday-the-13th’s bad reputation.",
+   "queries": [
+    "history: Knights Templar trials",
+    "history: Dissolution of the Knights Templar",
+    "star_wars: Great Jedi Purge",
+    "star_wars: Order 66 survivors"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "One Morning, Two Purges",
+  "narration": "France, dawn, October thirteenth, thirteen-oh-seven. Orders have already traveled in secret through the kingdom; now soldiers move to seize the Templars. [c1] The arrests are sudden, simultaneous, and aimed at men who have spent their lives guarding Christian power. [c2]\n\nAmong those taken is Jacques de Molay, the order’s Grand Master. [c3] King Philip the Fourth has prepared this moment carefully: on September fourteenth, he sent secret instructions to royal bailiffs and seneschals to ready the arrests for a month later. [c4] At dawn, soldiers capture Templars found across France. [c5]\n\nThe accusation is not a quiet accounting dispute. The Templars face charges including heresy, blasphemy, idolatry, sexual misconduct, and financial corruption. [c6] But the political arithmetic is plain enough to see. Philip is deeply in debt from lavish policies and military ventures, and the order is also a powerful rival. [c7] He sees its destruction as a way to ease his financial hardship and remove that rival. [c8]\n\nNow cut from France to a galaxy at war. The Jedi have served as protectors and generals; by the end of the Clone Wars, public support for them has weakened because of how they managed the conflict. [c9] Palpatine, meanwhile, remains popular. [c10] The contrast matters: a ruler does not need everyone to love the people he is about to destroy. He needs enough people to accept the story that they have become dangerous.\n\nIn the Star Wars account, Palpatine’s Order Sixty-Six unleashes a galaxy-wide massacre of Jedi. [c11] Anakin Skywalker, now Darth Vader, is sent to kill Jedi inside their own Temple. [c12] Jedi deployments across the Outer Rim have left the Temple relatively empty, clearing a path for the planned attack. [c13] Even younglings are targeted. [c14]\n\nHere’s my read: Philip’s coordinated seizure and Palpatine’s command make a chilling pair. The king turns a trusted religious order into a target through a prepared sweep; the Chancellor turns trusted guardians into targets through a command issued at the war’s end. [c15] That is an interpretation of the parallel, not a claim that one story directly inspired the other. The rhyme is in the machinery: secrecy, timing, and the sudden reversal of protection into persecution.\n\nAnd then comes the date that gave this story its modern hook. The popular claim says the Templars’ arrest on Friday, October thirteenth, thirteen-oh-seven, created the Friday-the-thirteenth superstition. [c16] It is a terrific origin story: one ominous morning, one doomed order, one date that seems to carry the curse forward. But the record does not settle it. Some people cite the arrests as the source, while the origins of the superstition remain murky. [c17]\n\nThere is evidence that Friday and the number thirteen were each considered unlucky. [c18] Yet no record shows the two treated together as especially unlucky before the nineteenth century. [c19] So the famous arrest is a possible explanation, not a proven origin. The date may be the perfect legend precisely because it gives a messy history one clean, memorable cause.\n\nSo: Philip’s officers moved together, and Palpatine’s command made the Jedi vulnerable across the galaxy. [c20] The parallel is sharp, but the Friday-the-thirteenth origin story remains uncertain. [c21] Next, do we follow de Molay into the trials, trace how Order Sixty-Six reshapes the Empire, or put the date itself on trial?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "On October 13, 1307, royal soldiers began arresting Templars in France at dawn after secret preparations.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The cards state that secret preparations preceded the October 13 arrests, which began at dawn.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The arrests were surprising and simultaneous.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the arrests came as a surprise and took place simultaneously.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Jacques de Molay, the Templars’ Grand Master, was among those arrested.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies Jacques de Molay, the Grand Master, among those arrested.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "On September 14, 1307, Philip IV sent secret arrest preparations to French bailiffs and seneschals.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Philip sent secret orders to bailiffs and seneschals on September 14, 1307, to prepare for the arrests.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "At dawn on October 13, soldiers captured Templars found in France.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says soldiers captured Templars found in France at dawn on October 13, 1307.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "The Templars were accused of heresy, blasphemy, idolatry, sexual misconduct, and financial corruption.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists heresy, blasphemy, idolatry, homosexual practices, and financial corruption among the accusations; “sexual misconduct” summarizes the listed sexual charge.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Philip IV was deeply in debt due to lavish policies and military endeavors, and the Templars were a powerful rival.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Philip was heavily in debt due to lavish policies and military endeavors and considered the Templars a powerful rival.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "The downfall of the Knights Templar was initiated by King Philip IV of France . Philip, who was heavily in debt due to his lavish policies and military endeavours, saw eliminating the Templars as a way of alleviating his financial hardship and at the same time eliminating a powerful rival.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Philip saw eliminating the Templars as a way to ease financial hardship and eliminate a powerful rival.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly says Philip saw eliminating the Templars as a way to ease financial hardship and eliminate a powerful rival.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "The downfall of the Knights Templar was initiated by King Philip IV of France . Philip, who was heavily in debt due to his lavish policies and military endeavours, saw eliminating the Templars as a way of alleviating his financial hardship and at the same time eliminating a powerful rival.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Public support for the Jedi had weakened by the end of the Clone Wars because of their management of the conflict.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card says public support for the Jedi had weakened by the war’s end because of their management of the conflict.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "With the secrets of Order 66 secure, Sidious and Dooku continued with their plans during the Clone Wars. By the war's end, public support for the Jedi had weakened due to their management of the conflict, while Palpatine remained a popular figure. Palpatine covertly betrayed and disposed of Dooku during the Battle of Coruscant .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Palpatine remained popular by the end of the Clone Wars.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card says Palpatine remained a popular figure by the war’s end.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "With the secrets of Order 66 secure, Sidious and Dooku continued with their plans during the Clone Wars. By the war's end, public support for the Jedi had weakened due to their management of the conflict, while Palpatine remained a popular figure. Palpatine covertly betrayed and disposed of Dooku during the Battle of Coruscant .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Order 66 launched a galaxy-wide massacre of the Jedi.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card describes the events as launching a galaxy-wide massacre of the Jedi.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Anakin Skywalker, now Darth Vader, was sent to kill Jedi in the Jedi Temple.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card says Skywalker, then Darth Vader, was sent to kill Jedi in the Jedi Temple.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Jedi deployments across the Outer Rim Sieges left the Jedi Temple relatively empty, helping the planned attack.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card says Jedi deployments across the Outer Rim Sieges left the Temple relatively empty and helped clear the way for the attack.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Jedi younglings were targeted for execution.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon lore card says Jedi younglings were targeted for execution.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "The comparison between Philip’s coordinated seizure and Palpatine’s command is an interpretation about secrecy, timing, and turning protectors into targets.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The cards support the separate historical and lore events, while the stated comparison between them is explicitly framed as an interpretation.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "A popular claim says the Templar arrests on Friday, October 13, 1307, created the Friday-the-thirteenth superstition.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card confirms that some cite the Templar arrests as the origin of the Friday-the-thirteenth superstition, though it does not establish that they created it.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "Some cite the arrest of the Knights Templar on Friday, October 13, 1307, by officers of King Philip IV of France as the origin of the Friday the 13th superstition, but it is agreed the origins remain murky.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "Some cite the arrests as the origin, but the superstition’s origins remain murky.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says some cite the arrests as an origin but that the superstition’s origins remain murky.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "Some cite the arrest of the Knights Templar on Friday, October 13, 1307, by officers of King Philip IV of France as the origin of the Friday the 13th superstition, but it is agreed the origins remain murky.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "There is evidence that Friday and the number thirteen were each considered unlucky.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says there is evidence that Friday and the number thirteen were each considered unlucky.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "While there is evidence of both Friday and the number 13 being considered unlucky, there is no record of the two items being referred to as especially unlucky in conjunction before the 19th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c19",
+    "text": "There is no record of Friday and thirteen being treated together as especially unlucky before the nineteenth century.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says there is no record of Friday and thirteen being treated together as especially unlucky before the nineteenth century.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "While there is evidence of both Friday and the number 13 being considered unlucky, there is no record of the two items being referred to as especially unlucky in conjunction before the 19th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c20",
+    "text": "Philip’s officers acted together, while Order 66 made Jedi vulnerable across the galaxy.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The cards support the historical coordination and the lore account of Order 66, but describing them together as a parallel is interpretive.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Order 66",
+      "url": "https://starwars.fandom.com/wiki/Order_66",
+      "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c21",
+    "text": "The parallel is interpretive, and the proposed Friday-the-thirteenth origin remains uncertain.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The sentence explicitly presents the cross-story parallel as interpretive and the proposed origin as uncertain, consistent with the cited evidence.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "Some cite the arrest of the Knights Templar on Friday, October 13, 1307, by officers of King Philip IV of France as the origin of the Friday the 13th superstition, but it is agreed the origins remain murky.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Friday the 13th",
+      "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+      "snippet": "While there is evidence of both Friday and the number 13 being considered unlucky, there is no record of the two items being referred to as especially unlucky in conjunction before the 19th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "De Molay faces the royal trials",
+   "Order 66 remakes the Republic into Empire",
+   "Who first feared Friday the thirteenth?"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Philip IV’s secret orders led to a coordinated dawn arrest of Templars across France on October 13, 1307.",
+     "verdict": "fact",
+     "explanation": "Secret preparations were sent to royal officials a month earlier, and the arrests took place at dawn across France. Jacques de Molay was among those arrested.",
+     "evidence_ids": [
+      "E1",
+      "E3"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "On Friday 13 October 1307, Philip had numerous Templars arrested in France , including the Grand Master Jacques de Molay . The arrests came as a surprise and took place simultaneously, which was made possible by careful planning. The Templars were accused of serious offences, including heresy , blasphemy , idolatry , homosexual practices and financial corruption.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E3",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "On 14 September 1307, all bailiffs and seneschals in the Kingdom of France were sent secret orders from King Philip IV ordering preparations to be made for the arrest and imprisonment of all members of the Order of Templars; the arrests were to be executed a month later. At dawn on 13 October 1307, the soldiers of King Philip IV then captured all Templars found in France.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Templar arrests are the proven origin of the Friday-the-thirteenth superstition.",
+     "verdict": "myth",
+     "explanation": "Some people cite the arrests as the source, but the superstition’s origins remain murky. There is no record of Friday and thirteen being treated together as especially unlucky before the nineteenth century.",
+     "evidence_ids": [
+      "E7",
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "Some cite the arrest of the Knights Templar on Friday, October 13, 1307, by officers of King Philip IV of France as the origin of the Friday the 13th superstition, but it is agreed the origins remain murky.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E8",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "While there is evidence of both Friday and the number 13 being considered unlucky, there is no record of the two items being referred to as especially unlucky in conjunction before the 19th century.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Order 66 led to a galaxy-wide massacre of Jedi, including younglings targeted in the Jedi Temple.",
+     "verdict": "fact",
+     "explanation": "The account says Vader was sent to kill Jedi in the Temple, where younglings were also targeted, as Order 66 launched a galaxy-wide massacre.",
+     "evidence_ids": [
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "Meanwhile, Skywalker—now the Sith Lord Darth Vader—was sent to kill the Jedi within the Jedi Temple , thus launching an unprecedented, galaxy-wide massacre. Thanks to the Jedi deployments across the Outer Rim Sieges, the Jedi Temple was relatively empty, helping to clear the way for the planned attack. Within, even Jedi younglings were targeted for execution.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "After the chapter weighs the Templar-arrest origin story against the evidence about Friday and the number thirteen, what conclusion does it reach?",
+    "options": [
+     "The arrests are a proven origin.",
+     "The arrests are a possible but unproven explanation.",
+     "Friday and thirteen were never considered unlucky."
+    ],
+    "answer_index": 1,
+    "reveal_para": 7,
+    "explanation": "The chapter says the arrests are a possible explanation, not a proven origin, because no record shows Friday and thirteen treated together as especially unlucky before the nineteenth century."
+   }
+  }
+ },
+ "branches": {
+  "De Molay faces the royal trials": {
+   "index": 2,
+   "title": "Trials, Orders, and the Aftermath",
+   "narration": "You chose the branch where Jacques de Molay faces the royal proceedings. The question now is not only how the Templars were accused, but how an accusation became an institution’s end.\n\nDe Molay wanted to reform the Templars and adapt them to conditions in the Holy Land as the Crusades waned. [c1] The French monarchy, meanwhile, sought to disband the order and claim its wealth. [c2] There is the pressure point: a grand master trying to reshape his order, and a king who wants the order gone. The men inside that collision did not control the machinery closing around them.\n\nPhilip the Fourth of France had many Templars arrested in thirteen-oh-seven. [c3] Many were tortured into false confessions and then burned at the stake. [c4] Arrest, coerced confession, punishment. That sequence is not a fair contest over evidence. It is a brutal use of power against people who could scarcely answer it.\n\nThe Templars answered directly to the Church, and they had been loyal to it for centuries. [c5] Pope Clement the Fifth was initially reluctant to act against them. [c6] But Philip’s influence and threats weighed on the pope. [c7] In November thirteen-oh-seven, Clement issued a papal bull ordering the Templars’ arrest throughout Europe. [c8]\n\nThe crackdown had crossed a threshold. A royal campaign now carried papal authority, and the question became what rulers across Europe would do with it. The trials dragged on long enough to delay a council that had been called for thirteen-ten by two years. [c9] The council finally convened in thirteen-twelve. [c10]\n\nOn March twenty-second, thirteen-twelve, the Council of Vienne abolished the Templar order by papal decree. [c11] That is the payoff, and it is colder than a battlefield ending. An order can be destroyed through proceedings, decrees, and the surrender of its place in the world.\n\nMost countries complied with the dissolution order, ceding Templar lands to the Hospitallers. [c12] Yet the verdict did not sound the same in every kingdom. Portugal’s King Denis and Aragon’s King James the Second said they found no fault of heresy, blasphemy, or immorality among Templars in their realms. [c13] Remember that contrast. A sweeping decree could end the order, but it did not make every ruler describe its members as guilty.\n\nNow put that history beside Order Sixty-Six. Its execution marked the destruction of the Jedi Order. [c14] Before the Galactic Senate, Palpatine called the Jedi “traitors” who had tried to kill him and seize power. [c15] The Senate applauded the destruction of the Jedi. [c16]\n\nHere’s my read: Philip’s campaign and Palpatine’s purge make a sharp comparison. In both stories, power turns against an order that once held a recognized place, and accusations help frame the order as a threat. The comparison is about the pattern, not a claim that one inspired the other. And the differences matter. The Templars’ story runs through royal arrests, torture, trials, papal authority, and varied responses across kingdoms. Order Sixty-Six is a fictional destruction of the Jedi, with Palpatine’s accusation and the Senate’s applause at its center.\n\nThen there is Friday the thirteenth. The arrests in France began on October thirteenth, thirteen-oh-seven, as our opening chapter established. That historical date is not the same thing as proving the later legend. Similar dates appear in many cultures, but the card leaves unclear whether they are historically connected or coincidental. [c17] So keep the threads separate: the Templar arrests and trials are one story; the later Friday-the-thirteenth association is another. The evidence here does not establish a direct link between them.\n\nSo: De Molay sought reform while the French monarchy sought the order’s dissolution and wealth; papal action and lengthy proceedings ended with the Templars’ abolition. [c18] Order Sixty-Six gives us a compelling fictional comparison in the use of accusation and state power, but it cannot settle the questions the historical record leaves open. [c19] Where should we go next: the Jedi purge from the Senate’s point of view, medieval orders and royal power, or the long life of Friday-the-thirteenth legends?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Jacques de Molay wanted to reform the Templar order and adapt it to conditions in the Holy Land as the Crusades waned.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Jacques de Molay card states that reforming the order and adapting it to conditions in the Holy Land during the Crusades’ waning days was his goal.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "Jacques de Molay's goal as grand master was to reform the order, and adjust it to the situation in the Holy Land during the waning days of the Crusades . As European support for the Crusades diminished, the French monarchy sought to disband the order and claim the wealth of the Templars as its own.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The French monarchy sought to disband the Templars and claim their wealth.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the French monarchy sought to disband the order and claim the Templars’ wealth.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "Jacques de Molay's goal as grand master was to reform the order, and adjust it to the situation in the Holy Land during the waning days of the Crusades . As European support for the Crusades diminished, the French monarchy sought to disband the order and claim the wealth of the Templars as its own.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Philip IV of France had many Templars arrested in 1307.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Knights Templar card states that Philip IV had many members of the order in France arrested in 1307.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+       "snippet": "The Templars were closely tied to the Crusades. As they became unable to secure their holdings in the Holy Land, support for the order faded. In 1307, King Philip IV of France had many of the order's members in France arrested, tortured into giving false confessions, and then burned at the stake. Under pressure from Philip, Pope Clement V disbanded the order in 1312.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Many Templars were tortured into false confessions and burned at the stake.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that many arrested Templars were tortured into false confessions and then burned at the stake.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+       "snippet": "The Templars were closely tied to the Crusades. As they became unable to secure their holdings in the Holy Land, support for the order faded. In 1307, King Philip IV of France had many of the order's members in France arrested, tortured into giving false confessions, and then burned at the stake. Under pressure from Philip, Pope Clement V disbanded the order in 1312.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Templars were directly subordinate to the Church and had been loyal for centuries.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The trials card says the Templars were directly subordinate to the Church and had been loyal for centuries.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Pope Clement V was initially reluctant to take action against the Templars, as they were directly subordinate to the Church and had been loyal for centuries. However, under the strong influence of Philip IV and his threats, Clement felt compelled to act. In November 1307, he issued the papal bull Pastoralis praeeminentiae , which ordered the arrest of the Templars throughout Europe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Clement V was initially reluctant to act against the Templars.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says Clement V was initially reluctant to act against the Templars.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Pope Clement V was initially reluctant to take action against the Templars, as they were directly subordinate to the Church and had been loyal for centuries. However, under the strong influence of Philip IV and his threats, Clement felt compelled to act. In November 1307, he issued the papal bull Pastoralis praeeminentiae , which ordered the arrest of the Templars throughout Europe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Philip IV exerted strong influence and threats on Clement V.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Philip IV exerted strong influence and threats that compelled Clement to act.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Pope Clement V was initially reluctant to take action against the Templars, as they were directly subordinate to the Church and had been loyal for centuries. However, under the strong influence of Philip IV and his threats, Clement felt compelled to act. In November 1307, he issued the papal bull Pastoralis praeeminentiae , which ordered the arrest of the Templars throughout Europe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "In November 1307, Clement V issued a papal bull ordering the Templars’ arrest throughout Europe.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card specifies that Clement issued the arrest bull throughout Europe in November 1307.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Pope Clement V was initially reluctant to take action against the Templars, as they were directly subordinate to the Church and had been loyal for centuries. However, under the strong influence of Philip IV and his threats, Clement felt compelled to act. In November 1307, he issued the papal bull Pastoralis praeeminentiae , which ordered the arrest of the Templars throughout Europe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The council called for 1310 was delayed by two years because the trials were lengthy.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the council called for 1310 was delayed a further two years because of the length of the trials.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "The council which had been called by the Pope for 1310 was delayed for a further two years due to the length of the trials, but was finally convened in 1312. On 22 March 1312, at the Council of Vienne , the Order of the Knights Templar was abolished by papal decree.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The delayed council convened in 1312.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the council was finally convened in 1312.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "The council which had been called by the Pope for 1310 was delayed for a further two years due to the length of the trials, but was finally convened in 1312. On 22 March 1312, at the Council of Vienne , the Order of the Knights Templar was abolished by papal decree.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Council of Vienne abolished the Templar order by papal decree on March 22, 1312.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives March 22, 1312, at the Council of Vienne as the date and place the order was abolished by papal decree.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "The council which had been called by the Pope for 1310 was delayed for a further two years due to the length of the trials, but was finally convened in 1312. On 22 March 1312, at the Council of Vienne , the Order of the Knights Templar was abolished by papal decree.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Most countries complied with the dissolution order and ceded Templar lands to the Hospitallers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that most countries complied with the dissolution order and ceded Templar lands to the Hospitallers.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "After the infamous trials of the Templars in France and the subsequent orders of Pope Clement V to dissolve the order, most countries complied, ceding Templar lands to the Hospitallers. Kings Denis of Portugal and James II of Aragon both proclaimed they found no fault of heresy, blasphemy or immorality in the Templars in their respective realms.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Kings Denis of Portugal and James II of Aragon said they found no fault of heresy, blasphemy, or immorality among Templars in their realms.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card reports that Denis of Portugal and James II of Aragon said they found no fault of heresy, blasphemy, or immorality among Templars in their realms.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "After the infamous trials of the Templars in France and the subsequent orders of Pope Clement V to dissolve the order, most countries complied, ceding Templar lands to the Hospitallers. Kings Denis of Portugal and James II of Aragon both proclaimed they found no fault of heresy, blasphemy or immorality in the Templars in their respective realms.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The execution of Order 66 marked the destruction of the Jedi Order.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Order 66 card states that its execution marked the destruction of the Jedi Order.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "The execution of Order 66 marked the destruction of the Jedi Order. Before the Galactic Senate , Palpatine told the galaxy that the Jedi were traitors who had attempted to kill him and seize power, and the destruction of the Jedi was greeted with applause by the Senate.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Palpatine told the Galactic Senate that the Jedi were traitors who tried to kill him and seize power.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card says Palpatine told the Senate the Jedi were traitors who had tried to kill him and seize power.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "The execution of Order 66 marked the destruction of the Jedi Order. Before the Galactic Senate , Palpatine told the galaxy that the Jedi were traitors who had attempted to kill him and seize power, and the destruction of the Jedi was greeted with applause by the Senate.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The Senate applauded the destruction of the Jedi.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that the Senate greeted the destruction of the Jedi with applause.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "The execution of Order 66 marked the destruction of the Jedi Order. Before the Galactic Senate , Palpatine told the galaxy that the Jedi were traitors who had attempted to kill him and seize power, and the destruction of the Jedi was greeted with applause by the Senate.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The evidence leaves unclear whether similar dates across cultures are historically connected or coincidental.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Friday the 13th card explicitly says it is unclear whether similar dates across cultures are historically connected or coincidental.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "Similar dates are prevalent in many cultures, although it is unclear whether these similarities are in any way historically connected or only coincidental.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "De Molay sought reform, the French monarchy sought dissolution and wealth, and papal action abolished the order after lengthy proceedings.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cited cards plainly support each historical point in this summary: De Molay’s reform goal, the monarchy’s aim, and abolition following lengthy proceedings.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "Jacques de Molay's goal as grand master was to reform the order, and adjust it to the situation in the Holy Land during the waning days of the Crusades . As European support for the Crusades diminished, the French monarchy sought to disband the order and claim the wealth of the Templars as its own.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Jacques de Molay",
+       "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+       "snippet": "The council which had been called by the Pope for 1310 was delayed for a further two years due to the length of the trials, but was finally convened in 1312. On 22 March 1312, at the Council of Vienne , the Order of the Knights Templar was abolished by papal decree.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Pope Clement V was initially reluctant to take action against the Templars, as they were directly subordinate to the Church and had been loyal for centuries. However, under the strong influence of Philip IV and his threats, Clement felt compelled to act. In November 1307, he issued the papal bull Pastoralis praeeminentiae , which ordered the arrest of the Templars throughout Europe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "Order 66 offers a fictional comparison involving accusation and the destruction of an order through state power.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is expressly framed as a fictional comparison about accusation and state power, not as a factual claim that the events are historically linked.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "The execution of Order 66 marked the destruction of the Jedi Order. Before the Galactic Senate , Palpatine told the galaxy that the Jedi were traitors who had attempted to kill him and seize power, and the destruction of the Jedi was greeted with applause by the Senate.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Jedi purge from the Senate’s point of view",
+    "Medieval orders and the machinery of royal power",
+    "How Friday the thirteenth became a legend"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Philip IV had many Templars arrested in France in 1307.",
+      "verdict": "fact",
+      "explanation": "The evidence states that Philip had many members of the order arrested in France that year.",
+      "evidence_ids": [
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "history",
+        "page_title": "Knights Templar",
+        "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+        "snippet": "The Templars were closely tied to the Crusades. As they became unable to secure their holdings in the Holy Land, support for the order faded. In 1307, King Philip IV of France had many of the order's members in France arrested, tortured into giving false confessions, and then burned at the stake. Under pressure from Philip, Pope Clement V disbanded the order in 1312.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Council of Vienne abolished the Templar order by papal decree in 1312.",
+      "verdict": "fact",
+      "explanation": "The council convened in 1312 and abolished the order by papal decree on March 22.",
+      "evidence_ids": [
+       "E20"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "history",
+        "page_title": "Jacques de Molay",
+        "url": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
+        "snippet": "The council which had been called by the Pope for 1310 was delayed for a further two years due to the length of the trials, but was finally convened in 1312. On 22 March 1312, at the Council of Vienne , the Order of the Knights Templar was abolished by papal decree.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Friday-the-thirteenth tradition is historically proven to have begun with the Templar arrests.",
+      "verdict": "myth",
+      "explanation": "The arrests began on October 13, 1307, but the evidence does not establish a historical connection between that date and the later tradition; connections among similar dates remain unclear.",
+      "evidence_ids": [
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "history",
+        "page_title": "Friday the 13th",
+        "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+        "snippet": "Similar dates are prevalent in many cultures, although it is unclear whether these similarities are in any way historically connected or only coincidental.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the Templar order was dissolved, what did most countries do with its lands?",
+     "options": [
+      "They ceded them to the Hospitallers.",
+      "They returned them to the French monarchy.",
+      "They kept them under Templar control."
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "Most countries complied with the dissolution order and ceded Templar lands to the Hospitallers."
+    }
+   }
+  },
+  "Order 66 remakes the Republic into Empire": {
+   "index": 2,
+   "title": "A Date, Two Downfalls",
+   "narration": "France, dawn, Friday, October thirteenth, thirteen-oh-seven. Agents of King Philip simultaneously arrest scores of French Templars. [c1] The image from our opening returns, now with its consequences in view: a powerful order wakes to find royal force at its door.\n\nThe arrests are not the whole story. Templars are later tortured in places including the tower at Chinon, pressed to admit heresy and sacrilegious offenses. [c2] Then they are put to death. [c3] The scene is brutal in its simplicity. A command from the center reaches outward, and people who belonged to a feared institution lose the protection that institution seemed to promise.\n\nKeep that image. Now follow the branch you chose, from the French Crown to the end of the Clone Wars. In nineteen BBY, the Jedi have grown skeptical of Chancellor Palpatine after his accumulation of emergency power. [c4] The Jedi Council discusses forcibly removing him and temporarily overseeing the Senate to maintain political stability during a transition. [c5]\n\nThat is the turn of the screw. The Jedi are not merely watching a ruler gather power. They are considering what to do about it, and their plan puts them inside the political crisis they fear. The choice is dangerous either way: act, and risk appearing to seize authority; wait, and leave the Chancellor’s power untouched. The evidence gives us the council’s discussion, not every private thought behind it. But the dramatic pressure is plain. A body that sees danger in the ruler must decide whether its own intervention will look like danger too.\n\nThen comes Order 66. It is a top-secret contingency order that identifies all Jedi as traitors to the Galactic Republic and makes them subject to summary execution by the Grand Army of the Republic. [c6] One command recasts an entire order as an enemy, and directs the Republic’s army against it. That is the fictional mechanism at the heart of this story: the institution charged with defending the state becomes the instrument of a purge.\n\nThe Empire’s origin is tied to a Sith conspiracy to destroy the Jedi Order and regain control over the galaxy. [c7] At the end of the Clone Wars, the Galactic Empire replaces the Galactic Republic. [c8] The Emperor is, in fact, Darth Sidious, secretly controlling the regime. [c9] So the Jedi’s destruction and the political transformation are not separate endings. The purge clears the way for a new order, while the hidden ruler stands behind it.\n\nHere’s my read: Philip’s agents at the Templar door and Order 66 are thematic mirrors, not links in a proven chain of influence. One is a documented historical arrest campaign; the other is a fictional command in a galactic war. Their shared shape is the point. Authority acts centrally and suddenly against a powerful institution, names it a threat, and changes what political order can survive afterward.\n\nBut a mirror is not a copy. The evidence for France describes arrests, followed by torture and death. The Star Wars evidence describes an order for summary execution, followed by the Republic’s replacement by an Empire. Those are different methods, different scales, different worlds. The comparison works because it lets you see the political rhythm, not because the events are identical.\n\nAnd here is the payoff to that October morning. The date gives us an unforgettable scene, but the deeper story is about who gets to define danger. In France, the Crown’s agents seize Templars; in Star Wars, the Chancellor’s command turns the army against the Jedi. [c10] In one story, the Crown’s action is an arrest campaign. In the other, the purge accompanies a regime change. The same question hangs over both: when the state calls an institution a threat, who is left with the power to challenge that verdict?\n\nSo: on October thirteenth, thirteen-oh-seven, scores of French Templars are arrested, and torture and death follow. [c11] In Star Wars, Order 66 targets the Jedi, and the Republic gives way to the Empire. [c12] The history and the fiction do not need to share a cause to sharpen each other. One gives us a date; the other gives us a command. Together, they show how quickly the language of order can become the machinery of a purge.\n\nWhere next? Follow the Templars from arrest into interrogation and trial. Trace Palpatine’s emergency powers into the Empire’s machinery. Or set Rome’s emperors beside Star Wars’ rulers and their claims to order.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "At dawn on Friday, October 13, 1307, agents of King Philip simultaneously arrested scores of French Templars.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The history card states that agents of King Philip simultaneously arrested scores of French Templars at dawn on Friday, October 13, 1307.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "history",
+       "page_title": "History of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+       "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Templars were tortured at locations including Chinon and pressed to admit heresy and sacrilegious offenses.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The history card says Templars were tortured at locations including the tower at Chinon and pressured to admit heresy and sacrilegious offenses.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "history",
+       "page_title": "History of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+       "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Templars were later put to death.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The history card states that the arrested Templars were then put to death.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "history",
+       "page_title": "History of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+       "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "As the Clone Wars neared their end in 19 BBY, the Jedi were skeptical of Palpatine after his accumulation of emergency power.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that near the war’s end in 19 BBY the Jedi grew skeptical of the Chancellor after his accumulation of emergency power.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "As the war neared its end in 19 BBY , the Jedi Order had grown skeptical of the Chancellor after his accumulation of emergency power. They began to suspect that a plot to destroy the Jedi was nearing fruition. The ruling council started discussing forcibly removing Palpatine from office and temporarily overseeing the Senate in order to maintain political stability during the transition period.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Jedi Council discussed forcibly removing Palpatine and temporarily overseeing the Senate during a transition.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page says the ruling council discussed forcibly removing Palpatine and temporarily overseeing the Senate during the transition.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "As the war neared its end in 19 BBY , the Jedi Order had grown skeptical of the Chancellor after his accumulation of emergency power. They began to suspect that a plot to destroy the Jedi was nearing fruition. The ruling council started discussing forcibly removing Palpatine from office and temporarily overseeing the Senate in order to maintain political stability during the transition period.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Order 66 identified all Jedi as traitors and made them subject to summary execution by the Grand Army of the Republic.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page describes Order 66 as identifying all Jedi as traitors and subjecting them to summary execution by the Grand Army of the Republic.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "Order 66 , also known as Clone Protocol 66 , Protocol 66 , or simply \" the Order ,\" was one of the top-secret contingency orders that identified all Jedi as traitors to the Galactic Republic and, therefore, subject to summary execution by the Grand Army of the Republic .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Empire's origin is tied to a Sith conspiracy to destroy the Jedi Order and regain control over the galaxy.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page explicitly ties the Empire’s origins to a Sith conspiracy to destroy the Jedi Order and regain control of the galaxy.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "The Empire traced its origins to a Sith conspiracy to destroy the Jedi Order and regain control over the galaxy. The Empire was secretly controlled by the Sith , for the Galactic Emperor was, in fact, the Sith Lord Darth Sidious , whose reign was enforced by his apprentice , Darth Vader , whom he eventually elevated to the position of supreme commander of the Imperial fleet .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Galactic Empire replaced the Galactic Republic at the end of the Clone Wars.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that the Galactic Empire replaced the Galactic Republic at the end of the Clone Wars.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "The Galactic Empire , also known as the First Galactic Empire , the Imperial regime , Palpatine's regime , or simply the Empire , and later as the Old Empire , was a totalitarian stratocratic fascist dictatorship that replaced the Galactic Republic at the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Darth Sidious secretly controlled the Empire as Galactic Emperor.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page says the Empire was secretly controlled by Darth Sidious as Galactic Emperor.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "The Empire traced its origins to a Sith conspiracy to destroy the Jedi Order and regain control over the galaxy. The Empire was secretly controlled by the Sith , for the Galactic Emperor was, in fact, the Sith Lord Darth Sidious , whose reign was enforced by his apprentice , Darth Vader , whom he eventually elevated to the position of supreme commander of the Imperial fleet .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The French Crown's agents arrested Templars, while Order 66 turned the Republic's army against the Jedi.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This comparison is a narrator-framed parallel between the documented Templar arrests and the fictional Order 66 purge, not a claim that the events share a cause.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "history",
+       "page_title": "History of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+       "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "Order 66 , also known as Clone Protocol 66 , Protocol 66 , or simply \" the Order ,\" was one of the top-secret contingency orders that identified all Jedi as traitors to the Galactic Republic and, therefore, subject to summary execution by the Grand Army of the Republic .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Scores of French Templars were arrested on October 13, 1307, and torture and death followed.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The history card states that scores of French Templars were arrested on October 13, 1307, and that torture and death followed.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "history",
+       "page_title": "History of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+       "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Order 66 targeted the Jedi, and the Galactic Republic was replaced by the Empire.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This combines canon facts about Order 66 and the Republic’s replacement with the Empire as a summary comparison across fictional events.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "star_wars",
+       "page_title": "Order 66",
+       "url": "https://starwars.fandom.com/wiki/Order_66",
+       "snippet": "Order 66 , also known as Clone Protocol 66 , Protocol 66 , or simply \" the Order ,\" was one of the top-secret contingency orders that identified all Jedi as traitors to the Galactic Republic and, therefore, subject to summary execution by the Grand Army of the Republic .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E17",
+       "pack": "star_wars",
+       "page_title": "Galactic Empire",
+       "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+       "snippet": "The Galactic Empire , also known as the First Galactic Empire , the Imperial regime , Palpatine's regime , or simply the Empire , and later as the Old Empire , was a totalitarian stratocratic fascist dictatorship that replaced the Galactic Republic at the end of the Clone Wars .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Templars: from arrest into interrogation and trial",
+    "Palpatine’s emergency powers become the Empire’s machinery",
+    "Rome’s emperors meet Star Wars’ rulers and their claims to order"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "King Philip’s agents arrested scores of French Templars on October 13, 1307.",
+      "verdict": "fact",
+      "explanation": "The account dates the coordinated arrests to dawn on Friday, October 13, 1307, and says royal agents carried them out.",
+      "evidence_ids": [
+       "E40"
+      ],
+      "evidence": [
+       {
+        "id": "E40",
+        "pack": "history",
+        "page_title": "History of the Knights Templar",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Knights_Templar",
+        "snippet": "At dawn on Friday, October 13, 1307, scores of French Templars were simultaneously arrested by agents of King Philip, later to be tortured in locations such as the tower at Chinon , into admitting heresy and other sacrilegious offenses in the Order. Then they were put to death.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Order 66 made the Jedi subject to summary execution by the Republic’s army.",
+      "verdict": "fact",
+      "explanation": "The order identified all Jedi as traitors and subjected them to summary execution by the Grand Army of the Republic.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "star_wars",
+        "page_title": "Order 66",
+        "url": "https://starwars.fandom.com/wiki/Order_66",
+        "snippet": "Order 66 , also known as Clone Protocol 66 , Protocol 66 , or simply \" the Order ,\" was one of the top-secret contingency orders that identified all Jedi as traitors to the Galactic Republic and, therefore, subject to summary execution by the Grand Army of the Republic .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Jedi Council planned to take over the Senate permanently from Palpatine.",
+      "verdict": "myth",
+      "explanation": "The council discussed forcibly removing Palpatine and temporarily overseeing the Senate during a transition, not ruling it permanently.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "star_wars",
+        "page_title": "Galactic Empire",
+        "url": "https://starwars.fandom.com/wiki/Galactic_Empire",
+        "snippet": "As the war neared its end in 19 BBY , the Jedi Order had grown skeptical of the Chancellor after his accumulation of emergency power. They began to suspect that a plot to destroy the Jedi was nearing fruition. The ruling council started discussing forcibly removing Palpatine from office and temporarily overseeing the Senate in order to maintain political stability during the transition period.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the Jedi Council’s discussion of removing Palpatine, what order turned the Republic’s army against the Jedi?",
+     "options": [
+      "Order 66",
+      "Order 65",
+      "The Clone Wars ceasefire"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "Order 66 branded the Jedi traitors and made them subject to summary execution by the Grand Army of the Republic."
+    }
+   }
+  },
+  "Who first feared Friday the thirteenth?": {
+   "index": 2,
+   "title": "The Date, the Fear, the Purge",
+   "narration": "So, who first feared Friday the thirteenth? The evidence in front of us cannot name that person. It gives us a later paper trail, and a novel that may have helped the superstition travel. [c1]\n\nBegin with the date at the heart of the story. The Templars’ arrests are associated with Friday, October thirteenth, thirteen-oh-seven in the story we have been following. But the evidence supplied for this chapter does not establish that date, or show that people feared the day because of it. [c2] A memorable coincidence can attract a legend. It cannot, by itself, tell us when the legend began.\n\nThe earliest documented English reference listed here appears in H. S. Edwards’ biography of Gioachino Rossini, who died on Friday, November thirteenth, eighteen sixty-eight. [c3] That is a clue about a reference that was documented. It is not proof that nobody felt the superstition earlier. The first surviving footprint is not necessarily the first step.\n\nThen the story reaches print in a new way. In nineteen-oh-seven, T. W. Lawson’s popular novel Friday, the Thirteenth appeared. [c4] In it, an unscrupulous broker exploits the superstition to create a Wall Street panic on Friday the thirteenth. [c5] The novel may have helped popularize the superstition. [c6] That possibility is not a birth certificate. But it gives the fear a vivid stage: a date becomes a weapon, and panic becomes profitable.\n\nHere is the distinction worth holding onto. The evidence supports a documented English reference in eighteen sixty-eight and a possible boost from Lawson’s novel in nineteen-oh-seven. [c7] It does not establish that medieval Europeans feared Friday the thirteenth. [c8] Nor does it identify who first linked the date and the fear. The leap from “a dramatic event happened on that date” to “people feared the date at the time” is tempting. It is also where a later legend can slip into the past.\n\nNow return to the other purge in our title. In Star Wars lore, Order 66 is the execution in which clone troopers slaughter Jedi on Darth Sidious’s command. [c9] The Great Jedi Purge follows that initial execution, as the Galactic Empire hunts scattered Jedi survivors. [c10] The lore gives the wider purge the dates nineteen BBY to three BBY and describes it as lasting sixteen years. [c11] At the end of the Clone Wars, Anakin Skywalker discovers that Palpatine is Darth Sidious and informs Mace Windu. [c12]\n\nHere’s my read: the Templar arrests and Order 66 make a striking parallel in the shape of a coordinated strike remembered as betrayal. That is an interpretation, not proof that the events were the same or that one inspired the other. [c13] One story concerns a historical arrest campaign; the other is a fictional purge in a galaxy far, far away. The comparison can illuminate how sudden purges become stories. It cannot make their histories interchangeable.\n\nSo: the available trail leads to an English reference from eighteen sixty-eight and a novel from nineteen-oh-seven that may have helped spread the superstition. [c14] It does not reveal the first person who feared the date, or prove a medieval origin. [c15] The satisfying answer is not a name. It is the boundary between what we can trace and what the legend asks us to imagine.\n\nFor the next journey: the Templars’ trial and the documents that survived; the Roman roots of imperial power in Star Wars; or how Friday the thirteenth became a cultural fear. Which thread calls to you?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The supplied evidence cannot identify the first person who feared Friday the thirteenth; it offers later documentation and a novel that may have helped spread the superstition.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards document a later reference and a possible popularizing novel, but the statement that they cannot identify the first person is a framing of what this evidence set does not show.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The supplied evidence for this chapter does not establish the Templar arrest date or that people feared Friday the thirteenth because of the arrests.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No cited card establishes the Templar arrest date or whether people feared Friday the thirteenth because of the arrests; E35 concerns a different chronology issue.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Trials of the Knights Templar",
+       "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+       "snippet": "Other discrepancies between the two lead to the conclusion that the French document was an indirect copy based on verbal accounts and not from having access to the original parchment. There is one unresolved question as to the chronology, however.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "An early documented English reference appears in H. S. Edwards’ biography of Gioachino Rossini, who died on Friday, November 13, 1868.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E34 identifies Edwards’ Rossini biography as an early documented English reference and gives Rossini’s death date.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "T. W. Lawson’s popular novel Friday, the Thirteenth appeared in 1907.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 states that Lawson’s novel was published in 1907.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "In Lawson’s novel, an unscrupulous broker exploits the superstition to create a Wall Street panic on Friday the thirteenth.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 says the novel’s unscrupulous broker exploits the superstition to create a Wall Street panic on Friday the thirteenth.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Lawson’s novel may have helped popularize the superstition.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E33 says the novel possibly contributed to popularizing the superstition, and the narration preserves that uncertainty.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The supplied evidence includes an early documented English reference in 1868 and a possible popularizing role for a 1907 novel.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E33 and E34 support the stated summary: an early English reference in 1868 and a novel that possibly helped popularize the superstition.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The supplied evidence does not establish that medieval Europeans feared Friday the thirteenth.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards provide no medieval evidence, so this is a fair statement about the limits of the supplied evidence rather than a separately established historical fact.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "In Star Wars lore, Order 66 is the execution in which clone troopers slaughter Jedi on Darth Sidious’s command.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Great Jedi Purge card describes Order 66 as an execution in which clone troopers slaughtered Jedi on Darth Sidious’s command.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Great Jedi Purge",
+       "url": "https://starwars.fandom.com/wiki/Great_Jedi_Purge",
+       "snippet": "The Great Jedi Purge ( 19 BBY — 3 BBY ), also known as the war against the Jedi , was the sixteen year —long genocide that saw the scattered survivors of the Jedi Order hunted down by the Galactic Empire after the initial execution of Order 66 , in which clone troopers slaughtered the Jedi upon the Sith Lord Darth Sidious command.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Great Jedi Purge follows Order 66 as the Galactic Empire hunts scattered Jedi survivors.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card says the Galactic Empire hunted scattered Jedi survivors after the initial execution of Order 66.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Great Jedi Purge",
+       "url": "https://starwars.fandom.com/wiki/Great_Jedi_Purge",
+       "snippet": "The Great Jedi Purge ( 19 BBY — 3 BBY ), also known as the war against the Jedi , was the sixteen year —long genocide that saw the scattered survivors of the Jedi Order hunted down by the Galactic Empire after the initial execution of Order 66 , in which clone troopers slaughtered the Jedi upon the Sith Lord Darth Sidious command.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The lore dates the Great Jedi Purge from 19 BBY to 3 BBY and describes it as lasting sixteen years.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card gives the Great Jedi Purge dates as 19 BBY to 3 BBY and describes it as sixteen years long.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Great Jedi Purge",
+       "url": "https://starwars.fandom.com/wiki/Great_Jedi_Purge",
+       "snippet": "The Great Jedi Purge ( 19 BBY — 3 BBY ), also known as the war against the Jedi , was the sixteen year —long genocide that saw the scattered survivors of the Jedi Order hunted down by the Galactic Empire after the initial execution of Order 66 , in which clone troopers slaughtered the Jedi upon the Sith Lord Darth Sidious command.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "At the end of the Clone Wars, Anakin Skywalker discovers Palpatine is Darth Sidious and informs Mace Windu.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon card states that Anakin discovered Palpatine was Darth Sidious and informed Mace Windu at the end of the Clone Wars.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "star_wars",
+       "page_title": "Great Jedi Purge",
+       "url": "https://starwars.fandom.com/wiki/Great_Jedi_Purge",
+       "snippet": "The Great Jedi Purge began at the end of the Clone Wars during the Confederacy of Independent Systems ' final defeat by the Republic. Anakin Skywalker , a Jedi Knight believed to be the Chosen One destined to destroy the Sith, discovered that Palpatine was Darth Sidious and informed Jedi Master Mace Windu .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Comparing the Templar arrests with Order 66 is interpretive; the evidence does not establish that the events are identical or that one inspired the other.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The narration explicitly presents the comparison as an interpretation and disclaims claims of identity or historical influence.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "Great Jedi Purge",
+       "url": "https://starwars.fandom.com/wiki/Great_Jedi_Purge",
+       "snippet": "The Great Jedi Purge ( 19 BBY — 3 BBY ), also known as the war against the Jedi , was the sixteen year —long genocide that saw the scattered survivors of the Jedi Order hunted down by the Galactic Empire after the initial execution of Order 66 , in which clone troopers slaughtered the Jedi upon the Sith Lord Darth Sidious command.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The supplied evidence points to an 1868 English reference and a 1907 novel that may have helped popularize the superstition.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E34 supports the early English reference, and E33 supports only a possible popularizing role for the 1907 novel, as stated.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The supplied evidence does not identify the first person to fear Friday the thirteenth or prove a medieval origin.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards do not identify a first person or establish a medieval origin, so this is a framing of the evidence’s limits.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Friday the 13th",
+       "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+       "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Templars’ trial and the documents that survived",
+    "Rome’s shadow over Star Wars imperial power",
+    "How Friday the thirteenth became a cultural fear"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "An English reference to Friday the thirteenth appears in 1868, in a biography of Gioachino Rossini.",
+      "verdict": "fact",
+      "explanation": "The cited biography is listed as an early documented English reference and notes that Rossini died on Friday, November 13, 1868.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "history",
+        "page_title": "Friday the 13th",
+        "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+        "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Templars’ arrests established Friday the thirteenth as a day people feared in medieval Europe.",
+      "verdict": "myth",
+      "explanation": "The evidence does not establish that medieval Europeans feared the date or that the Templar arrests caused the superstition. It points instead to a documented English reference in 1868.",
+      "evidence_ids": [
+       "E33",
+       "E34",
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E33",
+        "pack": "history",
+        "page_title": "Friday the 13th",
+        "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+        "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E34",
+        "pack": "history",
+        "page_title": "Friday the 13th",
+        "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+        "snippet": "An early documented reference in English occurs in H. S. Edwards' biography of Gioachino Rossini , who died on Friday 13th of November 1868:",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E35",
+        "pack": "history",
+        "page_title": "Trials of the Knights Templar",
+        "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+        "snippet": "Other discrepancies between the two lead to the conclusion that the French document was an indirect copy based on verbal accounts and not from having access to the original parchment. There is one unresolved question as to the chronology, however.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "T. W. Lawson’s 1907 novel may have helped popularize the Friday the thirteenth superstition.",
+      "verdict": "debated",
+      "explanation": "The novel’s publication and plot are documented, but its role in popularizing the superstition is presented as possible, not certain.",
+      "evidence_ids": [
+       "E33"
+      ],
+      "evidence": [
+       {
+        "id": "E33",
+        "pack": "history",
+        "page_title": "Friday the 13th",
+        "url": "https://en.wikipedia.org/wiki/Friday_the_13th",
+        "snippet": "It is possible that the publication in 1907 of T. W. Lawson 's popular novel Friday, the Thirteenth , contributed to popularizing the superstition. In the novel, an unscrupulous broker takes advantage of the superstition to create a Wall Street panic on a Friday the 13th.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "A 1907 novel turns Friday the thirteenth into a weapon on Wall Street. What does its unscrupulous broker do?",
+     "options": [
+      "Creates a market panic by exploiting the superstition",
+      "Uses the superstition to help the Templars escape",
+      "Persuades people that the date began with Rossini’s death"
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "In the novel, the broker exploits the superstition to create a Wall Street panic on Friday the thirteenth."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "The Last Templar (A Medieval West Country Mystery)",
+   "author": "Michael Jecks",
+   "year": 1995,
+   "why": "A medieval mystery that offers a fictional route back into the world of the Templars and the upheaval surrounding their persecution.",
+   "url": "https://openlibrary.org/works/OL275928W"
+  },
+  {
+   "title": "Star Wars Episode III - Revenge of the Sith",
+   "author": "Matthew Woodring Stover",
+   "year": 2005,
+   "why": "Its account of the Jedi purge makes a compelling fictional counterpart to an episode about political orders, purges, and their aftermath.",
+   "url": "https://openlibrary.org/works/OL2727030W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8275,
+   "cached_tokens": 7342,
+   "cache_write_tokens": 429,
+   "output_tokens": 1412,
+   "cost_usd": 0.00088344
+  },
+  {
+   "agent": "researcher",
+   "requests": 14,
+   "input_tokens": 47984,
+   "cached_tokens": 36024,
+   "cache_write_tokens": 10196,
+   "output_tokens": 1898,
+   "cost_usd": 0.00276013
+  },
+  {
+   "agent": "storyteller",
+   "requests": 7,
+   "input_tokens": 33532,
+   "cached_tokens": 22169,
+   "cache_write_tokens": 10481,
+   "output_tokens": 12968,
+   "cost_usd": 0.00810401
+  },
+  {
+   "agent": "skeptic",
+   "requests": 7,
+   "input_tokens": 32079,
+   "cached_tokens": 15995,
+   "cache_write_tokens": 15202,
+   "output_tokens": 7315,
+   "cost_usd": 0.00580589
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1852,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 402,
+   "output_tokens": 265,
+   "cost_usd": 0.00020859
+  }
+ ],
+ "build_cost_usd": 0.017762,
+ "build_seconds": 94.9
+}

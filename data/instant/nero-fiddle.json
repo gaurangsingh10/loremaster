@@ -1,0 +1,1262 @@
+{
+ "thread": {
+  "id": "nero-fiddle",
+  "title": "Did Nero Fiddle While Rome Burned?",
+  "hook": "The most famous image of a bad emperor, put on trial against the sources.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Rome, AD 64",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Nero’s Fiddle on Trial",
+ "logline": "Did Nero really play music while Rome burned, or did history turn a complicated emperor into its most enduring villain?",
+ "plan": [
+  {
+   "title": "A City in Flames",
+   "focus": "Open with the irresistible image of Nero performing as Rome burns, then separate the fire itself from the story attached to it. Set out what ancient accounts say about the fire and Nero’s actions during and after it.",
+   "queries": [
+    "history: Great Fire of Rome",
+    "history: Nero Great Fire Tacitus",
+    "history: Suetonius Nero fire"
+   ],
+   "packs": [
+    "history"
+   ]
+  },
+  {
+   "title": "The Story After the Fire",
+   "focus": "Put the fiddling claim on trial by examining how Tacitus, Suetonius, and Cassius Dio report or shape it, and what can—and cannot—be established. End by weighing the image of Nero as villain against the limits and biases of the surviving sources.",
+   "queries": [
+    "history: Tacitus Annals Nero fire",
+    "history: Suetonius Nero cithara",
+    "history: Cassius Dio Nero Great Fire"
+   ],
+   "packs": [
+    "history"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A City in Flames",
+  "narration": "Rome, July, sixty-four AD. The night is red above the Circus Maximus. The irresistible picture says Nero performs while his city burns. [c1] It is a powerful image, but the evidence cards here do not establish that scene. Let the image stand as a story people tell, not a fact we can certify.\n\nThe fire itself needs no embellishment. It began on the evening of July eighteenth or nineteenth, in sixty-four AD, among the merchant shops around the Circus Maximus, Rome’s chariot stadium. [c2] Here are the first solid footholds: a date, a place, and a blaze in the city’s commercial heart.\n\nThe flames were not finished after one night. The fire was brought under control after six days. Before the damage could be assessed, it reignited and burned for another three days. [c3] Imagine the cruel arithmetic: just as people begin to count what remains, the danger returns. Rome’s ordeal came in two waves, not one cinematic instant.\n\nAnd now comes the first crack in the familiar picture. According to Tacitus, Nero was in Antium, away from Rome, when the fire broke out. He returned to the city, arranged for food supplies, and opened gardens and public buildings to accommodate refugees. [c4] That report does not settle Nero’s character or prove his innocence. It gives us an account of his actions after the fire began.\n\nThe scale of the loss was immense. Of Rome’s fourteen districts, three were completely devastated. Seven more were reduced to scorched and mangled ruins, and only four completely escaped damage. [c5] The numbers make the city feel less like a backdrop and more like a map being erased. Four districts spared. Ten damaged. Three devastated outright.\n\nSo why does Nero remain at the center of the accusation? Because the fire’s cause became a contest of explanations. Some Romans thought it was an accident. The merchant shops were timber-framed and sold flammable goods, and the Circus’s outer seating stands were timber-built. Others claimed arson had been committed on Nero’s behalf. [c6] One explanation points to combustible buildings. The other points toward the emperor. Their circulation does not make them equally proven.\n\nThe sources themselves make certainty difficult. The surviving historical accounts come from Tacitus, Cassius Dio, and Suetonius. Possible earlier histories by Fabius Rusticus, Marcus Cluvius Rufus, and Pliny the Elder do not survive. [c7] We hear the fire through later tellings, while some earlier voices are missing. That gap does not make every version equally credible. It does make the neatest story deserve the hardest questions.\n\nAnd the neatest accusation had a motive ready-made. Suetonius says many Romans believed Nero started the fire to clear land for his planned Golden House. [c8] The charge practically writes its own prosecution speech: a ruler wants space, a city burns, and a palace rises from the ashes. It is potent. But a belief about motive is not proof of an order to set the fire.\n\nThere was another target for blame. Rumor said Nero had started the fire, and Christians—already unpopular—were said to have caused it, shifting blame away from the emperor. The post-fire persecution is documented by Tacitus; the later account by Sulpicius Severus openly relies on Tacitus. [c9] That record matters, and it has limits. It tells us about a tradition of persecution in the surviving sources. It does not turn rumor into a reliable account of the fire’s origin.\n\nHere’s my take: the fire is certain; the stories around it are the battlefield. Nero may be absent from the opening scene and present in the response. Accusations follow, but the surviving accounts do not hand us a simple, uncontested answer. [c10] The image of Nero performing as Rome burns is unforgettable. Unforgettable is not the same as established.\n\nSo: a real fire began near the Circus Maximus, burned in two stretches, and devastated much of Rome. Nero’s actions afterward are reported, while responsibility for the blaze remains tangled in accusations and missing sources. What should we put on trial next: the performance legend, the Golden House accusation, or the blame placed on Christians?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "A popular image portrays Nero performing while Rome burns, but the provided evidence does not establish that scene.",
+    "kind": "history",
+    "grade": "Unsupported",
+    "note": "No evidence card supports this framing of the popular image or establishes that Nero performed while Rome burned.",
+    "evidence": []
+   },
+   {
+    "id": "c2",
+    "text": "The Great Fire began on the evening of July 18 or 19, 64 AD, in merchant shops around the Circus Maximus.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E1 plainly gives the evening of July 18–19, 64 AD, and the merchant shops around the Circus Maximus as the fire’s starting time and place.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "The Great Fire of Rome ( Latin : incendium magnum Romae ) began on the evening of 18–19 July 64 AD. The fire started in the merchant shops around Rome's chariot stadium, Circus Maximus . After six days, the fire was brought under control, but before the damage could be assessed, the fire reignited and burned for another three days.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The fire was brought under control after six days, then reignited and burned for three more days.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E1 states that the fire was controlled after six days, then reignited and burned for another three.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "The Great Fire of Rome ( Latin : incendium magnum Romae ) began on the evening of 18–19 July 64 AD. The fire started in the merchant shops around Rome's chariot stadium, Circus Maximus . After six days, the fire was brought under control, but before the damage could be assessed, the fire reignited and burned for another three days.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Tacitus says Nero was in Antium when the fire broke out, then returned, arranged food supplies, and opened gardens and public buildings to refugees.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E2 attributes this account to Tacitus and states that Nero was in Antium, returned, arranged food supplies, and opened gardens and public buildings to refugees.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "According to Tacitus , Nero was away from Rome , in Antium , when the fire broke out. Nero returned to the city and took measures to bring in food supplies and to open gardens and public buildings to accommodate refugees. Of Rome's fourteen districts, three were completely devastated, seven more were reduced to a few scorched and mangled ruins and only four completely escaped damage.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Three of Rome's fourteen districts were devastated, seven more heavily damaged, and four escaped damage.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E2 gives the stated breakdown of Rome’s fourteen districts and their damage.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "According to Tacitus , Nero was away from Rome , in Antium , when the fire broke out. Nero returned to the city and took measures to bring in food supplies and to open gardens and public buildings to accommodate refugees. Of Rome's fourteen districts, three were completely devastated, seven more were reduced to a few scorched and mangled ruins and only four completely escaped damage.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Some Romans considered the fire accidental because of combustible timber structures, while others alleged arson on Nero's behalf.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 directly reports both explanations as views held by some Romans, not as established causes.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Nero",
+      "url": "https://en.wikipedia.org/wiki/Nero",
+      "snippet": "Some Romans thought the fire an accident, as the merchant shops were timber-framed and sold flammable goods, and the outer seating stands of the Circus were timber-built. Others claimed it was arson committed on Nero's behalf.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The surviving accounts are by Tacitus, Cassius Dio, and Suetonius, while several possible earlier histories do not survive.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E7 names Tacitus, Cassius Dio, and Suetonius as sources for the surviving accounts and says the possible earlier histories do not survive.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "The varying historical accounts of the event come from three secondary sources— Cassius Dio , Suetonius , and Tacitus. The primary accounts, which possibly included histories written by Fabius Rusticus , Marcus Cluvius Rufus , and Pliny the Elder , do not survive. At least six separate stories circulate regarding Nero and the fire:",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Suetonius reports that many Romans believed Nero started the fire to clear land for his Golden House.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 explicitly says Suetonius reports that many Romans believed Nero instigated the fire to clear land for the Golden House.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Nero",
+      "url": "https://en.wikipedia.org/wiki/Nero",
+      "snippet": "Most Roman sources offer overwhelmingly negative assessments of his personality and reign. Most contemporary sources describe him as tyrannical, self-indulgent, and debauched. The historian Tacitus claims the Roman people thought him compulsive and corrupt. Suetonius tells that many Romans believed the Great Fire of Rome was instigated by Nero to clear land for his planned \" Golden House \".",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Rumor blamed Christians for the fire, and Tacitus is the notable surviving source documenting post-fire persecution, alongside a later account that relies on him.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E8 supports the reported rumor blaming Christians and identifies Tacitus as the notable record of post-fire persecution, with Sulpicius Severus relying on Tacitus.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "Rumor had it that Nero had started the fire. Therefore, to blame someone else for it (and thus exonerate Nero from blame), the fire was said to have been caused by the already unpopular Christians . However, record of the post-fire Christian persecution has notably been documented by Tacitus (and in the fifth century, Sulpicius Severus, who openly relied on Tacitus as a source) only.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The fire is established, but surviving accounts leave responsibility contested.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The fire is established in E1, while E4 and E7 present competing claims and limitations in the surviving accounts; calling responsibility contested is the narrator’s synthesis.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "The Great Fire of Rome ( Latin : incendium magnum Romae ) began on the evening of 18–19 July 64 AD. The fire started in the merchant shops around Rome's chariot stadium, Circus Maximus . After six days, the fire was brought under control, but before the damage could be assessed, the fire reignited and burned for another three days.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Nero",
+      "url": "https://en.wikipedia.org/wiki/Nero",
+      "snippet": "Some Romans thought the fire an accident, as the merchant shops were timber-framed and sold flammable goods, and the outer seating stands of the Circus were timber-built. Others claimed it was arson committed on Nero's behalf.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Great Fire of Rome",
+      "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "snippet": "The varying historical accounts of the event come from three secondary sources— Cassius Dio , Suetonius , and Tacitus. The primary accounts, which possibly included histories written by Fabius Rusticus , Marcus Cluvius Rufus , and Pliny the Elder , do not survive. At least six separate stories circulate regarding Nero and the fire:",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Put Nero’s performance legend on trial",
+   "Follow the Golden House accusation",
+   "Trace the blame placed on Christians"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Nero performed while Rome burned.",
+     "verdict": "myth",
+     "explanation": "The chapter presents this as a popular image, but the provided evidence does not establish that Nero performed during the fire.",
+     "evidence_ids": [],
+     "evidence": []
+    },
+    {
+     "statement": "The Great Fire of Rome began near the Circus Maximus on July 18 or 19, 64 AD.",
+     "verdict": "fact",
+     "explanation": "The evidence gives that date and says the fire began in merchant shops around the Circus Maximus.",
+     "evidence_ids": [
+      "E1"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "The Great Fire of Rome ( Latin : incendium magnum Romae ) began on the evening of 18–19 July 64 AD. The fire started in the merchant shops around Rome's chariot stadium, Circus Maximus . After six days, the fire was brought under control, but before the damage could be assessed, the fire reignited and burned for another three days.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Nero started the fire to make room for his Golden House.",
+     "verdict": "myth",
+     "explanation": "Suetonius reports that many Romans believed this, but a reported belief about motive is not proof that Nero ordered the fire.",
+     "evidence_ids": [
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Most Roman sources offer overwhelmingly negative assessments of his personality and reign. Most contemporary sources describe him as tyrannical, self-indulgent, and debauched. The historian Tacitus claims the Roman people thought him compulsive and corrupt. Suetonius tells that many Romans believed the Great Fire of Rome was instigated by Nero to clear land for his planned \" Golden House \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "According to Tacitus, where was Nero when the fire broke out?",
+    "options": [
+     "In Antium",
+     "At the Circus Maximus",
+     "In the Roman Forum"
+    ],
+    "answer_index": 0,
+    "reveal_para": 3,
+    "explanation": "Tacitus's account places Nero in Antium when the fire began."
+   }
+  }
+ },
+ "branches": {
+  "Put Nero’s performance legend on trial": {
+   "index": 2,
+   "title": "The Legend on Trial",
+   "narration": "You chose the trial: did Nero perform while Rome burned? The fire began in shops near the Circus, where flammable goods met a night of strong winds. [c1] It raced along the Circus, then through narrow streets and closely packed apartment blocks. [c2] That is the combustible setting. The question is what Nero did inside it.\n\nTacitus places Nero at Antium when the fire began. [c3] He says Nero returned to Rome and organized relief, including the removal of bodies and debris, paid for from his own funds. [c4] Tacitus suspends judgment on Nero’s responsibility for the fire. [c5] So this account gives us no simple acquittal. It gives us a location, a response, and a historian unwilling to close the case.\n\nNow comes the image everyone recognizes: Nero above the flames, serenading a burning city. One account says Nero watched from the Palatine, sang, and played the lyre; it also accuses him of secretly sending men to set the city alight. [c6] But that is a reported accusation, not a settled account. Tacitus places Nero at Antium when the fire began and describes his return and relief work. [c7] These accounts conflict over the scene. Keep the accusation in view, but do not mistake its vividness for certainty.\n\nAnd the instrument matters. The popular saying goes that Nero fiddled while Rome burned. [c8] The performance account names a lyre, not a fiddle. [c9] The evidence here does not establish Nero playing a fiddle during the fire. [c10] That distinction is small enough to fit in a punchline, and large enough to change the picture. The saying is a memorable legend; it is not a literal detail these cards confirm.\n\nHere’s the reveal: the drama is not a confirmed musician above the flames. It is a ruler whose city is burning, whose whereabouts and response come through accounts that disagree, and whose reputation lets the most vivid accusation stick. Tacitus explicitly suspends judgment on Nero’s responsibility. [c11] The other account reports a lurid tableau of Nero singing while the city burns. [c12] Put those together, and the legend becomes a trial with competing testimony, not a verdict.\n\nThe fire itself needs no embellishment. Shops, wind, the Circus, and streets crowded with buildings make the catastrophe intelligible. [c13] Nero’s relief effort belongs in the account too, but relief does not prove innocence. [c14] Nor does an accusation of performance prove that he started the fire. The evidence leaves those questions open.\n\nSo return to the opening image: Rome beneath a red sky, Nero making music as the city burns. One account reports singing and a lyre, while Tacitus places Nero at Antium when the fire began and describes his return to organize aid. [c15] The image is powerful as a story, but the evidence does not let us certify it as what happened.\n\nSo: Rome burned, Nero’s response is reported, and the performance tale survives beside a conflicting account. The fiddle is the legend’s sharpest prop, not a detail these cards establish. [c16] For the next episode, we could follow the rebuilding of Rome, trace Nero’s final crisis, or investigate how Roman rumor turned rulers into legends. Which road do you choose?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The fire began in shops near the Circus where flammable goods were stored, amid strong winds.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the fire began in shops storing flammable goods near the Circus and that strong winds drove its spread.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , the fire began in shops where flammable goods were stored, in the region of the Circus neighboring the Caelian and Palatine Hills of Rome . The night brought strong winds and the flames rapidly spread along the full length of the Circus. The fire expanded through an area of narrow, twisting streets and closely located apartment blocks.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The fire spread along the Circus and through narrow streets and closely located apartment blocks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that flames spread along the Circus and into narrow streets and closely located apartment blocks.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , the fire began in shops where flammable goods were stored, in the region of the Circus neighboring the Caelian and Palatine Hills of Rome . The night brought strong winds and the flames rapidly spread along the full length of the Circus. The fire expanded through an area of narrow, twisting streets and closely located apartment blocks.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Tacitus found Nero was at Antium when the fire began.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Tacitus’s account, as summarized in the card, places Nero at Antium when the fire started.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Tacitus says Nero returned to Rome and organized relief, including removing bodies and debris at his own expense.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Tacitus reports Nero returned, organized relief, and paid from his own funds to remove bodies and debris.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Tacitus suspended judgment on Nero's responsibility for the fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says Tacitus suspended judgment on Nero’s responsibility for the fire.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "One account accuses Nero of watching from the Palatine, singing and playing a lyre, and secretly sending men to set the city on fire.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card reports this as one account’s accusation and tableau, but it does not establish that Nero actually did these things.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Tacitus's account places Nero at Antium when the fire began and describes his return to organize relief.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card summarizes Tacitus as placing Nero at Antium when the fire began and reporting his return and relief effort.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "A popular saying or legend claims Nero fiddled while Rome burned.",
+     "kind": "history",
+     "grade": "Legend",
+     "note": "The card identifies the expression as the saying derived from the lyre story, not a literal detail it verifies.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The account describing Nero's performance says he played a lyre.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The account summarized in the card explicitly names a lyre as the instrument.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The evidence cards do not establish Nero playing a fiddle during the fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The performance account names a lyre, and neither cited card establishes that Nero played a fiddle.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Tacitus suspended judgment on Nero's responsibility for the fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly states that Tacitus suspended judgment on Nero’s responsibility.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "One account reports Nero singing and playing the lyre while Rome burned.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card reports an account of Nero singing and playing while Rome burned, but it does not establish the scene as historical fact.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The fire spread from shops near the Circus through narrow streets and packed apartment buildings amid strong winds.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports the fire’s origin, route, narrow streets, apartment blocks, and strong winds as narrated.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , the fire began in shops where flammable goods were stored, in the region of the Circus neighboring the Caelian and Palatine Hills of Rome . The night brought strong winds and the flames rapidly spread along the full length of the Circus. The fire expanded through an area of narrow, twisting streets and closely located apartment blocks.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Tacitus's account says Nero organized relief and paid for removal of bodies and debris himself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Tacitus reported Nero’s relief work and personal payment for removing bodies and debris.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "One account reports Nero singing and playing a lyre, while Tacitus places Nero at Antium when the fire began and reports his return to organize aid.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The cards support the two accounts being reported, but the performance tableau is not established and contrasts with Tacitus’s account.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The cards report Rome's fire, Nero's relief response, and a performance account that names a lyre rather than establishing a fiddle.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This summarizes what the cards report and draws the narrator’s interpretive distinction between the lyre account and the unestablished fiddle detail.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , the fire began in shops where flammable goods were stored, in the region of the Circus neighboring the Caelian and Palatine Hills of Rome . The night brought strong winds and the flames rapidly spread along the full length of the Circus. The fire expanded through an area of narrow, twisting streets and closely located apartment blocks.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "After the ashes: who rebuilt Rome, and at what cost?",
+    "Nero’s final crisis: an emperor loses his grip",
+    "How Roman rumor turned rulers into legends"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Great Fire began in shops near the Circus amid strong winds.",
+      "verdict": "fact",
+      "explanation": "Tacitus’s account places the fire’s start in shops storing flammable goods and describes strong winds helping it spread.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Great Fire of Rome",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+        "snippet": "According to Tacitus , the fire began in shops where flammable goods were stored, in the region of the Circus neighboring the Caelian and Palatine Hills of Rome . The night brought strong winds and the flames rapidly spread along the full length of the Circus. The fire expanded through an area of narrow, twisting streets and closely located apartment blocks.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nero was at the Palatine, singing and playing a lyre as Rome burned.",
+      "verdict": "debated",
+      "explanation": "One account reports Nero watching and performing there, but Tacitus places him at Antium when the fire began and describes his return to organize relief. The accounts conflict.",
+      "evidence_ids": [
+       "E9",
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E9",
+        "pack": "history",
+        "page_title": "Great Fire of Rome",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+        "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E24",
+        "pack": "history",
+        "page_title": "Nero",
+        "url": "https://en.wikipedia.org/wiki/Nero",
+        "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nero played a fiddle while Rome burned.",
+      "verdict": "myth",
+      "explanation": "The popular saying is a legend, and the performance account names a lyre, not a fiddle. The cards do not establish that Nero played a fiddle during the fire.",
+      "evidence_ids": [
+       "E9",
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E9",
+        "pack": "history",
+        "page_title": "Great Fire of Rome",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+        "snippet": "Motivated by a desire to destroy the city, Nero secretly sent out men pretending to be drunk to set fire to the city. Nero watched from his palace on the Palatine Hill, singing and playing the lyre , hence the expression \"to fiddle while Rome burns \".",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E24",
+        "pack": "history",
+        "page_title": "Nero",
+        "url": "https://en.wikipedia.org/wiki/Nero",
+        "snippet": "Tacitus suspends judgment on Nero's responsibility for the fire; he found that Nero was in Antium when the fire started, and returned to Rome to organize a relief effort, providing for the removal of bodies and debris, which he paid for from his own funds.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Tacitus places Nero at Antium when the fire began. What does Tacitus say Nero did after returning to Rome?",
+     "options": [
+      "He organized relief and paid for removing bodies and debris.",
+      "He ordered the rebuilding of the Circus.",
+      "He confessed to starting the fire."
+     ],
+     "answer_index": 0,
+     "reveal_para": 1,
+     "explanation": "Tacitus says Nero returned to Rome and organized relief, including paying for the removal of bodies and debris himself."
+    }
+   }
+  },
+  "Follow the Golden House accusation": {
+   "index": 2,
+   "title": "The Palace After the Fire",
+   "narration": "Rome, after the flames: the wreckage is not just a backdrop. The fire has torn through a great part of the city, and the question hanging over Nero is brutally simple: what does an emperor build after people have lost their homes? [c1]\n\nYou chose the Golden House accusation, and here is its hard shape. The Domus Aurea, the Golden House, was a vast landscaped complex built largely on the Oppian Hill after the fire of sixty-four AD. [c2] Construction began after the disaster and was nearly complete before Nero’s death in sixty-eight. [c3]\n\nThat timing is the spark. The fire destroys neighborhoods; then the emperor builds on a scale so enormous that even the schedule seems to shout. Tacitus reports that Nero took great interest in every detail and oversaw the engineer-architects Celer and Severus. [c4] The project’s reported personal importance gives the story its human center: this was a ruler deeply involved in the palace bearing his name.\n\nBut suspicion is not proof. The palace’s timing and scale give people a reason to ask whether Nero’s ambition rose from public ruin. They do not, by themselves, show that Nero started the fire. And they certainly do not show him performing while Rome burned. That image is the opening picture, not a fact these cards establish.\n\nHere is the city’s other wound. The fire also destroyed the portion of the Forum where Roman senators lived and worked. [c5] The open space in its middle remained a place for shopping and meeting. [c6] This is not merely a story of one emperor’s new residence. The disaster struck urban life and the political class in the same civic heart.\n\nThen comes the rebuilding. Nero’s quick reconstruction of burned neighborhoods in the Greek style, alongside the launch of his new palace, intensified accusations that he had started the fire. [c7] Notice the difference: that explains why suspicion grew; it does not prove the accusation true. A ruler can look guilty because he appears to profit from catastrophe. The appearance matters politically. It is still not proof.\n\nAnd the palace itself? The name sounds like a verdict. Golden House: a phrase that makes you picture a city turned into an emperor’s private prize. The evidence describes a vast landscaped complex on the Oppian Hill. It does not establish every later image or rumor attached to the place. [c8] If you ask me, the Golden House works like a monument-sized question mark. It makes the accusation easy to remember, but it cannot answer who lit the fire.\n\nOne surviving report offers a peculiar detail about an artist named Amulius. It describes him as grave and serious, and says his Minerva seemed to look at spectators from every angle. [c9] That report gives us a glimpse of an artistic world, not proof that Nero fiddled, sang, or performed while the city burned. The image is vivid; the evidentiary bridge is missing.\n\nSo let’s put the opening scene on trial. Rome burns in the story people remember. The Golden House rises after the fire in the historical account. Those facts can sit side by side, and the palace can make suspicion feel compelling. But these cards do not establish that Nero performed during the fire or caused it. The palace is a reason people suspected him, not a confession carved in gold.\n\nSo: the fire devastated Rome, and the Golden House followed at startling speed. Nero’s rebuilding helped fuel accusations, but timing and ambition do not prove arson or performance. Where next: the sources behind the fire story, the politics of Nero’s reputation, or another ruler whose building projects became accusations?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The fire destroyed a large part of Rome.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Domus Aurea card states that the fire destroyed a large part of the city.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "The Domus Aurea ( Latin , \"Golden House\") was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Domus Aurea was a vast landscaped complex built largely on the Oppian Hill after the fire of 64 AD.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly describes the Domus Aurea as a vast landscaped complex built largely on the Oppian Hill after the fire of 64 AD.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "The Domus Aurea ( Latin , \"Golden House\") was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Construction began after the fire and was nearly completed before Nero died in 68.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that construction began after the fire and was nearly completed before Nero’s death in 68.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "Construction began after the great fire of 64 and was nearly completed before Nero's death in 68, a remarkably short time for such an enormous project. Nero took great interest in every detail of the project, according to Tacitus , and oversaw the engineer-architects, Celer and Severus, who were also responsible for the attempted navigable canal with which Nero hoped to link Misenum with Lake …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Tacitus reports that Nero took great interest in the project and oversaw the engineer-architects Celer and Severus.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card attributes Nero’s great interest and oversight of Celer and Severus to Tacitus, as the narration appropriately reports it.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "Construction began after the great fire of 64 and was nearly completed before Nero's death in 68, a remarkably short time for such an enormous project. Nero took great interest in every detail of the project, according to Tacitus , and oversaw the engineer-architects, Celer and Severus, who were also responsible for the attempted navigable canal with which Nero hoped to link Misenum with Lake …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The fire destroyed the portion of the Forum where Roman senators lived and worked.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Great Fire card explicitly says the fire destroyed the Forum portion where Roman senators lived and worked.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Also destroyed in the fire was the portion of the Forum where the Roman senators lived and worked. The open space in the middle of the Forum remained a shopping/meeting centre. The accusations of Nero having started the fire were further exacerbated by his quickness to rebuild burned neighbourhoods in the Greek style and to launch construction of his new palace.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Forum’s central open space remained a shopping and meeting place.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Forum’s central open space remained a shopping and meeting center.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Also destroyed in the fire was the portion of the Forum where the Roman senators lived and worked. The open space in the middle of the Forum remained a shopping/meeting centre. The accusations of Nero having started the fire were further exacerbated by his quickness to rebuild burned neighbourhoods in the Greek style and to launch construction of his new palace.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Nero’s quick rebuilding in the Greek style and launch of his palace intensified accusations that he started the fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Nero’s quick rebuilding in the Greek style and launch of his new palace further exacerbated accusations that he started the fire.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Also destroyed in the fire was the portion of the Forum where the Roman senators lived and worked. The open space in the middle of the Forum remained a shopping/meeting centre. The accusations of Nero having started the fire were further exacerbated by his quickness to rebuild burned neighbourhoods in the Greek style and to launch construction of his new palace.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The evidence describes the Golden House as a vast landscaped complex on the Oppian Hill, without establishing every later rumor about it.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card establishes the complex’s scale and location, while the statement about what the evidence does not establish is careful narrator framing.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "The Domus Aurea ( Latin , \"Golden House\") was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "A single surviving report describes Amulius as a grave, serious painter and says his Minerva seemed to look at spectators from any viewpoint.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes Amulius as grave and serious and reports that his Minerva seemed to look at spectators from any viewpoint.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Domus Aurea",
+       "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+       "snippet": "More recently, lived Amulius , a grave and serious personage, but a painter in the florid style. By this artist there was a Minerva , which had the appearance of always looking at the spectators, from whatever point it was viewed. He only painted a few hours each day, and then with the greatest gravity, for he always kept the toga on, even when in the midst of his implements.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The sources behind Rome’s fire story",
+    "How Nero’s reputation became a political weapon",
+    "When imperial monuments become evidence against their builders"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Domus Aurea was a vast landscaped complex built largely on Rome’s Oppian Hill after the fire of 64 AD.",
+      "verdict": "fact",
+      "explanation": "The evidence describes the Golden House as a vast landscaped complex built largely on the Oppian Hill after the fire destroyed much of Rome.",
+      "evidence_ids": [
+       "E20"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "history",
+        "page_title": "Domus Aurea",
+        "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+        "snippet": "The Domus Aurea ( Latin , \"Golden House\") was a vast landscaped complex built by the Emperor Nero largely on the Oppian Hill in the heart of ancient Rome after the great fire in 64 AD had destroyed a large part of the city.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nero’s rebuilding and palace construction intensified accusations that he started the fire.",
+      "verdict": "fact",
+      "explanation": "The evidence says his quick rebuilding of burned neighborhoods in the Greek style and launch of the palace intensified those accusations. It does not establish that he actually started the fire.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "history",
+        "page_title": "Great Fire of Rome",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+        "snippet": "Also destroyed in the fire was the portion of the Forum where the Roman senators lived and worked. The open space in the middle of the Forum remained a shopping/meeting centre. The accusations of Nero having started the fire were further exacerbated by his quickness to rebuild burned neighbourhoods in the Greek style and to launch construction of his new palace.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nero played music while Rome burned.",
+      "verdict": "myth",
+      "explanation": "The chapter says the cards do not establish that Nero performed during the fire. The report about the painter Amulius and his Minerva is not evidence for that story.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "history",
+        "page_title": "Domus Aurea",
+        "url": "https://en.wikipedia.org/wiki/Domus_Aurea",
+        "snippet": "More recently, lived Amulius , a grave and serious personage, but a painter in the florid style. By this artist there was a Minerva , which had the appearance of always looking at the spectators, from whatever point it was viewed. He only painted a few hours each day, and then with the greatest gravity, for he always kept the toga on, even when in the midst of his implements.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the fire, what happened to the Forum’s central open space?",
+     "options": [
+      "It remained a place for shopping and meeting.",
+      "It became part of Nero’s palace grounds.",
+      "It was rebuilt as housing for senators."
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "The Forum’s central open space remained a place for shopping and meeting."
+    }
+   }
+  },
+  "Trace the blame placed on Christians": {
+   "index": 2,
+   "title": "Blame in the Ashes",
+   "narration": "You chose to follow the blame placed on Christians. We return to Rome after the fire, where an accusation becomes a weapon—and then a story that outlives the people it strikes.\n\nTacitus says Nero blamed Rome’s Christian community for the devastation. [c1] In Tacitus’s account, that accusation initiated the empire’s first persecution of Christians. [c2] Here is the hard turn: the city has burned, and the emperor’s answer, in this account, is to point at a community already marked out for blame.\n\nBut pause over the name attached to the story. Tacitus wrote the passage in the Annals, around one hundred sixteen AD, decades after the fire of sixty-four. [c3] Tacitus was about seven when the fire happened, and the account says he would most likely have heard about the fire and Nero’s accusations as he grew up; that is an inference, not an eyewitness report. [c4] We are listening to a Roman author writing about a remembered catastrophe, not a child’s immediate account from the street.\n\nThat distinction matters. Tacitus reports Nero’s accusation. We do not hear the actual words spoken in the palace, or watch the moment blame was assigned. Those are scenes a storyteller can imagine, but these cards do not give us those details.\n\nAnd what follows is no abstract dispute over reputation. The account says Christians blamed for the fire were identified, arrested, and killed. [c5] Some were torn apart by hunting dogs for spectators’ entertainment; others were crucified in deliberately degrading ways. [c6] Keep the focus where it belongs: on the people subjected to violence, not on the spectacle their persecutors wanted to create.\n\nThe tradition also gives us a number. Jerome is cited for the claim that Nero killed nine hundred seventy-nine Christians. [c7] That is a figure attributed to Jerome, not a count independently established by this account. A precise number can sound like a door opening onto certainty. Sometimes it is simply a number handed down inside a tradition.\n\nAnother tradition reaches beyond the fire. Eusebius was the first to report that Peter was crucified and Paul beheaded in Rome during Nero’s reign. [c8] Eusebius connected their deaths to Nero’s persecution, but the account says there were no specific orders. [c9] So later memory links these deaths to Nero’s reign and its persecution. It does not give us a surviving command from Nero ordering either execution.\n\nThat is the boundary between what the account says and what it can settle. Tacitus reports the accusation and the persecution. The account preserves the cruelty Christians faced. Later, Eusebius carries the story further, connecting Nero’s reign with the deaths of Peter and Paul. Each detail adds weight to Nero’s legacy, but each comes to us through its own account.\n\nNow return to the opening image: the emperor performing while Rome burns. The Great Fire lasted six days and burned much of Rome in AD sixty-four, during Nero’s reign. [c10] The fire is history. The emperor onstage amid the flames is the image that refuses to die—and, from what we have heard here, it remains a story rather than a verified scene.\n\nThat is the payoff: a sourced accusation, a persecution described in brutal detail, and an unforgettable image that outruns what we can establish. The story of Nero’s blame does not make the fiddle scene true. It gives us something darker: a city in ashes, a vulnerable community made into a target, and a ruler whose legend keeps changing shape.\n\nFor the next journey, we could follow Peter and Paul through later memory; watch Rome turn Nero into a monster; or put another ruler’s reputation on trial.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Tacitus says Nero blamed Rome’s Christian community for the fire’s devastation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says Tacitus reports that Nero blamed the Christian community for the devastation.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , Emperor Nero blamed the devastation on the Christian community in the city, initiating the empire's first persecution against the Christians . Other contemporary historians blamed Nero's incompetence but it is commonly agreed by historians nowadays that Rome was too densely populated and inadequately prepared to effectively deal with large-scale disasters, including fires, …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "In Tacitus’s account, Nero’s accusation initiated the empire’s first persecution of Christians.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 states that, according to Tacitus, Nero’s blame initiated the empire’s first persecution of Christians.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "According to Tacitus , Emperor Nero blamed the devastation on the Christian community in the city, initiating the empire's first persecution against the Christians . Other contemporary historians blamed Nero's incompetence but it is commonly agreed by historians nowadays that Rome was too densely populated and inadequately prepared to effectively deal with large-scale disasters, including fires, …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Tacitus’s Annals passage was written around AD 116, decades after the AD 64 fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 dates the Annals to about AD 116 and places its account decades after the AD 64 fire.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Tacitus on Jesus",
+       "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+       "snippet": "Roman historian and politician Tacitus referred to Jesus , his execution by Pontius Pilate , and the existence of early Christians in Rome in his final work, Annals (written c. AD 116), book 15, chapter 44 . The context of the passage is the six-day Great Fire of Rome that burned much of the city in AD 64 during the reign of Roman Emperor Nero .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Tacitus was about seven during the fire and may likely have heard about it and Nero’s accusations as he grew up; this is an inference.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E17 calls his likely later knowledge a probability-based inference, not a documented account of what he heard.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Tacitus on Jesus",
+       "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+       "snippet": "Tacitus was about seven years old at the time of the Great Fire of Rome and, like other Romans, as he grew up he would have most likely heard about the fire that destroyed most of the city, and Nero's accusations against Christians.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The account says Christians blamed for the fire were identified, arrested, and killed.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E12 explicitly says Christians blamed for the fire were identified, arrested, and killed.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Christians, blamed by Nero for the fire, were identified, arrested, and killed. Some, for the entertainment of spectators, were torn to pieces by hunting dogs, while others were crucified in ways calculated to make them look ridiculous. According to Jerome , the total number of Christians killed by Nero was 979.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Some Christians were killed by hunting dogs for spectators, while others were crucified in deliberately degrading ways.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E12 plainly describes some Christians being torn apart by hunting dogs and others crucified in degrading ways.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Christians, blamed by Nero for the fire, were identified, arrested, and killed. Some, for the entertainment of spectators, were torn to pieces by hunting dogs, while others were crucified in ways calculated to make them look ridiculous. According to Jerome , the total number of Christians killed by Nero was 979.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Jerome is cited for the claim that Nero killed 979 Christians.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E12 attributes the figure of 979 Christians killed by Nero to Jerome, and the narration correctly presents it as an attributed claim.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Great Fire of Rome",
+       "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+       "snippet": "Christians, blamed by Nero for the fire, were identified, arrested, and killed. Some, for the entertainment of spectators, were torn to pieces by hunting dogs, while others were crucified in ways calculated to make them look ridiculous. According to Jerome , the total number of Christians killed by Nero was 979.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Eusebius was the first to report Peter’s crucifixion and Paul’s beheading in Rome during Nero’s reign.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 identifies Eusebius as the first to report Peter’s crucifixion and Paul’s beheading in Rome under Nero.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Bishop Eusebius of Caesarea (c. 275–339) was the first to report that Paul the Apostle was beheaded and Peter was crucified in Rome during the reign of Nero. He claims Nero's persecution resulted in the deaths of Peter and Paul, but without specific orders.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Eusebius connected Peter’s and Paul’s deaths to Nero’s persecution but reported no specific orders.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 says Eusebius linked their deaths to Nero’s persecution but gave no specific orders.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Nero",
+       "url": "https://en.wikipedia.org/wiki/Nero",
+       "snippet": "Bishop Eusebius of Caesarea (c. 275–339) was the first to report that Paul the Apostle was beheaded and Peter was crucified in Rome during the reign of Nero. He claims Nero's persecution resulted in the deaths of Peter and Paul, but without specific orders.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Great Fire lasted six days and burned much of Rome in AD 64 during Nero’s reign.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 states that the fire lasted six days, burned much of Rome in AD 64, and occurred during Nero’s reign.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Tacitus on Jesus",
+       "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+       "snippet": "Roman historian and politician Tacitus referred to Jesus , his execution by Pontius Pilate , and the existence of early Christians in Rome in his final work, Annals (written c. AD 116), book 15, chapter 44 . The context of the passage is the six-day Great Fire of Rome that burned much of the city in AD 64 during the reign of Roman Emperor Nero .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Peter and Paul: how later memory reshaped their deaths",
+    "Rome remembers Nero: the making of a monster",
+    "Another ruler on trial: reputation versus evidence"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Tacitus says Nero blamed Christians for the Great Fire and that the accusation began Rome’s first persecution of Christians.",
+      "verdict": "fact",
+      "explanation": "Tacitus’s account connects Nero’s accusation to the empire’s first persecution of Christians. [E11]",
+      "evidence_ids": [
+       "E11"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "history",
+        "page_title": "Great Fire of Rome",
+        "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+        "snippet": "According to Tacitus , Emperor Nero blamed the devastation on the Christian community in the city, initiating the empire's first persecution against the Christians . Other contemporary historians blamed Nero's incompetence but it is commonly agreed by historians nowadays that Rome was too densely populated and inadequately prepared to effectively deal with large-scale disasters, including fires, …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Tacitus witnessed Nero’s accusation against Christians as a child.",
+      "verdict": "myth",
+      "explanation": "Tacitus was about seven during the fire, but the account was written decades later. His likely knowledge of the accusation is an inference, not eyewitness testimony. [E16] [E17]",
+      "evidence_ids": [
+       "E16",
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "history",
+        "page_title": "Tacitus on Jesus",
+        "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+        "snippet": "Roman historian and politician Tacitus referred to Jesus , his execution by Pontius Pilate , and the existence of early Christians in Rome in his final work, Annals (written c. AD 116), book 15, chapter 44 . The context of the passage is the six-day Great Fire of Rome that burned much of the city in AD 64 during the reign of Roman Emperor Nero .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E17",
+        "pack": "history",
+        "page_title": "Tacitus on Jesus",
+        "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus",
+        "snippet": "Tacitus was about seven years old at the time of the Great Fire of Rome and, like other Romans, as he grew up he would have most likely heard about the fire that destroyed most of the city, and Nero's accusations against Christians.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Nero ordered the executions of Peter and Paul.",
+      "verdict": "myth",
+      "explanation": "Eusebius later connected their deaths to Nero’s persecution, but the account says he reported no specific orders. [E13]",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "history",
+        "page_title": "Nero",
+        "url": "https://en.wikipedia.org/wiki/Nero",
+        "snippet": "Bishop Eusebius of Caesarea (c. 275–339) was the first to report that Paul the Apostle was beheaded and Peter was crucified in Rome during the reign of Nero. He claims Nero's persecution resulted in the deaths of Peter and Paul, but without specific orders.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Later memory links Peter and Paul to Nero’s persecution. What does the account say Eusebius reported about specific orders for their deaths?",
+     "options": [
+      "He reported that Nero issued orders for both deaths.",
+      "He reported no specific orders.",
+      "He reported that the Senate ordered their deaths."
+     ],
+     "answer_index": 1,
+     "reveal_para": 6,
+     "explanation": "Eusebius connected their deaths to Nero’s persecution, but the account says he reported no specific orders."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "I, Claudius",
+   "author": "Robert Graves",
+   "year": 1934,
+   "why": "A vivid historical novel of imperial Rome that pairs well with an episode examining Nero, palace politics, and the stories told about emperors.",
+   "url": "https://openlibrary.org/works/OL7708502W"
+  },
+  {
+   "title": "Last rites",
+   "author": "David Wishart",
+   "year": 2001,
+   "why": "This Roman-era mystery offers another fictional route into the society and power struggles surrounding imperial Rome.",
+   "url": "https://openlibrary.org/works/OL2118246W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8239,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 467,
+   "output_tokens": 733,
+   "cost_usd": 0.00054796
+  },
+  {
+   "agent": "researcher",
+   "requests": 21,
+   "input_tokens": 62541,
+   "cached_tokens": 51694,
+   "cache_write_tokens": 6903,
+   "output_tokens": 1667,
+   "cost_usd": 0.00260772
+  },
+  {
+   "agent": "storyteller",
+   "requests": 8,
+   "input_tokens": 36750,
+   "cached_tokens": 25336,
+   "cache_write_tokens": 10406,
+   "output_tokens": 11886,
+   "cost_usd": 0.00759793
+  },
+  {
+   "agent": "skeptic",
+   "requests": 8,
+   "input_tokens": 32839,
+   "cached_tokens": 18280,
+   "cache_write_tokens": 13551,
+   "output_tokens": 4764,
+   "cost_usd": 0.00435948
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1615,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 165,
+   "output_tokens": 133,
+   "cost_usd": 0.00011297
+  }
+ ],
+ "build_cost_usd": 0.015226,
+ "build_seconds": 96.4
+}

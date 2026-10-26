@@ -1,0 +1,20 @@
+{
+  "id": "politics",
+  "name": "Politics & ideas",
+  "grading_rules": "Grade the claim as stated. Documented = institutional facts, dates, laws, votes and what thinkers/parties actually argued, as the evidence states them. Debated = contested interpretations, causes, effects of policies, or anything scholars or parties dispute: say who disputes it. Legend = popular political myths or misquotes the evidence contradicts. Interpretation = narrator's framing. Unsupported = no card says it. Never grade a value judgement (good/bad policy) as Documented.",
+  "wiki": "Wikipedia",
+  "api": "https://en.wikipedia.org/w/api.php",
+  "page_url": "https://en.wikipedia.org/wiki/{title}",
+  "domains": [
+    "en.wikipedia.org"
+  ],
+  "license": "Text from Wikipedia, CC BY-SA 4.0",
+  "kind": "history",
+  "scale": [
+    "Documented",
+    "Debated",
+    "Legend",
+    "Interpretation",
+    "Unsupported"
+  ]
+}

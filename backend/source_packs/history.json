@@ -1,0 +1,19 @@
+{
+  "id": "history",
+  "name": "Real history",
+  "wiki": "Wikipedia",
+  "api": "https://en.wikipedia.org/w/api.php",
+  "page_url": "https://en.wikipedia.org/wiki/{title}",
+  "domains": [
+    "en.wikipedia.org"
+  ],
+  "license": "Text from Wikipedia, CC BY-SA 4.0",
+  "kind": "history",
+  "scale": [
+    "Documented",
+    "Debated",
+    "Legend",
+    "Unsupported"
+  ],
+  "grading_rules": "Grade the claim as stated. Documented = a clear statement (ideally a page lead or two cards) of mainstream fact; the fact that scholars argue X is Documented. Debated = the evidence reports disagreement, partial or general influence, uncertain attestation, or rests on one thin/hedged sentence. Legend = popular story or myth the evidence presents as such or contradicts. Interpretation = narrator framing or a history-to-fiction parallel. Unsupported = no card says it."
+}

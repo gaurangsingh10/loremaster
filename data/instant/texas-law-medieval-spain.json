@@ -1,0 +1,1706 @@
+{
+ "thread": {
+  "id": "texas-law-medieval-spain",
+  "title": "Texas Law & the 'Muslim Spain' Legend",
+  "hook": "Why a Texas divorce court splits property like a Visigothic king, and whether the Moors had anything to do with it.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Visigothic & Castilian Spain → Texas",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Texas Property, Visigothic Roots",
+ "logline": "Texas community property is often traced to Muslim Spain—but the documented trail points elsewhere, and the evidence puts the popular claim on trial.",
+ "plan": [
+  {
+   "title": "A Texas Court, a Gothic Code",
+   "focus": "Open with the striking connection between Texas community property and older Spanish legal traditions. Trace the documented line through Visigothic law and later Castilian law, including the Siete Partidas, without implying a direct, unchanged survival.",
+   "queries": [
+    "history: Texas community property",
+    "history: Visigothic Code",
+    "history: Siete Partidas"
+   ],
+   "packs": [
+    "history"
+   ]
+  },
+  {
+   "title": "The Moorish Claim on Trial",
+   "focus": "Examine the claim that Islamic law from Muslim Spain was the source of Texas community property, distinguishing documented legal transmission from broader cultural influence and uncertainty. Close with the best-supported route through Castilian law and New Spain, while grading the Islamic-origins claim as debated rather than established fact.",
+   "queries": [
+    "history: Islamic law Siete Partidas",
+    "history: Castilian law New Spain",
+    "history: Spanish Texas law"
+   ],
+   "packs": [
+    "history"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A Texas Court, a Gothic Code",
+  "narration": "Picture a Texas courtroom. A marriage has ended, the arguments have narrowed, and the question is suddenly concrete: what belongs to whom? The answer can reach backward into a legal world of kings, codes, and medieval Castile. But the road matters. A resemblance is not a family tree, and an old legal tradition is not a rule that survived unchanged.\n\nHere is the careful version of the connection. Texas community property sits within a broader history of Spanish legal traditions, but the evidence in this chapter does not trace every link from a Visigothic statute to a Texas judgment. What it does let us see is a sequence of legal frameworks: Visigothic law, later Castilian law, and the spread of Castilian legal authority into Spanish America. That is already a remarkable journey. It is also a reason to resist the easy slogan that a Texas courtroom is simply applying a Gothic rule.\n\nBegin in the Visigothic kingdom. In the seventh century, King Chindasuinth began a law code intended to provide common legal status for Visigothic and Spanish-Roman subjects. [c1] The code was not a timeless tablet dropped from the sky. It was made through political work: a ruler trying to bring different communities under a shared legal framework.\n\nThe code was enlarged in 654 through new legislation associated with Recceswinth, and later kings added legislation as well. [c2] Recceswinth’s version was edited by Braulio of Zaragoza, while the earlier code had been hastily written and promulgated. [c3] So this legal inheritance begins not with an unchanging rule, but with revision. Kings add to it. An editor reshapes it. A text becomes an instrument of government.\n\nThat detail matters when we reach later law. People often want a clean line: one ancient rule, passed intact through centuries, arriving in modern court. Real legal history is less like a baton handoff and more like a river changing its banks. The names and institutions shift. New authorities gather older materials, combine them with other traditions, and give them new uses.\n\nNow move to the Siete Partidas, a major legal text for governing Castile and, later, the Spanish Empire. [c4] Its legal character was mixed: it was based on Justinian Roman law, canon law, and feudal laws, with Islamic law listed among the influences attributed to it. [c5] That mixture is the important point. The Partidas were not simply a Visigothic code wearing a new title. They belonged to a broader legal world, assembled from several traditions.\n\nAnd yes, Islamic law appears among the influences attributed to the Partidas. [c6] But that does not establish that Texas community-property law came directly from Islamic law. This chapter’s evidence supports a more careful account: the Partidas were composite, and Castilian law later crossed the Atlantic. The specific route from those texts to the details of Texas community property needs evidence beyond what we have here.\n\nFrom the beginnings of European expansion into the New World, the Siete Partidas was introduced to Spanish America along with Castilian law. [c7] That is the crucial bridge in this story: not an unchanged Gothic provision landing whole in Texas, but legal traditions moving through Castile and into the Spanish American world. The passage is real; the exact downstream path still needs tracing.\n\nNow set that history beside the modern rule. In community-property jurisdictions, property acquired during marriage is generally treated as community property and divided between spouses at divorce, while premarital property and gifts or inheritances are generally treated as separate. [c8] Each spouse technically owns an undivided half-interest in community property. [c9] Those are strikingly practical rules: the law takes a household’s acquisitions and asks how marriage shapes ownership.\n\nHere’s my read: the compelling connection is not “a Gothic king wrote Texas divorce law.” It is that legal systems travel, absorb new materials, and keep being remade. A seventh-century project for common status and a modern division of marital property are not the same institution. Yet the long passage through Castilian law helps explain why Texas legal history can point toward Spain without pretending that centuries of change never happened.\n\nSo: Visigothic law began as a changing royal code, not a frozen inheritance. The Partidas combined traditions and traveled with Castilian law into Spanish America, while the precise line to Texas remains to be demonstrated here. [c10] Next, we can follow the Partidas into colonial law, examine the Texas community-property rules more closely, or test the popular claim of Islamic origins. Which road do you want to take?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "King Chindasuinth began a Visigothic law code intended to provide common legal status for Visigothic and Spanish-Roman subjects.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Visigothic Code card says Chindasuinth began the code to provide common legal status for Visigothic and Spanish-Roman subjects.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Visigothic Code",
+      "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+      "snippet": "The Visigothic Code ( Latin : Forum Iudicum, Liber Iudiciorum , or Book of the Judgements; Spanish : Fuero Juzgo ), also called Lex Visigothorum (English: Law of the Visigoths ), is a set of laws begun by king Chindasuinth (642–653 AD) of the Visigothic Kingdom in his second year of rule (642–643) that sought to provide common legal status between his Visigothic and Spanish-Roman subjects.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The code was enlarged in 654 by legislation associated with Recceswinth and later kings.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the code of 654 was enlarged by Recceswinth’s novel legislation and later legislation by kings.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Visigothic Code",
+      "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+      "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Recceswinth’s code was edited by Braulio of Zaragoza, and Chindasuinth’s original code had been hastily written and promulgated.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly says Braulio edited Recceswinth’s code and that Chindasuinth’s original code had been hastily written and promulgated.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Visigothic Code",
+      "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+      "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Siete Partidas was a major legal text for governing Castile and later the Spanish Empire.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Siete Partidas card calls it one of the most important legal texts for governing Castile and later the Spanish Empire.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "Likewise, it was one of the most important legal texts for the governing of Castile (given that it regulated so many matters) and, later, the Spanish Empire . From the beginnings of European expansion into the New World, it was introduced to Spanish America along with Castilian law, and to Brazil, with Portuguese law.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The Siete Partidas was based on Justinian Roman law, canon law, and feudal laws, with Islamic law listed among the influences attributed to it.",
+    "kind": "history",
+    "grade": "Debated",
+    "note": "The card describes Roman, canon, and feudal law as bases, but presents Islamic law only as an influence among others attributed to the Partidas.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "The Siete Partidas can be characterized as a text of civil law or ius commune (based on Justinian Roman law , canon law , and feudal laws ), alongside influences from Islamic law . Maritime law and \"native law,\" also have been asserted as being sources of the Partidas.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Islamic law is listed among influences attributed to the Siete Partidas.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly lists Islamic law among influences attributed to the Siete Partidas; the claim preserves that attribution rather than asserting a proven direct source.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "The Siete Partidas can be characterized as a text of civil law or ius commune (based on Justinian Roman law , canon law , and feudal laws ), alongside influences from Islamic law . Maritime law and \"native law,\" also have been asserted as being sources of the Partidas.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "From the beginnings of European expansion into the New World, the Siete Partidas was introduced to Spanish America along with Castilian law.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that from the beginnings of European expansion into the New World the Partidas was introduced to Spanish America along with Castilian law.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "Likewise, it was one of the most important legal texts for the governing of Castile (given that it regulated so many matters) and, later, the Spanish Empire . From the beginnings of European expansion into the New World, it was introduced to Spanish America along with Castilian law, and to Brazil, with Portuguese law.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Under community-property regimes, property acquired during marriage is generally treated as community property, while premarital property and gifts or inheritances are generally separate.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The community-property card describes marital acquisitions as community property and premarital property, gifts, and inheritances as generally separate, with jurisdictional qualification.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Community property in the United States",
+      "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+      "snippet": "Under a community property regime, depending on the jurisdiction, property owned by one spouse before marriage , and gifts and inheritances received during marriage, are treated as that spouse's separate property in the event of divorce. All other property acquired during the marriage is treated as community property and is subject to division between the spouses in the event of divorce.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Each spouse technically owns an undivided one-half interest in community property.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly states that each spouse technically owns an undivided one-half interest in community property.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Community property in the United States",
+      "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+      "snippet": "If property is held as community property, each spouse technically owns an undivided one-half interest in the property. This type of ownership applies to most property acquired by each spouse during the course of the marriage. It generally does not apply to property acquired prior to the marriage or to property acquired by gift or inheritance during the marriage.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The Visigothic code changed over time, and the Siete Partidas combined legal traditions and traveled with Castilian law into Spanish America.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The cited cards support the changing Visigothic code, the Partidas’ combined legal traditions, and its introduction into Spanish America with Castilian law.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Visigothic Code",
+      "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+      "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "The Siete Partidas can be characterized as a text of civil law or ius commune (based on Justinian Roman law , canon law , and feudal laws ), alongside influences from Islamic law . Maritime law and \"native law,\" also have been asserted as being sources of the Partidas.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Siete Partidas",
+      "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+      "snippet": "Likewise, it was one of the most important legal texts for the governing of Castile (given that it regulated so many matters) and, later, the Spanish Empire . From the beginnings of European expansion into the New World, it was introduced to Spanish America along with Castilian law, and to Brazil, with Portuguese law.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Follow the Partidas into colonial law",
+   "What exactly makes Texas property community property?",
+   "The Islamic-origins claim: influence, or overreach?"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Chindasuinth began a Visigothic law code to give Visigothic and Spanish-Roman subjects common legal status.",
+     "verdict": "fact",
+     "explanation": "The code began under Chindasuinth with that stated aim. Its history also involved later additions and revision.",
+     "evidence_ids": [
+      "E6",
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The Visigothic Code ( Latin : Forum Iudicum, Liber Iudiciorum , or Book of the Judgements; Spanish : Fuero Juzgo ), also called Lex Visigothorum (English: Law of the Visigoths ), is a set of laws begun by king Chindasuinth (642–653 AD) of the Visigothic Kingdom in his second year of rule (642–643) that sought to provide common legal status between his Visigothic and Spanish-Roman subjects.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Siete Partidas was purely a Visigothic code passed down unchanged.",
+     "verdict": "myth",
+     "explanation": "The evidence describes the Partidas as drawing on Roman, canon, and feudal law, alongside attributed Islamic influences. It does not support an unchanged, purely Visigothic inheritance.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas can be characterized as a text of civil law or ius commune (based on Justinian Roman law , canon law , and feudal laws ), alongside influences from Islamic law . Maritime law and \"native law,\" also have been asserted as being sources of the Partidas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Islamic law is one of the influences attributed to the Siete Partidas.",
+     "verdict": "debated",
+     "explanation": "Islamic law is listed among its influences, but the evidence presents the Partidas as a composite legal text rather than establishing a direct Islamic origin for Texas community-property law.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas can be characterized as a text of civil law or ius commune (based on Justinian Roman law , canon law , and feudal laws ), alongside influences from Islamic law . Maritime law and \"native law,\" also have been asserted as being sources of the Partidas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The story follows the Siete Partidas from Castile toward the Spanish American world. What does the evidence say traveled with Castilian law?",
+    "options": [
+     "The Siete Partidas was introduced to Spanish America",
+     "An unchanged Visigothic provision was carried to Texas",
+     "A direct Islamic rule for Texas divorce law"
+    ],
+    "answer_index": 0,
+    "reveal_para": 7,
+    "explanation": "The Siete Partidas was introduced to Spanish America along with Castilian law."
+   }
+  }
+ },
+ "branches": {
+  "Follow the Partidas into colonial law": {
+   "index": 2,
+   "title": "From Castile to Texas",
+   "narration": "You chose to follow the Partidas into colonial law. So we leave the medieval courtroom and cross an ocean, carrying a question that survives every change of flag: what belongs to a married couple? [c1]\n\nThe Siete Partidas was a Castilian legal code first compiled under Alfonso the Tenth, whose reign ran from twelve fifty-two to twelve eighty-four. [c2] Its ambition was larger than a local rulebook: it aimed to establish a uniform body of law for the kingdom. [c3] Imagine the royal project as an attempt to make distant disputes answer to a shared legal language. That is a powerful ambition. It is also a long way from proving that every later rule came from one medieval sentence.\n\nThe Partidas did not stop at Castile’s borders. They remained in force in Latin America until the modern codification movement, which unfolded between eighteen twenty-two and nineteen sixteen. [c4] And they were still in effect into the early nineteenth century in parts of the United States that had belonged to the Spanish Empire and used civil law, including Louisiana. [c5] The code crossed political borders because legal systems can outlast the governments that first carried them.\n\nNow follow the branch you chose into the Spanish colonial world. In fifteen seventy-three, the Spanish Crown issued the Laws of the Indies for its American and Asian possessions. [c6] Those laws regulated social, political, religious, and economic life in those territories. [c7] They were a vast governing framework, not a single family-property rule. Here is the important distinction: the cards document the Partidas’ presence in Latin America and the Crown’s colonial laws, but they do not trace every step from those systems to Texas.\n\nHere is the payoff we can state plainly. Texas community-property rules recognize an undivided half-interest for each spouse in property acquired during marriage, while gifts, inheritances, and property traceable to premarital separate property remain separate. [c8] Put that rule beside the documented Castilian and colonial context, and Texas’s legal landscape comes into focus—but this evidence does not establish the specific route by which that property rule reached Texas. [c9] That is the honest boundary between a compelling historical setting and a proven chain of transmission.\n\nAnd the frontier was not an empty stage. In eighteen thirty, Mexican authorities prohibited continued immigration from the United States, but illegal immigration continued to increase Texas’s population. [c10] New customs-duty enforcement angered Tejanos and recent immigrants alike. [c11] Texas was being shaped by law and migration at once, with people living under rules they did not all welcome. A legal inheritance can persist even as the political ground beneath it shakes.\n\nNow the tempting shortcut, stated as a popular claim: Texas community property comes from Muslim Spain. [c12] The cards supplied here do not establish that lineage. [c13] They document the Castilian Partidas, their long life in Latin America, and the Spanish Crown’s colonial legal framework. [c14] So: the Partidas give us a code designed to unify Castilian law, and the Laws of the Indies show a Crown governing across an empire. [c15] Those facts illuminate the world around Texas law, but they do not prove its precise legal pathway. [c16]\n\nThe difference matters. A suggestive resemblance can open a door; only a traceable chain lets us say what walked through it. The Texas rule is concrete: a shared half-interest during marriage, with defined separate-property exceptions. [c17] The medieval and colonial setting is documented; the exact route to that Texas rule is not established by these cards. [c18]\n\nSo: Castile gives us a code designed to unify law, and Spanish rule gives us a documented legal world in the Americas. [c19] Texas community property sits beside that history, but this evidence does not prove a direct transmission chain or an Islamic legal inheritance. [c20] For the next episode, we could follow Roman law into modern courts. We could trace Spanish legal traditions across the Americas. Or we could examine what historians can actually say about Muslim Spain.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The chapter continues the question of how property is divided after marriage.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is narrative framing about a continuing question, not a factual claim established by the cited card.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Siete Partidas was first compiled under Alfonso X, whose reign lasted from 1252 to 1284.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Siete Partidas card states that the code was first compiled during Alfonso X’s reign, dated 1252–1284.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Siete Partidas aimed to establish a uniform body of normative rules for the kingdom.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says the code aimed to establish uniform normative rules for the kingdom.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Siete Partidas remained in force in Latin America until the modern codification movement of 1822–1916.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Partidas remained in force in Latin America until the modern codification movement of 1822–1916.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Siete Partidas remained in effect into the early nineteenth century in some former Spanish territories in the United States, including Louisiana.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Partidas remained in effect until the beginning of the nineteenth century in parts of the United States, including Louisiana.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Spanish Crown issued the Laws of the Indies in 1573 for its American and Asian possessions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies the Laws of the Indies as laws issued by the Spanish Crown in 1573 for its American and Asian possessions.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Laws of the Indies regulated social, political, religious, and economic life in those territories.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says the Laws of the Indies regulated social, political, religious, and economic life in those territories.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Texas community-property rules give each spouse an undivided half-interest in property acquired during marriage, with specified gifts, inheritances, and traceable premarital property remaining separate.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The cited card describes community-property shares and exceptions but does not identify these rules specifically as Texas law, so the Texas attribution has thin sourcing.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The evidence places Texas community-property law alongside the documented Castilian and colonial context but does not establish its specific route of transmission.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a careful synthesis and limitation of what the cited historical context establishes, rather than a claim that a transmission route has been proved.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Mexican authorities prohibited continued immigration from the United States beginning in 1830, but illegal immigration continued to increase Texas's population.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Texas card states that immigration from the United States was prohibited beginning in 1830 while illegal immigration continued to increase Texas’s population.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "Texas",
+       "url": "https://en.wikipedia.org/wiki/Texas",
+       "snippet": "Mexican authorities prohibited continued immigration from the United States beginning in 1830. However, illegal immigration from the United States into Mexico continued to increase the population of Texas. New laws also called for the enforcement of customs duties , angering native Mexican citizens ( Tejanos ) and recent immigrants alike.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "New customs-duty enforcement angered Tejanos and recent immigrants alike.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Texas card says enforcement of customs duties angered Tejanos and recent immigrants alike.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "Texas",
+       "url": "https://en.wikipedia.org/wiki/Texas",
+       "snippet": "Mexican authorities prohibited continued immigration from the United States beginning in 1830. However, illegal immigration from the United States into Mexico continued to increase the population of Texas. New laws also called for the enforcement of customs duties , angering native Mexican citizens ( Tejanos ) and recent immigrants alike.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "A popular claim says Texas community property comes from Muslim Spain.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "None of the supplied cards says this is a popular claim or supports a Muslim Spain origin for Texas community-property law.",
+     "evidence": []
+    },
+    {
+     "id": "c13",
+     "text": "The supplied evidence does not establish a Muslim Spain lineage for Texas community-property law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This accurately describes the limit of the supplied cards, which present Castilian and colonial context but no Muslim Spain lineage.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The supplied evidence documents the Partidas' persistence in Latin America and the Crown's colonial legal framework.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state that the Partidas remained in force in Latin America and that the Crown issued a colonial legal framework for its American and Asian possessions.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The Partidas aimed to unify Castilian law, while the Laws of the Indies were issued to govern the Crown's American and Asian possessions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards explicitly describe the Partidas’ unifying aim and the Laws of the Indies as governing the Crown’s American and Asian possessions.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The evidence does not prove the precise legal pathway by which the Texas property rule developed.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a cautious statement about what the cited cards do not establish, not an asserted transmission route.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "Texas community-property rules provide for an undivided half-interest during marriage, with defined separate-property exceptions.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card supports the described community-property rule but does not identify it as Texas law, making that jurisdictional attribution thinly sourced.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "The supplied evidence documents the medieval and colonial setting but not an exact transmission route to Texas community-property law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This appropriately distinguishes documented medieval and colonial context from an unproven precise route to Texas.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The Partidas aimed to unify Castilian law, and Spanish rule established a legal framework in the Americas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state that the Partidas aimed to unify Castilian law and that the Laws of the Indies governed the Crown’s American and Asian possessions.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "The supplied evidence does not prove a direct transmission chain to Texas community-property law or an Islamic legal inheritance.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a cautious conclusion about what the supplied evidence does not establish, including a direct transmission chain or Islamic inheritance.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Laws of the Indies",
+       "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+       "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Roman law’s long road into modern courts",
+    "Spanish legal traditions across the Americas",
+    "Muslim Spain: influence, inheritance, and evidence"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Siete Partidas was compiled under Alfonso X to establish a uniform body of law for Castile.",
+      "verdict": "fact",
+      "explanation": "The evidence identifies it as a Castilian code compiled during Alfonso X’s reign with the aim of creating uniform rules for the kingdom.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "history",
+        "page_title": "Siete Partidas",
+        "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+        "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Laws of the Indies governed social, political, religious, and economic life in Spain’s American and Asian possessions.",
+      "verdict": "fact",
+      "explanation": "The Crown issued this body of laws in 1573 for those possessions, and the evidence says it regulated those areas of life.",
+      "evidence_ids": [
+       "E31"
+      ],
+      "evidence": [
+       {
+        "id": "E31",
+        "pack": "history",
+        "page_title": "Laws of the Indies",
+        "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+        "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Texas community-property law comes from Muslim Spain.",
+      "verdict": "myth",
+      "explanation": "The supplied evidence does not establish that lineage. It documents Castilian and colonial legal context, but not a traceable route from it—or from Muslim Spain—to Texas law.",
+      "evidence_ids": [
+       "E26",
+       "E31",
+       "E33",
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "history",
+        "page_title": "Community property",
+        "url": "https://en.wikipedia.org/wiki/Community_property",
+        "snippet": "Each spouse owns an undivided half-interest in all property acquired during the marriage, except for property acquired by gift or inheritance during the marriage, which is separate property; or which traces to separate property acquired before the marriage, which remains separate property;",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E31",
+        "pack": "history",
+        "page_title": "Laws of the Indies",
+        "url": "https://en.wikipedia.org/wiki/Laws_of_the_Indies",
+        "snippet": "The Laws of the Indies ( Spanish : Leyes de las Indias ) are the entire body of laws issued by the Spanish Crown in 1573 for the American and the Asian possessions of its empire . They regulated social, political, religious, and economic life in these areas.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E33",
+        "pack": "history",
+        "page_title": "Siete Partidas",
+        "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+        "snippet": "The Siete Partidas was in force in Latin America until the modern codification movement (1822–1916); until the beginning of the 19th century, they were even in effect in the parts of the United States , such as Louisiana , that had previously belonged to the Spanish empire and used civil law .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E34",
+        "pack": "history",
+        "page_title": "Siete Partidas",
+        "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+        "snippet": "The Siete Partidas ( Spanish pronunciation: [ˈsjete paɾˈtiðas] , \" Seven-Part Code \") or simply Partidas , was a Castilian statutory code first compiled during the reign of Alfonso X of Castile (1252–1284), with the intent of establishing a uniform body of normative rules for the kingdom.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter follows the Partidas and the Laws of the Indies into the colonial world. What does it say this evidence establishes about the Texas property rule’s origins?",
+     "options": [
+      "A direct chain from the Partidas to Texas law",
+      "A direct inheritance from Muslim Spain",
+      "Context, but no proven transmission route"
+     ],
+     "answer_index": 2,
+     "reveal_para": 4,
+     "explanation": "The chapter says the Castilian and colonial context is documented, but the evidence does not establish the specific route by which the Texas rule reached Texas."
+    }
+   }
+  },
+  "What exactly makes Texas property community property?": {
+   "index": 2,
+   "title": "What Community Property Means",
+   "narration": "You chose the practical question: what makes property community property? We return to that Texas courtroom, where a marriage has ended and a label can decide what gets divided. The answer begins with a principle, not a medieval costume. Property acquired during marriage is considered owned by both spouses and subject to division if they divorce. [c1]\n\nThat is the basic community-property idea. The contrast is property acquired before marriage: the overview describes that as separate property belonging to the spouse who acquired it. [c2] So the dividing line in this basic explanation is when the property was acquired. One category is held in common; the other remains separate.\n\nAnd that distinction matters because a courtroom cannot divide an abstraction. It has to classify the actual property in dispute. The practical question is not simply, “Are these people married?” It is, “Which category does this property belong in?” That is the moment a legal principle turns into a personal argument.\n\nThe cards here do not spell out every Texas rule, asset category, or exception. [c3] So I won’t pretend that this short rule settles every Texas courtroom dispute. The principle is clear; the full classification can be the hard part.\n\nCommunity-property disputes often arise in divorce and after one spouse dies. [c4] The question of ownership becomes urgent when a shared life changes shape. The overview also says disputes may sometimes be avoided through estate planning during the spouses’ joint lifetime. [c5] The legal question can arrive at the end of a marriage, but planning can address it earlier.\n\nNow for the division itself. Community property may be divided item by item, or by assigning values. [c6] One approach separates the objects themselves. The other treats their values as the thing to balance. The supplied description gives California as an example of a jurisdiction where a strict fifty-fifty division is mandated by statute, shifting attention toward whether items are community or separate. [c7] Before anyone can divide a common pool, they have to decide what enters it.\n\nBut keep the example in its lane. It describes California; it does not establish the detailed Texas rule. [c8] The practical principle is not “everything a couple touches belongs to both.” In the general definition, property acquired during marriage is considered jointly owned, while the overview describes property acquired before marriage as separate. [c9] The categories do the work. The label is not decoration.\n\nNow let’s walk backward, carefully, toward the older legal story. The Visigothic Code abolished the older division between Roman laws and Visigothic laws, and described the kingdom’s subjects as becoming one people, Hispani. [c10] That is a documented legal transformation in the card before us. The code was also preserved under Muslim rule in Iberia, where Christians could use their own laws so long as those laws did not conflict with the conquerors’ laws and the required tribute was paid. [c11]\n\nThat detail matters, but it is not a shortcut. Preservation under Muslim rule tells us the Visigothic Code continued to matter in that setting. It does not, by itself, establish that Texas community-property law came from Islamic law. The “Muslim Spain” origin story is a popular claim sometimes raised in this discussion, but the cards here do not verify it. [c12] The evidence provided does not establish a legal chain from the Visigothic Code through Castilian law to Texas, or show Islamic law as the source of Texas community property. [c13]\n\nSo the honest ending is narrower than a grand family tree, but more useful. We can explain the community-versus-separate principle, and point to the Visigothic Code’s role in Iberian legal history. The route from that code through Castilian law to Texas is not documented by the cards in this chapter. [c14] And broader Islamic influence on Castilian law remains a question these cards cannot settle. [c15]\n\nSo: community property, in the general definition, is property acquired during marriage and treated as belonging to both spouses; the overview identifies premarital property as separate. [c16] The courtroom question is concrete, but the long inheritance story needs more evidence before we can call every link established. Where should our next journey go: Visigothic law and medieval Iberia, the changing rules of marital property across the United States, or ancient legal ideas in modern courtrooms?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Community property generally treats property acquired during marriage as owned by both spouses and subject to division at divorce.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The community-property definition plainly says property acquired during marriage is owned by both spouses and subject to division at divorce.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The overview says property acquired before marriage is separate and belongs to the spouse who acquired it.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The overview expressly describes property acquired before marriage as separate and belonging to the spouse who acquired it.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The supplied cards do not spell out every Texas rule, asset category, or exception.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a careful statement of what the supplied cards do not specify about Texas rules.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Community-property disputes often arise in divorce and after one spouse dies.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The overview says community-property issues often arise in divorce proceedings and disputes after one spouse dies.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Some disputes may be avoided through estate planning during the spouses' joint lifetime.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The overview says such disputes can often be avoided through proper estate planning during the spouses’ joint lifetime.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Community property may be divided item by item or by values.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that division may occur by splitting items or by values.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Division of community property may take place by item by splitting all items or by values. In some jurisdictions, such as California , a 50/50 division of community property is strictly mandated by statute so the focus then shifts to whether particular items are to be classified as community or separate property.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The evidence describes California as a jurisdiction with a strict statutory fifty-fifty division, making classification central.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies California as a jurisdiction where a statutory 50/50 division is mandated and classification becomes central.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Division of community property may take place by item by splitting all items or by values. In some jurisdictions, such as California , a 50/50 division of community property is strictly mandated by statute so the focus then shifts to whether particular items are to be classified as community or separate property.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The cited example concerns California and does not establish the detailed Texas rule.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This accurately limits the California example and notes that it does not provide a detailed Texas rule.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Division of community property may take place by item by splitting all items or by values. In some jurisdictions, such as California , a 50/50 division of community property is strictly mandated by statute so the focus then shifts to whether particular items are to be classified as community or separate property.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The general definition treats property acquired during marriage as jointly owned, while the overview describes premarital property as separate.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state both that property acquired during marriage is treated as jointly owned and that premarital property is separate.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Visigothic Code abolished distinct Roman and Visigothic legal categories and described the kingdom's subjects as Hispani.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Visigothic Code card says it abolished separate Roman and Visigothic legal categories and describes the subjects as becoming Hispani.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code abolished the old tradition of having different laws for Romans ( leges romanae ) and Visigoths ( leges barbarorum ), and under it all the subjects of the Visigothic kingdom would stop being romani and gothi instead becoming hispani .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Visigothic Code was preserved under Muslim rule, where Christians could use their own laws subject to stated conditions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the code was preserved under Muslim rule and that Christians could use their own laws subject to the stated conditions.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code is known to have been preserved by the Moors , as Christians were permitted the use of their own laws, where they did not conflict with those of the conquerors, upon the regular payment of jizya tribute. Thus it may be presumed that it was the recognized legal authority of Christian magistrates while the Iberian Peninsula remained under Muslim control.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Muslim Spain origin story is a popular claim under discussion, but the supplied cards do not verify it.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No supplied card establishes that the Muslim Spain origin story is a popular claim or verifies it.",
+     "evidence": []
+    },
+    {
+     "id": "c13",
+     "text": "The supplied evidence does not establish a legal chain through Castilian law to Texas or Islamic law as the source of Texas community property.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This appropriately describes the limits of the supplied evidence, which does not document the asserted chain or Islamic law as the source.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code abolished the old tradition of having different laws for Romans ( leges romanae ) and Visigoths ( leges barbarorum ), and under it all the subjects of the Visigothic kingdom would stop being romani and gothi instead becoming hispani .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code is known to have been preserved by the Moors , as Christians were permitted the use of their own laws, where they did not conflict with those of the conquerors, upon the regular payment of jizya tribute. Thus it may be presumed that it was the recognized legal authority of Christian magistrates while the Iberian Peninsula remained under Muslim control.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The supplied cards support the Visigothic Code's role in Iberian legal history but do not document a route from it through Castilian law to Texas.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards support the code’s role in Iberian legal history but do not document a path through Castilian law to Texas.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code abolished the old tradition of having different laws for Romans ( leges romanae ) and Visigoths ( leges barbarorum ), and under it all the subjects of the Visigothic kingdom would stop being romani and gothi instead becoming hispani .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code is known to have been preserved by the Moors , as Christians were permitted the use of their own laws, where they did not conflict with those of the conquerors, upon the regular payment of jizya tribute. Thus it may be presumed that it was the recognized legal authority of Christian magistrates while the Iberian Peninsula remained under Muslim control.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The supplied cards cannot settle whether broader Islamic influence shaped Castilian law.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "This accurately says the supplied cards cannot settle the question of broader Islamic influence on Castilian law.",
+     "evidence": []
+    },
+    {
+     "id": "c16",
+     "text": "The general definition treats property acquired during marriage as common, while the overview identifies property acquired before marriage as separate.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state the general rule for property acquired during marriage and identify premarital property as separate.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Community property",
+       "url": "https://en.wikipedia.org/wiki/Community_property",
+       "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Visigothic law: the code that made Hispani",
+    "Marriage, money, and property across the United States",
+    "Ancient legal ideas hiding in modern courtrooms"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Property acquired during marriage is generally treated as belonging to both spouses and subject to division in a divorce.",
+      "verdict": "fact",
+      "explanation": "That is the general definition of community property given in the evidence. It does not settle every Texas-specific classification rule.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "history",
+        "page_title": "Community property",
+        "url": "https://en.wikipedia.org/wiki/Community_property",
+        "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Property acquired before marriage is generally treated as separate property belonging to the spouse who acquired it.",
+      "verdict": "fact",
+      "explanation": "The overview expressly describes premarital property as separate and belonging to the acquiring spouse.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Community property in the United States",
+        "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+        "snippet": "Community property issues often arise in divorce proceedings and disputes after the death of one spouse. These disputes can often be avoided by proper estate planning during the spouses' joint lifetime. This may or may not involve probate proceedings. Property acquired before marriage is separate and belongs to the spouse who acquired it.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Texas community-property law came from Islamic law in Muslim Spain.",
+      "verdict": "myth",
+      "explanation": "The chapter’s cards do not verify this origin story or establish a legal chain to Texas. They show that the Visigothic Code was preserved under Muslim rule, which alone does not prove Islamic law was the source.",
+      "evidence_ids": [
+       "E11",
+       "E12",
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "history",
+        "page_title": "Visigothic Code",
+        "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+        "snippet": "The code abolished the old tradition of having different laws for Romans ( leges romanae ) and Visigoths ( leges barbarorum ), and under it all the subjects of the Visigothic kingdom would stop being romani and gothi instead becoming hispani .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E12",
+        "pack": "history",
+        "page_title": "Visigothic Code",
+        "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+        "snippet": "The code is known to have been preserved by the Moors , as Christians were permitted the use of their own laws, where they did not conflict with those of the conquerors, upon the regular payment of jizya tribute. Thus it may be presumed that it was the recognized legal authority of Christian magistrates while the Iberian Peninsula remained under Muslim control.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E15",
+        "pack": "history",
+        "page_title": "Community property",
+        "url": "https://en.wikipedia.org/wiki/Community_property",
+        "snippet": "Community property (United States) also called community of property (South Africa) is a marital property regime whereby property acquired during a marriage is considered to be owned by both spouses and subject to division between them in the event of divorce.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter describes the Visigothic Code under Muslim rule. What did it allow Christians to do, under stated conditions?",
+     "options": [
+      "Use their own laws",
+      "Choose between Roman and Visigothic courts",
+      "Avoid paying tribute"
+     ],
+     "answer_index": 0,
+     "reveal_para": 7,
+     "explanation": "Christians could use their own laws when those laws did not conflict with the conquerors’ laws and the required tribute was paid."
+    }
+   }
+  },
+  "The Islamic-origins claim: influence, or overreach?": {
+   "index": 2,
+   "title": "Influence, Not Inheritance",
+   "narration": "We return to the Texas courtroom, where a marriage has ended and the property question remains. You chose to put one explanation on trial: did Texas community-property law come from Muslim Spain?\n\nThat is the claim being tested, not a fact established here. [c1] The supplied evidence does not support a direct Islamic origin for Texas community-property law. [c2] To make that case, we would need more than cultural contact or a shared feature. We would need a documented legal path.\n\nHere is the path these sources do describe. U.S. community-property states draw primarily from marital-property laws under the civil law of France and Spain. [c3] The account traces the system through Mexico’s ganancial community system, Spanish law, and ultimately the Visigothic Code. [c4] The route has named links: Mexico, Spanish law, and a much older legal code.\n\nBut inheritance is not the same as purity. The Siete Partidas drew on a diverse collection of sources. They included Justinian’s Roman law, canon law, Castilian fueros and customs, and an Islamic legal treatise written in Islamic Spain. [c5] That Islamic text belongs in the story. It shows a source within a wider legal mix; it does not, by itself, identify the origin of every rule later carried across the Atlantic.\n\nSo the careful answer is not “no Islamic influence.” The evidence names an Islamic legal treatise among the Partidas’ sources. [c6] The careful answer is that this partial influence does not prove direct Islamic origins for Texas community-property law. [c7] A source used by a broad legal compilation is not automatically the source of a particular later rule.\n\nNow follow the law into Texas. Texas adopted much of the Anglo-American legal system while retaining many Spanish legal practices. [c8] Community property is named among those surviving practices. [c9] The record also points to the homestead exemption and property protections as examples of Spanish legal practice retained in Texas. [c10] Texas implemented the first homestead exemption in the United States in eighteen thirty-nine. [c11]\n\nThat matters because legal inheritance rarely arrives as one untouched package. Community property concerns marital property; homestead exemption law concerns protection from creditors. They are distinct practices, both described as part of the Spanish legal inheritance retained in Texas. [c12] One legal world can leave several marks, while a newer system grows around them.\n\nHere’s my read: “influence” is the honest word; “direct origin” goes farther than this evidence allows. The Partidas had many sources, including an Islamic legal treatise. The community-property lineage described here runs through Spanish law and Mexico’s ganancial system, and back to the Visigothic Code. [c13] That distinction does not erase Islamic influence. It keeps influence from being mistaken for a documented chain of inheritance.\n\nSo: the described legal route reaches Texas through Mexican and Spanish inheritance, with the Visigothic Code named farther back. [c14] Islamic legal material appears among the Partidas’ diverse sources, but that fact alone does not establish a direct Islamic origin for Texas community-property law. [c15] A cultural echo can be real without being the same thing as a proven legal lineage.\n\nThe story can continue with the Texas homestead exemption and its promise of shelter; with Spanish legal customs across the American West; or inside the many sources of the Siete Partidas. Which thread should we follow next?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The claim being tested is that Texas community-property law came from Muslim Spain.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No cited card supports the claim that Texas community-property law came from Muslim Spain.",
+     "evidence": []
+    },
+    {
+     "id": "c2",
+     "text": "The supplied evidence does not support a direct Islamic origin for Texas community-property law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards trace community property through Mexican and Spanish law to the Visigothic Code and identify Islamic material among the Partidas’ sources, but they do not establish or disprove every possible direct link.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "U.S. community-property states draw primarily from marital-property laws under French and Spanish civil law.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that U.S. states with community-property laws draw primarily from marital-property laws under French and Spanish civil law.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The community property concept originated in civil law jurisdictions but is now also found in some common law jurisdictions. U.S. states with community property laws draw primarily from the marital property laws under the civil law of France and Spain. Division of community property may take place by item by splitting all items or by values.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The account traces the community-property system through Mexico's ganancial community system, Spanish law, and ultimately the Visigothic Code.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly traces the system from Mexico’s ganancial community system through Spanish law to the Visigothic Code.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Siete Partidas drew on diverse sources, including Justinian's Roman law, canon law, Castilian fueros and customs, and an Islamic legal treatise written in Islamic Spain.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Siete Partidas card identifies Justinian’s law, canon law, Castilian fueros and customs, and an Islamic legal treatise among its diverse sources.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "An Islamic legal treatise is identified among the sources of the Siete Partidas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Siete Partidas card explicitly names an Islamic legal treatise written in Islamic Spain among its sources.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Islamic source among the Partidas' sources does not prove direct Islamic origins for Texas community-property law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards establish both an Islamic treatise among the Partidas’ sources and a separate community-property lineage, but the conclusion about what that does not prove is the narrator’s evidentiary interpretation.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Texas adopted much of the Anglo-American legal system while retaining many Spanish legal practices.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Spanish Texas card says Texas adopted much of the Anglo-American system while retaining many Spanish legal practices.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Although Texas eventually adopted much of the Anglo-American legal system, many Spanish legal practices were retained. Among these was the Spanish model of keeping certain personal property safe from creditors. Texas implemented the first homestead exemption in the United States in 1839, and its property exemption laws are now the most liberal in the United States.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Community property is named among Spanish legal practices retained in Texas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence expressly names community property among Spanish legal practices that survive in Texas.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Spanish influence in Texas is significant and Spanish architectural concepts continued to shape the built environment. Many cities and rivers in Texas were named by Spaniards, and many counties in southern and western Texas have majority-Hispanic populations. Many Spanish legal practices still survive, including the concepts of a homestead exemption and community property .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The homestead exemption and property protections are described as Spanish legal practices retained in Texas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes the homestead exemption and protection of certain personal property from creditors as Spanish practices retained in Texas.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Although Texas eventually adopted much of the Anglo-American legal system, many Spanish legal practices were retained. Among these was the Spanish model of keeping certain personal property safe from creditors. Texas implemented the first homestead exemption in the United States in 1839, and its property exemption laws are now the most liberal in the United States.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Texas implemented the first homestead exemption in the United States in 1839.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Texas implemented the first homestead exemption in the United States in 1839.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Although Texas eventually adopted much of the Anglo-American legal system, many Spanish legal practices were retained. Among these was the Spanish model of keeping certain personal property safe from creditors. Texas implemented the first homestead exemption in the United States in 1839, and its property exemption laws are now the most liberal in the United States.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Community property and homestead exemption law are distinct practices, both identified as Spanish legal practices retained in Texas.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards separately identify community property and homestead protections as retained Spanish practices, while their distinction as different kinds of law is the narrator’s framing.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Although Texas eventually adopted much of the Anglo-American legal system, many Spanish legal practices were retained. Among these was the Spanish model of keeping certain personal property safe from creditors. Texas implemented the first homestead exemption in the United States in 1839, and its property exemption laws are now the most liberal in the United States.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Spanish influence in Texas is significant and Spanish architectural concepts continued to shape the built environment. Many cities and rivers in Texas were named by Spaniards, and many counties in southern and western Texas have majority-Hispanic populations. Many Spanish legal practices still survive, including the concepts of a homestead exemption and community property .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Partidas drew on diverse sources, while the described community-property lineage runs through Spanish law and Mexico to the Visigothic Code.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards support the stated source list and lineage, but treating their separation as evidence that one does not prove the other is an interpretive conclusion.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The described legal route to U.S. community property passes through Mexican and Spanish inheritance and reaches back to the Visigothic Code.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The community-property card describes the route through Mexico’s ganancial system and Spanish law back to the Visigothic Code.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The presence of Islamic legal material among the Partidas' sources does not establish direct Islamic origins for Texas community-property law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards show Islamic legal material among the Partidas’ sources and a distinct described lineage for community property, but the conclusion about what this alone establishes is interpretive.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Texas homestead law: shelter from creditors",
+    "Spanish legal customs across the American West",
+    "Inside the Siete Partidas and its many sources"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Texas community-property law came directly from Muslim Spain.",
+      "verdict": "myth",
+      "explanation": "The documented route runs through Mexico’s ganancial system and Spanish law, back to the Visigothic Code. An Islamic legal treatise appears among the diverse sources of the Siete Partidas, but that does not establish a direct origin for Texas community-property law.",
+      "evidence_ids": [
+       "E19",
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E19",
+        "pack": "history",
+        "page_title": "Community property in the United States",
+        "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+        "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E21",
+        "pack": "history",
+        "page_title": "Siete Partidas",
+        "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+        "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Siete Partidas drew on an Islamic legal treatise as well as Roman, canon, and Castilian sources.",
+      "verdict": "fact",
+      "explanation": "The sources listed include an Islamic legal treatise written in Islamic Spain, alongside Roman law, canon law, and Castilian fueros and customs.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "history",
+        "page_title": "Siete Partidas",
+        "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+        "snippet": "Its sources were diverse. Among the most important were the Corpus Iuris Civilis of Justinian; the works of the Roman glossators and commentators, for example Franciscus Accursius and Azzus ; canon law texts like the Decrees of Gregory IX and the work of Saint Raimundo de Peñafort ; the Islamic legal treatise Villiyet written in Islamic Spain ; and some Castilian fueros and customs.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Texas retained community property as one of its Spanish legal practices.",
+      "verdict": "fact",
+      "explanation": "The evidence names community property among the Spanish legal practices that survive in Texas.",
+      "evidence_ids": [
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "history",
+        "page_title": "Spanish Texas",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+        "snippet": "Spanish influence in Texas is significant and Spanish architectural concepts continued to shape the built environment. Many cities and rivers in Texas were named by Spaniards, and many counties in southern and western Texas have majority-Hispanic populations. Many Spanish legal practices still survive, including the concepts of a homestead exemption and community property .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter distinguishes community property from another Spanish legal practice retained in Texas. What is that other practice?",
+     "options": [
+      "The homestead exemption",
+      "The ganancial community system",
+      "The Siete Partidas"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The chapter identifies homestead exemption law as a distinct Spanish legal practice retained in Texas."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8253,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 481,
+   "output_tokens": 709,
+   "cost_usd": 0.00053772
+  },
+  {
+   "agent": "researcher",
+   "requests": 13,
+   "input_tokens": 40073,
+   "cached_tokens": 30246,
+   "cache_write_tokens": 8189,
+   "output_tokens": 1589,
+   "cost_usd": 0.00228439
+  },
+  {
+   "agent": "storyteller",
+   "requests": 8,
+   "input_tokens": 37606,
+   "cached_tokens": 25336,
+   "cache_write_tokens": 11262,
+   "output_tokens": 13368,
+   "cost_usd": 0.00844589
+  },
+  {
+   "agent": "skeptic",
+   "requests": 8,
+   "input_tokens": 34505,
+   "cached_tokens": 18280,
+   "cache_write_tokens": 15217,
+   "output_tokens": 6808,
+   "cost_usd": 0.00558973
+  }
+ ],
+ "build_cost_usd": 0.016858,
+ "build_seconds": 96.6
+}

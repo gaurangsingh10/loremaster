@@ -1,0 +1,1678 @@
+{
+ "thread": {
+  "id": "varangian-custodes",
+  "title": "The Varangian Guard → The Adeptus Custodes",
+  "hook": "Norse axemen guarding a Byzantine throne, and the golden giants who guard the Emperor's.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Byzantium, 10th–14th c.",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Axemen and Golden Giants",
+ "logline": "How did Norse warriors at a Byzantine emperor’s side become a striking lens for understanding the Adeptus Custodes—and where does the comparison stop?",
+ "plan": [
+  {
+   "title": "The Emperor’s Axemen",
+   "focus": "Open on the irresistible pairing: the Varangian Guard at the Byzantine throne and the Adeptus Custodes around the Emperor. Set their distinct historical and fictional origins side by side, treating any resemblance as interpretation rather than claiming direct inspiration.",
+   "queries": [
+    "history: Varangian Guard",
+    "warhammer40k: Adeptus Custodes",
+    "warhammer40k: Emperor of Mankind"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  },
+  {
+   "title": "Guardians, Not Twins",
+   "focus": "Compare the Varangians’ role in imperial service with the Custodes’ charge to protect the Emperor, then make the differences the payoff: one was a historical guard corps, the other a fictional order of superhuman warriors. Check whether any claimed creator inspiration is documented; do not imply a historical link without evidence.",
+   "queries": [
+    "history: Varangian Guard Byzantine emperors",
+    "warhammer40k: Adeptus Custodes duties",
+    "warhammer40k: Adeptus Custodes creation"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Emperor’s Axemen",
+  "narration": "Constantinople. A foreign guard stands close to the Byzantine throne, axes in hand, while beyond the palace walls, the empire holds its breath. [c1] Now cut to a future so distant it has become nightmare: the Emperor of Mankind sits at the heart of a palace, and the Custodes guard his body. [c2] One emperor is Byzantine; the other belongs to a grim, imagined future. [c3]\n\nThe Varangian Guard was an elite unit of the Byzantine army from the tenth through the fourteenth century. [c4] Its members served as personal bodyguards to Byzantine emperors. [c5] The ranks drew chiefly from Northern Europe, especially Norsemen from Scandinavia and Anglo-Saxons from England. [c6] These were outsiders brought close to the center of imperial power. [c7]\n\nTheir job had familiar northern echoes. The Varangians’ duties resembled those of the Kievan druzhina, the Swedish and Norwegian hird, and Scandinavian and Anglo-Saxon housecarls. [c8] They swore an oath of loyalty to the emperor. [c9] The oath makes the political bargain vivid: the throne receives armed loyalty, and the guard receives a place at the throne’s side. [c10]\n\nNow look at the Adeptus Custodes. In the era of the Great Crusade and Horus Heresy, they were known as the Legio Custodes; they are also colloquially called the Ten Thousand. [c11] Their charge is to protect the Imperial Palace and the physical body of the Emperor of Mankind. [c12] But their role reaches beyond guarding: they serve as his emissaries and companions, and keepers of his secrets. [c13]\n\nHere’s my read: the Varangian beside a Byzantine emperor and the Custodian beside the Emperor of Mankind make a striking pair. Both stand between a ruler’s vulnerable body and the world beyond the palace doors. [c14] But the resemblance is not identity. The Varangian Guard is a documented army unit with northern European recruits and an oath to an emperor; the Custodes belong to a fictional order whose origins are shrouded in myth and legend. [c15]\n\nAnd the Custodes carry a darker edge. In the ancient Legio Custodes, the sworn protectors could also become the Emperor’s most deadly executioners when need arose. [c16] A bodyguard can be more than a shield. In the Imperium, the shield is also a blade, and it serves a ruler whose secrets are part of its charge. [c17]\n\nThe Varangians, meanwhile, did not remain only palace sentinels. They fought in many wars and were often deployed at critical moments, sometimes playing a decisive role. [c18] By the late thirteenth century, they were mostly ethnically assimilated by Byzantine Greeks, though the Guard continued to exist until at least the middle of the fourteenth century. [c19] The outsiders did not simply vanish; over generations, the empire changed who they were.\n\nSo: one guard swore loyalty to a Byzantine emperor, while another protects the body and secrets of a future Emperor. [c20] One force also entered battles; the other can become an executioner. [c21] Next, do we follow the Varangians into the battle line, descend into the Custodes’ legendary origins, or ask what happens when a foreign guard becomes part of the empire?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The Varangian Guard stood close to the Byzantine throne as armed palace guards.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 identifies the Varangian Guard as an elite unit serving as personal bodyguards to Byzantine emperors.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The Adeptus Custodes guard the body of the Emperor of Mankind in the Imperial Palace.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "E8 states that the Custodes protect the physical body of the Emperor of Mankind.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The Byzantine emperor and the Emperor of Mankind belong to different settings and periods.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The distinction between Byzantine history and the fictional future is narrator framing, not a factual claim established by the cited cards.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Varangian Guard was an elite Byzantine army unit from the tenth to the fourteenth century.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 dates the elite Byzantine army unit from the tenth to the fourteenth century.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Varangians served as personal bodyguards to Byzantine emperors.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 directly describes Varangians as personal bodyguards to Byzantine emperors.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "The guard recruited chiefly from Northern Europe, especially Scandinavia and England.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 says recruitment was primarily from Northern Europe, especially Scandinavia and England.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The Varangian Guard included recruits from outside the Byzantine imperial center.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 specifies that recruits came from Northern Europe, including Scandinavia and England, outside the Byzantine imperial center.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Varangian duties resembled those of the Kievan druzhina, northern hird, and Scandinavian and Anglo-Saxon housecarls.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 directly compares their duties to the listed northern retinues and household guards.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The duties and purpose of the Varangian Guard were similar—if not identical—to the services provided by the Kievan druzhina , the Swedish/Norwegian hird , and the Scandinavian and Anglo-Saxon housecarls . The Varangians served as the personal bodyguard of the emperor, swearing an oath of loyalty to him;",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Varangians swore an oath of loyalty to the emperor.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 states that Varangians swore an oath of loyalty to the emperor.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The duties and purpose of the Varangian Guard were similar—if not identical—to the services provided by the Kievan druzhina , the Swedish/Norwegian hird , and the Scandinavian and Anglo-Saxon housecarls . The Varangians served as the personal bodyguard of the emperor, swearing an oath of loyalty to him;",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The emperor’s oath-bound guard formed a close political relationship with the throne.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The political bargain and proximity to the throne are the narrator’s interpretation of the oath and bodyguard role described in E5.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The duties and purpose of the Varangian Guard were similar—if not identical—to the services provided by the Kievan druzhina , the Swedish/Norwegian hird , and the Scandinavian and Anglo-Saxon housecarls . The Varangians served as the personal bodyguard of the emperor, swearing an oath of loyalty to him;",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The Custodes were called the Legio Custodes during the Great Crusade and Horus Heresy, and are colloquially called the Ten Thousand.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "E8 gives both the historical title Legio Custodes and the colloquial name Ten Thousand.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The Custodes protect the Imperial Palace and the Emperor’s physical body.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "E8 states that the Custodes protect the Imperial Palace and the Emperor’s physical body.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The Custodes serve as emissaries and companions of the Emperor and keepers of his secrets.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "E8 identifies the Custodes as the Emperor’s emissaries and companions and as keepers of his secrets.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "The parallel between Varangians and Custodes is an interpretation based on their roles near imperial rulers.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This explicitly framed comparison draws a parallel between the two guards’ roles near their respective rulers.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "The Varangian Guard is a historical army unit, while Custodian origins are presented as shrouded in myth and legend.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This contrast joins the documented Varangian unit in E4 with the fictional origins described as shrouded in myth and legend in E7.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The origins of the Custodian Guard are shrouded in myth and legend. The ancient Legio Custodes were the bodyguards and sworn protectors of the Emperor and His chosen emissaries, and when the need arose, His most deadly executioners.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "The ancient Legio Custodes could serve as the Emperor’s executioners when needed.",
+    "kind": "lore",
+    "grade": "Conflicting",
+    "note": "E7 presents this as what the ancient Legio Custodes could do when needed, so the hedged, multiply characterized lore is not an unqualified status claim.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The origins of the Custodian Guard are shrouded in myth and legend. The ancient Legio Custodes were the bodyguards and sworn protectors of the Emperor and His chosen emissaries, and when the need arose, His most deadly executioners.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "The Custodes’ protective and executionary roles make them both shield and blade in the fictional setting.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "Calling the Custodes both shield and blade is the narrator’s metaphorical synthesis of their protective and executionary roles.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E7",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The origins of the Custodian Guard are shrouded in myth and legend. The ancient Legio Custodes were the bodyguards and sworn protectors of the Emperor and His chosen emissaries, and when the need arose, His most deadly executioners.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "The Varangians fought in many wars and were often deployed at critical moments, sometimes decisively.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E6 says the Varangians fought in many wars and were often deployed at critical moments, sometimes playing a decisive role.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard not only provided security for the Byzantine emperors, but also participated in many wars , often playing a decisive role, since they were usually deployed at critical moments of a battle. By the late 13th century, Varangians were mostly ethnically assimilated by the Byzantine Greeks , though the Guard remained in existence until at least mid-14th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c19",
+    "text": "By the late thirteenth century Varangians were mostly assimilated by Byzantine Greeks, and the Guard lasted until at least the mid-fourteenth century.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E6 states that the Varangians were mostly assimilated by the late thirteenth century and that the Guard lasted until at least the mid-fourteenth century.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard not only provided security for the Byzantine emperors, but also participated in many wars , often playing a decisive role, since they were usually deployed at critical moments of a battle. By the late 13th century, Varangians were mostly ethnically assimilated by the Byzantine Greeks , though the Guard remained in existence until at least mid-14th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c20",
+    "text": "The Varangians guarded Byzantine emperors, while the Custodes protect the Emperor of Mankind.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The sentence summarizes the separately documented Varangian and Custodes roles as a cross-setting comparison.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E8",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The Adeptus Custodes , known as the Legio Custodes during the era of the Great Crusade and Horus Heresy , and colloquially as the \" Ten Thousand ,\" is the Imperial adepta responsible for protecting the Imperial Palace and the physical body of the Emperor of Mankind , as well as serving as His most important emissaries, His companions, and the keepers of His many secrets.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c21",
+    "text": "Varangians fought in battles, while Custodes could act as executioners.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This contrast combines the Varangians’ documented battle service with the Custodes’ fictional executioner role.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Varangian Guard",
+      "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+      "snippet": "The Varangian Guard not only provided security for the Byzantine emperors, but also participated in many wars , often playing a decisive role, since they were usually deployed at critical moments of a battle. By the late 13th century, Varangians were mostly ethnically assimilated by the Byzantine Greeks , though the Guard remained in existence until at least mid-14th century.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "warhammer40k",
+      "page_title": "Adeptus Custodes",
+      "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+      "snippet": "The origins of the Custodian Guard are shrouded in myth and legend. The ancient Legio Custodes were the bodyguards and sworn protectors of the Emperor and His chosen emissaries, and when the need arose, His most deadly executioners.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Varangian battle lines, where an emperor spends his axemen",
+   "The Custodes’ legendary beginnings, and the Emperor’s chosen protectors",
+   "When foreign guards become part of the empire"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The Varangian Guard was an elite Byzantine army unit that served as emperors’ personal bodyguards.",
+     "verdict": "fact",
+     "explanation": "The evidence describes it as an elite unit from the tenth to fourteenth centuries and says its members guarded Byzantine emperors personally.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Varangian Guard was made up entirely of Scandinavians.",
+     "verdict": "myth",
+     "explanation": "Its recruits came chiefly from Northern Europe, including Norsemen from Scandinavia and Anglo-Saxons from England; it was not exclusively Scandinavian.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "The Varangian Guard ( Greek : Τάγμα τῶν Βαράγγων , romanized : Tágma tōn Varángōn ) was an elite unit of the Byzantine army from the 10th to the 14th century who served as personal bodyguards to the Byzantine emperors . The Varangian Guard was known for being primarily composed of recruits from Northern Europe, including mainly Norsemen from Scandinavia but also Anglo-Saxons from England.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The ancient Legio Custodes could serve as the Emperor’s executioners when needed.",
+     "verdict": "fact",
+     "explanation": "The lore card says the ancient Legio Custodes were sworn protectors and could also become the Emperor’s executioners. This is a claim about fictional lore.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "The origins of the Custodian Guard are shrouded in myth and legend. The ancient Legio Custodes were the bodyguards and sworn protectors of the Emperor and His chosen emissaries, and when the need arose, His most deadly executioners.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The Varangians served as palace guards, but what else did they do?",
+    "options": [
+     "They fought in wars, sometimes at decisive moments.",
+     "They became the Byzantine emperor’s tax collectors.",
+     "They were disbanded before taking part in any battles."
+    ],
+    "answer_index": 0,
+    "reveal_para": 6,
+    "explanation": "The chapter says the Varangians fought in many wars and were sometimes deployed at critical moments, playing a decisive role."
+   }
+  }
+ },
+ "branches": {
+  "Varangian battle lines, where an emperor spends his axemen": {
+   "index": 2,
+   "title": "The Emperor’s Last Line",
+   "narration": "You chose the battlefield: the place where an emperor’s axemen stop being a symbol and become a weapon. [c1] We are back in the Byzantine world, where the Varangian Guard stands near the throne, but its story does not end at the palace door. The question is what happens when the emperor needs that guard somewhere else.\n\nAt Dyrrhachium, the stakes have a date and a name. The battle took place on October eighteenth, ten eighty-one, between the Byzantine Empire, led by Emperor Alexios the First Komnenos, and the Normans of southern Italy, under Robert Guiscard. [c2] This is the kind of crisis that turns a courtly promise into a military problem. An emperor does not merely need loyal men nearby. He needs a force that can move, fight, and survive the moment when the empire’s map becomes a battlefield.\n\nThe road to that battle began with an alliance unraveling. After the Norman conquest of Byzantine Italy and Saracen Sicily, Emperor Michael the Seventh Doukas betrothed his son to Robert Guiscard’s daughter. [c3] Michael was deposed. Robert treated that as an excuse to invade the Byzantine Empire in ten eighty-one, and his army laid siege to Dyrrhachium. [c4] The Venetian fleet defeated the Norman fleet. [c5] But a naval setback did not make the siege disappear. The emperor still faced a hard question: where does his power go when the danger is at the walls?\n\nHere the Varangians enter not as ornaments, but as soldiers. In the Komnenian-era account, they are the elite of the infantry. In the field, they fight as heavy infantry, protected by armor and long shields, and armed with spears and their distinctive two-handed Danish axes. [c6] Their battlefield employment appears essentially offensive, unlike that of other Byzantine heavy infantry. [c7] That last distinction matters. These are not simply guards assigned to stand still and look imposing. The account places their role on the offensive side of battle, where fighting carries a real cost.\n\nNow cut across the centuries into the nightmare future of Warhammer forty thousand. The Adeptus Custodes are charged with protecting the Emperor and his works from the foes of humanity. [c8] Their mandate is so absolute that, in extremis, they can requisition anyone or anything within the Imperium for that sacred task. [c9] The lore even gives the Emperor a blunt declaration: “These men are my bodyguards, their lives forfeit to the guarantee of my physical safety.” [c10] Then comes the boundary around that service: no other commander is to have authority over them in battle or in service. [c11]\n\nHere’s my read: the Varangian Guard and the Custodes make a striking pair because both bring imperial protection into the physical world of danger. The Varangians are a historical infantry guard with an apparently offensive battlefield role; the Custodes are fictional protectors whose command is written as an extension of the Emperor’s own will. Those are not the same institution. One belongs to the documented armies of Byzantium; the other belongs to a fictional future. Resemblance is a comparison, not proof that one directly inspired the other.\n\nAnd that difference is the payoff. The Varangian axeman appears in an account of heavy infantry used offensively in the field. [c12] The Custodian’s defining duty, by contrast, is protection of the Emperor and his works, and the lore gives that duty extraordinary authority. [c13] The historical guard meets the battlefield as part of an army. The fictional guard meets it as the Emperor’s shield made flesh. One is a military instrument; the other is a mythic wall around a single throne.\n\nSo: at Dyrrhachium, Alexios faces a Norman siege after a political arrangement is followed by invasion. [c14] The Varangians are described as elite heavy infantry, with an apparently offensive battlefield role. [c15] Across the gulf of fiction, the Custodes turn protection into an almost sovereign command of its own. [c16] The axe and the golden armor answer different stories, but both ask the same dangerous question: how close can a ruler bring his defenders to the center of power?\n\nFor what comes next, we could return to Dyrrhachium and follow the siege behind the axemen’s battle. We could enter the Custodes’ fictional world and examine their command and impossible burden. Or we could compare imperial bodyguards across history and science fiction.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Varangian Guard’s battlefield service raises the question of how an emperor uses the guard beyond the palace.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a framing question about how battlefield service changes the meaning of a guard, not a factual claim established by E23.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Byzantine army (Komnenian era)",
+       "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+       "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Battle of Dyrrhachium took place on October 18, 1081, between Alexios I Komnenos’s Byzantine Empire and Normans led by Robert Guiscard.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 states the date, the opposing forces, and their leaders directly.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "The Battle of Dyrrhachium took place on October 18, 1081 between the Byzantine Empire , led by the Emperor Alexios I Komnenos ( r. 1081–1118 ), and the Normans of southern Italy under Robert Guiscard , Duke of Apulia and Calabria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "After the Norman conquest of Byzantine Italy and Saracen Sicily, Michael VII Doukas betrothed his son to Robert Guiscard’s daughter.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 directly reports the conquest and the betrothal after it.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "Following the Norman conquest of Byzantine Italy and Saracen Sicily , the Byzantine emperor, Michael VII Doukas ( r. 1071–1078 ), betrothed his son to Robert Guiscard 's daughter. When Michael was deposed, Robert took this as an excuse to invade the Byzantine Empire in 1081. His army laid siege to Dyrrhachium, but his fleet was defeated by the Venetians .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "After Michael VII was deposed, Robert used it as an excuse to invade in 1081, and his army besieged Dyrrhachium.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 directly says Robert used Michael’s deposition as an excuse to invade and that his army besieged Dyrrhachium.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "Following the Norman conquest of Byzantine Italy and Saracen Sicily , the Byzantine emperor, Michael VII Doukas ( r. 1071–1078 ), betrothed his son to Robert Guiscard 's daughter. When Michael was deposed, Robert took this as an excuse to invade the Byzantine Empire in 1081. His army laid siege to Dyrrhachium, but his fleet was defeated by the Venetians .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Venetian fleet defeated the Norman fleet.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 states that the Venetian fleet defeated the Norman fleet.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "Following the Norman conquest of Byzantine Italy and Saracen Sicily , the Byzantine emperor, Michael VII Doukas ( r. 1071–1078 ), betrothed his son to Robert Guiscard 's daughter. When Michael was deposed, Robert took this as an excuse to invade the Byzantine Empire in 1081. His army laid siege to Dyrrhachium, but his fleet was defeated by the Venetians .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "In the Komnenian era, the Varangian Guard were elite heavy infantry, armored and protected by long shields, with spears and two-handed Danish axes.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E23 plainly describes the Varangians as elite, armored heavy infantry armed with long shields, spears, and two-handed Danish axes.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Byzantine army (Komnenian era)",
+       "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+       "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Varangian Guard’s battlefield employment appears essentially offensive compared with other Byzantine heavy infantry.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E23 says their employment “appears” essentially offensive, so the claim is appropriately hedged rather than certain.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Byzantine army (Komnenian era)",
+       "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+       "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Adeptus Custodes protect the Emperor and his works from the foes of humanity.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E29 states that the Custodes’ task is protecting the Emperor and His works from humanity’s foes.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They hold few voidships of their own, but could command by edict any such vessel of the Imperialis Armada or the later Navis Imperialis to their task, and in fact requisition anyone or anything within the Imperium in extremis to serve their most sacred and undaunted task; the protection of the Emperor and His works from all the foes of Humanity.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "In extremis, the Adeptus Custodes can requisition anyone or anything within the Imperium for their task.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E29 states that in extremis the Custodes can requisition anyone or anything within the Imperium for their task.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They hold few voidships of their own, but could command by edict any such vessel of the Imperialis Armada or the later Navis Imperialis to their task, and in fact requisition anyone or anything within the Imperium in extremis to serve their most sacred and undaunted task; the protection of the Emperor and His works from all the foes of Humanity.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "A lore statement gives the Emperor the words, “These men are my bodyguards, their lives forfeit to the guarantee of my physical safety.”",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E12 attributes this declaration to the Emperor in the lore, and the narration presents it as a quotation from that source.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "\" These men are my bodyguards, their lives forfeit to the guarantee of my physical safety. Of their loyalty to me there shall be no question nor doubt. I, and I alone, shall have the authority to stand in judgement over them. No other commander shall they have in battle nor in service. None shall bar them from me and none shall hamper or stall their mission.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The quoted lore says no other commander may have authority over the Custodes in battle or service.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E12 explicitly says no other commander shall have authority over the Custodes in battle or service.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "\" These men are my bodyguards, their lives forfeit to the guarantee of my physical safety. Of their loyalty to me there shall be no question nor doubt. I, and I alone, shall have the authority to stand in judgement over them. No other commander shall they have in battle nor in service. None shall bar them from me and none shall hamper or stall their mission.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Komnenian-era account describes the Varangian Guard as heavy infantry whose battlefield role appears essentially offensive.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E23 describes the battlefield role as one that “appears” essentially offensive, and the narration preserves that hedge.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Byzantine army (Komnenian era)",
+       "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+       "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Custodes’ lore gives their protective duty extraordinary authority within the Imperium.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is a comparative framing of the protective duty and authority described in E29 and E12, not a separate literal lore fact.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They hold few voidships of their own, but could command by edict any such vessel of the Imperialis Armada or the later Navis Imperialis to their task, and in fact requisition anyone or anything within the Imperium in extremis to serve their most sacred and undaunted task; the protection of the Emperor and His works from all the foes of Humanity.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E12",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "\" These men are my bodyguards, their lives forfeit to the guarantee of my physical safety. Of their loyalty to me there shall be no question nor doubt. I, and I alone, shall have the authority to stand in judgement over them. No other commander shall they have in battle nor in service. None shall bar them from me and none shall hamper or stall their mission.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "At Dyrrhachium, Alexios faced a Norman siege after a political arrangement was followed by invasion.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E16 supplies the political arrangement, deposition, invasion, and siege, while E17 identifies the battle and its participants.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "Following the Norman conquest of Byzantine Italy and Saracen Sicily , the Byzantine emperor, Michael VII Doukas ( r. 1071–1078 ), betrothed his son to Robert Guiscard 's daughter. When Michael was deposed, Robert took this as an excuse to invade the Byzantine Empire in 1081. His army laid siege to Dyrrhachium, but his fleet was defeated by the Venetians .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Battle of Dyrrhachium (1081)",
+       "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+       "snippet": "The Battle of Dyrrhachium took place on October 18, 1081 between the Byzantine Empire , led by the Emperor Alexios I Komnenos ( r. 1081–1118 ), and the Normans of southern Italy under Robert Guiscard , Duke of Apulia and Calabria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The Varangians are described as elite heavy infantry with an apparently offensive battlefield role.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E23 supports the description but qualifies the offensive role as something that “appears” to be the case.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Byzantine army (Komnenian era)",
+       "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+       "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The Custodes’ lore describes protection of the Emperor alongside extraordinary authority in the Imperium.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This summarizes the Custodes’ protective role and authority as an interpretive comparison, supported by E29 and E12.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They hold few voidships of their own, but could command by edict any such vessel of the Imperialis Armada or the later Navis Imperialis to their task, and in fact requisition anyone or anything within the Imperium in extremis to serve their most sacred and undaunted task; the protection of the Emperor and His works from all the foes of Humanity.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E12",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "\" These men are my bodyguards, their lives forfeit to the guarantee of my physical safety. Of their loyalty to me there shall be no question nor doubt. I, and I alone, shall have the authority to stand in judgement over them. No other commander shall they have in battle nor in service. None shall bar them from me and none shall hamper or stall their mission.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Dyrrhachium: the siege behind the axemen’s battle",
+    "The Custodes: guardians with power to command an empire",
+    "Imperial bodyguards, from Byzantium to science fiction"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Battle of Dyrrhachium was fought on October 18, 1081, between Alexios I’s Byzantines and Normans led by Robert Guiscard.",
+      "verdict": "fact",
+      "explanation": "The evidence identifies that date, the opposing forces, and their leaders.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "history",
+        "page_title": "Battle of Dyrrhachium (1081)",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Dyrrhachium_%281081%29",
+        "snippet": "The Battle of Dyrrhachium took place on October 18, 1081 between the Byzantine Empire , led by the Emperor Alexios I Komnenos ( r. 1081–1118 ), and the Normans of southern Italy under Robert Guiscard , Duke of Apulia and Calabria .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Varangian Guard’s battlefield role was purely defensive.",
+      "verdict": "myth",
+      "explanation": "The account says their battlefield employment appears to have been essentially offensive, though that characterization is qualified rather than certain.",
+      "evidence_ids": [
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "history",
+        "page_title": "Byzantine army (Komnenian era)",
+        "url": "https://en.wikipedia.org/wiki/Byzantine_army_%28Komnenian_era%29",
+        "snippet": "The Varangian Guard were the elite of the infantry. In the field they operated as heavy infantry , well armoured and protected by long shields, armed with spears and their distinctive two-handed Danish axes. Unlike other Byzantine heavy infantry their battlefield employment appears to have been essentially offensive in character.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Custodes can requisition anyone or anything in the Imperium when circumstances demand it.",
+      "verdict": "fact",
+      "explanation": "The lore grants them that power in extremis as part of their task to protect the Emperor and his works.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "warhammer40k",
+        "page_title": "Adeptus Custodes",
+        "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+        "snippet": "They hold few voidships of their own, but could command by edict any such vessel of the Imperialis Armada or the later Navis Imperialis to their task, and in fact requisition anyone or anything within the Imperium in extremis to serve their most sacred and undaunted task; the protection of the Emperor and His works from all the foes of Humanity.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After Michael VII is deposed and Robert Guiscard invades, what happens to the Norman fleet?",
+     "options": [
+      "The Venetians defeat it",
+      "It breaks through and takes the city",
+      "It withdraws before the siege begins"
+     ],
+     "answer_index": 0,
+     "reveal_para": 2,
+     "explanation": "The Venetian fleet defeats the Norman fleet, even as the siege of Dyrrhachium continues."
+    }
+   }
+  },
+  "The Custodes’ legendary beginnings, and the Emperor’s chosen protectors": {
+   "index": 2,
+   "title": "Chosen Protectors, Different Empires",
+   "narration": "You chose to follow the Custodes’ beginnings and the Emperor’s chosen protectors. We left Constantinople behind; now we enter a future shaped by nightmare. That is our branch, not a new claim about where the Varangians stood.\n\nHere is the comparison worth keeping: both guards stand close to sovereign power, but their worlds give that closeness different meanings. That is my reading of the parallel, not a claim of direct inspiration.\n\nThe historical trail is lean, but telling. Scandinavian immigrants—predominantly Swedish, with Danes and Norwegians among them—gave the Varangian Guard an almost entirely Norse composition until the late eleventh century. [c1] Swedish men traveled to enlist in the Byzantine guard in such numbers that a medieval law from Västergötland, Västgötalagen, addressed inheritance for people staying in “Greece.” [c2]\n\nThat is a striking kind of distance. Men left Scandinavia for service in the Byzantine world, and the movement became visible enough to enter a local law. [c3] The cards do not tell us what each man wanted, or what each paid. But the shape of the choice is vivid: service far from home, under an emperor whose empire was not their own.\n\nThe Custodes belong to a different kind of story. They are created and trained to match—and kill—anything they might face in close combat. [c4] Their lore presents them as warriors who can stand against odds that seem beyond belief. [c5] The Varangian account emphasizes men arriving from abroad; the Custodes’ account emphasizes guardians deliberately made for a lethal standard. [c6]\n\nThen comes the fracture. During the Horus Heresy, Horus declares allegiance to the Dark Gods of Chaos and leads fully half of his brother primarchs and their Space Marine Legions into rebellion against the Throne. [c7] Civil war spreads through the Imperium and threatens what the Emperor built. [c8]\n\nPut the Varangian guard beside the Custodes, and the contrast is sharp. The Varangian material describes Scandinavian recruits serving Byzantine emperors. [c9] The Custodes stand within a fictional catastrophe where rebellion reaches the throne they are meant to protect. [c10] If you ask me, one story makes protection feel like a bond stretched across distance; the other makes it feel like a final wall around power under siege.\n\nAnd that changes what “protector” means. In the Varangian story, the striking detail is the journey: men from Scandinavia enter the service of a distant empire. [c11] In the Custodes’ story, the Emperor’s guardians are defined by extraordinary close-combat prowess, while the Imperium faces civil war. [c12] The first makes protection a human crossing between worlds; the second makes it a grim measure of how vulnerable even immense power can become.\n\nSo: the Varangians connect Byzantine service with Scandinavian migration, while the Custodes are created and trained for close combat. [c13] One story turns on foreign service; the other on guardianship amid rebellion against the Throne. [c14] For our next journey, should we follow the Varangians’ road west to east, enter the Custodes’ world during the Heresy, or explore another collision between history and fiction?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Scandinavian immigrants, predominantly Swedish and also Danish and Norwegian, gave the Varangian Guard an almost entirely Norse composition until the late eleventh century.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Varangian Guard card states that Scandinavian immigrants, predominantly Swedish and also Danish and Norwegian, gave it an almost entirely Norse composition until the late eleventh century.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Swedish men enlisted in the Byzantine Varangian Guard in such numbers that Västgötalagen addressed inheritance for people staying in Greece.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says Swedish men enlisted in such numbers that Västgötalagen restricted inheritance for those staying in “Greece.”",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The movement of Swedish men to enlist in the Byzantine guard became visible enough to appear in a local law.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly links the scale of Swedish enlistment to a provision in a local law.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Custodes are created and trained to match and kill anything they might encounter in close combat.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Adeptus Custodes card states that they are created and trained to match and kill anything they might face in close combat.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They are armed, created and trained to be the match and the death of anything they might encounter face-to-face, be that Human, xenos or machine, in any circumstance of single combat, counterattack to ambush or close-range assault. Again and again has history seen the Custodian Guard stand off and defeat odds that seem beyond reason or belief.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Custodian Guard is described as defeating odds that seem beyond reason or belief.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card describes the Custodian Guard as repeatedly defeating odds that seem beyond reason or belief.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They are armed, created and trained to be the match and the death of anything they might encounter face-to-face, be that Human, xenos or machine, in any circumstance of single combat, counterattack to ambush or close-range assault. Again and again has history seen the Custodian Guard stand off and defeat odds that seem beyond reason or belief.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Varangian account emphasizes foreign arrivals, while the Custodes account emphasizes guardians deliberately made for close combat.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a comparative framing supported by the Varangian and Custodes cards, not a factual claim of direct connection.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They are armed, created and trained to be the match and the death of anything they might encounter face-to-face, be that Human, xenos or machine, in any circumstance of single combat, counterattack to ambush or close-range assault. Again and again has history seen the Custodian Guard stand off and defeat odds that seem beyond reason or belief.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "During the Horus Heresy, Horus pledges allegiance to Chaos and leads half of his brother primarchs and their Space Marine Legions in rebellion against the Throne.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Horus Heresy card states that Horus declared allegiance to Chaos and led half of his brother primarchs and their Space Marine Legions in rebellion.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Horus Heresy civil war threatens what the Emperor built.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card says civil war consumed the Imperium and threatened what the Emperor had built.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Varangian Guard account connects Scandinavian recruits with service to Byzantine emperors.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Varangian card describes Scandinavian recruits and the cited scholarly work concerns mercenaries serving Byzantine emperors.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Theotokis, Georgios. \"Rus, Varangian and Frankish Mercenaries in the Service of the Byzantine Emperors (9th–11th c.). Numbers, Organisation and Battle Tactics in the operational theatres of Asia Minor and the Balkans\". Byzantine Symmeikta , vol. 22, Athens: 2012. ISSN 1105-1639",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Custodes’ fictional world includes rebellion against the Throne and civil war threatening the Imperium.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Horus Heresy card places rebellion against the Throne and civil war in the Imperium within the Custodes lore.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Varangian story connects Scandinavian men with service in a distant empire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Varangian card directly connects Scandinavian men with enlistment in the Byzantine Guard.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Custodes are described as exceptional close-combat guardians, while the Imperium faces civil war.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "Both the Custodes card’s close-combat description and the Heresy card’s civil-war account support this lore summary.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They are armed, created and trained to be the match and the death of anything they might encounter face-to-face, be that Human, xenos or machine, in any circumstance of single combat, counterattack to ambush or close-range assault. Again and again has history seen the Custodian Guard stand off and defeat odds that seem beyond reason or belief.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Varangian story connects Byzantine service with Scandinavian migration, while the Custodes are created and trained for close combat.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This juxtaposition summarizes the historical and fictional cards as a comparison rather than asserting a direct relationship.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "They are armed, created and trained to be the match and the death of anything they might encounter face-to-face, be that Human, xenos or machine, in any circumstance of single combat, counterattack to ambush or close-range assault. Again and again has history seen the Custodian Guard stand off and defeat odds that seem beyond reason or belief.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The Varangian story involves foreign service, while the Custodes’ story takes place amid rebellion against the Throne.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is a comparison between the historical foreign-service account and the fictional rebellion account, not a claim that the stories are connected.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Trace the Varangians’ long road from Scandinavia",
+    "Stand with the Custodes as the Heresy erupts",
+    "Explore another collision between history and fiction"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Varangian Guard was made up almost entirely of Norsemen until the late eleventh century.",
+      "verdict": "fact",
+      "explanation": "The evidence describes its members as Scandinavian immigrants, predominantly Swedish but also Danish and Norwegian, and says its composition remained almost entirely Norse until then.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "history",
+        "page_title": "Varangian Guard",
+        "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+        "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Västgötalagen barred Swedish men from inheriting because they served in the Byzantine Varangian Guard.",
+      "verdict": "myth",
+      "explanation": "The law addressed inheritance for people staying in “Greece”; the evidence does not say it barred men because they served in the Guard. The text links the rule to the large number of Swedish men who left to enlist.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "history",
+        "page_title": "Varangian Guard",
+        "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+        "snippet": "Immigrants from Scandinavia (predominantly Sweden, but also Denmark and Norway ) gave an almost entirely Norse composition to the organization until the late 11th century. During these years, Swedish men left to enlist in the Byzantine Varangian Guard in such numbers that a medieval Swedish law, Västgötalagen , from Västergötland declared no one could inherit while staying in \"Greece\"—then the …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Horus led half of his brother primarchs and their Space Marine Legions in rebellion against the Throne.",
+      "verdict": "fact",
+      "explanation": "The lore says Horus declared allegiance to Chaos and led fully half of his brother primarchs and their Legions into rebellion.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "warhammer40k",
+        "page_title": "Adeptus Custodes",
+        "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+        "snippet": "Horus Heresy (005-014.M31) - The Warmaster Horus openly declared his allegiance to the Dark Gods of Chaos , leading fully half of his brother primarchs and their Space Marine Legions in rebellion against the Throne. Civil war consumes the Imperium , a swift-spreading conflagration that threatens to turn to ash all the Emperor has built.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In the Custodes’ story, what crisis threatens the Emperor’s realm?",
+     "options": [
+      "A civil war sparked by Horus’s rebellion",
+      "A Norse invasion from Scandinavia",
+      "A machine uprising against the Custodes"
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "Paragraph 5 reveals that Horus leads a rebellion against the Throne, and civil war spreads through the Imperium."
+    }
+   }
+  },
+  "When foreign guards become part of the empire": {
+   "index": 2,
+   "title": "From Outsiders to Imperial Guardians",
+   "narration": "You chose the moment when foreign guards become part of the empire. The question is not simply who stands nearest the throne. It is what happens when the people guarding an empire arrive from beyond its old center.\n\nFor its first hundred years, the Varangian Guard was composed primarily of Scandinavians. [c1] After the Norman invasion of England, increasing numbers of Anglo-Saxons began to enter its ranks. [c2] Then, in ten eighty-eight, large numbers of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. [c3] One source reports more than five thousand arriving in two hundred thirty-five ships. [c4]\n\nHold that image for a moment: not one wandering warrior, but a migration measured in ships. The empire is not merely hiring a stranger at the palace gate. It is becoming a destination for people driven across a changed political world. The numbers are striking, though they do not give us a complete list of who arrived, who joined the guard, or how each person’s life unfolded.\n\nAnd these travelers belong to a much larger map. Varangians engaged in trade, piracy, and mercenary service. [c5] They moved along river systems and portages, including routes linking the Baltic with the Caspian through the Volga. [c6] Another route, through the Dnieper and Dniester, led toward the Greeks. [c7] The rivers are not scenery behind the story. They are the corridors through which people, goods, and armed service could move.\n\nThat is the first half of the payoff: the Byzantine guard’s changing membership sits inside a wider world of movement. To call those newcomers simply “outsiders” misses the transformation. They came from outside, but service could place them within the imperial household’s orbit. A border is not always a wall. Sometimes it is a route to a throne.\n\nNow cut to a future so distant it has become nightmare. The Adeptus Custodes’ golden-armored image, in the eyes of common soldiers and planetary governors, signals the Emperor’s direct protection and embodies his will. [c8] It also carries the omen of his unstoppable wrath. [c9] That is a fearsome job description: be shelter and warning at the same time.\n\nThe lore gives us another small, sharp window into that world. A Custodian named Leotydus Dat-Hastael runs a successful “Blood Game,” hiding for more than a solar decade and evading wards and sentries before reaching the Sanctum Imperialis with a blade in hand. [c10] The test turns guardianship inside out. The danger is not simply an enemy outside the walls. The guard must prove that the walls, wards, and sentries can be breached.\n\nHere’s my read: set a Varangian axe beside the golden image of a Custodian, and you see two empires making power visible at arm’s length. The Varangian story foregrounds people arriving through migration and service; the Custodian image makes the Emperor’s protection and threat visible in one figure. Those are different origins, different memberships, and different relationships to their empires. The resemblance is the dramatic position: a guardian close enough to the ruler that everyone else must reckon with the ruler’s reach.\n\nThat parallel is interpretation, not a claim of direct inspiration. It works because both images bring imperial power down to human scale. You can imagine the order from far away; you can see the person who stands between the throne and danger. One is a historical guard whose membership shifted toward newcomers from England and Scandinavia. The other belongs to a fictional future where a golden-armored figure embodies the Emperor’s protection and wrath.\n\nEven memory leaves different marks. Raised stones called runestones are found throughout Scandinavia, almost all in Sweden, and many are associated with the Varangian Guards. [c11] The Custodian image, by contrast, is presented as a living sign of the Emperor’s protection and menace. [c12] One points toward remembrance carved in stone; the other confronts the empire’s subjects in the present tense of its fiction.\n\nSo: the Varangian Guard’s changing membership reflects a world of migration, routes, and service, while the Custodes embody imperial authority made intensely personal. [c13] Both place a guardian close to power, but the history and the lore tell different stories about who that guardian is and how he belongs. [c14] For our next journey, would you rather follow the river roads toward Byzantium, step deeper into the Byzantine palace, or enter the Custodes’ lethal test of loyalty?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Varangian Guard was composed primarily of Scandinavians for its first hundred years.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E18 plainly says the Guard was composed primarily of Scandinavians for its first hundred years.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "After the Norman invasion of England, the guard saw increasing numbers of Anglo-Saxons.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E18 states that increasing numbers of Anglo-Saxons entered the Guard after the Norman invasion of England.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "In 1088, many Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E18 reports that in 1088 a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "One source reports more than 5,000 Anglo-Saxons and Danes arriving in 235 ships.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E18 attributes the figure of more than 5,000 arrivals in 235 ships to one source, so the narration correctly keeps the number hedged.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Varangians engaged in trade, piracy, and mercenary service.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E20 plainly says Varangians engaged in trade, piracy, and mercenary service.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Varangians",
+       "url": "https://en.wikipedia.org/wiki/Varangians",
+       "snippet": "Engaging in trade, piracy, and mercenary service, Varangians roamed the river systems and portages of Gardariki , as the areas north of the Black Sea were known in the Norse sagas . They controlled the Volga trade route (between the Varangians and the Muslims), connecting the Baltic to the Caspian Sea and the Dnieper and Dniester trade route (between Varangians and the Greeks) leading to the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Varangians used a Volga route connecting the Baltic and Caspian regions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E20 states that the Volga route connected the Baltic and Caspian regions.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Varangians",
+       "url": "https://en.wikipedia.org/wiki/Varangians",
+       "snippet": "Engaging in trade, piracy, and mercenary service, Varangians roamed the river systems and portages of Gardariki , as the areas north of the Black Sea were known in the Norse sagas . They controlled the Volga trade route (between the Varangians and the Muslims), connecting the Baltic to the Caspian Sea and the Dnieper and Dniester trade route (between Varangians and the Greeks) leading to the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "A Dnieper and Dniester trade route led toward the Greeks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E20 identifies a Dnieper and Dniester trade route leading toward the Greeks.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Varangians",
+       "url": "https://en.wikipedia.org/wiki/Varangians",
+       "snippet": "Engaging in trade, piracy, and mercenary service, Varangians roamed the river systems and portages of Gardariki , as the areas north of the Black Sea were known in the Norse sagas . They controlled the Volga trade route (between the Varangians and the Muslims), connecting the Baltic to the Caspian Sea and the Dnieper and Dniester trade route (between Varangians and the Greeks) leading to the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Custodian Guard's golden-armored image signifies the Emperor's direct protection and embodies his will to common soldiers and planetary governors.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E27 describes the golden-armored image as a sign of the Emperor’s direct protection and an embodiment of His will and agency.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Custodian Guard's image is also an omen of the Emperor's unstoppable wrath.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E27 explicitly calls the Custodian image an omen of the Emperor’s unstoppable wrath.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Leotydus Dat-Hastael completed a Blood Game, hiding for over a solar decade and reaching the Sanctum Imperialis with a blade after evading wards and sentries.",
+     "kind": "lore",
+     "grade": "Conflicting",
+     "note": "E26 attributes this Blood Game account to an uncertain date, so the lore presents it as one particular account rather than an unqualified, settled event.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "Blood Will Tell (Unknown Date) - Leotydus Dat-Hastael runs a successful Blood Game , spending over a solar decade in hiding, evading every ward and sentry to finally reach the Sanctum Imperialis with blade in hand.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Runestones are found throughout Scandinavia, almost all in Sweden, and many are associated with the Varangian Guards.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E21 states that runestones occur throughout Scandinavia, almost all are in Sweden, and many are associated with the Varangian Guards.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Varangians",
+       "url": "https://en.wikipedia.org/wiki/Varangians",
+       "snippet": "There are raised stone memorials called runestones throughout Scandinavia of which almost all are found in Sweden . Many date to the Viking Age , and there are many associated with the Varangian Guards.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Custodian image is presented as a sign of the Emperor's protection and menace.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E27 presents the golden Custodian image as both the Emperor’s protection and a terrifying omen of wrath.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Varangian Guard's membership changed over time, while the Custodes embody imperial authority through their protective and threatening image.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s comparative framing, supported by E18’s account of changing Guard membership and E27’s description of the Custodian image.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Both stories place guardians close to imperial power, but differ in the guardians' origins, membership, and relationship to the empire.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is an explicitly framed comparison between the historical Varangians in E18 and the fictional Custodian image in E27, not a claim of shared origin.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Varangian Guard",
+       "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+       "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Adeptus Custodes",
+       "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+       "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Norse river roads: the journey toward Byzantine service",
+    "Inside the Byzantine palace: who truly commands the guard?",
+    "The Custodes’ Blood Games: loyalty tested from within"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Varangian Guard was made up mostly of Scandinavians for its first hundred years.",
+      "verdict": "fact",
+      "explanation": "The evidence describes the guard as primarily Scandinavian during its first century, with increasing numbers of Anglo-Saxons joining after the Norman invasion of England.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Varangian Guard",
+        "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+        "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "More than five thousand Anglo-Saxons and Danes arrived in the Byzantine Empire in 235 ships in 1088.",
+      "verdict": "debated",
+      "explanation": "One source reports those figures, but the chapter treats the specific numbers as uncertain rather than settled.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Varangian Guard",
+        "url": "https://en.wikipedia.org/wiki/Varangian_Guard",
+        "snippet": "Composed primarily of Scandinavians for the first 100 years, the guard began to see increasing numbers of Anglo-Saxons after the successful invasion of England by the Normans. In 1088, a large number of Anglo-Saxons and Danes emigrated to the Byzantine Empire by way of the Mediterranean. One source has more than 5,000 of them arriving in 235 ships.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Custodian Guard’s golden image represents only the Emperor’s protection, not his wrath.",
+      "verdict": "myth",
+      "explanation": "The lore presents the image as both a sign of the Emperor’s direct protection and an omen of his unstoppable wrath.",
+      "evidence_ids": [
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "warhammer40k",
+        "page_title": "Adeptus Custodes",
+        "url": "https://warhammer40k.fandom.com/wiki/Adeptus_Custodes",
+        "snippet": "To the common soldier and planetary governor alike, the golden-armoured image of the Custodian Guard was a visible sign not only of the Emperor's direct protection and the embodiment of His will and agency, but also the omen of His unstoppable wrath, as personal and as terrifying in their way as the Angels of Death, His Space Marines, were impersonal and all-conquering avatars in the minds of …",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Leotydus Dat-Hastael attempts a Blood Game by slipping past the Custodes’ defenses. What does he ultimately reach?",
+     "options": [
+      "The Sanctum Imperialis",
+      "The Imperial Palace’s outer gate",
+      "A hidden armory beneath the palace"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "He reaches the Sanctum Imperialis with a blade in hand."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Horus Rising",
+   "author": "Dan Abnett",
+   "year": 2006,
+   "why": "A strong next read for the episode’s focus on the Emperor’s elite warriors and the forces that protect an expanding empire.",
+   "url": "https://openlibrary.org/works/OL5843391W"
+  },
+  {
+   "title": "Horus Heresy",
+   "author": "Laurie Goulding",
+   "year": 2016,
+   "why": "This offers a broader guide to the Horus Heresy setting behind the episode’s contrast between imperial guardians and their empires.",
+   "url": "https://openlibrary.org/works/OL21475361W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8295,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 523,
+   "output_tokens": 1008,
+   "cost_usd": 0.00069246
+  },
+  {
+   "agent": "researcher",
+   "requests": 16,
+   "input_tokens": 48328,
+   "cached_tokens": 39034,
+   "cache_write_tokens": 6484,
+   "output_tokens": 1667,
+   "cost_usd": 0.00231534
+  },
+  {
+   "agent": "storyteller",
+   "requests": 7,
+   "input_tokens": 31917,
+   "cached_tokens": 22169,
+   "cache_write_tokens": 8866,
+   "output_tokens": 11549,
+   "cost_usd": 0.00719264
+  },
+  {
+   "agent": "skeptic",
+   "requests": 7,
+   "input_tokens": 30830,
+   "cached_tokens": 15995,
+   "cache_write_tokens": 13953,
+   "output_tokens": 5367,
+   "cost_usd": 0.00467579
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1645,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 195,
+   "output_tokens": 213,
+   "cost_usd": 0.00015672
+  }
+ ],
+ "build_cost_usd": 0.015033,
+ "build_seconds": 84.8
+}

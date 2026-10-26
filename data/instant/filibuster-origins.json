@@ -1,0 +1,1655 @@
+{
+ "thread": {
+  "id": "filibuster-origins",
+  "title": "How the Filibuster Was Born, by Accident",
+  "hook": "A rule nobody designed, a deleted motion, and two centuries of arguing about it, from both sides.",
+  "mode": "history",
+  "packs": [
+   "politics"
+  ],
+  "era": "US Senate, 1806 to today",
+  "universe": "",
+  "curated": true,
+  "genre": "politics"
+ },
+ "title": "The Filibuster’s Accidental Birth",
+ "logline": "A procedural rule nobody set out to create became one of the Senate’s most powerful—and most fiercely disputed—tools.",
+ "plan": [
+  {
+   "title": "The Motion That Vanished",
+   "focus": "Open with the hook: trace how the Senate’s deletion of a motion for ending debate, rather than a deliberate plan to create the filibuster, left debate without that procedural limit. Establish what changed and why the accidental origin is more complicated than a tidy origin story.",
+   "queries": [
+    "politics: Filibuster",
+    "politics: Senate rules debate",
+    "politics: Previous question motion"
+   ],
+   "packs": [
+    "politics"
+   ]
+  },
+  {
+   "title": "A Tool Both Sides Claim",
+   "focus": "Follow the practice from its early use into the modern Senate, weighing arguments that extended debate protects minority voices against arguments that it can obstruct action. Close by showing how procedural reforms altered the tool without settling the underlying fight.",
+   "queries": [
+    "politics: Filibuster history",
+    "politics: Cloture United States Senate",
+    "politics: 1917 Senate cloture rule",
+    "politics: 1975 Senate filibuster reform"
+   ],
+   "packs": [
+    "politics"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Motion That Vanished",
+  "narration": "The Senate chamber is new, the republic younger still, and a question hangs over the room: when debate begins, who gets to stop it? In the Senate’s earliest rules, the answer is not a clean vote to close debate. [c1] The story of the filibuster begins not with senators designing a weapon, but with a procedural door left open. [c2]\n\nThe Constitution gives each house of Congress authority to determine its own rules of proceedings. [c3] The Senate’s standing rules are the machinery built under that authority. [c4] And machinery can have consequences its makers never intended.\n\nHere’s the twist: the Senate did have a motion called the previous question between seventeen eighty-nine and eighteen oh-six. [c5] In parliamentary procedure, that motion generally means ending debate and bringing the pending proposal to an immediate vote. [c6] But the Senate’s version was itself debatable, which limited its power to shut debate down. [c7]\n\nSo the motion existed, but it was not the guillotine its name suggests. The Senate used it to reverse an earlier decision to consider a measure, much like today’s motion to postpone. [c8] A tool for turning away from a question was not the same as a dependable way to force a vote on it.\n\nAnd the Senate’s rules did not provide a procedure for voting to end debate on a question so it could be voted on. [c9] That absence opened the door to filibusters. [c10] A filibuster took place at the very first session of the Senate. [c11] The problem was not that somebody had drafted a grand blueprint for endless speeches. The problem was that debate had no reliable procedural finish line.\n\nThis is where the tidy origin story starts to wobble. It is tempting to say, “They deleted the motion, and the filibuster was born.” But that sentence turns a complicated procedural history into a neat little morality play. The previous-question motion was present in the rules from seventeen eighty-nine to eighteen oh-six, and its limited usefulness matters. [c12] Its role was not simply “end debate”; it was used to undo the decision to consider a measure. [c13]\n\nThe House offers a useful contrast. In the eighteen hundreds, the House changed how its previous-question motion worked. [c14] In eighteen oh-five, it made the motion non-debatable. [c15] In eighteen forty-one, it lowered the required fraction of votes from two-thirds to one-half. [c16] That House history shows how procedural rules can be adjusted to make closing debate more effective. [c17] But do not mistake the contrast for a direct explanation of the Senate’s choices; the evidence here establishes different procedures, not a simple chain of cause and effect.\n\nHere’s my read: the Senate’s accidental birth story is strongest when we stop hunting for one dramatic act of creation. A missing tool matters. So does the weakness of the tool that was there. And so does a chamber’s habit of treating debate as something that need not end on command.\n\nThe Senate did not begin with a dependable vote to close debate. [c18] Yet the filibuster appeared at the chamber’s first session. [c19] Those facts leave us with a sharper question than “Who invented it?” If the door was open from the start, when did senators learn to use that openness as leverage?\n\nNext, we can follow the first obstruction and the senators who tested the limits of debate. Or we can trace the rules that eventually gave the Senate a way to end it. Or we can ask why a chamber built for argument came to treat delay as power.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The Senate’s earliest rules lacked a clean vote procedure to close debate.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the Senate’s original rules lacked a procedure to vote to end debate so the question could be voted on.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The filibuster’s origin is associated with a procedural opening rather than a deliberate design.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The evidence supports a procedural opening, while describing the filibuster’s origin as a story of an unintended opening is the narrator’s framing.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The Constitution gives each house of Congress authority to determine its proceedings rules.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence quotes the Constitution giving each house authority to determine its rules of proceedings.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "politics",
+      "page_title": "Standing Rules of the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Standing_Rules_of_the_United_States_Senate",
+      "snippet": "The Standing Rules of the Senate are the parliamentary procedures adopted by the United States Senate that govern its procedure. The Senate's power to establish rules derives from Article One, Section 5 of the United States Constitution : \"Each House may determine the rules of its proceedings ...\"",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Senate’s standing rules govern its procedures.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence states that the Senate’s Standing Rules govern its procedures.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "politics",
+      "page_title": "Standing Rules of the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Standing_Rules_of_the_United_States_Senate",
+      "snippet": "The Standing Rules of the Senate are the parliamentary procedures adopted by the United States Senate that govern its procedure. The Senate's power to establish rules derives from Article One, Section 5 of the United States Constitution : \"Each House may determine the rules of its proceedings ...\"",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "From 1789 to 1806, Senate rules provided for a previous-question motion.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says Senate rules provided for a previous-question motion from 1789 to 1806.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "The previous question generally ends debate and brings a pending proposal to an immediate vote.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence describes the previous question as generally ending debate and bringing the pending proposal to an immediate vote.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "politics",
+      "page_title": "Previous question",
+      "url": "https://en.wikipedia.org/wiki/Previous_question",
+      "snippet": "In US parliamentary procedure , the previous question (also known as \"calling for the question\", \"calling the question\", \"close debate \", \"calling for a vote\", \"vote now\", or other similar forms) is generally used as a motion to end debate on a pending proposal and bring it to an immediate vote.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The Senate’s previous-question motion was debatable, limiting its effectiveness as a cloture mechanism.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the Senate motion was debatable and therefore limited in effectiveness as a cloture mechanism.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "The Senate used the motion to reverse its decision to consider a measure, similarly to today’s motion to postpone.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the Senate used the motion to reverse its decision to consider a measure, much like today’s motion to postpone.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The Senate’s original rules lacked a procedure for voting to end debate so a question could be voted on.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence plainly states that the Senate’s original rules lacked a procedure for voting to end debate so a question could be voted on.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The lack of such a procedure opened the door to filibusters.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence states that the absence of such a procedure opened the door to filibusters.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "A filibuster occurred at the Senate’s first session.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says a filibuster took place at the Senate’s very first session.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The previous-question motion existed from 1789 to 1806 and had limited usefulness as a cloture mechanism.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence gives the 1789–1806 period and says the motion’s effectiveness as a cloture mechanism was limited.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The Senate used the previous-question motion to reverse its decision to consider a measure.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the Senate used the previous-question motion to reverse its decision to consider a measure.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "The House altered the rules governing its previous-question motion in the 1800s.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the House altered the rules governing use of the previous-question motion during the 1800s.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Previous question",
+      "url": "https://en.wikipedia.org/wiki/Previous_question",
+      "snippet": "In the United States House of Representatives , the previous question originally served the same purpose as it did in the English Parliament. In the 1800s, the House of Representatives altered the rules governing the way the previous question could be used: in 1805, it was deemed non-debatable, and in 1841, the fraction of votes needed to pass it was lowered from 2/3 to 1/2, allowing for it to be …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "The House deemed its previous-question motion non-debatable in 1805.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence states that the House deemed the motion non-debatable in 1805.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Previous question",
+      "url": "https://en.wikipedia.org/wiki/Previous_question",
+      "snippet": "In the United States House of Representatives , the previous question originally served the same purpose as it did in the English Parliament. In the 1800s, the House of Representatives altered the rules governing the way the previous question could be used: in 1805, it was deemed non-debatable, and in 1841, the fraction of votes needed to pass it was lowered from 2/3 to 1/2, allowing for it to be …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "In 1841, the House lowered the fraction needed to pass the motion from two-thirds to one-half.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence states that in 1841 the fraction required to pass the motion was lowered from two-thirds to one-half.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Previous question",
+      "url": "https://en.wikipedia.org/wiki/Previous_question",
+      "snippet": "In the United States House of Representatives , the previous question originally served the same purpose as it did in the English Parliament. In the 1800s, the House of Representatives altered the rules governing the way the previous question could be used: in 1805, it was deemed non-debatable, and in 1841, the fraction of votes needed to pass it was lowered from 2/3 to 1/2, allowing for it to be …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "The House changes show procedural adjustments to how the previous-question motion worked.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The House rule changes are documented, while describing them as adjustments making closure more effective is a reasonable narrator’s synthesis.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Previous question",
+      "url": "https://en.wikipedia.org/wiki/Previous_question",
+      "snippet": "In the United States House of Representatives , the previous question originally served the same purpose as it did in the English Parliament. In the 1800s, the House of Representatives altered the rules governing the way the previous question could be used: in 1805, it was deemed non-debatable, and in 1841, the fraction of votes needed to pass it was lowered from 2/3 to 1/2, allowing for it to be …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "The Senate did not begin with a dependable vote to close debate.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence says the Senate originally had no procedure to vote to end debate, and that its previous-question motion had limited cloture effectiveness.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c19",
+    "text": "A filibuster occurred at the Senate’s first session.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The evidence explicitly says a filibuster took place at the Senate’s first session.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "politics",
+      "page_title": "Filibuster in the United States Senate",
+      "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+      "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The first obstruction: senators test debate’s limits",
+   "The rule changes that finally let debate end",
+   "How delay became power in the Senate"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The Senate had no previous-question motion before 1806.",
+     "verdict": "myth",
+     "explanation": "The Senate’s rules included a previous-question motion from 1789 to 1806. It was debatable and used to reverse the decision to consider a measure, so it was not a dependable way to end debate.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "Although between 1789 and 1806 the Senate's rules provided for a motion for the previous question , this motion was itself debatable, so its effectiveness as a cloture mechanism was limited. Rather, it was used by the Senate to reverse its decision to consider a measure, much like today's motion to postpone.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Senate’s original rules lacked a procedure to vote to end debate and bring a question to a vote.",
+     "verdict": "fact",
+     "explanation": "The rules provided no such procedure, and the evidence links that gap to the opening for filibusters.",
+     "evidence_ids": [
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "A filibuster took place at the Senate’s first session.",
+     "verdict": "fact",
+     "explanation": "The evidence identifies a filibuster at the chamber’s very first session.",
+     "evidence_ids": [
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "Originally, the Senate's rules did not provide for a procedure for the Senate to vote to end debate on a question so that it could be voted on, which opened the door to filibusters. A filibuster took place at the very first session of the Senate. On September 22, 1789, Senator William Maclay wrote in his diary that the \"design of the Virginians ...",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The Senate had a previous-question motion, but it was not a reliable way to force debate to end. What did senators use it to do?",
+    "options": [
+     "Reverse the decision to consider a measure",
+     "Require a two-thirds vote to close debate",
+     "Transfer a measure to the House"
+    ],
+    "answer_index": 0,
+    "reveal_para": 3,
+    "explanation": "The Senate used the motion to reverse its earlier decision to consider a measure, much like today’s motion to postpone."
+   }
+  }
+ },
+ "branches": {
+  "The first obstruction: senators test debate’s limits": {
+   "index": 2,
+   "title": "The Obstruction Nobody Invented",
+   "narration": "The listener chose the first obstruction: senators testing how far debate could stretch. The answer is less cinematic than a mastermind’s blueprint, and more consequential. The accounts link Aaron Burr’s proposal to remove an unused Senate procedure with later episodes of prolonged debate, but they do not prove that one caused the other. [c1]\n\nStart in eighteen oh five, with Aaron Burr proposing that the Senate discard procedural tools it no longer used. One of them was the motion called the previous question. [c2] Burr’s proposal concerned clearing away unused machinery; the account does not say he meant to design a new weapon for blocking action. [c3]\n\nNow hold onto the distinction. The rule change comes first in these accounts. The prolonged-debate episodes come later. That is a chronology, not proof that the change caused those episodes. [c4] But it gives us the shape of an institutional accident: no grand announcement, no architect unveiling a permanent veto, just a procedural history followed by senators discovering how much time itself could do.\n\nAnd don’t rush to name one undisputed first. One account says the history of filibusters began in eighteen oh five with Burr’s proposal, then points to John Calhoun’s eighteen forty-one campaign against a national bank. [c5] Another calls an eighteen thirty-seven obstruction by Whig senators an early notable filibuster. [c6] “Began,” “early notable,” and “defining moment” are not interchangeable labels. These accounts identify a procedural change and later episodes, but they do not settle one exact first performance.\n\nIn eighteen thirty-seven, a group of Whig senators filibustered to prevent allies of Democratic President Andrew Jackson from expunging a resolution of censure against him. [c7] This is not procedure floating above politics. Senators want to preserve a rebuke of the president, and they use prolonged debate to resist its removal. A right to speak becomes leverage over what the chamber can decide.\n\nThen comes eighteen forty-one. One account says John Calhoun rallied Southern senators to take the floor one after another for days against a national bank. [c8] Another calls a filibuster over a bill to charter a new national bank a defining moment. [c9] The stakes are no longer abstract rules. A bank bill is before the Senate, and opponents use time as resistance. The chamber’s question shifts: not only who has the stronger argument, but whether the majority can reach a decision.\n\nHere’s my read: that is the payoff. A speaking right can become a blocking power when debate cannot readily be brought to a close. The accounts place the removal proposal before the later episodes, then describe senators using prolonged debate against measures they oppose. [c10] The exact moment when ordinary debate first became a filibuster remains unsettled by these accounts. [c11]\n\nInstitutions rarely arrive with their final names stamped on them. People test procedures; others learn from the tests; eventually, a workaround can become part of the furniture. The Senate did not need a vote declaring, “Let us invent a blocking weapon.” A practice can emerge in use, one long speech and one crowded day at a time.\n\nAnd an accidental opening can outlast the people who first benefit from it. Once senators learn that delay may protect a position, later senators inherit that possibility. The chronological opening is procedural; the power it acquires is political. An unintended consequence can become a deliberate tactic.\n\nSo: Burr proposed removing the previous-question motion in eighteen oh five, and accounts describe prolonged-debate episodes in eighteen thirty-seven and eighteen forty-one. [c12] Those accounts do not identify one uncontested first filibuster, but they show how delay became a lasting feature of Senate conflict. [c13] Where should we go next: into the modern Senate, where delay becomes a governing rule; into the bank fight, where Calhoun and Jackson’s allies collide; or into other procedural accidents that grew into political power?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The accounts link Burr’s proposal to remove an unused procedure with later prolonged-debate episodes but do not prove causation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Both accounts place Burr’s procedural proposal before later filibuster episodes, while neither establishes that it caused them.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "In 1805 Aaron Burr proposed removing unused procedural tools, including the previous-question motion.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Senate history account says Burr proposed eliminating unused procedural tools in 1805, including the previous-question motion.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The account describes Burr’s proposal as removing unused tools and does not state that he intended to create a blocking weapon.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The account describes Burr as seeking to remove unused tools and does not attribute an intention to create a blocking tactic to him.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The accounts place the procedural change before later prolonged-debate episodes, without establishing causation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The accounts establish the sequence of Burr’s proposal followed by later episodes, not a causal link.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "One account dates filibuster history to 1805 and points to Calhoun’s 1841 campaign against a national bank.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Senate history account dates filibuster history to 1805 and describes Calhoun rallying senators against the national bank in 1841.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Another account describes an 1837 Whig filibuster as an early notable example.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The filibuster account calls the 1837 Whig episode an early notable filibuster.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In 1837 Whig senators filibustered to prevent Jackson’s allies from expunging a resolution of censure against him.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The account states that Whig senators filibustered in 1837 to prevent Jackson’s allies from expunging the censure resolution.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "In 1841 John Calhoun rallied Southern senators to speak in sequence for days against a national bank.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Senate history account says Calhoun rallied Southern senators to speak in sequence for days against the national bank in 1841.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "A 1841 filibuster over a bill to charter a national bank was described as a defining moment.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The filibuster account describes an 1841 filibuster over a bill to charter a national bank as a defining moment.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The accounts place Burr’s 1805 proposal before later prolonged-debate episodes.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Both accounts place Burr’s 1805 proposal before their descriptions of later prolonged-debate episodes.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The provided accounts do not establish the exact first use of the filibuster.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The accounts offer different chronological descriptions and do not establish one exact, uncontested first use.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Burr proposed removing the previous-question motion in 1805, and accounts describe prolonged-debate episodes in 1837 and 1841.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support the 1805 proposal and prolonged-debate episodes in 1837 and 1841.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The accounts describe later prolonged debate but do not identify one uncontested first filibuster.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The accounts describe later prolonged debate but do not establish one uncontested first filibuster.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The modern Senate: when delay becomes a governing rule",
+    "The bank fight: Calhoun, Jackson, and a chamber at a standstill",
+    "Procedural accidents that grew into political power"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Aaron Burr proposed removing the Senate’s previous-question motion in 1805.",
+      "verdict": "fact",
+      "explanation": "The account says Burr proposed removing unused procedural tools, including the previous-question motion, in 1805.",
+      "evidence_ids": [
+       "E22"
+      ],
+      "evidence": [
+       {
+        "id": "E22",
+        "pack": "politics",
+        "page_title": "United States Senate",
+        "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+        "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Burr removed the previous-question motion to invent a weapon for blocking Senate action.",
+      "verdict": "myth",
+      "explanation": "The account describes a proposal to clear away unused procedures; it does not say Burr intended to create a blocking weapon. It also does not establish that his proposal caused later obstruction.",
+      "evidence_ids": [
+       "E22",
+       "E30"
+      ],
+      "evidence": [
+       {
+        "id": "E22",
+        "pack": "politics",
+        "page_title": "United States Senate",
+        "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+        "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E30",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The first filibuster in Senate history happened in 1837.",
+      "verdict": "debated",
+      "explanation": "One account highlights an 1837 Whig filibuster as an early notable example, while another dates filibuster history to Burr’s 1805 proposal and describes an 1841 episode. The accounts do not establish one uncontested first use.",
+      "evidence_ids": [
+       "E22",
+       "E30"
+      ],
+      "evidence": [
+       {
+        "id": "E22",
+        "pack": "politics",
+        "page_title": "United States Senate",
+        "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+        "snippet": "The history of filibusters began in 1805 when Aaron Burr suggested getting rid of procedural tools that were not in use, one of which was the motion to call \"the previous question\". Following this, in 1841, Senator John Calhoun rallied a number of Southern senators to take the floor, one after another for days, in opposition of the national bank.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E30",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "One of the early notable filibusters occurred in 1837 when a group of Whig senators filibustered to prevent allies of the Democratic President Andrew Jackson from expunging a resolution of censure against him. In 1841, a defining moment came during a filibuster on a bill to charter a new national bank.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In 1837, Whig senators prolonged debate to stop Jackson’s allies from doing what?",
+     "options": [
+      "Expunging a resolution of censure against Jackson",
+      "Passing a bill to charter a national bank",
+      "Removing the previous-question motion"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "They filibustered to prevent Jackson’s allies from expunging a resolution of censure against him."
+    }
+   }
+  },
+  "The rule changes that finally let debate end": {
+   "index": 2,
+   "title": "How the Senate Found an Exit",
+   "narration": "March eighth, nineteen seventeen. The Senate has reached the point where a debate can hold a bill hostage, and President Woodrow Wilson wants a way through. [c1] A group of twelve anti-war senators has just killed a bill that would have allowed Wilson to arm merchant vessels against unrestricted German submarine warfare. [c2]\n\nThat is the crisis behind the Senate’s first formal exit. The chamber does not begin with a simple majority vote that can end any debate. Instead, the power to close debate arrives later, after an obstruction becomes impossible to ignore. [c3]\n\nThe Senate adopts cloture on March eighth, by a vote of seventy-six to three. [c4] Wilson urges the change. [c5] That is the first answer to our opening question: the Senate can create a procedure for ending debate, but it has to decide to create one. [c6]\n\nAnd notice the pressure. The rule comes amid a fight over a wartime bill and the president’s ability to arm merchant ships. [c2] It is not a tidy design exercise conducted far from political danger. The immediate problem is that a small group has stopped the measure, and the Senate wants an answer to that kind of stop. [c2]\n\nHere’s my read: cloture is an exit, but it is not an escape from politics. It turns one question into another. Instead of asking only whether debate can continue, senators must ask whether enough of them will agree to end it. A tool built to make action possible becomes a new battlefield over how much agreement action requires.\n\nThat threshold does not stay fixed. In nineteen seventy-five, the Senate changes its cloture rule so that three-fifths of senators duly chosen and sworn can limit debate. [c7] The exception matters: measures to amend the Senate’s standing rules still require two-thirds of those present and voting to invoke cloture. [c8]\n\nThe change comes after the Democratic majority gains four seats in the nineteen seventy-four elections, reaching sixty-one senators, with an independent senator caucusing with them for a total of sixty-two. [c9] Those numbers put the rule change in a particular political moment. The threshold is not a law of nature. It is a choice made by senators who hold power, under rules they can revise.\n\nIn practice, most bills cannot become law without the support of sixty senators. [c10] That is the modern paradox: cloture offers a route to end debate, but the route itself demands a substantial coalition. The Senate has not simply traded endless debate for easy decisions. It has built a gate, and then made the gate’s key depend on a supermajority.\n\nSo who can stop debate? Not one permanent office, and not a rule handed down complete from the chamber’s beginning. The answer changes with the Senate’s own procedures. In nineteen seventeen, it adopts cloture after twelve senators block a bill Wilson wants. [c2] In nineteen seventy-five, it lowers the general cloture threshold to three-fifths, while preserving a higher bar for changes to the standing rules. [c7] The Senate gives itself an exit, then argues over how wide to make the door.\n\nThe struggle does not end with the rule change. In January twenty twenty-one, a fifty-fifty Democratic majority, supported by Vice President Kamala Harris’s tie-breaking vote, encounters the legislative filibuster as an obstacle to adopting a new organizing resolution. [c11] Senate Minority Leader Mitch McConnell threatens to filibuster that resolution unless it includes a commitment to a sixty-vote threshold for cloture. [c12]\n\nThat episode brings the procedural story back to its central tension. A rule for ending debate can shape debates about the rule itself. The Senate’s exit is real, but it is never just a door; it is also leverage, bargaining power, and a question about how much agreement counts as enough.\n\nSo: cloture first arrives in nineteen seventeen, after a blocked wartime bill. [c4] In nineteen seventy-five, the Senate sets the general threshold at three-fifths, making sixty votes the practical hurdle for most bills. [c7] The opening question has an answer, but not a permanent one: the Senate can close debate when enough senators agree to use the procedure they have made.\n\nFor our next journey, we could follow the modern filibuster and its sixty-vote shadow; trace how the Senate’s rules shape confirmations; or compare the filibuster with other legislatures’ ways of slowing a majority.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Senate adopted cloture on March 8, 1917, during World War I.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card dates the Senate’s adoption of cloture to March 8, 1917, during World War I.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Twelve anti-war senators killed a bill allowing Wilson to arm merchant vessels amid unrestricted German submarine warfare.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says twelve anti-war senators killed the merchant-vessel arming bill amid unrestricted German submarine warfare.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The formal procedure for ending debate emerged later rather than being present from the Senate's start.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards establish that cloture was adopted in 1917 and revised later, supporting the claim that the formal debate-ending procedure came later than the Senate’s founding.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "In 1975, the Senate revised its cloture rule so that three-fifths of senators duly chosen and sworn could limit debate, except for measures amending the Standing Rules, on which a two-thirds majority of those present and voting is still needed to invoke cloture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Senate adopted cloture on March 8, 1917, by a vote of 76 to 3.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the adoption date and vote as March 8, 1917, by 76–3.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "President Woodrow Wilson urged adoption of cloture.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that President Wilson urged the adoption of cloture.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Senate created a procedure for ending debate in response to the blocked bill.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card links the cloture rule’s adoption to the blocked bill, supporting that the Senate created the procedure in response to the obstruction.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In 1975, the Senate revised cloture so three-fifths of senators duly chosen and sworn could limit debate.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state that the 1975 rule allowed three-fifths of senators duly chosen and sworn to limit debate.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "In 1975, the Senate revised its cloture rule so that three-fifths of senators duly chosen and sworn could limit debate, except for measures amending the Standing Rules, on which a two-thirds majority of those present and voting is still needed to invoke cloture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "In 1975, the Democratic Senate majority , having achieved a net gain of four seats in the 1974 Senate elections to attain a strength of 61 (with an additional independent senator caucusing with them for a total of 62), reduced the necessary supermajority to three-fifths of senators duly chosen and sworn. In practice, most bills cannot become law without the support of 60 senators.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Measures to amend the Senate's standing rules require two-thirds of those present and voting for cloture.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that amendments to the standing rules still require two-thirds of those present and voting to invoke cloture.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "In 1975, the Senate revised its cloture rule so that three-fifths of senators duly chosen and sworn could limit debate, except for measures amending the Standing Rules, on which a two-thirds majority of those present and voting is still needed to invoke cloture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "After the 1974 elections, Democrats held 61 seats, with a caucusing independent bringing their total to 62.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Democrats reached 61 seats after the 1974 elections, plus a caucusing independent for 62 total.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "In 1975, the Democratic Senate majority , having achieved a net gain of four seats in the 1974 Senate elections to attain a strength of 61 (with an additional independent senator caucusing with them for a total of 62), reduced the necessary supermajority to three-fifths of senators duly chosen and sworn. In practice, most bills cannot become law without the support of 60 senators.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "In practice, most bills cannot become law without support from 60 senators.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says that in practice most bills cannot become law without support from 60 senators.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Cloture",
+       "url": "https://en.wikipedia.org/wiki/Cloture",
+       "snippet": "In 1975, the Democratic Senate majority , having achieved a net gain of four seats in the 1974 Senate elections to attain a strength of 61 (with an additional independent senator caucusing with them for a total of 62), reduced the necessary supermajority to three-fifths of senators duly chosen and sworn. In practice, most bills cannot become law without the support of 60 senators.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "In January 2021, a 50-50 Democratic majority relied on Vice President Harris's tie-breaking vote and faced a filibuster dispute over an organizing resolution.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes the January 2021 50–50 Democratic majority, Harris’s tie-breaking vote, and the organizing-resolution filibuster dispute.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "In January 2021, following a shift to a 50–50 Democratic majority supported by Vice President Harris ' tie-breaking vote, the legislative filibuster became a sticking point for the adoption of a new organizing resolution when Mitch McConnell , the Senate Minority Leader, threatened to filibuster the resolution unless it included language committing to a 60-vote threshold to invoke cloture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Mitch McConnell threatened to filibuster the organizing resolution unless it committed to a 60-vote cloture threshold.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says McConnell threatened to filibuster the organizing resolution unless it included a commitment to a 60-vote cloture threshold.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "In January 2021, following a shift to a 50–50 Democratic majority supported by Vice President Harris ' tie-breaking vote, the legislative filibuster became a sticking point for the adoption of a new organizing resolution when Mitch McConnell , the Senate Minority Leader, threatened to filibuster the resolution unless it included language committing to a 60-vote threshold to invoke cloture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The modern filibuster and the shadow of sixty votes",
+    "Confirmations, judges, and the Senate’s procedural arsenal",
+    "How other legislatures slow a determined majority"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Senate’s first cloture rule was adopted after twelve anti-war senators blocked Wilson’s merchant-vessel bill.",
+      "verdict": "fact",
+      "explanation": "The Senate adopted cloture on March 8, 1917, after twelve anti-war senators killed the bill allowing Wilson to arm merchant vessels.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "politics",
+        "page_title": "Cloture",
+        "url": "https://en.wikipedia.org/wiki/Cloture",
+        "snippet": "On 8 March 1917, during World War I , a rule allowing cloture of debate was adopted by the Senate by a vote of 76–3 at the urging of President Woodrow Wilson , after a group of 12 anti-war senators managed to kill a bill that would have allowed Wilson to arm merchant vessels in the face of unrestricted German submarine warfare .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Senate’s 1975 cloture change made three-fifths the threshold even for motions to amend its standing rules.",
+      "verdict": "myth",
+      "explanation": "The three-fifths threshold applied generally, but measures to amend the Senate’s standing rules still required two-thirds of those present and voting for cloture.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "In 1975, the Senate revised its cloture rule so that three-fifths of senators duly chosen and sworn could limit debate, except for measures amending the Standing Rules, on which a two-thirds majority of those present and voting is still needed to invoke cloture.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "In January 2021, McConnell threatened to filibuster the Senate organizing resolution unless it committed to a sixty-vote cloture threshold.",
+      "verdict": "fact",
+      "explanation": "The account says McConnell made that threat during the dispute over the new organizing resolution.",
+      "evidence_ids": [
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "In January 2021, following a shift to a 50–50 Democratic majority supported by Vice President Harris ' tie-breaking vote, the legislative filibuster became a sticking point for the adoption of a new organizing resolution when Mitch McConnell , the Senate Minority Leader, threatened to filibuster the resolution unless it included language committing to a 60-vote threshold to invoke cloture.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The Senate adopts cloture in 1917 after a small group blocks Wilson’s bill. What vote does the chamber record for the new rule?",
+     "options": [
+      "Seventy-six to three",
+      "Sixty-two to fourteen",
+      "Unanimously"
+     ],
+     "answer_index": 0,
+     "reveal_para": 2,
+     "explanation": "The Senate adopted cloture by a vote of seventy-six to three."
+    }
+   }
+  },
+  "How delay became power in the Senate": {
+   "index": 2,
+   "title": "Delay Becomes Power",
+   "narration": "The branch you chose asks how delay became power in the Senate. A missing brake became a lever—but only as senators learned to use it and the rules changed around them. [c1]\n\nIn the chamber, the crucial fact is not that senators can speak forever. In most cases, Senate rules do not limit how long a speech may last. [c2] A senator may speak twice on a motion or bill during one legislative day. [c3] That day runs from the Senate’s convening until adjournment, not necessarily from midnight to midnight. [c4]\n\nSo the opening question gets its answer: debate did not come with an easy, automatic off switch. The historical account describes the filibuster as evolving from a rare practice that required holding the floor for extended periods into something far more routine. [c5] One way to read that history is not as a master plan, but as a procedural opening that determined senators could exploit. Later changes made the consequences of that practice grow. [c6]\n\nHere’s the twist. The old image is a senator standing, speaking, and exhausting the clock. But modern delay need not look like a marathon speech. Senate rules leave speeches unlimited in length in most cases, while the filibuster has evolved into a routine sixty-vote supermajority requirement. [c7] The tool changed shape: from visible endurance toward a threshold that can block action without a theatrical all-night performance. [c8]\n\nAnd once that threshold matters, the Senate’s other powers make the stakes enormous. The Senate confirms presidential appointments, approves or rejects treaties, and decides impeachment cases brought by the House. [c9] It also checks the executive and judicial branches alongside the House. [c10] A delay tactic in that chamber can therefore reach far beyond one speech or one bill. That does not mean delay alone explains the Senate’s power; delay operates inside an institution already entrusted with consequential decisions. [c11]\n\nSenate leaders adapted, too. Cloture motions—votes to end debate—became regular tools for managing the flow of business, often even when nobody had threatened a filibuster. [c12] The shadow of delay can shape the schedule before anyone actually takes the floor. In that sense, the weapon’s power is not measured only by how long a senator speaks. It is measured by what other senators must plan around.\n\nThe numbers make that shadow tangible. A single forced vote may not delay much, but several votes can accumulate into substantial lost time. [c13] Each takes at least fifteen minutes, and in practice most take forty-five. [c14] A senator can also announce an intention to object to a request—a hold—and the majority leader may then avoid making that request, even if the senator does not come to the floor. [c15] Delay has become leverage partly because the possibility of obstruction can change behavior before obstruction is fully performed.\n\nNow consider the reformers’ argument. Some want to return the filibuster to its origins, requiring senators to hold the floor and speak at length. [c16] They argue that visible obstruction could expose major bills a minority is willing to block covertly but not overtly. [c17] That is a proposal, not a settled verdict. But it reveals the central tradeoff: should obstruction cost time in public, or should Senate procedures let it operate with less visible effort?\n\nSo: the filibuster’s history is described as an evolution from rare, extended floor-holding to a routine supermajority hurdle. [c18] A procedural opening became a political tool, and later changes made its effects routine even when the chamber was not witnessing a marathon speech. [c19] The Senate’s story is not simply that delay created power; it is that delay found power already waiting in the institution’s responsibilities. [c20]\n\nFor our next journey, do we follow cloture into the modern Senate, trace the Senate’s checks and balances, or test whether visible obstruction would change the game?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The filibuster’s influence grew as senators used delay and Senate rules changed.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes the filibuster’s evolution and leaders’ changing use of cloture, though it does not specifically establish that Senate rules changed.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "In most cases, Senate rules do not limit the length of senators’ speeches.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Senate rules card says speeches are not limited in length and that senators may speak as long as they please in most cases.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Senators may make no more than two speeches on a motion or bill during one legislative day.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The rules card explicitly limits senators to two speeches on a motion or bill during the same legislative day.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "A legislative day begins when the Senate convenes and ends with adjournment, and need not match a calendar day.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card defines a legislative day as running from convening to adjournment and says it need not coincide with the calendar day.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The filibuster evolved from a rare practice requiring extended floor-holding into a more routine practice.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The filibuster card explicitly describes its evolution from rare extended floor-holding to routine use as a 60-vote requirement.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "A plausible historical interpretation is that a procedural opening was exploited by determined senators, with later changes increasing its consequences.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The claim is explicitly framed as a plausible reading of the history, and the cards support the underlying evolution without establishing that causal interpretation.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The filibuster has evolved into a routine sixty-vote supermajority requirement, while speech lengths are generally unlimited.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support the routine 60-vote requirement and generally unlimited speech length, with the latter expressly limited to most cases.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The modern filibuster can operate as a vote threshold rather than an extended floor speech.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes the filibuster as a routine 60-vote requirement, supporting the claim that it can operate as a vote threshold rather than extended floor speech.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Senate confirms presidential appointments, approves or rejects treaties, and decides impeachment cases brought by the House.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Senate card states these powers, though it describes impeachment authority as convicting or exonerating cases brought by the House.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The Senate has exclusive power to confirm U.S. presidential appointments, to approve or reject treaties, and to convict or exonerate impeachment cases brought by the House. The Senate and the House provide a check and balance on the powers of the executive and judicial branches of government. The composition and powers of the Senate are established by Article One of the U.S.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Senate and House check the powers of the executive and judicial branches.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Senate and House provide checks and balances on the executive and judicial branches.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The Senate has exclusive power to confirm U.S. presidential appointments, to approve or reject treaties, and to convict or exonerate impeachment cases brought by the House. The Senate and the House provide a check and balance on the powers of the executive and judicial branches of government. The composition and powers of the Senate are established by Article One of the U.S.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Delay operates within an institution entrusted with consequential decisions, but delay alone does not explain Senate power.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a framing of the documented Senate responsibilities and filibuster practice, not a separate factual claim established directly by the cards.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The Senate has exclusive power to confirm U.S. presidential appointments, to approve or reject treaties, and to convict or exonerate impeachment cases brought by the House. The Senate and the House provide a check and balance on the powers of the executive and judicial branches of government. The composition and powers of the Senate are established by Article One of the U.S.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Senate leaders use cloture motions regularly to manage business, often without a threatened filibuster.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The filibuster card says Senate leaders increasingly use cloture motions regularly, often without a threatened filibuster.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The cumulative effect of several votes can cause substantial delay.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the cumulative effect of several votes can be substantial despite limited delay from a single vote.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "While forcing a single vote may not be an effective delaying tool, the cumulative effect of several votes, which take at least 15 minutes apiece (in practice, most take 45 minutes), can be substantial. If a senator announces to their leadership that they intend to object to a request (known as a hold ), the majority leader will not attempt to make that request even if the senator does not come to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Each vote takes at least fifteen minutes, and most take forty-five minutes in practice.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says votes take at least 15 minutes each and that most take 45 minutes in practice.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "While forcing a single vote may not be an effective delaying tool, the cumulative effect of several votes, which take at least 15 minutes apiece (in practice, most take 45 minutes), can be substantial. If a senator announces to their leadership that they intend to object to a request (known as a hold ), the majority leader will not attempt to make that request even if the senator does not come to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "A senator’s announced intention to object, called a hold, may lead the majority leader not to make a request even without a floor speech.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card says a hold leads the majority leader not to attempt a request, whereas the narration softens this to 'may' avoid it; the source is phrased categorically about that response.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "While forcing a single vote may not be an effective delaying tool, the cumulative effect of several votes, which take at least 15 minutes apiece (in practice, most take 45 minutes), can be substantial. If a senator announces to their leadership that they intend to object to a request (known as a hold ), the majority leader will not attempt to make that request even if the senator does not come to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Some reformers propose requiring senators to hold the floor and speak at length to delay a bill.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card reports that some reformers argue for returning to a practice requiring senators to hold the floor and speak at length.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "Some reformers argue that the filibuster should be returned to its origins, in which senators were required to hold the floor and speak at length to delay a bill. Since obstruction would be more visible, the reform might benefit major bills that the minority \"is willing to block covertly but not overtly\".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "Reformers argue visible obstruction might benefit major bills that a minority is willing to block covertly but not overtly.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that reformers argue visible obstruction could benefit major bills the minority would block covertly but not overtly.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "Some reformers argue that the filibuster should be returned to its origins, in which senators were required to hold the floor and speak at length to delay a bill. Since obstruction would be more visible, the reform might benefit major bills that the minority \"is willing to block covertly but not overtly\".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "The filibuster evolved from rare extended floor-holding to a routine supermajority hurdle.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly describes the evolution from rare extended floor-holding to a routine 60-vote supermajority requirement.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "Changes helped make filibuster effects routine even without marathon speeches.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports routine effects through the routine 60-vote requirement, though it does not explicitly attribute this to later procedural changes.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "Delay’s political force operates within the Senate’s existing institutional responsibilities.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s synthesis linking delay to the Senate’s documented institutional responsibilities.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "United States Senate",
+       "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+       "snippet": "The Senate has exclusive power to confirm U.S. presidential appointments, to approve or reject treaties, and to convict or exonerate impeachment cases brought by the House. The Senate and the House provide a check and balance on the powers of the executive and judicial branches of government. The composition and powers of the Senate are established by Article One of the U.S.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E10",
+       "pack": "politics",
+       "page_title": "Filibuster in the United States Senate",
+       "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+       "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Cloture: how sixty votes became the Senate’s shadow rule",
+    "The Senate’s hidden powers: appointments, treaties, impeachment",
+    "Bring back the talking filibuster—and watch the clock"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The modern filibuster always requires a senator to speak on the floor for hours.",
+      "verdict": "myth",
+      "explanation": "The chapter describes the filibuster as a routine sixty-vote hurdle that can block action without a marathon speech. Senate speech lengths are generally unlimited, but extended floor-holding is not required for the modern filibuster.",
+      "evidence_ids": [
+       "E10",
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E16",
+        "pack": "politics",
+        "page_title": "United States Senate",
+        "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+        "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Senate rules generally do not limit how long a senator may speak.",
+      "verdict": "fact",
+      "explanation": "In most cases, Senate rules place no limit on speech length, though a senator may speak no more than twice on a motion or bill during one legislative day.",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "politics",
+        "page_title": "United States Senate",
+        "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+        "snippet": "The rules of the Senate provide that no senator may make more than two speeches on a motion or bill on the same legislative day. A legislative day begins when the Senate convenes and ends with adjournment. Hence, it does not necessarily coincide with the calendar day . The length of these speeches is not limited by the rules. In most cases, senators may speak for as long as they please.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Senate leaders use cloture motions only after someone has threatened a filibuster.",
+      "verdict": "myth",
+      "explanation": "Cloture motions are used regularly to manage Senate business, often even when no filibuster has been threatened.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "politics",
+        "page_title": "Filibuster in the United States Senate",
+        "url": "https://en.wikipedia.org/wiki/Filibuster_in_the_United_States_Senate",
+        "snippet": "As the filibuster has evolved from a rare practice that required holding the floor for extended periods into a routine 60-vote supermajority requirement, Senate leaders have increasingly used cloture motions as a regular tool to manage the flow of business, often even in the absence of a threatened filibuster.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After explaining how several votes can consume time, the chapter introduces a senator’s announced intention to object to a request. What can happen next?",
+     "options": [
+      "The majority leader may avoid making the request, even without a floor speech.",
+      "The Senate must immediately end debate by voting on cloture.",
+      "The senator must hold the floor and speak until the request is withdrawn."
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "A senator’s announced intention to object, known as a hold, may lead the majority leader to avoid making the request even if the senator never takes the floor."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9032,
+   "cached_tokens": 8040,
+   "cache_write_tokens": 488,
+   "output_tokens": 972,
+   "cost_usd": 0.00067781
+  },
+  {
+   "agent": "researcher",
+   "requests": 16,
+   "input_tokens": 50327,
+   "cached_tokens": 40848,
+   "cache_write_tokens": 7463,
+   "output_tokens": 1630,
+   "cost_usd": 0.00235796
+  },
+  {
+   "agent": "storyteller",
+   "requests": 6,
+   "input_tokens": 27687,
+   "cached_tokens": 19956,
+   "cache_write_tokens": 6975,
+   "output_tokens": 9807,
+   "cost_usd": 0.00605054
+  },
+  {
+   "agent": "skeptic",
+   "requests": 6,
+   "input_tokens": 26597,
+   "cached_tokens": 14664,
+   "cache_write_tokens": 11177,
+   "output_tokens": 4676,
+   "cost_usd": 0.00395737
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1731,
+   "cached_tokens": 1483,
+   "cache_write_tokens": 122,
+   "output_tokens": 55,
+   "cost_usd": 7.018e-05
+  }
+ ],
+ "build_cost_usd": 0.013114,
+ "build_seconds": 81.3
+}

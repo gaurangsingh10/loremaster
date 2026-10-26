@@ -1,0 +1,1604 @@
+{
+ "thread": {
+  "id": "manhattan-death-star",
+  "title": "The Manhattan Project → The Death Star",
+  "hook": "Secret cities, brilliant engineers, a weapon that changes everything, and the question of who is responsible.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "1942–1945",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "The City That Built the Sun",
+ "logline": "From secret atomic cities to a planet-killing battle station, trace how brilliant engineers built world-changing weapons—and who bears responsibility for them.",
+ "plan": [
+  {
+   "title": "A City Behind the Fence",
+   "focus": "Open on the irresistible parallel: hidden communities of scientists and workers building weapons whose consequences reach far beyond their walls. Pair the Manhattan Project’s secret sites and scientific workforce with the Death Star’s construction and crew; frame the resemblance as an interpretation, not evidence of direct inspiration.",
+   "queries": [
+    "history: Manhattan Project secret cities",
+    "history: Manhattan Project scientists",
+    "star_wars: Death Star construction",
+    "star_wars: Death Star crew"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  },
+  {
+   "title": "Who Owns the Weapon?",
+   "focus": "Turn from construction to consequence: pair the atomic bombings of Hiroshima and Nagasaki with the Death Star’s destruction of Alderaan, carefully distinguishing documented history from fictional events. Close on the question of responsibility—scientists, political leaders, and operators—without claiming that the Manhattan Project inspired the Death Star unless a source supports it.",
+   "queries": [
+    "history: atomic bombings Hiroshima Nagasaki",
+    "history: Manhattan Project scientists responsibility",
+    "star_wars: Destruction of Alderaan",
+    "star_wars: Death Star destruction"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A City Behind the Fence",
+  "narration": "Imagine a city whose streets exist because a weapon needs them. Imagine the people inside it waking, working, eating, and sleeping beside a project whose consequences are meant for a world they may never see. That image belongs to two very different stories: the Manhattan Project, and the Death Star. The resemblance is striking. It is also my interpretation, not proof that one directly inspired the other.\n\nStart with the real project. On October ninth, nineteen forty-one, President Franklin Roosevelt met with Vannevar Bush and approved accelerating the atomic program. [c1] Roosevelt established a Top Policy Group that included Vice President Henry Wallace, Bush, James Conant, Secretary of War Henry Stimson, and Army Chief of Staff George Marshall. [c2] The president was on that list, though he never attended a meeting. [c3]\n\nThat is a small, almost cinematic detail: the leader authorizes a secret enterprise, then remains absent from its working table. But don’t mistake absence for insignificance. The project required decisions at the highest level, and then something less glamorous than a dramatic order: buildings, plants, power, and people. The bomb’s story is often told as a story of brilliant minds. The evidence offers a useful correction. More than eighty percent of the project’s cost went to building and operating fissile-material production plants. [c4]\n\nThe project pursued two kinds of fuel for nuclear weapons: highly enriched uranium and plutonium. [c5] Enriched uranium was produced at the Clinton Engineer Works in Tennessee, while plutonium came from the Hanford Engineer Works in Washington. [c6] These names sound like places on a map. In the story of the weapon, they are also the answer to a harder question: how does an idea become an industrial fact? Not in one room. Not by one flash of inspiration. Through a vast effort of production.\n\nThe scale of that effort began to outrun certainty. Work started in April nineteen forty-three on facilities designed for an estimated twenty-five thousand workers, with half expected to live on-site. [c7] At that point, reactor design at the Metallurgical Laboratory and DuPont was not advanced enough to predict the project’s scope accurately. [c8] Yet the uncertainty did not stop the facilities from going forward. The future was unclear; the construction timetable was not waiting for it to become clear.\n\nNow turn to the fiction. The Death Star is a gargantuan space station armed with a planet-destroying superlaser powered by kyber crystals. [c9] Its first design came from the Geonosians during the waning years of the Galactic Republic, and the Galactic Empire later took over the project. [c10] So the station has a history before it becomes the Empire’s terror: conception, transfer, construction. The weapon is enormous, but so is the chain of decisions that brings it into being.\n\nHere’s my read: Manhattan’s production plants and the Death Star’s construction are mirrors in one particular way. A weapon that changes everything depends on a world of organized labor and infrastructure that can disappear behind the weapon’s legend. That parallel is about structure, not a claim of direct borrowing. The historical project built facilities for an estimated twenty-five thousand workers; the fictional station is a gargantuan weapon-system created through a project the Empire takes over. Those are not the same undertaking. But each makes you ask who builds the thing that everyone else fears.\n\nAnd the contrast matters. The Manhattan evidence names specific sites for uranium and plutonium production, and describes the huge share of cost spent on production plants. [c11] The Death Star’s defining scale is told through its superlaser and its ability to destroy a planet. [c12] One story makes industrial labor visible in the numbers. The other makes destructive power visible in the spectacle. Put them beside each other, and the question changes. It is no longer only, “How powerful is the weapon?” It becomes, “What kind of hidden world must exist before that power can be used?”\n\nSo: Roosevelt’s decision sat above a project dominated by production plants, and the work required facilities planned for thousands. [c13] The Death Star, conceived by the Geonosians and taken over by the Empire, turns a construction project into a symbol of planetary terror. [c14] Next, we can follow the Manhattan Project’s industrial machinery, trace the Death Star’s transfer into imperial hands, or ask what secrecy does to the people inside a weapon’s city.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "On October ninth, 1941, Roosevelt approved accelerating the atomic program during a meeting with Vannevar Bush.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Roosevelt approved accelerating the atomic program during his October 9, 1941 meeting with Vannevar Bush.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "On 9 October 1941, during a meeting with Vannevar Bush about the British conclusions, President Roosevelt approved accelerating the atomic program. He created a Top Policy Group consisting of himself—although he never attended a meeting—Vice President Henry A. Wallace , Bush, Conant, Secretary of War Henry L. Stimson , and the Chief of Staff of the Army , General George C. Marshall .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The Top Policy Group included Wallace, Bush, Conant, Stimson, and Marshall.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists Wallace, Bush, Conant, Stimson, and Marshall as members of the Top Policy Group.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "On 9 October 1941, during a meeting with Vannevar Bush about the British conclusions, President Roosevelt approved accelerating the atomic program. He created a Top Policy Group consisting of himself—although he never attended a meeting—Vice President Henry A. Wallace , Bush, Conant, Secretary of War Henry L. Stimson , and the Chief of Staff of the Army , General George C. Marshall .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Roosevelt was part of the group but never attended a meeting.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Roosevelt was included in the group but never attended a meeting.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "On 9 October 1941, during a meeting with Vannevar Bush about the British conclusions, President Roosevelt approved accelerating the atomic program. He created a Top Policy Group consisting of himself—although he never attended a meeting—Vice President Henry A. Wallace , Bush, Conant, Secretary of War Henry L. Stimson , and the Chief of Staff of the Army , General George C. Marshall .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "More than eighty percent of the Manhattan Project cost went to building and operating fissile-material production plants.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that over 80 percent of project cost went to building and operating fissile-material production plants.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The project proposed highly enriched uranium and plutonium as nuclear-weapon fuel.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the project proposed highly enriched uranium and plutonium as nuclear-weapon fuel.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Uranium was produced at Clinton Engineer Works in Tennessee, and plutonium at Hanford Engineer Works in Washington.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies Clinton Engineer Works in Tennessee for enriched uranium production and Hanford Engineer Works in Washington for plutonium production.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Facilities begun in April 1943 were estimated to serve 25,000 workers, half expected to live on-site.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says facilities begun in April 1943 were estimated for 25,000 workers, half expected to live on-site.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "The dispute did not delay work. Although progress on the reactor design at Metallurgical Laboratory and DuPont was not sufficiently advanced to accurately predict the scope of the project, a start was made in April 1943 on facilities for an estimated 25,000 workers, half of whom were expected to live on-site.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Reactor design at the Metallurgical Laboratory and DuPont was not advanced enough to accurately predict project scope.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that reactor-design progress at the Metallurgical Laboratory and DuPont was not advanced enough to predict project scope accurately.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "The dispute did not delay work. Although progress on the reactor design at Metallurgical Laboratory and DuPont was not sufficiently advanced to accurately predict the scope of the project, a start was made in April 1943 on facilities for an estimated 25,000 workers, half of whom were expected to live on-site.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The Death Star is a gargantuan station armed with a planet-destroying superlaser powered by kyber crystals.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon evidence card describes the Death Star as a gargantuan station armed with a planet-destroying superlaser powered by kyber crystals.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Death Star",
+      "url": "https://starwars.fandom.com/wiki/Death_Star",
+      "snippet": "A Death Star was a gargantuan space station armed with a planet -destroying superlaser powered by kyber crystals .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The Geonosians originally designed the DS-1 during the Galactic Republic's waning years, and the Empire later took over the project.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon evidence card says the Geonosians originally designed the DS-1 during the Republic's waning years and the Empire later took over the project.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Death Star",
+      "url": "https://starwars.fandom.com/wiki/Death_Star",
+      "snippet": "The DS-1 Death Star Mobile Battle Station, also known as the DS-1 Orbital Battle Station, was a superweapon that was originally designed by the Geonosians during the waning years of the Galactic Republic . The project was later taken over by the Galactic Empire ;",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The Manhattan Project spent more than eighty percent of its cost on production plants and operated uranium and plutonium sites.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card supports both the cost claim and the production of enriched uranium at Clinton and plutonium at Hanford.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The Death Star is defined by its planet-destroying superlaser.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon evidence card directly identifies the Death Star's planet-destroying superlaser as a defining weapon feature.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "star_wars",
+      "page_title": "Death Star",
+      "url": "https://starwars.fandom.com/wiki/Death_Star",
+      "snippet": "A Death Star was a gargantuan space station armed with a planet -destroying superlaser powered by kyber crystals .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The Manhattan Project centered heavily on production plants and planned facilities for thousands of workers.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The cards support the summary that production plants dominated project costs and that facilities were planned for thousands of workers.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Manhattan Project",
+      "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "snippet": "The dispute did not delay work. Although progress on the reactor design at Metallurgical Laboratory and DuPont was not sufficiently advanced to accurately predict the scope of the project, a start was made in April 1943 on facilities for an estimated 25,000 workers, half of whom were expected to live on-site.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "The Death Star was designed by the Geonosians and later taken over by the Empire.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The canon evidence card states that the Geonosians designed the Death Star and the Empire later took over the project.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "star_wars",
+      "page_title": "Death Star",
+      "url": "https://starwars.fandom.com/wiki/Death_Star",
+      "snippet": "The DS-1 Death Star Mobile Battle Station, also known as the DS-1 Orbital Battle Station, was a superweapon that was originally designed by the Geonosians during the waning years of the Galactic Republic . The project was later taken over by the Galactic Empire ;",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The factories behind the Manhattan Project",
+   "How the Empire inherited the Death Star",
+   "The hidden lives inside a weapon’s city"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "More than eighty percent of the Manhattan Project’s cost went to production plants.",
+     "verdict": "fact",
+     "explanation": "The evidence states that over eighty percent of the project’s cost went to building and operating fissile-material production plants.",
+     "evidence_ids": [
+      "E1"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "Over 80 percent of project cost was for building and operating the fissile material production plants. The project proposed both highly enriched uranium and plutonium as fuel for nuclear weapons. Enriched uranium was produced at the Clinton Engineer Works in Tennessee . Plutonium was produced in the world's first industrial-scale nuclear reactors at the Hanford Engineer Works in Washington .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Roosevelt attended meetings of the Top Policy Group he created.",
+     "verdict": "myth",
+     "explanation": "Roosevelt was included in the group, but the evidence says he never attended a meeting.",
+     "evidence_ids": [
+      "E3"
+     ],
+     "evidence": [
+      {
+       "id": "E3",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "On 9 October 1941, during a meeting with Vannevar Bush about the British conclusions, President Roosevelt approved accelerating the atomic program. He created a Top Policy Group consisting of himself—although he never attended a meeting—Vice President Henry A. Wallace , Bush, Conant, Secretary of War Henry L. Stimson , and the Chief of Staff of the Army , General George C. Marshall .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Death Star was originally designed by the Galactic Empire.",
+     "verdict": "myth",
+     "explanation": "The Geonosians originally designed the Death Star during the Republic’s waning years; the Empire later took over the project.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "star_wars",
+       "page_title": "Death Star",
+       "url": "https://starwars.fandom.com/wiki/Death_Star",
+       "snippet": "The DS-1 Death Star Mobile Battle Station, also known as the DS-1 Orbital Battle Station, was a superweapon that was originally designed by the Geonosians during the waning years of the Galactic Republic . The project was later taken over by the Galactic Empire ;",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The Manhattan Project’s reactor designs were not advanced enough to predict the project’s scope accurately. What happened to construction?",
+    "options": [
+     "Facilities were delayed until the designs were complete.",
+     "Work began on facilities planned for an estimated 25,000 workers.",
+     "The project abandoned plans for large facilities."
+    ],
+    "answer_index": 1,
+    "reveal_para": 4,
+    "explanation": "Work began in April 1943 on facilities designed for an estimated 25,000 workers, even though the reactor designs could not yet predict the project’s scope accurately."
+   }
+  }
+ },
+ "branches": {
+  "The factories behind the Manhattan Project": {
+   "index": 2,
+   "title": "Factories for the Unthinkable",
+   "narration": "Last chapter, we stood inside the image of a city built behind a fence. You chose to follow the factories behind the Manhattan Project, where secrecy had an address and work had a human cost.\n\nStart with the land. In October 1942, the Army Corps of Engineers began acquiring about fifty-nine thousand acres in the Oak Ridge area. [c1] The taking was swift and final; residents sometimes came home to find eviction notices on their doors. [c2]\n\nThat is the first factory hidden in the story: not a reactor or a machine, but a landscape reorganized by command. By March 1943, earlier communities had been removed, and fences and checkpoints marked the complex. [c3] Anderson County lost one-seventh of its land and three hundred ninety-one thousand dollars in annual property-tax revenue. [c4] The arrangement left a tense, uneasy relationship between Oak Ridge and surrounding towns. [c5]\n\nPause there. A fence can conceal a project from outsiders, but it cannot make the costs disappear. Those costs have addresses, households, and neighbors. The project may be secret; the transformation around it is not.\n\nNow widen the frame. In September 1942, Brigadier General Leslie R. Groves Jr. became director of the Manhattan Project. [c6] The project to build industrial-size plants for plutonium manufacture was codenamed X-ten. [c7] Oak Ridge and Hanford belong in this story as named industrial sites, but the cards before us give more detail about Oak Ridge than Hanford. [c8]\n\nThat distinction matters. A sweeping story can make a complex project feel like one machine, operated by one hand. The evidence we have is narrower: a director, a code name, land taken, communities displaced, and a system of fences and checkpoints. The honest version does not need us to invent the sound of a plant or the thoughts of a worker. The scale is already astonishing.\n\nAnd then the image turns toward the stars. In the Legends account, the Death Star was designed to let Emperor Palpatine control the Galactic Empire more directly through fear. [c9] The same account places the concept before the Clone Wars and connects the weapon to the Tarkin Doctrine. [c10] It describes secret development involving Geonosian designers and Raith Sienar, with final detail work in the Maw Cluster near Kessel. [c11]\n\nHere’s my read: Oak Ridge and the Death Star make a powerful comparison because both stories make centralized production visible through a place built around a weapon. That is a comparison of scale and political imagination, not a claim that one directly inspired the other. The Death Star’s story turns industrial capacity into spectacle: a weapon whose purpose is to make resistance seem hopeless. Oak Ridge’s history points us back to land, displacement, and communities left to live beside a secret project.\n\nThe difference is not a footnote. In the Legends account, the Empire completes one Death Star, while a second and third never reach full completion; a prototype also exists. [c12] That is a fictional history of a superweapon multiplying into a program. The Manhattan Project evidence here instead names industrial plants for plutonium manufacture and records the machinery of acquiring land and enclosing a site. [c13]\n\nPut them side by side, and the production line becomes a moral question. Who gets to decide that a landscape will become part of a weapon? Who is told enough to do the work, and who is left outside the fence? The records here do not give us every worker’s story. They do tell us that whole communities could be removed, and that the relationship with nearby towns remained uneasy. [c14]\n\nSo: Oak Ridge shows the human geography of secrecy, while the Death Star gives that secrecy a fictional face vast enough to fill the sky. One story records people displaced by a real project; the other imagines fear as an imperial governing tool. Which hidden labor should we follow next: the workers inside the Manhattan Project, the making of another fictional superweapon, or the way empires turn fear into policy?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "In October 1942, the Army Corps of Engineers began acquiring approximately fifty-nine thousand acres in the Oak Ridge area.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card states that the Corps began acquiring approximately 59,000 acres in October 1942.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In October 1942, the United States Army Corps of Engineers began acquiring approximately 59,000 acres (24,000 ha) in the Oak Ridge area for the Manhattan Project. Due to the project's urgency and secrecy, the Corps' \"declaration of taking\" was swift and final. Many residents came home to find eviction notices on their doors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The land acquisition was swift and final, and some residents returned home to find eviction notices.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the taking was swift and final and that many residents came home to eviction notices.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In October 1942, the United States Army Corps of Engineers began acquiring approximately 59,000 acres (24,000 ha) in the Oak Ridge area for the Manhattan Project. Due to the project's urgency and secrecy, the Corps' \"declaration of taking\" was swift and final. Many residents came home to find eviction notices on their doors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "By March 1943, earlier communities had been removed and Oak Ridge had fences and checkpoints.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card states that by March 1943 earlier communities had been removed and fences and checkpoints established.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the same one-seventh land loss and $391,000 annual property-tax revenue figure.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The acquisition created a tense, uneasy relationship between the Oak Ridge complex and surrounding towns.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly describes the relationship with surrounding towns as tense and uneasy.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Leslie R. Groves Jr. became director of the Manhattan Project in September 1942.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Hanford card states that Groves became Manhattan Project director in September 1942.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Hanford Site",
+       "url": "https://en.wikipedia.org/wiki/Hanford_Site",
+       "snippet": "In September 1942, Brigadier General Leslie R. Groves Jr. became the director of the Manhattan Project , as it came to be known. The project to build industrial-size plants for the manufacture of plutonium was codenamed the X‑10 project.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Manhattan Project's effort to build industrial-size plutonium-manufacturing plants was codenamed X-10.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the project to build industrial-size plutonium-manufacturing plants was codenamed X-10.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Hanford Site",
+       "url": "https://en.wikipedia.org/wiki/Hanford_Site",
+       "snippet": "In September 1942, Brigadier General Leslie R. Groves Jr. became the director of the Manhattan Project , as it came to be known. The project to build industrial-size plants for the manufacture of plutonium was codenamed the X‑10 project.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The provided evidence gives more detail about Oak Ridge than Hanford.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The supplied cards contain substantially more Oak Ridge detail than Hanford detail, as the narration accurately observes.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In October 1942, the United States Army Corps of Engineers began acquiring approximately 59,000 acres (24,000 ha) in the Oak Ridge area for the Manhattan Project. Due to the project's urgency and secrecy, the Corps' \"declaration of taking\" was swift and final. Many residents came home to find eviction notices on their doors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Hanford Site",
+       "url": "https://en.wikipedia.org/wiki/Hanford_Site",
+       "snippet": "In September 1942, Brigadier General Leslie R. Groves Jr. became the director of the Manhattan Project , as it came to be known. The project to build industrial-size plants for the manufacture of plutonium was codenamed the X‑10 project.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "In the Death Star Legends account, the weapon was designed to help Palpatine control the Galactic Empire through fear.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Death Star/Legends card says it was designed to let Palpatine control the Empire more directly through fear.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "star_wars",
+       "page_title": "Death Star/Legends",
+       "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+       "snippet": "The Death Star, whose concept had been explored even before the Clone Wars , was the first in a long series of superweapons developed to execute the Tarkin Doctrine . The Death Star was designed to allow Emperor Palpatine to more directly control the Galactic Empire through fear. In most instances, a Death Star was to be commanded by a Moff .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Legends account says the Death Star concept predated the Clone Wars and connects it to the Tarkin Doctrine.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends card places the concept before the Clone Wars and links the Death Star to the Tarkin Doctrine.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "star_wars",
+       "page_title": "Death Star/Legends",
+       "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+       "snippet": "The Death Star, whose concept had been explored even before the Clone Wars , was the first in a long series of superweapons developed to execute the Tarkin Doctrine . The Death Star was designed to allow Emperor Palpatine to more directly control the Galactic Empire through fear. In most instances, a Death Star was to be commanded by a Moff .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Legends account describes Geonosian and Raith Sienar design work and final detail work in the Maw Cluster near Kessel.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends card attributes design work to the Geonosians and Raith Sienar and says final detail work took place in the Maw Cluster near Kessel.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Death Star/Legends",
+       "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+       "snippet": "Around the same time the Geonosians were designing their Ultimate Weapon , Raith Sienar was designing a battlestation (apparently without a superlaser) of similar size and prestige. The best elements of both were apparently merged together with final detail work taking place in the secret Maw Cluster near Kessel .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "In the Legends account, one Death Star was completed, while a second and third were unfinished, and a prototype existed.",
+     "kind": "lore",
+     "grade": "Legends",
+     "note": "The Legends card states that one Death Star was completed, two others remained unfinished, and a prototype existed.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "star_wars",
+       "page_title": "Death Star/Legends",
+       "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+       "snippet": "One Death Star was completely built by the Empire, with a second and third one never reaching full completion, as well as a prototype being in existence. In addition, a scaled-down version, the Tarkin , and a Hutt knockoff, the Darksaber , would be created by the Empire and Durga the Hutt , respectively.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The project evidence describes industrial-size plants for plutonium manufacture and the acquisition and enclosure of land at Oak Ridge.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a faithful summary of the supplied project evidence, framed as a comparison between industrial plants and Oak Ridge land acquisition and enclosure.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Hanford Site",
+       "url": "https://en.wikipedia.org/wiki/Hanford_Site",
+       "snippet": "In September 1942, Brigadier General Leslie R. Groves Jr. became the director of the Manhattan Project , as it came to be known. The project to build industrial-size plants for the manufacture of plutonium was codenamed the X‑10 project.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In October 1942, the United States Army Corps of Engineers began acquiring approximately 59,000 acres (24,000 ha) in the Oak Ridge area for the Manhattan Project. Due to the project's urgency and secrecy, the Corps' \"declaration of taking\" was swift and final. Many residents came home to find eviction notices on their doors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The evidence says communities were removed and the Oak Ridge complex had an uneasy relationship with surrounding towns.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card states that communities were removed and that the relationship with surrounding towns became tense and uneasy.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "By March 1943 the Corps had removed the area's earlier communities and established fences and checkpoints. Anderson County lost one-seventh of its land and $391,000 in annual property tax revenue. The manner in which the government acquired Oak Ridge created a tense, uneasy relationship between the Oak Ridge complex and the surrounding towns.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Inside Oak Ridge: the workers behind the fence",
+    "The Empire's unfinished superweapons",
+    "How fear becomes an instrument of rule"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Army Corps of Engineers began acquiring about fifty-nine thousand acres in Oak Ridge in October 1942.",
+      "verdict": "fact",
+      "explanation": "The evidence dates the acquisition to October 1942 and gives the area as approximately 59,000 acres.",
+      "evidence_ids": [
+       "E19"
+      ],
+      "evidence": [
+       {
+        "id": "E19",
+        "pack": "history",
+        "page_title": "Oak Ridge, Tennessee",
+        "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+        "snippet": "In October 1942, the United States Army Corps of Engineers began acquiring approximately 59,000 acres (24,000 ha) in the Oak Ridge area for the Manhattan Project. Due to the project's urgency and secrecy, the Corps' \"declaration of taking\" was swift and final. Many residents came home to find eviction notices on their doors.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Manhattan Project’s plutonium plants were called the Death Star project.",
+      "verdict": "myth",
+      "explanation": "The project to build industrial-size plutonium-manufacturing plants was codenamed X-10. The Death Star belongs to a separate fictional Legends account.",
+      "evidence_ids": [
+       "E24",
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "history",
+        "page_title": "Hanford Site",
+        "url": "https://en.wikipedia.org/wiki/Hanford_Site",
+        "snippet": "In September 1942, Brigadier General Leslie R. Groves Jr. became the director of the Manhattan Project , as it came to be known. The project to build industrial-size plants for the manufacture of plutonium was codenamed the X‑10 project.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E34",
+        "pack": "star_wars",
+        "page_title": "Death Star/Legends",
+        "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+        "snippet": "The Death Star, whose concept had been explored even before the Clone Wars , was the first in a long series of superweapons developed to execute the Tarkin Doctrine . The Death Star was designed to allow Emperor Palpatine to more directly control the Galactic Empire through fear. In most instances, a Death Star was to be commanded by a Moff .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Death Star was designed to help Palpatine control the Galactic Empire through fear.",
+      "verdict": "myth",
+      "explanation": "That claim appears in the Death Star Legends account, not as current canon. The chapter presents it as Legends material.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "star_wars",
+        "page_title": "Death Star/Legends",
+        "url": "https://starwars.fandom.com/wiki/Death_Star/Legends",
+        "snippet": "The Death Star, whose concept had been explored even before the Clone Wars , was the first in a long series of superweapons developed to execute the Tarkin Doctrine . The Death Star was designed to allow Emperor Palpatine to more directly control the Galactic Empire through fear. In most instances, a Death Star was to be commanded by a Moff .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In the Death Star Legends account, how many Death Stars did the Empire complete?",
+     "options": [
+      "One",
+      "Two",
+      "Three"
+     ],
+     "answer_index": 0,
+     "reveal_para": 8,
+     "explanation": "The Legends account says the Empire completed one Death Star; a second and third never reached full completion."
+    }
+   }
+  },
+  "How the Empire inherited the Death Star": {
+   "index": 2,
+   "title": "A Weapon Inherited",
+   "narration": "You chose to follow the inheritance. We left a city behind a fence; now the question is who gets to hold the thing built inside it. [c1] The answer is not a simple handoff from one set of hands to another. It is a chain of designs, secrets, delays, and changing rulers.\n\nOn the historical side, the Manhattan Project offers a careful point of comparison, not a hidden blueprint for a galaxy far away. In June of nineteen forty, the National Defense Research Committee was formed to coordinate scientific research. [c2] The Advisory Committee on Uranium was absorbed into it. [c3] Some scientists familiar with the earlier committee thought its work was not urgent enough. [c4] That is what our narrow window onto the history gives us: an effort to coordinate research, and pressure to move faster. It does not give us a full account of the project, its weapon, or the decisions made around it.\n\nNow shift to the Republic’s last years. Before the Clone Wars, the Geonosians, allied with Count Dooku and the Confederacy of Independent Systems, secretly designed what they called the “Ultimate Weapon.” [c5] Geonosian Archduke Poggle the Lesser gave the plans to Dooku during the First Battle of Geonosis. [c6] Dooku intended to take them to his master, Darth Sidious, who would keep them safe. [c7]\n\nThat is the first turn of the screw. The project begins not as an Imperial construction site, but as an enemy design in a secret war. The plans survive the defeat of their first political home, and their custody moves upward, toward the man who will become Emperor. That is the shape of inheritance here: not a peaceful transfer, but an idea carried across the collapse of one regime and into the machinery of another.\n\nThe comparison with the Manhattan Project is an interpretation. Here’s my read: both stories make secrecy and coordination feel like forces with their own momentum. In the historical evidence, a committee is absorbed into a body meant to coordinate research. In the fictional account, plans pass from Poggle to Dooku, then toward Sidious. The parallel is not that one directly produced the other. It is the tension between a project too consequential to leave scattered and the people who decide what it will serve.\n\nThe Death Star’s construction has its own ugly logistics. On Geonosis, droid factories were cannibalized so additional foundries could begin operating after asteroid mining started. [c8] In twenty-one BBY, after the Second Battle of Geonosis, the Strategic Advisory Cell announced that the first construction phase was complete. [c9] Yet shipments from research sites were often postponed, mining above Geonosis proved unfeasible, construction deadlines were missed, and raids against convoys burdened the project’s administration. [c10]\n\nSo this is not a sleek leap from drawing board to planet-killer. It is a sprawling program with bottlenecks, improvised capacity, and people waiting on materials that do not arrive. The station’s menace comes partly from its scale. Its making is full of delay.\n\nThe plans later become blueprints for the first Death Star, now described as an Imperial superweapon based on Geonosian designs. [c11] Galen Erso uses “Stardust” as the plans’ codename. [c12] The old design has crossed the political divide: what began with Geonosian designers becomes the foundation for an Imperial weapon. The Empire does not merely inherit a drawing. It inherits a possibility—and makes that possibility operational.\n\nThe plans matter again in the original Star Wars story because they help the Rebellion find a weakness in the Death Star, enabling Luke Skywalker to destroy it. [c13] The weapon meant to make resistance seem futile becomes vulnerable through the very information that carries its history. A secret can protect a project; it can also expose the seam that brings it down.\n\nHere is the final contrast, and the point where the historical echo must stay an echo. The Manhattan Project evidence here shows wartime scientific coordination and concern that the effort was not urgent enough. [c14] The Death Star’s story is a fictional chain from secret enemy design to Imperial superweapon, then to a weakness the Rebellion can exploit. [c15] Read side by side, one evokes a weapon imagined as an end to a war; the other becomes an instrument of imperial rule. That is the interpretive contrast—not a claim of direct descent. One promises an ending. The other demands obedience.\n\nSo: a committee gathers research under pressure, while Geonosian plans pass through Dooku to Sidious and eventually become an Imperial station. Construction is difficult, and the plans that empower the weapon also help reveal its weakness. [c16] What should we follow next: the Manhattan Project’s hidden city, the Geonosian designers’ part in the story, or the Rebellion’s race to exploit the plans? [c17]",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The previous chapter introduced the image of a city behind a fence, and this chapter follows the Death Star's inheritance.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is chapter framing about an image and a theme of inheritance, not a factual lore claim.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans were central to the plot of the original Star Wars film , ultimately enabling the Rebellion to find a key weakness in the Death Star, allowing Luke Skywalker to destroy it. The plans were also seen in the prequel film Star Wars : Episode II Attack of the Clones , showcasing the early development of the Death Star, known at the time as the \"Ultimate Weapon.\" The means by which …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The National Defense Research Committee was formed on June 27, 1940, to coordinate scientific research.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the NDRC formed on June 27, 1940, to coordinate scientific research.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Advisory Committee on Uranium was absorbed into the National Defense Research Committee.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Advisory Committee on Uranium was absorbed into the NDRC.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Some scientists familiar with the Advisory Committee on Uranium considered its work insufficiently urgent.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card records that some scientists familiar with Briggs’ committee considered its work insufficiently urgent.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Before the Clone Wars, the Geonosians, allied with Dooku and the Confederacy of Independent Systems, secretly designed the Ultimate Weapon.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that the Geonosians, aligned with Dooku and the Confederacy, secretly designed the Ultimate Weapon shortly before the Clone Wars.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "Some of the earliest plans for a mobile, planet-destroying superweapon dated back millennia to the ancient Sith . Thousands of years later, shortly before the outbreak of the Clone Wars , the Geonosians , aligned with Count Dooku and the Confederacy of Independent Systems , designed the Ultimate Weapon in secret.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "During the First Battle of Geonosis, Poggle the Lesser gave the Death Star plans to Count Dooku.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that Poggle gave the plans to Dooku during the First Battle of Geonosis.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star was designed by Geonosians led by Archduke Poggle the Lesser , a member of the Confederacy of Independent Systems . During the First Battle of Geonosis , he gave the plans to Count Dooku , who decided to ferry them to his Master Darth Sidious , who would keep them safe.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Dooku decided to take the plans to Darth Sidious, who would keep them safe.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that Dooku decided to take the plans to Sidious, who would keep them safe.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star was designed by Geonosians led by Archduke Poggle the Lesser , a member of the Confederacy of Independent Systems . During the First Battle of Geonosis , he gave the plans to Count Dooku , who decided to ferry them to his Master Darth Sidious , who would keep them safe.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Cannibalized Baktoid droid factories on Geonosis allowed additional foundries to operate after asteroid mining began.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that cannibalized Baktoid droid factories allowed additional foundries to operate soon after asteroid mining began.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "Cannibalized droid factories built by Baktoid Armor on Geonosis's surface allowed additional foundries to go online soon after the start of asteroid mining. In 21 BBY, after the Second Battle of Geonosis and before the first anniversary of the First Battle of Geonosis, the Strategic Advisory Cell announced the completion of phase one of the Death Star's construction.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "In 21 BBY, the Strategic Advisory Cell announced completion of phase one of Death Star construction after the Second Battle of Geonosis.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that in 21 BBY, after the Second Battle of Geonosis, the Strategic Advisory Cell announced phase one’s completion.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "Cannibalized droid factories built by Baktoid Armor on Geonosis's surface allowed additional foundries to go online soon after the start of asteroid mining. In 21 BBY, after the Second Battle of Geonosis and before the first anniversary of the First Battle of Geonosis, the Strategic Advisory Cell announced the completion of phase one of the Death Star's construction.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The project faced postponed shipments, infeasible asteroid mining above Geonosis, missed deadlines, and convoy raids.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card describes postponed shipments, infeasible asteroid mining, missed deadlines, and convoy raids as project difficulties.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "Shipments from research sites were frequently postponed, asteroid mining above Geonosis proved unfeasible, failed meetings of construction-phase deadlines by the engineers and scientists supervising the project fueled frustration, and raids against convoys heading for the station spelled an administrative nightmare.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The first Death Star was an Imperial superweapon based on Geonosian designs.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card identifies the first Death Star as an Imperial superweapon based on Geonosian designs.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans , codenamed \" Stardust \" by Galen Erso , were the blueprints of the first Death Star , an Imperial superweapon based on Geonosian designs.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Galen Erso used Stardust as the codename for the Death Star plans.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that Galen Erso used Stardust as the plans’ codename.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans , codenamed \" Stardust \" by Galen Erso , were the blueprints of the first Death Star , an Imperial superweapon based on Geonosian designs.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The plans enabled the Rebellion to find a weakness in the Death Star, allowing Luke Skywalker to destroy it.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that the plans enabled the Rebellion to find a key weakness, allowing Luke to destroy the Death Star.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans were central to the plot of the original Star Wars film , ultimately enabling the Rebellion to find a key weakness in the Death Star, allowing Luke Skywalker to destroy it. The plans were also seen in the prequel film Star Wars : Episode II Attack of the Clones , showcasing the early development of the Death Star, known at the time as the \"Ultimate Weapon.\" The means by which …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The evidence describes the historical committee as coordinating scientific research and records that some scientists wanted greater urgency.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports both the committee’s research-coordination role and the fact that some scientists wanted greater urgency.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The fictional account traces the Death Star from secret Geonosian design to an Imperial superweapon and the Rebellion's discovery of its weakness.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The cited cards support the fictional sequence from secret Geonosian design to an Imperial superweapon and the Rebellion’s discovery of its weakness.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star was designed by Geonosians led by Archduke Poggle the Lesser , a member of the Confederacy of Independent Systems . During the First Battle of Geonosis , he gave the plans to Count Dooku , who decided to ferry them to his Master Darth Sidious , who would keep them safe.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans , codenamed \" Stardust \" by Galen Erso , were the blueprints of the first Death Star , an Imperial superweapon based on Geonosian designs.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E31",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "Some of the earliest plans for a mobile, planet-destroying superweapon dated back millennia to the ancient Sith . Thousands of years later, shortly before the outbreak of the Clone Wars , the Geonosians , aligned with Count Dooku and the Confederacy of Independent Systems , designed the Ultimate Weapon in secret.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E22",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans were central to the plot of the original Star Wars film , ultimately enabling the Rebellion to find a key weakness in the Death Star, allowing Luke Skywalker to destroy it. The plans were also seen in the prequel film Star Wars : Episode II Attack of the Clones , showcasing the early development of the Death Star, known at the time as the \"Ultimate Weapon.\" The means by which …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The historical committee coordinated research, while Geonosian plans reached Sidious and became an Imperial station whose plans helped expose its weakness.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This is a cross-domain summary and comparison; its historical and fictional details are supported, while the combined framing is interpretive.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star was designed by Geonosians led by Archduke Poggle the Lesser , a member of the Confederacy of Independent Systems . During the First Battle of Geonosis , he gave the plans to Count Dooku , who decided to ferry them to his Master Darth Sidious , who would keep them safe.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans , codenamed \" Stardust \" by Galen Erso , were the blueprints of the first Death Star , an Imperial superweapon based on Geonosian designs.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E22",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans were central to the plot of the original Star Wars film , ultimately enabling the Rebellion to find a key weakness in the Death Star, allowing Luke Skywalker to destroy it. The plans were also seen in the prequel film Star Wars : Episode II Attack of the Clones , showcasing the early development of the Death Star, known at the time as the \"Ultimate Weapon.\" The means by which …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The next episode could explore the Manhattan Project's wartime effort, Geonosian design, or the Rebellion's use of the plans.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "This proposes possible directions for a future episode rather than asserting a new factual claim.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star was designed by Geonosians led by Archduke Poggle the Lesser , a member of the Confederacy of Independent Systems . During the First Battle of Geonosis , he gave the plans to Count Dooku , who decided to ferry them to his Master Darth Sidious , who would keep them safe.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E22",
+       "pack": "star_wars",
+       "page_title": "Death Star plans",
+       "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+       "snippet": "The Death Star plans were central to the plot of the original Star Wars film , ultimately enabling the Rebellion to find a key weakness in the Death Star, allowing Luke Skywalker to destroy it. The plans were also seen in the prequel film Star Wars : Episode II Attack of the Clones , showcasing the early development of the Death Star, known at the time as the \"Ultimate Weapon.\" The means by which …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Manhattan Project’s hidden city and the people inside it",
+    "Geonosis: the designers behind the Death Star",
+    "The Rebellion’s race to find the station’s weakness"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The National Defense Research Committee absorbed the Advisory Committee on Uranium in 1940.",
+      "verdict": "fact",
+      "explanation": "The committee was formed on June 27, 1940, to coordinate scientific research, and the Advisory Committee on Uranium was absorbed into it.",
+      "evidence_ids": [
+       "E11"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "history",
+        "page_title": "Manhattan Project",
+        "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+        "snippet": "The work of Briggs' committee was seen as insufficiently urgent by some of the scientists who were familiar with it. When the National Defense Research Committee (NDRC) was formed on 27 June 1940 to coordinate scientific research, the Advisory Committee on Uranium was absorbed into the organization.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Death Star plans were created by the Empire.",
+      "verdict": "myth",
+      "explanation": "The plans originated with the Geonosians, who designed the Ultimate Weapon before the Clone Wars. The first Death Star was later an Imperial superweapon based on those designs.",
+      "evidence_ids": [
+       "E31",
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E31",
+        "pack": "star_wars",
+        "page_title": "DS-1 Orbital Battle Station",
+        "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+        "snippet": "Some of the earliest plans for a mobile, planet-destroying superweapon dated back millennia to the ancient Sith . Thousands of years later, shortly before the outbreak of the Clone Wars , the Geonosians , aligned with Count Dooku and the Confederacy of Independent Systems , designed the Ultimate Weapon in secret.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E23",
+        "pack": "star_wars",
+        "page_title": "Death Star plans",
+        "url": "https://starwars.fandom.com/wiki/Death_Star_plans",
+        "snippet": "The Death Star plans , codenamed \" Stardust \" by Galen Erso , were the blueprints of the first Death Star , an Imperial superweapon based on Geonosian designs.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Death Star construction project ran smoothly, without serious supply or scheduling problems.",
+      "verdict": "myth",
+      "explanation": "The account describes postponed shipments, unfeasible asteroid mining, missed deadlines, and convoy raids that burdened the project.",
+      "evidence_ids": [
+       "E37"
+      ],
+      "evidence": [
+       {
+        "id": "E37",
+        "pack": "star_wars",
+        "page_title": "DS-1 Orbital Battle Station",
+        "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+        "snippet": "Shipments from research sites were frequently postponed, asteroid mining above Geonosis proved unfeasible, failed meetings of construction-phase deadlines by the engineers and scientists supervising the project fueled frustration, and raids against convoys heading for the station spelled an administrative nightmare.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the Geonosian plans become the basis for the Imperial Death Star, what role do those plans play in the Rebellion's fight?",
+     "options": [
+      "They help the Rebellion discover a weakness in the station.",
+      "They persuade the Empire to abandon construction.",
+      "They reveal where the Emperor is hiding."
+     ],
+     "answer_index": 0,
+     "reveal_para": 8,
+     "explanation": "The plans help the Rebellion find a weakness in the Death Star, enabling Luke Skywalker to destroy it."
+    }
+   }
+  },
+  "The hidden lives inside a weapon’s city": {
+   "index": 2,
+   "title": "Lives Behind the Fence",
+   "narration": "We chose the hidden lives inside a weapon’s city. Oak Ridge gives us a real place built to house a secret project; the Death Star gives us a fictional machine built to project imperial power. [c1] The comparison is vivid, but the human costs and moral stakes are not interchangeable.\n\nStart in the Clinch River valley. In nineteen forty-two, the United States government forcibly purchased nearly sixty thousand acres of farmland there for a planned city supporting seventy-five thousand residents. [c2] That is a startling sentence to hear slowly: a city planned at the scale of a small world, imposed on a landscape already lived in.\n\nOak Ridge was constructed from nineteen forty-two to nineteen forty-three with help from the architectural and engineering firm Skidmore, Owings & Merrill. [c3] Its purpose was not simply to shelter people. The city supported a wartime research program aimed at producing the first nuclear weapons. [c4] The Manhattan Project was led by the United States with the United Kingdom and Canada. [c5] At its peak, it employed nearly one hundred thirty thousand people and cost nearly two billion dollars. [c6]\n\nThose figures can make the project sound like a machine made of budgets and head counts. But the accommodation described for construction workers was basic: trailers, barracks, and small prefabricated huts called hutments. [c7] The huts held five people and were heated by a central coal-powered furnace. [c8] The construction camps were segregated between Black workers and white workers. [c9]\n\nThere is the fence, and then there are the lines within the fence. Oak Ridge’s story is not only about secrecy surrounding a weapon. It is also about whose labor built the city, what shelter that labor received, and how racial segregation shaped workers’ living conditions. [c10] A planned city can be efficient on a drawing board and unequal on the ground. That last sentence is my reading of the human arrangement described here, not a claim that every resident experienced the same life.\n\nNow cross into fiction. The Empire’s DS-1, better known as the Death Star, was a moon-sized mobile battle station constructed by the Galactic Empire. [c11] Here’s my read: Oak Ridge and the Death Star are mirror images only at one sharp angle. Each puts a community or crew inside the shadow of a weapon. But Oak Ridge was a real city supporting a historical weapons program, while the Death Star is an instrument of fictional imperial rule. The analogy helps us feel the scale; it does not erase that difference.\n\nThe cards give us only glimpses of life aboard the station. One glimpse comes after the battle station’s mission succeeds: its technical readouts reach Princess Leia Organa, an Imperial senator and rebel sympathizer, who intends to pass them to her allies. [c12] The weapon’s interior is not only machinery. It contains information, political loyalties, and people making choices under an empire’s immense reach. That is a story about agency, even in a place designed to make agency seem impossible.\n\nThen the station is lost. With Grand Moff Tarkin, numerous members of the Joint Chiefs, and Imperial military manpower also lost, the Empire begins mobilizing for full-scale galactic war and proceeds with construction of a second Death Star. [c13] The response is chillingly institutional: one weapon’s destruction does not end the project of domination. The machine becomes a plan for another machine.\n\nPut the two cities beside each other again. Oak Ridge’s human story includes forced purchase, basic accommodations, and segregated camps. The Death Star’s story is fictional, but its scale lets us imagine a military institution trying to turn people and materials into a weapon. The parallel is not that these worlds are morally identical. It is that a weapon can reorganize the lives around it—and the differences tell us what kind of story we are hearing.\n\nSo: Oak Ridge was built to support a real wartime weapons project, with human lives divided by both secrecy and segregation. The Death Star turns the same image into a nightmare of imperial power, where destruction leads to plans for another battle station. [c14] We began with a city built around a weapon. Now the question is what its people can still choose.\n\nFor the next journey, we could follow the Manhattan Project from secrecy to Hiroshima; trace the Death Star’s destruction and the Empire’s answer; or compare how real cities and fictional empires live with weapons they build.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Oak Ridge supported a real secret weapons project, while the Death Star is a fictional imperial military station.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards establish Oak Ridge as a planned city and the Death Star as a fictional battle station, while the contrast between them is the narrator’s framing.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons . It was led by the United States in collaboration with the United Kingdom and Canada . The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion (equivalent to about $28 billion in 2024).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "The DS-1 Orbital Battle Station , also designated as the DS-1 Death Star Mobile Battle Station , referred to as the Ultimate Weapon in early development stages, later known as the Death Star I or the First Death Star , often simply referred to as the Death Star , and codenamed Stardust , was a moon -sized, deep- space mobile battle station constructed by the Galactic Empire .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "In 1942 the U.S. government forcibly purchased nearly 60,000 acres in the Clinch River valley for a planned city supporting 75,000 residents.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card states that the government forcibly purchased nearly 60,000 acres in 1942 for a planned city supporting 75,000 residents.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In 1942, the U.S. government forcibly purchased nearly 60,000 acres (240 km 2 ) of farmland in the Clinch River valley for the development of a planned city supporting 75,000 residents. It was constructed with assistance from architectural and engineering firm Skidmore, Owings & Merrill , from 1942 to 1943.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Oak Ridge was constructed from 1942 to 1943 with assistance from Skidmore, Owings & Merrill.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card says the city was constructed from 1942 to 1943 with assistance from Skidmore, Owings & Merrill.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In 1942, the U.S. government forcibly purchased nearly 60,000 acres (240 km 2 ) of farmland in the Clinch River valley for the development of a planned city supporting 75,000 residents. It was constructed with assistance from architectural and engineering firm Skidmore, Owings & Merrill , from 1942 to 1943.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Manhattan Project aimed to produce the first nuclear weapons.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Manhattan Project card states that the program’s purpose was to produce the first nuclear weapons.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons . It was led by the United States in collaboration with the United Kingdom and Canada . The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion (equivalent to about $28 billion in 2024).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Manhattan Project was led by the United States in collaboration with the United Kingdom and Canada.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Manhattan Project card plainly identifies the United States, United Kingdom, and Canada as collaborators.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons . It was led by the United States in collaboration with the United Kingdom and Canada . The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion (equivalent to about $28 billion in 2024).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Manhattan Project employed nearly 130,000 people at its peak and cost nearly two billion dollars.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the project employed nearly 130,000 people at its peak and cost nearly two billion dollars.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons . It was led by the United States in collaboration with the United Kingdom and Canada . The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion (equivalent to about $28 billion in 2024).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Construction workers’ accommodations in Oak Ridge included trailers, barracks, and prefabricated hutments.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card lists trailers, barracks, and prefabricated hutments among construction workers’ accommodations.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "House and dormitory accommodations to support construction workers contracted to build the Clinton Engineer Works (CEW) in Oak Ridge were basic, consisting of trailers, barracks, and many \"hutments\"—pre-fabricated five-person huts heated by a central coal-powered furnace. Construction camps were segregated between black workers and white workers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The hutments housed five people and were heated by a central coal-powered furnace.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card specifies that the prefabricated hutments were five-person huts heated by a central coal-powered furnace.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "House and dormitory accommodations to support construction workers contracted to build the Clinton Engineer Works (CEW) in Oak Ridge were basic, consisting of trailers, barracks, and many \"hutments\"—pre-fabricated five-person huts heated by a central coal-powered furnace. Construction camps were segregated between black workers and white workers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Oak Ridge construction camps were segregated between Black workers and white workers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Oak Ridge card explicitly says construction camps were segregated between Black and white workers.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "House and dormitory accommodations to support construction workers contracted to build the Clinton Engineer Works (CEW) in Oak Ridge were basic, consisting of trailers, barracks, and many \"hutments\"—pre-fabricated five-person huts heated by a central coal-powered furnace. Construction camps were segregated between black workers and white workers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Oak Ridge’s construction workforce lived with basic accommodations and racial segregation.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card documents basic accommodations and racial segregation, while describing them as shaping workers’ living conditions is the narrator’s framing.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "House and dormitory accommodations to support construction workers contracted to build the Clinton Engineer Works (CEW) in Oak Ridge were basic, consisting of trailers, barracks, and many \"hutments\"—pre-fabricated five-person huts heated by a central coal-powered furnace. Construction camps were segregated between black workers and white workers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The Empire constructed the moon-sized DS-1 mobile battle station, commonly known as the Death Star.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon DS-1 card identifies the Death Star as a moon-sized mobile battle station constructed by the Galactic Empire.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "The DS-1 Orbital Battle Station , also designated as the DS-1 Death Star Mobile Battle Station , referred to as the Ultimate Weapon in early development stages, later known as the Death Star I or the First Death Star , often simply referred to as the Death Star , and codenamed Stardust , was a moon -sized, deep- space mobile battle station constructed by the Galactic Empire .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "After the battle station’s successful mission, its technical readouts reached Princess Leia Organa, an Imperial senator and rebel sympathizer, who intended to pass them to her allies.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that after the mission succeeded, Leia received the technical readouts and intended to pass them to her allies.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "With the mission a success, the technical readouts of the battle station were received by Imperial senator and rebel sympathizer Princess Leia Organa of Alderaan , who intended to pass them along to her allies.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "After Tarkin, Joint Chiefs members, and Imperial military manpower were lost, the Empire mobilized for full-scale galactic war and began constructing the DS-2.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that after Tarkin and other losses the Empire mobilized for full-scale war and began construction of the DS-2.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "With the loss of Grand Moff Tarkin, numerous members of the Joint Chiefs and Imperial Military manpower, the Empire began to mobilize for a full-scale galactic war, while it also forged ahead and began construction on the DS-2 Death Star II Mobile Battle Station .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Oak Ridge supported a real weapons project, while the Death Star embodies fictional imperial power and a cycle of weapons construction.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards support the historical weapons project and the fictional Death Star, while the contrast and weapons-construction cycle are the narrator’s interpretive framing.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Manhattan Project",
+       "url": "https://en.wikipedia.org/wiki/Manhattan_Project",
+       "snippet": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons . It was led by the United States in collaboration with the United Kingdom and Canada . The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion (equivalent to about $28 billion in 2024).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Oak Ridge, Tennessee",
+       "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+       "snippet": "In 1942, the U.S. government forcibly purchased nearly 60,000 acres (240 km 2 ) of farmland in the Clinch River valley for the development of a planned city supporting 75,000 residents. It was constructed with assistance from architectural and engineering firm Skidmore, Owings & Merrill , from 1942 to 1943.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "The DS-1 Orbital Battle Station , also designated as the DS-1 Death Star Mobile Battle Station , referred to as the Ultimate Weapon in early development stages, later known as the Death Star I or the First Death Star , often simply referred to as the Death Star , and codenamed Stardust , was a moon -sized, deep- space mobile battle station constructed by the Galactic Empire .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E29",
+       "pack": "star_wars",
+       "page_title": "DS-1 Orbital Battle Station",
+       "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+       "snippet": "With the loss of Grand Moff Tarkin, numerous members of the Joint Chiefs and Imperial Military manpower, the Empire began to mobilize for a full-scale galactic war, while it also forged ahead and began construction on the DS-2 Death Star II Mobile Battle Station .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "From secrecy to Hiroshima: the weapon leaves the laboratory",
+    "The Death Star falls—and the Empire builds again",
+    "Cities under arms: what weapons demand of the people nearby"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The U.S. government forcibly purchased nearly 60,000 acres in the Clinch River valley for a planned city.",
+      "verdict": "fact",
+      "explanation": "In 1942, the government forcibly purchased nearly 60,000 acres for a city planned to support 75,000 residents.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "history",
+        "page_title": "Oak Ridge, Tennessee",
+        "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+        "snippet": "In 1942, the U.S. government forcibly purchased nearly 60,000 acres (240 km 2 ) of farmland in the Clinch River valley for the development of a planned city supporting 75,000 residents. It was constructed with assistance from architectural and engineering firm Skidmore, Owings & Merrill , from 1942 to 1943.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Oak Ridge’s construction camps were integrated.",
+      "verdict": "myth",
+      "explanation": "The camps were segregated between Black workers and white workers; worker accommodations were also basic.",
+      "evidence_ids": [
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E35",
+        "pack": "history",
+        "page_title": "Oak Ridge, Tennessee",
+        "url": "https://en.wikipedia.org/wiki/Oak_Ridge%2C_Tennessee",
+        "snippet": "House and dormitory accommodations to support construction workers contracted to build the Clinton Engineer Works (CEW) in Oak Ridge were basic, consisting of trailers, barracks, and many \"hutments\"—pre-fabricated five-person huts heated by a central coal-powered furnace. Construction camps were segregated between black workers and white workers.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Empire began building a second Death Star after the first was destroyed.",
+      "verdict": "fact",
+      "explanation": "The account says the Empire began construction of the DS-2 while mobilizing for full-scale galactic war after losses that included the first station.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "star_wars",
+        "page_title": "DS-1 Orbital Battle Station",
+        "url": "https://starwars.fandom.com/wiki/DS-1_Orbital_Battle_Station",
+        "snippet": "With the loss of Grand Moff Tarkin, numerous members of the Joint Chiefs and Imperial Military manpower, the Empire began to mobilize for a full-scale galactic war, while it also forged ahead and began construction on the DS-2 Death Star II Mobile Battle Station .",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the Death Star’s mission succeeds, who receives its technical readouts?",
+     "options": [
+      "Princess Leia Organa",
+      "Grand Moff Tarkin",
+      "The Imperial Joint Chiefs"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The readouts reach Princess Leia Organa, who intends to pass them to her allies."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Obasan",
+   "author": "Joy Kogawa",
+   "year": 1981,
+   "why": "Its intimate account of Japanese Canadian life and wartime displacement offers a powerful companion to the episode’s focus on lives behind the fence.",
+   "url": "https://openlibrary.org/works/OL3189372W"
+  },
+  {
+   "title": "No-no boy",
+   "author": "John Okada",
+   "year": 1957,
+   "why": "This novel explores the aftermath of wartime incarceration and the difficult return to community, extending the episode’s human story beyond the fence.",
+   "url": "https://openlibrary.org/works/OL6575973W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8224,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 452,
+   "output_tokens": 864,
+   "cost_usd": 0.00061158
+  },
+  {
+   "agent": "researcher",
+   "requests": 16,
+   "input_tokens": 50466,
+   "cached_tokens": 40340,
+   "cache_write_tokens": 8110,
+   "output_tokens": 1774,
+   "cost_usd": 0.00250575
+  },
+  {
+   "agent": "storyteller",
+   "requests": 4,
+   "input_tokens": 15798,
+   "cached_tokens": 12668,
+   "cache_write_tokens": 2626,
+   "output_tokens": 7611,
+   "cost_usd": 0.00431082
+  },
+  {
+   "agent": "skeptic",
+   "requests": 4,
+   "input_tokens": 18139,
+   "cached_tokens": 9140,
+   "cache_write_tokens": 8495,
+   "output_tokens": 3051,
+   "cost_usd": 0.00272916
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1803,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 353,
+   "output_tokens": 140,
+   "cost_usd": 0.00013997
+  }
+ ],
+ "build_cost_usd": 0.010297,
+ "build_seconds": 85.8
+}

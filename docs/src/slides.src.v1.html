@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Loremaster: Canon &amp; Chronicle · Slides</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --ink:#0b1020; --ink2:#121a30; --gold:#d4a64a; --gold2:#f0cf7e; --parch:#efe3c8; --text:#e9e4d8; --muted:#9aa3b8; --ok:#7fb77e; --warn:#e0b04f; --bad:#e06c5f; }
+  .reveal-viewport { background: radial-gradient(1200px 700px at 85% -10%, rgba(212,166,74,.16), transparent 60%), radial-gradient(900px 600px at -10% 40%, rgba(80,110,200,.12), transparent 60%), var(--ink); }
+  .reveal { font-family: Inter, system-ui, sans-serif; color: var(--text); font-size: 30px; }
+  .reveal h1, .reveal h2, .reveal h3 { font-family: Cinzel, Georgia, serif; color: var(--gold2); text-transform: none; letter-spacing: .02em; font-weight: 600; }
+  .reveal h1 { font-size: 2.6em; margin-bottom: .1em; }
+  .reveal h2 { font-size: 1.45em; margin-bottom: .5em; }
+  .reveal .eyebrow { font-family: Cinzel, serif; color: var(--gold); letter-spacing: .25em; font-size: .5em; text-transform: uppercase; margin-bottom: .6em; }
+  .reveal .serif { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.25em; line-height: 1.35; }
+  .reveal .muted { color: var(--muted); }
+  .reveal .small { font-size: .62em; }
+  .reveal .big { font-family: Cinzel, serif; font-size: 2.2em; color: var(--gold2); line-height: 1; }
+  .reveal ul { font-size: .85em; line-height: 1.45; display: block; text-align: left; }
+  .reveal li { margin-bottom: .35em; }
+  .reveal img { border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,.45); border: 1px solid rgba(212,166,74,.3); }
+  .reveal table { font-size: .6em; border-collapse: collapse; margin: 0 auto; }
+  .reveal table th { color: var(--gold); border-bottom: 1px solid rgba(212,166,74,.5); }
+  .reveal table td, .reveal table th { padding: .35em .7em; border-bottom: 1px solid rgba(255,255,255,.08); }
+  .cols { display: flex; gap: 32px; align-items: center; }
+  .cols > div { flex: 1; }
+  .stat { background: rgba(255,255,255,.04); border: 1px solid rgba(212,166,74,.3); border-radius: 14px; padding: 18px 20px; text-align: center; }
+  .stat p { margin: .3em 0 0; font-size: .55em; color: var(--muted); }
+  .chip { display: inline-block; padding: 2px 12px; border-radius: 999px; font-size: .55em; font-weight: 600; border: 2px solid; margin: 2px; }
+  .ok { color: var(--ok); } .warn { color: var(--warn); } .leg { color: #c98bdb; } .fan { color: #8fb3e8; } .bad { color: var(--bad); }
+  .todo { background: #fff3a0; color: #5a4600; padding: 0 8px; border-radius: 6px; font-weight: 600; }
+  .parch { background: linear-gradient(170deg, var(--parch), #e4d4b0); color: #2b2218; border-radius: 14px; padding: 18px 24px; }
+  .parch h3 { color: #3a2a12; margin: 0 0 .3em; }
+  svg text { font-family: Inter, sans-serif; }
+</style>
+</head>
+<body>
+<div class="reveal"><div class="slides">
+
+<!-- 1 Title -->
+<section>
+  <p class="eyebrow">MGT 409 · AI Foundations for Managers · Final project</p>
+  <h1>Loremaster</h1>
+  <p class="serif" style="color:var(--gold)"><i>Canon &amp; Chronicle</i></p>
+  <p class="serif">An AI storyteller for your commute that tells you history and fictional lore, <b>and how much of it is true.</b></p>
+  <p class="small muted">Gaurang Singh · github.com/gaurangsingh10/loremaster</p>
+</section>
+
+<!-- 2 Problem -->
+<section>
+  <h2>The problem: great stories, no way to check them</h2>
+  <div class="cols">
+    <div>
+      <ul>
+        <li>Commuters who love history and deep lore (40K, Star Wars) listen to podcasts and lecture videos: <b>fixed catalog, can't steer</b></li>
+        <li>ChatGPT will talk about anything, but <b>legend and fact sound the same</b></li>
+        <li>So myths spread: "Texas divorce law comes from Muslim Spain." The sources say Visigothic and Castilian law; the Islamic link is <span class="chip warn">Debated</span> at best</li>
+      </ul>
+    </div>
+    <div class="parch serif" style="font-size:.8em">
+      <h3>Who</h3>
+      Me, SOM classmates on Metro-North and I-95, and the 40K and Star Wars fans I argue with.<br><br>
+      <span class="todo">[TESTER QUOTE on how they listen today]</span>
+    </div>
+  </div>
+</section>
+
+<!-- 3 What's new -->
+<section>
+  <h2>What's new</h2>
+  <table>
+    <tr><th></th><th>Grades every claim</th><th>You steer long-form</th><th>History × lore</th><th>Sources one tap away</th></tr>
+    <tr><td>NotebookLM Audio</td><td class="bad">✗</td><td class="warn">join/ask</td><td class="bad">✗</td><td class="warn">your uploads</td></tr>
+    <tr><td>Superlore · Storyrabbit</td><td class="bad">✗</td><td class="bad">✗ / short</td><td class="bad">✗</td><td class="bad">✗</td></tr>
+    <tr><td>ChatGPT voice</td><td class="bad">✗</td><td class="warn">chat</td><td class="warn">if asked</td><td class="bad">✗</td></tr>
+    <tr><td>Hardcore History, lore YouTube</td><td class="bad">✗</td><td class="bad">✗</td><td class="bad">✗</td><td class="bad">✗</td></tr>
+    <tr><td><b style="color:var(--gold2)">Loremaster</b></td><td class="ok">✓</td><td class="ok">✓ 10/20/40 min</td><td class="ok">✓</td><td class="ok">✓</td></tr>
+  </table>
+  <p style="margin-top:.8em"><span class="chip ok">Documented</span><span class="chip warn">Debated</span><span class="chip leg">Legend</span> · <span class="chip ok">Canon</span><span class="chip leg">Legends</span><span class="chip warn">Conflicting</span><span class="chip fan">Fan theory</span> · <span class="chip bad">Unsupported</span></p>
+</section>
+
+<!-- 4 Agents -->
+<section>
+  <h2>Six agents, one honest pipeline</h2>
+  <svg viewBox="0 0 1000 300" width="100%">
+    <defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#d4a64a"/></marker></defs>
+    <g font-size="17" fill="#e9e4d8" text-anchor="middle">
+      <rect x="10" y="110" width="140" height="80" rx="14" fill="#121a30" stroke="#d4a64a"/><text x="80" y="145" font-weight="600">⛨ Guardian</text><text x="80" y="170" font-size="13" fill="#9aa3b8">screens requests</text>
+      <rect x="180" y="110" width="150" height="80" rx="14" fill="#2a2412" stroke="#f0cf7e" stroke-width="2"/><text x="255" y="145" font-weight="700" fill="#f0cf7e">✦ Showrunner</text><text x="255" y="170" font-size="13" fill="#9aa3b8">boss: plans the arc</text>
+      <rect x="370" y="20" width="140" height="80" rx="14" fill="#121a30" stroke="#d4a64a"/><text x="440" y="55" font-weight="600">⌕ Researcher</text><text x="440" y="80" font-size="13" fill="#9aa3b8">wiki → evidence cards</text>
+      <rect x="540" y="20" width="140" height="80" rx="14" fill="#121a30" stroke="#d4a64a"/><text x="610" y="55" font-weight="600">❦ Storyteller</text><text x="610" y="80" font-size="13" fill="#9aa3b8">narrates from cards</text>
+      <rect x="710" y="20" width="130" height="80" rx="14" fill="#0f2416" stroke="#7fb77e"/><text x="775" y="55" font-weight="600" fill="#7fb77e">code</text><text x="775" y="80" font-size="13" fill="#9aa3b8">tripwire</text>
+      <rect x="860" y="20" width="130" height="80" rx="14" fill="#121a30" stroke="#d4a64a"/><text x="925" y="55" font-weight="600">⚖ Skeptic</text><text x="925" y="80" font-size="13" fill="#9aa3b8">grades · 1 rewrite</text>
+      <rect x="600" y="200" width="200" height="80" rx="14" fill="#efe3c8" stroke="#d4a64a"/><text x="700" y="235" font-weight="600" fill="#2b2218">Graded chapter</text><text x="700" y="260" font-size="13" fill="#5a3d10">+ 3 branches to choose</text>
+      <rect x="840" y="200" width="150" height="80" rx="14" fill="#121a30" stroke="#d4a64a"/><text x="915" y="235" font-weight="600">❧ Librarian</text><text x="915" y="260" font-size="13" fill="#9aa3b8">further reading</text>
+    </g>
+    <g stroke="#d4a64a" stroke-width="2" fill="none" marker-end="url(#m)">
+      <path d="M150,150 H178"/><path d="M300,110 L372,70"/><path d="M510,60 H538"/><path d="M680,60 H708"/><path d="M840,60 H858"/>
+      <path d="M925,100 L760,198"/><path d="M800,240 H838"/><path d="M600,240 C450,240 330,250 270,192" stroke-dasharray="6 5"/>
+    </g>
+    <text x="330" y="292" font-size="14" fill="#d4a64a">listener picks a branch → Showrunner plans the next chapter</text>
+  </svg>
+  <p class="small muted">gpt-6-luna for every agent · code does the handoffs, evidence ids, the tripwire and the budget checks, so nothing can loop</p>
+</section>
+
+<!-- 5 Demo -->
+<section>
+  <h2>Demo: <i>Rome → Imperium of Man</i></h2>
+  <div class="cols">
+    <div style="flex:1.45"><div style="height:450px;overflow:hidden;border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.45)"><img src="{{img:11_chapter_ready}}" alt="player" style="width:100%;margin:0;box-shadow:none;border:0"></div></div>
+    <div><div style="height:400px;overflow:hidden;border-radius:10px"><img src="{{img:15_drawer}}" alt="drawer" style="width:100%;margin:0;object-fit:cover;object-position:right top;height:400px"></div><p class="small muted">Tap any claim: grade, the Skeptic's note, the source</p></div>
+  </div>
+  <p class="small muted">Chapter 1 ready in ~30 s · 13 claims graded · the Skeptic sent chapter 2 back once for a rewrite</p>
+</section>
+
+<!-- 6 Cost -->
+<section>
+  <h2>Cost to run: real, measured</h2>
+  <div class="cols">
+    <div class="stat"><div class="big">$0.010</div><p>per 20-min episode<br>(13 measured episodes)</p></div>
+    <div class="stat"><div class="big">$0.20</div><p>per daily commuter / month<br>browser voice</p></div>
+    <div class="stat"><div class="big">$1,992</div><p>per month for 10,000 users<br>($19.92 for 100)</p></div>
+  </div>
+  <ul style="margin-top:1em">
+    <li><b>Prompt caching saved 42.9%</b> ($0.0056 vs $0.0099 per episode; the no-cache control verified 0 cached tokens)</li>
+    <li>The voice is the expensive part: natural TTS ≈ <b>$0.27 / episode, about 27× the agents</b>, so the browser voice is the default</li>
+    <li>Found and fixed: the gateway was <b>replaying identical answers</b> with copied usage, so I forced fresh generations</li>
+  </ul>
+</section>
+
+<!-- 7 Safety -->
+<section>
+  <h2>Safety: shown working, ON vs OFF</h2>
+  <table>
+    <tr><th>Attack</th><th>OFF</th><th>ON</th></tr>
+    <tr><td>Planted fakes: "Texas law from Sharia", "21st Primarch"</td><td class="bad">0/2 flagged</td><td class="ok">2/2 flagged (Legend, Unsupported)</td></tr>
+    <tr><td>Poisoned wiki page (hidden instructions ×4)</td><td class="warn">3 snippets reached the model; it ignored them 4/4</td><td class="ok">0 reached the model; 8 quarantined</td></tr>
+    <tr><td>Harmful history (denial, glorification)</td><td class="bad">2/5 correct</td><td class="ok">5/5 correct, no over-blocking</td></tr>
+    <tr><td>Runaway spend ($0.0005 budget)</td><td>n/a</td><td class="ok">clean stop at $0.00064</td></tr>
+  </table>
+  <p class="small muted" style="margin-top:.8em">Three layers: code sanitizer · design (code-assigned evidence ids, no dangerous tools, URL stripping) · prompt rules. Plus a $0.05/episode cap and a rate limit.</p>
+</section>
+
+<!-- 8 Impact -->
+<section>
+  <h2>Impact: the numbers</h2>
+  <div class="cols">
+    <div class="stat"><div class="big">2% <span style="font-size:.4em;color:var(--muted)">vs</span> 93%</div><p>claims heard as fact that sources don't back:<br>Loremaster vs a plain LLM (154 claims, 4 threads)</p></div>
+    <div class="stat"><div class="big">1 tap</div><p>to see any claim's grade and source<br>vs <span class="todo">[x] min</span> Googling (tester timing)</p></div>
+  </div>
+  <div class="parch serif" style="margin-top:.8em;font-size:.75em">
+    <b>Testers:</b> <span class="todo">[N commuters: avg x/5 · y min listened · z/N would listen tomorrow]</span> · <span class="todo">[N fans: agreed with canon grades on x%]</span><br>
+    <span class="todo">"[best tester quote]" (role)</span>
+  </div>
+</section>
+
+<!-- 9 Next -->
+<section>
+  <h2>What's next</h2>
+  <ul>
+    <li><b>Phone app with offline episodes:</b> tomorrow's chapters pre-generated overnight</li>
+    <li><b>More universes in one file each:</b> Dune, Tolkien, The Expanse</li>
+    <li><b>Instant choices:</b> write the likely next branch while you listen</li>
+    <li><b>Deeper sources:</b> primary sources, plus a different-model judge</li>
+    <li><b>Talk back:</b> interrupt the narrator with a question</li>
+  </ul>
+  <p class="serif" style="color:var(--gold)"><i>History, legend, and the line between them.</i></p>
+</section>
+
+</div></div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>Reveal.initialize({ hash: true, transition: 'fade', width: 1280, height: 720, margin: 0.06 });</script>
+</body>
+</html>

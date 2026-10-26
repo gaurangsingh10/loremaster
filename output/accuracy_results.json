@@ -1,0 +1,2222 @@
+[
+ {
+  "variant": "off",
+  "claims": 17,
+  "words": 616,
+  "judge_supported_pct": 70.6,
+  "misleading_as_fact": 5,
+  "misleading_pct": 29.4,
+  "overstated_as_fact": 5,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.000916,
+  "seconds": 9.6,
+  "misleading_examples": [
+   "The evidence describes a legal tradition, not an unchanged code carried into modern Texas law.",
+   "The supplied evidence does not establish an unchanged community-property rule passing from the Visigothic Code into the Siete Partidas.",
+   "The evidence establishes a broad ancestry rather than a clause-by-clause transmission.",
+   "The cards do not determine which specific rules or legal concepts persisted through each stage."
+  ],
+  "overstated_examples": [
+   "The evidence describes a legal tradition, not an unchanged code carried into modern Texas law.",
+   "The supplied evidence does not establish an unchanged community-property rule passing from the Visigothic Code into the Siete Partidas.",
+   "The evidence establishes a broad ancestry rather than a clause-by-clause transmission.",
+   "The cards do not determine which specific rules or legal concepts persisted through each stage."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "A history of U.S. community property traces the tradition through Spanish law, Mexico, and ultimately the Visigothic Code.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The evidence describes a legal tradition, not an unchanged code carried into modern Texas law.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "King Chindasuinth began the Visigothic Code in the seventh century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The code abolished the separate legal traditions for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Under the code, subjects were to be classified as Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas was first compiled during Alfonso X's reign from 1252 to 1284.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas aimed to establish uniform normative rules for Castile.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Community-property tradition in the United States is traced through Mexico's ganancial system and Spanish Roman-derived civil law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Visigothic Code is identified as an ultimate source in the broad community-property tradition.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "The supplied evidence does not establish an unchanged community-property rule passing from the Visigothic Code into the Siete Partidas.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "The evidence establishes a broad ancestry rather than a clause-by-clause transmission.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c13",
+    "text": "The stated tradition runs through Spanish law and Mexican practice before influencing U.S. community-property law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Spain was the first European country to claim and control Texas, and Texas became part of Mexico after independence in 1821.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "U.S. community-property states are described as inheriting the system from Mexico, which inherited it from Spanish law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "The cards do not determine which specific rules or legal concepts persisted through each stage.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c17",
+    "text": "The evidence connects the Visigothic Code, Castilian law, and Spanish-to-Mexican community-property tradition as a broad sequence.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "lite",
+  "claims": 17,
+  "words": 616,
+  "judge_supported_pct": 70.6,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 5,
+  "gen_cost_usd": 0.001599,
+  "seconds": 14.9,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "A history of U.S. community property traces the tradition through Spanish law, Mexico, and ultimately the Visigothic Code.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The evidence describes a legal tradition, not an unchanged code carried into modern Texas law.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "King Chindasuinth began the Visigothic Code in the seventh century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The code abolished the separate legal traditions for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Under the code, subjects were to be classified as Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas was first compiled during Alfonso X's reign from 1252 to 1284.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas aimed to establish uniform normative rules for Castile.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Community-property tradition in the United States is traced through Mexico's ganancial system and Spanish Roman-derived civil law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Visigothic Code is identified as an ultimate source in the broad community-property tradition.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "The supplied evidence does not establish an unchanged community-property rule passing from the Visigothic Code into the Siete Partidas.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "The evidence establishes a broad ancestry rather than a clause-by-clause transmission.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c13",
+    "text": "The stated tradition runs through Spanish law and Mexican practice before influencing U.S. community-property law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Spain was the first European country to claim and control Texas, and Texas became part of Mexico after independence in 1821.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "U.S. community-property states are described as inheriting the system from Mexico, which inherited it from Spanish law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "The cards do not determine which specific rules or legal concepts persisted through each stage.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c17",
+    "text": "The evidence connects the Visigothic Code, Castilian law, and Spanish-to-Mexican community-property tradition as a broad sequence.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "full",
+  "claims": 17,
+  "words": 616,
+  "judge_supported_pct": 70.6,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 5,
+  "gen_cost_usd": 0.001599,
+  "seconds": 9.6,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "A history of U.S. community property traces the tradition through Spanish law, Mexico, and ultimately the Visigothic Code.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The evidence describes a legal tradition, not an unchanged code carried into modern Texas law.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "King Chindasuinth began the Visigothic Code in the seventh century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The code abolished the separate legal traditions for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Under the code, subjects were to be classified as Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas was first compiled during Alfonso X's reign from 1252 to 1284.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas aimed to establish uniform normative rules for Castile.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Community-property tradition in the United States is traced through Mexico's ganancial system and Spanish Roman-derived civil law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Visigothic Code is identified as an ultimate source in the broad community-property tradition.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "The supplied evidence does not establish an unchanged community-property rule passing from the Visigothic Code into the Siete Partidas.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "The evidence establishes a broad ancestry rather than a clause-by-clause transmission.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c13",
+    "text": "The stated tradition runs through Spanish law and Mexican practice before influencing U.S. community-property law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Spain was the first European country to claim and control Texas, and Texas became part of Mexico after independence in 1821.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "U.S. community-property states are described as inheriting the system from Mexico, which inherited it from Spanish law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "The cards do not determine which specific rules or legal concepts persisted through each stage.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c17",
+    "text": "The evidence connects the Visigothic Code, Castilian law, and Spanish-to-Mexican community-property tradition as a broad sequence.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "rewrote": false,
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "baseline",
+  "claims": 29,
+  "words": 755,
+  "judge_supported_pct": 3.4,
+  "misleading_as_fact": 28,
+  "misleading_pct": 96.6,
+  "overstated_as_fact": 9,
+  "unsourced_as_fact": 19,
+  "honestly_flagged": 28,
+  "gen_cost_usd": 0.001124,
+  "seconds": 20.6,
+  "misleading_examples": [
+   "Texas divorce courts decide how property is characterized and divided between spouses.",
+   "The Texas–Visigothic connection is an indirect inheritance rather than an unchanged code preserved intact.",
+   "The Visigoths ruled much of Iberia after the collapse of Roman imperial power in the West.",
+   "The Liber Iudiciorum, associated with Recceswinth, was promulgated in 654 and sought a common law for Roman and Gothic subjects."
+  ],
+  "overstated_examples": [
+   "The Texas–Visigothic connection is an indirect inheritance rather than an unchanged code preserved intact.",
+   "The influence of one legal tradition does not make it identical to a later legal system.",
+   "The phrase 'like a Visigothic king' refers to distant ancestry rather than a direct legal command.",
+   "Later political and legal changes, rather than uninterrupted survival, carry the history toward Texas."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Texas divorce courts decide how property is characterized and divided between spouses.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "The Texas–Visigothic connection is an indirect inheritance rather than an unchanged code preserved intact.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "The Visigoths ruled much of Iberia after the collapse of Roman imperial power in the West.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The Liber Iudiciorum, associated with Recceswinth, was promulgated in 654 and sought a common law for Roman and Gothic subjects.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "The Liber Iudiciorum continued to matter in some Christian communities and later legal traditions after the Muslim conquest.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "Iberian legal systems changed through political change, local custom, royal legislation, and learned law.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Medieval Castilian kings and jurists assembled legal works to organize the legal landscape.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas was a broad legal compilation produced under Alfonso X in the thirteenth century.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "The Siete Partidas drew on Roman and canon law, Iberian legal materials, and royal authority, rather than merely reproducing Visigothic law.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "The Partidas became a major reference in Spanish legal life, with practical force varying over time and place.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "The influence of one legal tradition does not make it identical to a later legal system.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "Spanish rule in the Americas brought legal traditions from Spain, adapted to local conditions and supplemented by royal orders and other sources.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "New Spain included the territory of present-day Texas.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "The Siete Partidas formed part of the Castilian legal inheritance available to colonial courts, including as a subsidiary source.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "Not every Texas legal rule can be traced to a specific Partida, and colonial law was not uniform.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "Modern Texas courts do not apply medieval Spanish texts as controlling law.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "Spanish and Mexican legal traditions helped shape the region’s legal background, and some concepts persisted through later regimes and state law.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c18",
+    "text": "Texas is a community-property state and generally distinguishes property acquired during marriage from separate property owned beforehand or received by gift or inheritance.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c19",
+    "text": "Modern Texas marital-property rules are governed by current law, including statutes and court decisions, rather than direct commands from a Visigothic king.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "Scholars trace Texas community-property tradition through Spanish and Mexican law, which developed over centuries from multiple sources.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c21",
+    "text": "The phrase 'like a Visigothic king' refers to distant ancestry rather than a direct legal command.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c22",
+    "text": "The legal history runs through Visigothic law, changing Castilian law, the Partidas, and Spanish legal traditions in New Spain.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c23",
+    "text": "Later political and legal changes, rather than uninterrupted survival, carry the history toward Texas.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c24",
+    "text": "The label 'Muslim Spain' can misleadingly suggest medieval Iberia was one timeless civilization.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c25",
+    "text": "Muslim-ruled polities, Christian kingdoms, and Jewish communities existed in changing relationships involving exchange, conflict, negotiation, and unequal power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c26",
+    "text": "The legal history of Iberia is better understood as entangled than as a simple account of one people inventing law and another inheriting it.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c27",
+    "text": "A future chapter could examine how coexistence worked in practice and whose law governed whom.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c28",
+    "text": "A future chapter could follow Spanish and Mexican legal orders into colonial Texas.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c29",
+    "text": "Legal traditions travel through adaptation, argument, and selective memory rather than necessarily through unchanged survival.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 6
+ },
+ {
+  "thread": "texas-law-medieval-spain",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.00157
+ },
+ {
+  "variant": "off",
+  "claims": 15,
+  "words": 657,
+  "judge_supported_pct": 73.3,
+  "misleading_as_fact": 4,
+  "misleading_pct": 26.7,
+  "overstated_as_fact": 3,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.000976,
+  "seconds": 10.0,
+  "misleading_examples": [
+   "Diocletian shared imperial rule in response to Rome's crisis, while Guilliman uses written codes to order the fictional Imperium; the comparison is interpretive.",
+   "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions.",
+   "Diocletian's reforms and Guilliman's fictional codes offer distinct responses to governing a vast realm."
+  ],
+  "overstated_examples": [
+   "Diocletian shared imperial rule in response to Rome's crisis, while Guilliman uses written codes to order the fictional Imperium; the comparison is interpretive.",
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions.",
+   "Diocletian's reforms and Guilliman's fictional codes offer distinct responses to governing a vast realm."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Diocletian shared imperial rule in response to Rome's crisis, while Guilliman uses written codes to order the fictional Imperium; the comparison is interpretive.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c2",
+    "text": "In 286, Diocletian appointed Maximian co-emperor and Augustus; Maximian ruled the West while Diocletian remained senior Augustus in the East.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Diocletian's reign stabilized the empire and ended the Crisis of the Third Century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Codex Astartes was completed after the Horus Heresy as a guide to Adeptus Astartes tactics and strategy.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Codex Imperialis has a civilian and political focus distinct from the Codex Astartes.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Documented",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Diocletian separated and enlarged civil and military services and reorganized provincial divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Diocletian established administrative centers at Nicomedia, Mediolanum, Sirmium, and Treverorum, nearer the frontiers than Rome.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Diocletian established the largest and most bureaucratic government in Roman history.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Codex Imperialis is a political work in progress during the early years of the Era Indomitus.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Guilliman intends the Codex Imperialis to reorganize the Imperium's political and socioeconomic institutions.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The Codex Imperialis aims to restore the Imperium closer to the Emperor's ideals of human betterment during the Great Crusade.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c14",
+    "text": "Guilliman's directives reshaped the Imperium's administrative and military apparatus after the Emperor's internment on the Golden Throne on Terra.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c15",
+    "text": "Diocletian's reforms and Guilliman's fictional codes offer distinct responses to governing a vast realm.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "lite",
+  "claims": 15,
+  "words": 657,
+  "judge_supported_pct": 73.3,
+  "misleading_as_fact": 2,
+  "misleading_pct": 13.3,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 2,
+  "gen_cost_usd": 0.001669,
+  "seconds": 14.3,
+  "misleading_examples": [
+   "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions."
+  ],
+  "overstated_examples": [
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Diocletian shared imperial rule in response to Rome's crisis, while Guilliman uses written codes to order the fictional Imperium; the comparison is interpretive.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c2",
+    "text": "In 286, Diocletian appointed Maximian co-emperor and Augustus; Maximian ruled the West while Diocletian remained senior Augustus in the East.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Diocletian's reign stabilized the empire and ended the Crisis of the Third Century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Codex Astartes was completed after the Horus Heresy as a guide to Adeptus Astartes tactics and strategy.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Codex Imperialis has a civilian and political focus distinct from the Codex Astartes.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Canon",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Diocletian separated and enlarged civil and military services and reorganized provincial divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Diocletian established administrative centers at Nicomedia, Mediolanum, Sirmium, and Treverorum, nearer the frontiers than Rome.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Diocletian established the largest and most bureaucratic government in Roman history.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Codex Imperialis is a political work in progress during the early years of the Era Indomitus.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Guilliman intends the Codex Imperialis to reorganize the Imperium's political and socioeconomic institutions.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The Codex Imperialis aims to restore the Imperium closer to the Emperor's ideals of human betterment during the Great Crusade.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions.",
+    "shown": "Canon",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c14",
+    "text": "Guilliman's directives reshaped the Imperium's administrative and military apparatus after the Emperor's internment on the Golden Throne on Terra.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c15",
+    "text": "Diocletian's reforms and Guilliman's fictional codes offer distinct responses to governing a vast realm.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "full",
+  "claims": 15,
+  "words": 657,
+  "judge_supported_pct": 73.3,
+  "misleading_as_fact": 2,
+  "misleading_pct": 13.3,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 2,
+  "gen_cost_usd": 0.001669,
+  "seconds": 10.0,
+  "misleading_examples": [
+   "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions."
+  ],
+  "overstated_examples": [
+   "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Diocletian shared imperial rule in response to Rome's crisis, while Guilliman uses written codes to order the fictional Imperium; the comparison is interpretive.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c2",
+    "text": "In 286, Diocletian appointed Maximian co-emperor and Augustus; Maximian ruled the West while Diocletian remained senior Augustus in the East.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Diocletian's reign stabilized the empire and ended the Crisis of the Third Century.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Codex Astartes was completed after the Horus Heresy as a guide to Adeptus Astartes tactics and strategy.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Codex Imperialis has a civilian and political focus distinct from the Codex Astartes.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Rick Priestley cited Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Canon",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Diocletian separated and enlarged civil and military services and reorganized provincial divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Diocletian established administrative centers at Nicomedia, Mediolanum, Sirmium, and Treverorum, nearer the frontiers than Rome.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Diocletian established the largest and most bureaucratic government in Roman history.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Codex Imperialis is a political work in progress during the early years of the Era Indomitus.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Guilliman intends the Codex Imperialis to reorganize the Imperium's political and socioeconomic institutions.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The Codex Imperialis aims to restore the Imperium closer to the Emperor's ideals of human betterment during the Great Crusade.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Codex Astartes concerns Astartes tactics and strategy, while the Codex Imperialis addresses civilian and political institutions.",
+    "shown": "Canon",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c14",
+    "text": "Guilliman's directives reshaped the Imperium's administrative and military apparatus after the Emperor's internment on the Golden Throne on Terra.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c15",
+    "text": "Diocletian's reforms and Guilliman's fictional codes offer distinct responses to governing a vast realm.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "rewrote": false,
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "baseline",
+  "claims": 21,
+  "words": 712,
+  "judge_supported_pct": 0.0,
+  "misleading_as_fact": 21,
+  "misleading_pct": 100.0,
+  "overstated_as_fact": 6,
+  "unsourced_as_fact": 15,
+  "honestly_flagged": 21,
+  "gen_cost_usd": 0.000966,
+  "seconds": 20.0,
+  "misleading_examples": [
+   "Diocletian reorganized Roman imperial government during a third-century crisis, while fictional Roboute Guilliman seeks order through the Codex Astartes.",
+   "The comparison is interpretive and does not assert that ancient Rome directly influenced Guilliman’s fictional reforms.",
+   "Third-century Rome faced civil wars, invasions, and economic strain, alongside rapid changes of emperor.",
+   "Diocletian came to power in 284 CE and worked to systematize imperial authority."
+  ],
+  "overstated_examples": [
+   "Diocletian reorganized Roman imperial government during a third-century crisis, while fictional Roboute Guilliman seeks order through the Codex Astartes.",
+   "The comparison is interpretive and does not assert that ancient Rome directly influenced Guilliman’s fictional reforms.",
+   "The chapter compares Diocletian’s distribution of imperial responsibility with Guilliman’s division of military power.",
+   "Both responses can be interpreted as efforts to manage danger through structural changes."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Diocletian reorganized Roman imperial government during a third-century crisis, while fictional Roboute Guilliman seeks order through the Codex Astartes.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c2",
+    "text": "The comparison is interpretive and does not assert that ancient Rome directly influenced Guilliman’s fictional reforms.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "Third-century Rome faced civil wars, invasions, and economic strain, alongside rapid changes of emperor.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "Diocletian came to power in 284 CE and worked to systematize imperial authority.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "Diocletian’s Tetrarchy established a system of two senior emperors and two junior colleagues.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "The Tetrarchy was intended to distribute governance across the empire and clarify succession.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Diocletian reorganized provincial administration and pursued fiscal, military, and governmental reforms.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "The Tetrarchy’s succession system unraveled after Diocletian retired, and civil war eventually produced Constantine as sole ruler.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c9",
+    "text": "Diocletian’s reforms influenced the later Roman imperial system but did not eliminate political crisis.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "The Imperium of Man is a fictional human empire in Warhammer 40,000, threatened by rebellion, aliens, and supernatural forces.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "The fictional Imperium’s scale creates administrative challenges, powerful local command, and oppressive institutions.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "Guilliman is a fictional primarch described as a genetically engineered war-leader in Warhammer 40,000.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "After the fictional Horus Heresy, Guilliman’s Codex Astartes sets out the division of Space Marine Legions into Chapters.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "Within the fiction, dividing Space Marine forces is intended to prevent any single force from threatening the Imperium again.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "The chapter compares Diocletian’s distribution of imperial responsibility with Guilliman’s division of military power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c16",
+    "text": "Both responses can be interpreted as efforts to manage danger through structural changes.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c17",
+    "text": "Diocletian governed a historical state, while Guilliman’s code belongs to a fictional setting centered on interstellar war and superhuman soldiers.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c18",
+    "text": "Warhammer 40,000 is modern fiction and should not be treated as a direct account of Roman history.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c19",
+    "text": "The eastern Roman Empire, commonly called the Byzantine Empire, continued for roughly a millennium after the western empire’s fall.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "The Byzantine state preserved Roman political identity while adapting institutions and military practices to changing pressures.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c21",
+    "text": "The chapter contrasts Diocletian’s governmental restructuring with Guilliman’s fictional code for restraining Space Marine forces.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "thread": "rome-imperium",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.001559
+ },
+ {
+  "variant": "off",
+  "claims": 17,
+  "words": 741,
+  "judge_supported_pct": 88.2,
+  "misleading_as_fact": 2,
+  "misleading_pct": 11.8,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001124,
+  "seconds": 12.8,
+  "misleading_examples": [
+   "Caesar assumed the title dictator perpetuo in February 44 BC.",
+   "Caesar's recurring dictatorship and Palpatine's expanded emergency mandate are a political-drama parallel, not proof of direct inspiration."
+  ],
+  "overstated_examples": [
+   "Caesar's recurring dictatorship and Palpatine's expanded emergency mandate are a political-drama parallel, not proof of direct inspiration."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Caesar assumed the title dictator perpetuo in February 44 BC.",
+    "shown": "Documented",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "Caesar engineered his first dictatorship in 49 BC after occupying Rome, largely to hold elections, and resigned after eleven days.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Before his perpetual dictatorship, Caesar had been appointed dictator about four times.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The crisis of the Roman Republic lasted approximately from 133 BC to 30 BC and ended with the Republic's demise and advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "During the late Republic, formerly authoritative institutions lost credibility and authority.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Sullan Senate reforms divided the aristocracy between those who stayed in Rome and those who rose to high office abroad, deepening class divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "In 24 BBY, the Galactic Senate passed the Emergency Powers Act during the Separatist Crisis and granted Palpatine emergency powers.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "The Emergency Powers Act allowed Palpatine to remain in office beyond his term's expiration for the duration of the crisis.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "On the eve of the First Battle of Geonosis in 22 BBY, Jar Jar Binks persuaded the Senate to expand Palpatine's emergency powers due to the apparent Separatist threat.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "The expansion allowed Palpatine to bypass the Military Creation Act and form the Grand Army of the Republic.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Caesar's recurring dictatorship and Palpatine's expanded emergency mandate are a political-drama parallel, not proof of direct inspiration.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "Palpatine's Galactic Empire replaced the Galactic Republic at the end of the Clone Wars.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Galactic Empire is described as a totalitarian, stratocratic fascist dictatorship.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Roman Republic crisis culminated in the Republic's demise and the advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "Roman history is among the acknowledged inspirations for Star Wars, alongside numerous other sources.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c16",
+    "text": "The Roman Republic's crisis lasted generations, and Caesar's dictatorship was appointed repeatedly before his perpetual title.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c17",
+    "text": "The Galactic Senate expanded Palpatine's powers, and the Galactic Republic was replaced by the Empire at the end of the Clone Wars.",
+    "shown": "Documented",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "lite",
+  "claims": 17,
+  "words": 741,
+  "judge_supported_pct": 88.2,
+  "misleading_as_fact": 1,
+  "misleading_pct": 5.9,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 1,
+  "gen_cost_usd": 0.001859,
+  "seconds": 18.4,
+  "misleading_examples": [
+   "Caesar assumed the title dictator perpetuo in February 44 BC."
+  ],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Caesar assumed the title dictator perpetuo in February 44 BC.",
+    "shown": "Documented",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "Caesar engineered his first dictatorship in 49 BC after occupying Rome, largely to hold elections, and resigned after eleven days.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Before his perpetual dictatorship, Caesar had been appointed dictator about four times.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The crisis of the Roman Republic lasted approximately from 133 BC to 30 BC and ended with the Republic's demise and advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "During the late Republic, formerly authoritative institutions lost credibility and authority.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Sullan Senate reforms divided the aristocracy between those who stayed in Rome and those who rose to high office abroad, deepening class divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "In 24 BBY, the Galactic Senate passed the Emergency Powers Act during the Separatist Crisis and granted Palpatine emergency powers.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "The Emergency Powers Act allowed Palpatine to remain in office beyond his term's expiration for the duration of the crisis.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "On the eve of the First Battle of Geonosis in 22 BBY, Jar Jar Binks persuaded the Senate to expand Palpatine's emergency powers due to the apparent Separatist threat.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "The expansion allowed Palpatine to bypass the Military Creation Act and form the Grand Army of the Republic.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Caesar's recurring dictatorship and Palpatine's expanded emergency mandate are a political-drama parallel, not proof of direct inspiration.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "Palpatine's Galactic Empire replaced the Galactic Republic at the end of the Clone Wars.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Galactic Empire is described as a totalitarian, stratocratic fascist dictatorship.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Roman Republic crisis culminated in the Republic's demise and the advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "Roman history is among the acknowledged inspirations for Star Wars, alongside numerous other sources.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c16",
+    "text": "The Roman Republic's crisis lasted generations, and Caesar's dictatorship was appointed repeatedly before his perpetual title.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c17",
+    "text": "The Galactic Senate expanded Palpatine's powers, and the Galactic Republic was replaced by the Empire at the end of the Clone Wars.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "full",
+  "claims": 17,
+  "words": 741,
+  "judge_supported_pct": 88.2,
+  "misleading_as_fact": 1,
+  "misleading_pct": 5.9,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 1,
+  "gen_cost_usd": 0.001859,
+  "seconds": 12.8,
+  "misleading_examples": [
+   "Caesar assumed the title dictator perpetuo in February 44 BC."
+  ],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Caesar assumed the title dictator perpetuo in February 44 BC.",
+    "shown": "Documented",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "Caesar engineered his first dictatorship in 49 BC after occupying Rome, largely to hold elections, and resigned after eleven days.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Before his perpetual dictatorship, Caesar had been appointed dictator about four times.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The crisis of the Roman Republic lasted approximately from 133 BC to 30 BC and ended with the Republic's demise and advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "During the late Republic, formerly authoritative institutions lost credibility and authority.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "Sullan Senate reforms divided the aristocracy between those who stayed in Rome and those who rose to high office abroad, deepening class divisions.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "In 24 BBY, the Galactic Senate passed the Emergency Powers Act during the Separatist Crisis and granted Palpatine emergency powers.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "The Emergency Powers Act allowed Palpatine to remain in office beyond his term's expiration for the duration of the crisis.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "On the eve of the First Battle of Geonosis in 22 BBY, Jar Jar Binks persuaded the Senate to expand Palpatine's emergency powers due to the apparent Separatist threat.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "The expansion allowed Palpatine to bypass the Military Creation Act and form the Grand Army of the Republic.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Caesar's recurring dictatorship and Palpatine's expanded emergency mandate are a political-drama parallel, not proof of direct inspiration.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "Palpatine's Galactic Empire replaced the Galactic Republic at the end of the Clone Wars.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The Galactic Empire is described as a totalitarian, stratocratic fascist dictatorship.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Roman Republic crisis culminated in the Republic's demise and the advent of the Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "Roman history is among the acknowledged inspirations for Star Wars, alongside numerous other sources.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c16",
+    "text": "The Roman Republic's crisis lasted generations, and Caesar's dictatorship was appointed repeatedly before his perpetual title.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c17",
+    "text": "The Galactic Senate expanded Palpatine's powers, and the Galactic Republic was replaced by the Empire at the end of the Clone Wars.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "rewrote": false,
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "baseline",
+  "claims": 30,
+  "words": 699,
+  "judge_supported_pct": 6.7,
+  "misleading_as_fact": 28,
+  "misleading_pct": 93.3,
+  "overstated_as_fact": 11,
+  "unsourced_as_fact": 17,
+  "honestly_flagged": 28,
+  "gen_cost_usd": 0.001062,
+  "seconds": 24.0,
+  "misleading_examples": [
+   "A republic can grant extraordinary authority in a crisis and then struggle to reclaim it.",
+   "The Roman story is associated with Julius Caesar, while the fictional Galactic story is associated with Chancellor Palpatine.",
+   "The resemblance between the Roman and Star Wars stories does not prove direct influence.",
+   "The Roman Republic lacked one single written constitution in the modern sense and relied on customs, laws, magistracies, the Senate, and popular assemblies."
+  ],
+  "overstated_examples": [
+   "A republic can grant extraordinary authority in a crisis and then struggle to reclaim it.",
+   "The Roman story is associated with Julius Caesar, while the fictional Galactic story is associated with Chancellor Palpatine.",
+   "The resemblance between the Roman and Star Wars stories does not prove direct influence.",
+   "The comparison between Rome and Palpatine is an interpretive parallel about crisis legitimizing concentrated authority."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "A republic can grant extraordinary authority in a crisis and then struggle to reclaim it.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c2",
+    "text": "The Roman story is associated with Julius Caesar, while the fictional Galactic story is associated with Chancellor Palpatine.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "The resemblance between the Roman and Star Wars stories does not prove direct influence.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c4",
+    "text": "The Roman Republic experienced significant political strain before its transformation.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The Roman Republic lacked one single written constitution in the modern sense and relied on customs, laws, magistracies, the Senate, and popular assemblies.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "Roman magistrates generally served fixed terms, and the consulship was shared by two consuls.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Republican safeguards relied on political actors observing rules and institutions responding to danger.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "Roman expansion intensified struggles over land, wealth, military command, and political influence by the first century BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c9",
+    "text": "Roman leaders built followings, and military campaigns could bring commanders wealth and standing.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "After earlier civil conflict, Caesar crossed the Rubicon in 49 BCE, beginning a new civil war against the Senate’s authority.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "Caesar won the civil war and accumulated offices and honors that concentrated power in his hands.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "Caesar was appointed dictator for ten years in 46 BCE and dictator perpetuo in 44 BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "The Roman dictatorship was an established emergency magistracy traditionally limited in duration.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "Some senators feared Caesar’s concentrated and enduring authority signaled personal rule.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "The comparison between Rome and Palpatine is an interpretive parallel about crisis legitimizing concentrated authority.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c16",
+    "text": "In the prequel films, Palpatine uses war and disorder to obtain emergency powers and establish an empire.",
+    "shown": "Documented (ungraded)",
+    "judge": "Canon"
+   },
+   {
+    "id": "c17",
+    "text": "In the fictional story, the Senate’s continued existence does not prevent Palpatine’s decisive consolidation of power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c18",
+    "text": "Rome’s political transformation differed from the comparatively simple fictional account of a rapid transition.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c19",
+    "text": "A group of senators assassinated Caesar in 44 BCE, claiming to defend the Republic.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "Caesar’s assassination was followed by civil wars and a struggle among Roman commanders rather than a stable restoration of republican government.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c21",
+    "text": "Octavian defeated Mark Antony and Cleopatra at Actium in 31 BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c22",
+    "text": "Octavian received the name Augustus in 27 BCE, a date commonly associated with the beginning of the Roman Empire.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c23",
+    "text": "Augustus portrayed his position as a restoration while retaining extensive authority through traditional offices and powers.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c24",
+    "text": "Augustus did not declare himself king, and republican institutions continued under his dominant position.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c25",
+    "text": "Roman republican forms continued while the distribution of political power changed substantially.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c26",
+    "text": "Palpatine’s fictional emergency politics are not a documentary account of Roman history.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c27",
+    "text": "Roman history offers a recognizable pattern of crisis, extraordinary authority, and difficulty reversing personal consolidation of power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c28",
+    "text": "The chapter frames the Rome–Palpatine connection as interpretation rather than proven direct borrowing.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c29",
+    "text": "The precise inspirations for Lucas’s story cannot be established merely by pointing to Caesar or Augustus.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c30",
+    "text": "The chapter closes by asking who can compel a ruler to relinquish emergency powers granted in the name of saving a republic.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 7
+ },
+ {
+  "thread": "republic-galactic-empire",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.001831
+ },
+ {
+  "variant": "off",
+  "claims": 13,
+  "words": 751,
+  "judge_supported_pct": 46.2,
+  "misleading_as_fact": 7,
+  "misleading_pct": 53.8,
+  "overstated_as_fact": 7,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001085,
+  "seconds": 13.0,
+  "misleading_examples": [
+   "The Hospitaller statutes show a development from care for the sick toward military service.",
+   "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+   "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+   "The 1187 statutes of Roger de Moulins dealt only with service to the sick."
+  ],
+  "overstated_examples": [
+   "The Hospitaller statutes show a development from care for the sick toward military service.",
+   "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+   "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+   "The 1187 statutes of Roger de Moulins dealt only with service to the sick."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Templars and Hospitallers exemplify religious identity joined with armed service in the Crusader world.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The Knights Templar were a Catholic military order formally known as the Poor Fellow-Soldiers of Christ and of the Temple of Solomon.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Hospitaller statutes show a development from care for the sick toward military service.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c4",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c5",
+    "text": "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c6",
+    "text": "The 1187 statutes of Roger de Moulins dealt only with service to the sick.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c7",
+    "text": "The first mention of military service in Hospitaller statutes appears around 1200 under Fernando Afonso of Portugal.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c8",
+    "text": "Warhammer lore describes Primaris Marines being inducted into brotherhoods.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "Guilliman formed some Primaris Marines into new Chapters and offered others to existing Chapters, whose leaders could welcome them.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "A Space Marine Standard is a sacred battle standard and a highly revered Chapter artifact.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Rick Priestley cites Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The Templars had a Catholic military identity, while Hospitaller statutes document a shift from sick care to military service.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c13",
+    "text": "Space Marine brotherhoods and standards provide a fictional parallel to medieval religious military orders, without evidence here of direct inspiration.",
+    "shown": "Documented",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "lite",
+  "claims": 13,
+  "words": 751,
+  "judge_supported_pct": 46.2,
+  "misleading_as_fact": 5,
+  "misleading_pct": 38.5,
+  "overstated_as_fact": 5,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 2,
+  "gen_cost_usd": 0.001763,
+  "seconds": 18.0,
+  "misleading_examples": [
+   "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+   "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+   "The 1187 statutes of Roger de Moulins dealt only with service to the sick.",
+   "The first mention of military service in Hospitaller statutes appears around 1200 under Fernando Afonso of Portugal."
+  ],
+  "overstated_examples": [
+   "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+   "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+   "The 1187 statutes of Roger de Moulins dealt only with service to the sick.",
+   "The first mention of military service in Hospitaller statutes appears around 1200 under Fernando Afonso of Portugal."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Templars and Hospitallers exemplify religious identity joined with armed service in the Crusader world.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The Knights Templar were a Catholic military order formally known as the Poor Fellow-Soldiers of Christ and of the Temple of Solomon.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Hospitaller statutes show a development from care for the sick toward military service.",
+    "shown": "Unsupported",
+    "judge": "Debated"
+   },
+   {
+    "id": "c4",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c5",
+    "text": "The Hospitallers were charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c6",
+    "text": "The 1187 statutes of Roger de Moulins dealt only with service to the sick.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c7",
+    "text": "The first mention of military service in Hospitaller statutes appears around 1200 under Fernando Afonso of Portugal.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c8",
+    "text": "Warhammer lore describes Primaris Marines being inducted into brotherhoods.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "Guilliman formed some Primaris Marines into new Chapters and offered others to existing Chapters, whose leaders could welcome them.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "A Space Marine Standard is a sacred battle standard and a highly revered Chapter artifact.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Rick Priestley cites Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The Templars had a Catholic military identity, while Hospitaller statutes document a shift from sick care to military service.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c13",
+    "text": "Space Marine brotherhoods and standards provide a fictional parallel to medieval religious military orders, without evidence here of direct inspiration.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "full",
+  "claims": 16,
+  "words": 756,
+  "judge_supported_pct": 75.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 4,
+  "gen_cost_usd": 0.00386,
+  "seconds": 34.0,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "The Templars and Hospitallers joined religious identity with armed service in the Crusader world.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The Knights Templar were a Catholic military order formally known as the Poor Fellow-Soldiers of Christ and of the Temple of Solomon.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Templars’ formal name joined references to Christ, the Temple, and soldiers.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c4",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s and hired knights who later became Hospitallers.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The Order of Saint John was charged with care and defense of the Holy Land and fought in the Crusades until the Siege of Acre in 1291.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The 1187 statutes of Roger de Moulins dealt only with service to the sick.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The first mention of military service in the statutes appears around 1200, under grand master Fernando Afonso of Portugal.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Warhammer lore describes Primaris Marines being inducted into brotherhoods.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "Guilliman formed some Primaris Marines into new Chapters and offered others to existing Chapters, whose Chapter Masters could welcome them.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "A Space Marine Standard is a sacred battle standard and one of a Chapter’s most revered artifacts.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "The Templars’ formal religious name and the Space Marine sacred standard support a comparison about warfare framed as service to something larger.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c12",
+    "text": "Rick Priestley cites Tolkien, Lovecraft, Dune, Paradise Lost, and 2000 AD as major influences on Warhammer 40,000.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "The cited major-influences list does not name the Templars.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The evidence describes medieval religious orders with military roles and Space Marines organized into Chapters and brotherhoods, supporting a comparison between them.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c15",
+    "text": "The Templars’ name identifies their Catholic military order, while Hospitaller statutes mention sick care in 1187 and military service around 1200.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "Space Marine brotherhoods and revered standards offer a fictional parallel to medieval military religious orders, without establishing a direct historical blueprint.",
+    "shown": "Interpretation",
+    "judge": "Interpretation"
+   }
+  ],
+  "rewrote": true,
+  "thread": "crusades-space-marines",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "baseline",
+  "claims": 30,
+  "words": 644,
+  "judge_supported_pct": 6.7,
+  "misleading_as_fact": 28,
+  "misleading_pct": 93.3,
+  "overstated_as_fact": 15,
+  "unsourced_as_fact": 13,
+  "honestly_flagged": 28,
+  "gen_cost_usd": 0.001032,
+  "seconds": 26.2,
+  "misleading_examples": [
+   "Comparing the orders with Space Marines does not prove direct historical inspiration.",
+   "In the early twelfth century, Latin Christian travelers journeyed to holy places amid political contest and danger.",
+   "Around 1119, knights associated with Hugh of Payns organized to protect pilgrims near Jerusalem.",
+   "The Knights Templar became a religious military order combining communal discipline and fighting service."
+  ],
+  "overstated_examples": [
+   "Comparing the orders with Space Marines does not prove direct historical inspiration.",
+   "The Knights Templar became a religious military order combining communal discipline and fighting service.",
+   "The Hospitaller order grew from a Jerusalem hospital and later developed a military role in the Latin East.",
+   "The warrior-monk image combines obedience, communal rule, austerity, devotion, and the material realities of warfare."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "The Templars and Hospitallers joined religious life with armed service in the Crusader world.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Comparing the orders with Space Marines does not prove direct historical inspiration.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c3",
+    "text": "In the early twelfth century, Latin Christian travelers journeyed to holy places amid political contest and danger.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "Around 1119, knights associated with Hugh of Payns organized to protect pilgrims near Jerusalem.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "The Knights Templar became a religious military order combining communal discipline and fighting service.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c6",
+    "text": "The Templars received formal recognition at the Council of Troyes in 1129.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "The Hospitallers joined religious vocation with warfare in their history.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Hospitaller order grew from a Jerusalem hospital and later developed a military role in the Latin East.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c9",
+    "text": "The Templars are chiefly remembered as a fighting order, while the Hospitallers also emphasized care for the sick and poor.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "Both orders were institutions shaped by vows, rules, patrons, and changing political circumstances.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "Medieval military orders adapted religious discipline to lives that could include combat.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "Members of military orders were not monks in every technical sense, and ranks and obligations varied.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "The warrior-monk image combines obedience, communal rule, austerity, devotion, and the material realities of warfare.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c14",
+    "text": "A vow in this context publicly committed a person to a community and way of life.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "Adeptus Astartes are fictional genetically transformed superhuman soldiers serving the Imperium in Warhammer 40,000.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "Space Marine chapters are depicted with hierarchy, ritual, inherited traditions, and religious-order imagery.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "Space Marine imagery can evoke sacred vestments, monastic rules, and battle as service to a higher cause.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c18",
+    "text": "Space Marines are not simply Templars in power armor.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c19",
+    "text": "The comparison rests on the shared image of discipline and violence under devoted service.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c20",
+    "text": "The historical orders and the fictional Astartes differ profoundly.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c21",
+    "text": "The Templars and Hospitallers were historical human communities embedded in medieval institutions and conflicts.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c22",
+    "text": "Space Marines are fictional transhuman warriors in a far-future universe.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c23",
+    "text": "Medieval religious vows and military-order rules are not equivalent to fictional Astartes transformation and doctrine.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c24",
+    "text": "Placing the orders beside the Astartes traces a motif rather than a documented chain of descent.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c25",
+    "text": "Religious discipline joined to armed service creates a narrative pattern of devoted, rule-bound warriors.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c26",
+    "text": "The comparison highlights what different worlds sanctify and what they ask warriors to surrender.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c27",
+    "text": "Crusader-world vows bound people to religious institutions amid political struggles and human costs.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c28",
+    "text": "Space Marines turn the image of religiously disciplined warriors into far-future mythic imagery.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c29",
+    "text": "A resemblance is not proof of direct influence.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   },
+   {
+    "id": "c30",
+    "text": "The next chapter can explore the institutions and legends that sustained the warrior-monk ideal.",
+    "shown": "Documented (ungraded)",
+    "judge": "Interpretation"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 8
+ },
+ {
+  "thread": "crusades-space-marines",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.002887
+ }
+]

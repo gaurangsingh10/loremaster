@@ -1,0 +1,21 @@
+{
+  "id": "warhammer40k",
+  "name": "Warhammer 40,000",
+  "wiki": "Warhammer 40k Wiki (Fandom)",
+  "api": "https://warhammer40k.fandom.com/api.php",
+  "page_url": "https://warhammer40k.fandom.com/wiki/{title}",
+  "domains": [
+    "warhammer40k.fandom.com"
+  ],
+  "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0",
+  "kind": "lore",
+  "scale": [
+    "Canon",
+    "Legends",
+    "Conflicting",
+    "Fan theory",
+    "Interpretation",
+    "Unsupported"
+  ],
+  "grading_rules": "Canon = stated in the evidence as part of the lore from Games Workshop / Black Library publications. Conflicting = the evidence notes contradictory accounts, retcons, or unreliable in-universe narrators (40K contradicts itself on purpose; say so). Legends = superseded older-edition lore the evidence marks as such. Fan theory = popular interpretation the evidence does not confirm. Unsupported = no evidence card says it. (Lexicanum was the first choice but is behind a bot wall, so we use the Fandom wiki.) Grade canon STATUS, not paraphrase: hedged or multiply-told events are Conflicting. Interpretation = history-to-fiction parallels and narrator framing."
+}

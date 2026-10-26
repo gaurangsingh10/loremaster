@@ -1,0 +1,44 @@
+
+=== From Caesar to Palpatine [done] 
+
+--- Chapter 1: The Republic’s Emergency Door (667 words)
+     c1 Documented   The Roman Republic’s crisis lasted from about 133 BC to 30 BC and culminated in the Republic’s demise and the 
+     c2 Documented   Historians disagree about the causes of the crisis of the Roman Republic.
+     c3 Documented   One interpretation attributes civil wars to escalating competition among powerful elite families.
+     c4 Documented   Before becoming dictator in perpetuity, Caesar was appointed dictator about four times after his first dictato
+     c5 Documented   After occupying Rome, Caesar engineered his first dictatorship largely to hold elections.
+     c6 Documented   Caesar resigned from his first dictatorship after eleven days.
+     c7 Documented   Caesar received the title dictator in perpetuity between January 26 and February 15, 44 BC.
+     c8 Documented   The title dictator in perpetuity abandoned the time restrictions of the regular Roman dictatorship.
+     c9 Documented   The title elevated Caesar to a rank more akin to that of ancient Roman kings.
+    c10 Canon        The Star Wars Galactic Republic entered a period of decline after centuries of expansion and prosperity.
+    c11 Canon        The Separatist Crisis divided the Republic between loyalists and the Confederacy of Independent Systems, aided
+    c12 Canon        Republic loyalists, including Senator Organa, believed a clone army was needed but feared the Senate would not
+    c13 Canon        The war enabled Palpatine to amass emergency powers and remain Supreme Chancellor longer than technically allo
+    c14 Canon        Palpatine centralized political and military authority within the Chancellor’s office, including oversight of 
+   branches: ['Examine competing explanations for Rome’s collapse', 'Follow Caesar’s dictatorship toward the title in perpetuity', 'Return to Palpatine’s Senate and trace the emergency powers'] | chosen: Examine competing explanations for Rome’s collapse
+
+--- Chapter 2: Many Roads from Republic to Empire (732 words)
+     c1 Documented   Political violence returned in the early sixties BC, with unrest at consular elections noted each year from 66
+     c2 Documented   The suppression of the Catiline revolt violated citizens’ due-process rights and introduced the death penalty 
+     c3 Documented   Julius Caesar was assassinated on the Ides of March, 44 BC, by senators.
+     c4 Documented   Sixty conspirators were involved, led by Brutus, Cassius Longinus, and Decimus Junius Brutus Albinus.
+     c5 Documented   Caesar was stabbed about 23 times during a Senate session at the Curia of Pompey.
+     c6 Documented   Caesar’s death precipitated the end of the Republic, and the lower classes, among whom he was popular, were en
+     c7 Documented   Antony used public grief and threatened the optimates with the crowd, perhaps intending to take control of Rom
+     c8 Canon        During the Clone Wars, the Chancellor’s wartime authority reached unprecedented levels at the Senate’s expense
+     c9 Canon        Some Senate and Council members worried about the Republic’s future and considered options for preserving demo
+    c10 Canon        As the war neared its end in 19 BBY, the Jedi Council discussed forcibly removing Palpatine and temporarily ov
+    c11 Canon        The Galactic Empire replaced the Republic at the end of the Clone Wars and is described as a totalitarian dict
+    c12 Canon        The Empire’s origins are traced to a Sith conspiracy, and Darth Sidious ruled as emperor with Darth Vader enfo
+   branches: ['Trace Augustus’s settlement of power after civil war', 'Follow Palpatine’s transformation of emergency rule', 'Compare republics that survived their own crises'] | chosen: None
+
+Further reading: ['Star Wars Episode III - Revenge of the Sith — Matthew Woodring Stover', 'Star Wars - Shatterpoint — Matthew Woodring Stover', 'Star Wars - The Cestus Deception — Steven Barnes']
+
+Usage by agent:
+  showrunner   req=2   in=3915    cached=3518    write=145    out=409    $0.00028
+  researcher   req=6   in=16955   cached=12148   write=4051   out=715    $0.00106
+  storyteller  req=2   in=6841    cached=5774    write=815    out=3003   $0.00169
+  skeptic      req=2   in=7772    cached=3386    write=4134   out=1209   $0.00118
+  librarian    req=1   in=1743    cached=1324    write=293    out=216    $0.00017
+TOTAL $0.00438   episode id 3b2cbbfc62

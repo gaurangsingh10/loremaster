@@ -1,0 +1,284 @@
+[
+ {
+  "id": "rubicon-emergency-powers",
+  "title": "Caesar's Rubicon → Palpatine's Emergency Powers",
+  "hook": "A general crosses a river, a chancellor accepts 'temporary' powers. Lucas has said he was watching Rome.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "Late Roman Republic",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "constantinople-siege-of-terra",
+  "title": "The Fall of Constantinople → The Siege of Terra",
+  "hook": "1453: the last Roman emperor on the walls. M31: the last stand at the Imperial Palace.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Byzantium, 1453",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "templars-order-66",
+  "title": "Friday the 13th → Order 66",
+  "hook": "1307: a king arrests every Templar in France in one morning. A Republic's guardians fall the same way.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "The Templars, 1307",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "inquisitions",
+  "title": "The Spanish Inquisition → The Inquisition of 40K",
+  "hook": "Nobody expects it, but the Holy Orders of the Emperor's Inquisition borrowed its whole job description.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Spain, 1478 onward",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "varangian-custodes",
+  "title": "The Varangian Guard → The Adeptus Custodes",
+  "hook": "Norse axemen guarding a Byzantine throne, and the golden giants who guard the Emperor's.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Byzantium, 10th–14th c.",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "sparta-space-marines",
+  "title": "Sparta's Agoge → Space Marine Training",
+  "hook": "Boys taken at seven, forged into warriors: the real Spartan system and the Astartes recruit trials.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Classical Sparta",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "vietnam-ewoks",
+  "title": "Vietnam → Ewoks vs. the Empire",
+  "hook": "Why George Lucas pictured a superpower losing to forest fighters with sticks and stones.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "The Vietnam War",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "manhattan-death-star",
+  "title": "The Manhattan Project → The Death Star",
+  "hook": "Secret cities, brilliant engineers, a weapon that changes everything, and the question of who is responsible.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "1942–1945",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "mongols-white-scars",
+  "title": "The Mongols → The White Scars",
+  "hook": "Genghis Khan's riders and Jaghatai Khan's Legion: speed, loyalty, and an empire on horseback.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "The Mongol Empire",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "texas-law-medieval-spain",
+  "title": "Texas Law & the 'Muslim Spain' Legend",
+  "hook": "Why a Texas divorce court splits property like a Visigothic king, and whether the Moors had anything to do with it.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Visigothic & Castilian Spain → Texas",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "nero-fiddle",
+  "title": "Did Nero Fiddle While Rome Burned?",
+  "hook": "The most famous image of a bad emperor, put on trial against the sources.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Rome, AD 64",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "library-of-alexandria",
+  "title": "Who Really Destroyed the Library of Alexandria?",
+  "hook": "Caesar, Christians, a caliph, or just centuries of neglect? Every suspect, graded.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Ptolemaic Egypt to late antiquity",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "bronze-age-collapse",
+  "title": "1177 BC: When Civilization Collapsed",
+  "hook": "The Sea Peoples, droughts, earthquakes: how a connected world fell apart in a generation.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Late Bronze Age",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ {
+  "id": "horus-heresy",
+  "title": "The Horus Heresy: A Tragedy in Betrayals",
+  "hook": "The Emperor's favorite son turns on him, and the galaxy burns for ten thousand years.",
+  "mode": "lore",
+  "packs": [
+   "warhammer40k"
+  ],
+  "era": "",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "lore"
+ },
+ {
+  "id": "rule-of-two",
+  "title": "Darth Bane's Rule of Two: Canon vs. Legends",
+  "hook": "One master, one apprentice: where the rule came from, and which parts are still canon.",
+  "mode": "lore",
+  "packs": [
+   "star_wars"
+  ],
+  "era": "",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "lore"
+ },
+ {
+  "id": "placebo-effect",
+  "title": "The Placebo Effect: Medicine's Strangest Truth",
+  "hook": "Sugar pills that help, even when patients know they're sugar pills. What the evidence really says, and what it doesn't.",
+  "mode": "history",
+  "packs": [
+   "science"
+  ],
+  "era": "Medicine, 18th century to today",
+  "universe": "",
+  "curated": true,
+  "genre": "science"
+ },
+ {
+  "id": "discovery-myths",
+  "title": "Newton's Apple & Other Myths of Discovery",
+  "hook": "Did an apple really hit Newton? Did Einstein fail math? Famous eureka stories, put on trial.",
+  "mode": "history",
+  "packs": [
+   "science"
+  ],
+  "era": "The Scientific Revolution onward",
+  "universe": "",
+  "curated": true,
+  "genre": "science"
+ },
+ {
+  "id": "telegraph-internet",
+  "title": "From Telegraph to Internet: Wiring the World",
+  "hook": "The 'Victorian internet': how a dot-dash code shrank the planet, and what it says about ours.",
+  "mode": "history",
+  "packs": [
+   "technology"
+  ],
+  "era": "1830s–1990s",
+  "universe": "",
+  "curated": true,
+  "genre": "technology"
+ },
+ {
+  "id": "edison-tesla",
+  "title": "Edison vs. Tesla: The Myth of the Lone Genius",
+  "hook": "The War of the Currents, and why great inventions are almost never one person's eureka moment.",
+  "mode": "history",
+  "packs": [
+   "technology"
+  ],
+  "era": "1880s–1890s",
+  "universe": "",
+  "curated": true,
+  "genre": "technology"
+ },
+ {
+  "id": "filibuster-origins",
+  "title": "How the Filibuster Was Born, by Accident",
+  "hook": "A rule nobody designed, a deleted motion, and two centuries of arguing about it, from both sides.",
+  "mode": "history",
+  "packs": [
+   "politics"
+  ],
+  "era": "US Senate, 1806 to today",
+  "universe": "",
+  "curated": true,
+  "genre": "politics"
+ },
+ {
+  "id": "checks-and-balances",
+  "title": "From Athens to the Federalist Papers: Why Power Is Split",
+  "hook": "Ostracism, Roman consuls and Madison's 'ambition must counteract ambition': the long idea behind checks and balances.",
+  "mode": "history",
+  "packs": [
+   "politics"
+  ],
+  "era": "Athens to 1788",
+  "universe": "",
+  "curated": true,
+  "genre": "politics"
+ }
+]

@@ -1,0 +1,1881 @@
+{
+ "thread": {
+  "id": "inquisitions",
+  "title": "The Spanish Inquisition → The Inquisition of 40K",
+  "hook": "Nobody expects it, but the Holy Orders of the Emperor's Inquisition borrowed its whole job description.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "Spain, 1478 onward",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "The Inquisition: Two Holy Offices",
+ "logline": "From Spain’s campaign to police religious orthodoxy to 40K’s secret guardians against heresy, discover what the resemblance reveals—and what it does not prove.",
+ "plan": [
+  {
+   "title": "The Tribunal and the Rosette",
+   "focus": "Open on the irresistible parallel: the Spanish Inquisition’s tribunals and the Imperium’s Inquisition both investigate threats to religious order, but establish what each institution actually did in its own context. Compare Spanish Inquisition procedures and purpose with the 40K Inquisition’s remit; treat any direct borrowing or creator inspiration as unproven unless sources document it.",
+   "queries": [
+    "history: Spanish Inquisition",
+    "history: Spanish Inquisition tribunals",
+    "warhammer40k: Inquisition",
+    "warhammer40k: Imperial Inquisition"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  },
+  {
+   "title": "Where the Echo Breaks",
+   "focus": "Put the claim that 40K borrowed the Spanish Inquisition’s whole job description on trial: distinguish documented historical facts from a suggestive comparison, and check whether lore or creator evidence establishes a direct link. Pay off the opening by showing how the institutions’ similarities and differences shape the analogy, without presenting interpretation as fact.",
+   "queries": [
+    "history: Spanish Inquisition purpose",
+    "history: Spanish Inquisition heresy",
+    "warhammer40k: Inquisition Ordo",
+    "warhammer40k: Inquisition origins"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Tribunal and the Rosette",
+  "narration": "Castile, fourteen eighty-four. Tomás de Torquemada is not merely hunting heresy; he is helping turn suspicion into a system. [c1] Across the imagined gulf of forty thousand years, an Inquisitor can arrive with a small icon on the chest: a rosette, a sign that one person speaks with the authority of an immense and frightened empire. [c2] The resemblance catches the ear. But the two institutions belong to different worlds, and the details matter.\n\nTorquemada established procedures for the Spanish Inquisition in fourteen eighty-four. [c1] His twenty-eight-article code drew on Nicholas Eymerich’s earlier manual for inquisitors. [c3] That code remained largely unchanged for more than three centuries. [c4] In this setting, the state treated heresy as treason, and treason could be punished by death. [c5] The tribunal’s purpose was not simply to discover private belief. It operated where religious conformity and political loyalty had been fused by the state.\n\nNow hold that against the rosette. Every Inquisitor, upon reaching the rank, receives one: a small amulet or icon shaped like a stylized column. [c6] It is a badge, but not merely a badge. The object can make authority visible without a speech, a uniform, or a crowd. And, in the grim logic of the Imperium, it can also open doors.\n\nSome rosettes contain data-probes that can grant access to almost any cogitation network in the Imperium. [c7] Their machine systems can bypass security gates through the Inquisitor’s high-level authority. [c8] Some Inquisitors do not wear the rosette openly. [c9] Others may reveal it subtly, especially when dealing with people who regard themselves as the Inquisitor’s peers. [c10] The symbol is therefore a tool of access and presentation, not just decoration.\n\nHere’s my read: the Spanish tribunal and the rosette-bearing Inquisitor share a dramatic shape—an authority empowered to identify threats to a sacred political order. The Spanish system made heresy treason within a state tribunal; the 40K rosette marks an individual whose authority can penetrate the Imperium’s networks and social ranks. [c11] That is a comparison of function and image, not proof that one institution inspired the other.\n\nThe fictional Inquisition also has distinct branches in the game’s history. Toward the end of Warhammer forty thousand’s third edition, new army codexes introduced two Inquisition forces: the Ordo Malleus, called Daemonhunters, and the Ordo Hereticus, called Witchhunters. [c12] Elements of both had appeared in earlier supplementary material. [c13] Even the labels tell you what sort of threats the setting imagines: demons and witches, rendered as military categories in a universe built on permanent emergency.\n\nA novel offers another window, though not a procedural manual. In Ian Watson’s Inquisition War, Inquisitor Jaq Draco uncovers a plot threatening humanity’s psychic future. [c14] The story frames investigation as a race through conspiracy, danger, and the possibility of being destroyed by the pursuit itself. That is fiction’s version of the tribunal’s central anxiety: what if the danger is hidden among the people you are sworn to protect?\n\nSo: Torquemada’s code gave Spanish inquisitors a durable procedure, while the Imperium’s rosette turns rank into authority, access, and threat. [c15] Their shared silhouette is compelling, but the evidence here does not establish a line of direct borrowing. [c16] Next, we can follow the Spanish tribunal’s machinery, descend into the Imperium’s competing orders, or ask why the symbol of authority is sometimes kept hidden.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Tomás de Torquemada established Spanish Inquisition procedures in 1484.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The history card plainly says Torquemada established Inquisition procedures in 1484.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "In Warhammer 40,000, Inquisitors use rosettes as symbols of their authority.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The lore card describes the rosette as an Inquisitorial symbol and an icon presented to Inquisitors.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition , akin to countless others worn by the servants of the Imperium, but in reality, it is so much more. Upon their ascension to their rank, every Inquisitor is presented with an Inquisitorial Rosette. This is a small amulet or icon in the shape of a stylised column.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Torquemada’s 28-article code was based on Nicholas Eymerich’s Directorium Inquisitorum.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the 28-article code was based on Eymerich’s Directorium Inquisitorum.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Torquemada’s code remained largely unchanged for over three centuries.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly says the code remained largely unchanged for over three centuries.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The state treated heresy as treason punishable by death.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the state deemed heresy treason punishable by death.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Every Inquisitor receives a small, stylized-column rosette upon attaining rank.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says every Inquisitor is presented with a small, stylized-column rosette upon ascending to the rank.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition , akin to countless others worn by the servants of the Imperium, but in reality, it is so much more. Upon their ascension to their rank, every Inquisitor is presented with an Inquisitorial Rosette. This is a small amulet or icon in the shape of a stylised column.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Some rosettes contain data-probes that grant access to almost any Imperial cogitation network.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says many rosettes contain data-probes granting access to almost any Imperial cogitation network.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Rosette systems can bypass network security through the Inquisitor’s high authority.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card states that rosette systems can unlock networks by bypassing security gates through the Inquisitor’s high authority.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Some Inquisitors do not wear their rosettes openly.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card explicitly says not all Inquisitors bear their rosettes openly.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "An Inquisitor may reveal the rosette subtly when dealing with peers who consider themselves equals.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card describes subtler identification when addressing peers, supporting the narration’s qualified claim that an Inquisitor may reveal the rosette subtly.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "There are subtler ways of enforcing authority, however, for on occasion an Inquisitor wishes to identify himself as such, without antagonising the person they address. This is particularly the case when dealing with those who consider themselves the Inquisitor's equal, a peer of the Imperium.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The Spanish tribunal treated heresy as treason within the state, while the 40K rosette can signify authority and network access.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a stated comparison between the documented Spanish tribunal and the fictional rosette’s authority and network access.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Toward the end of third edition, new codexes introduced the Ordo Malleus and Ordo Hereticus as Inquisition forces.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card states that toward the end of third edition new codexes introduced the Ordo Malleus and Ordo Hereticus armies.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Warhammer 40,000",
+      "url": "https://en.wikipedia.org/wiki/Warhammer_40%2C000",
+      "snippet": "Towards the end of the third edition, four new army codexes were introduced: the xeno (that is, alien) races of the Necron and the T'au and two armies of the Inquisition: the Ordo Malleus (called Daemonhunters), and the Ordo Hereticus (called Witchhunters); elements of the latter two armies had appeared before in supplementary material (such as Realm of Chaos and Codex: Sisters of Battle ).",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Elements of the Ordo Malleus and Ordo Hereticus armies appeared in earlier supplementary material.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says elements of both Inquisition armies had appeared in earlier supplementary material.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Warhammer 40,000",
+      "url": "https://en.wikipedia.org/wiki/Warhammer_40%2C000",
+      "snippet": "Towards the end of the third edition, four new army codexes were introduced: the xeno (that is, alien) races of the Necron and the T'au and two armies of the Inquisition: the Ordo Malleus (called Daemonhunters), and the Ordo Hereticus (called Witchhunters); elements of the latter two armies had appeared before in supplementary material (such as Realm of Chaos and Codex: Sisters of Battle ).",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Ian Watson’s Inquisition War features Jaq Draco investigating a plot threatening humanity’s psychic future.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The novel description identifies Jaq Draco as uncovering a plot threatening humanity’s psychic future.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitor (Novel)",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitor_%28Novel%29",
+      "snippet": "Forty thousand years in the future, the Human Imperium struggles for survival against its relentless enemies. Inquisitor Jaq Draco uncovers a plot that threatens the psychic future of Mankind . Can he unravel the trail of conspiracy before he himself is destroyed by its deadly clutches? Dazzling and frenetic, Ian Watson 's Inquisition War presents a unique vision of the Warhammer 40,000 universe.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "Torquemada’s code provided durable procedures, while the rosette represents authority and access in the Imperium.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is the narrator’s synthesis linking the documented durability of Torquemada’s code with the rosette’s fictional authority and access.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "history",
+      "page_title": "Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E1",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition , akin to countless others worn by the servants of the Imperium, but in reality, it is so much more. Upon their ascension to their rank, every Inquisitor is presented with an Inquisitorial Rosette. This is a small amulet or icon in the shape of a stylised column.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     },
+     {
+      "id": "E3",
+      "pack": "warhammer40k",
+      "page_title": "Inquisitorial Rosette",
+      "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+      "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "The provided evidence does not establish that the Spanish Inquisition directly inspired the 40K Inquisition.",
+    "kind": "lore",
+    "grade": "Unsupported",
+    "note": "The narration explicitly frames the lack of evidence for direct inspiration as a limit on its comparison, rather than asserting a borrowing claim.",
+    "evidence": []
+   }
+  ],
+  "branch_options": [
+   "Inside Torquemada’s tribunal: how procedure made suspicion durable",
+   "The Imperium’s rival orders: demons, witches, and emergency",
+   "The hidden rosette: why authority sometimes stays unseen"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Torquemada’s 28-article code drew on Nicholas Eymerich’s earlier inquisitorial manual.",
+     "verdict": "fact",
+     "explanation": "The evidence says Torquemada’s code was based on Eymerich’s Directorium Inquisitorum.",
+     "evidence_ids": [
+      "E11"
+     ],
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Every Inquisitor wears a rosette openly.",
+     "verdict": "myth",
+     "explanation": "Every Inquisitor receives a rosette, but some do not wear it openly and may reveal it subtly instead.",
+     "evidence_ids": [
+      "E1",
+      "E3",
+      "E2"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition , akin to countless others worn by the servants of the Imperium, but in reality, it is so much more. Upon their ascension to their rank, every Inquisitor is presented with an Inquisitorial Rosette. This is a small amulet or icon in the shape of a stylised column.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E3",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E2",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "There are subtler ways of enforcing authority, however, for on occasion an Inquisitor wishes to identify himself as such, without antagonising the person they address. This is particularly the case when dealing with those who consider themselves the Inquisitor's equal, a peer of the Imperium.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Spanish Inquisition directly inspired Warhammer 40,000’s Inquisition.",
+     "verdict": "myth",
+     "explanation": "The chapter draws a comparison between their roles and imagery, but the evidence provided does not establish direct borrowing.",
+     "evidence_ids": [
+      "E11",
+      "E1",
+      "E3"
+     ],
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Tomás de Torquemada established Inquisition procedures in 1484, creating a 28-article code, Compilación de las instrucciones del oficio de la Santa Inquisición , based on Nicholas Eymerich's Directorium Inquisitorum . That code remained largely unchanged for over three centuries. The state deemed heresy to be treason, punishable by death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E1",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "An Inquisitorial Rosette is a symbolic icon of the members of the Inquisition , akin to countless others worn by the servants of the Imperium, but in reality, it is so much more. Upon their ascension to their rank, every Inquisitor is presented with an Inquisitorial Rosette. This is a small amulet or icon in the shape of a stylised column.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E3",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "Many rosettes contain data-probes that allow the bearer access to almost any cogitation network in the Imperium. The rosette's machine-systems are capable of unlocking any network, the Inquisitor's ultra high level authority bypassing any logic-gates put in place to keep intruders out. Despite the advantages granted by the Inquisitorial Rosette, not all Inquisitors bear it openly.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "After the chapter compares the tribunal and the rosette, which new direction does it offer for the next chapter?",
+    "options": [
+     "Follow the Spanish tribunal’s machinery",
+     "Trace the rosette’s invention in ancient Rome",
+     "Explore the psychic future threatened in Jaq Draco’s novel"
+    ],
+    "answer_index": 0,
+    "reveal_para": 7,
+    "explanation": "The chapter offers following the Spanish tribunal’s machinery as one of the next paths."
+   }
+  }
+ },
+ "branches": {
+  "Inside Torquemada’s tribunal: how procedure made suspicion durable": {
+   "index": 2,
+   "title": "Procedure, Power, and the Rosette",
+   "narration": "A denunciation enters the tribunal’s process, and the machinery begins before any public spectacle. [c1] You chose to step inside that machinery, where suspicion becomes procedure.\n\nFirst, church officials called calificadores assess whether heresy is involved. [c2] After that assessment, the accused could then be detained. [c3] The sequence matters: accusation, classification, possible custody. Each stage gives suspicion a shape, and each makes the next step easier to authorize. [c4]\n\nAn inquisition was a Catholic judicial procedure. Ecclesiastical judges could initiate, investigate, and try cases within their jurisdiction. [c5] Over time, “the Inquisition” also became a popular name for various medieval and Reformation-era state-organized tribunals targeting heresy, apostasy, blasphemy, witchcraft, and customs considered deviant. [c6] This was not simply a mob with holy language. It was a court process, and that distinction is where its power lived.\n\nThen came secrecy. Accusations could be concealed from the public and from the accused. [c7] A suspect might never learn that they had been suspected at all. [c8] Imagine the imbalance: the institution can weigh a charge while the person beneath suspicion may not know what they are meant to answer. Its silence is part of its force.\n\nBut secrecy and publicity were not opposites here. Confessions occurred publicly at autos-da-fé. [c9] In fifteen seventy-eight, legal expert Francisco Peña argued that trials and executions served the public good, and that public sentencing should educate and terrify. [c10] These ceremonies rivaled bullfights in popularity. [c11] The process could conceal an accusation, then make confession and sentence a public lesson. Suspicion entered through a narrow door; authority made the outcome visible.\n\nNow set that beside the forty-first millennium. In Warhammer forty thousand, an Inquisitor’s rosette is a powerful symbol worn on clothing or wargear. [c12] It can also be worn by those in an Inquisitor’s employ, or displayed on vehicles and armed forces used by that Inquisitor. [c13] The rosette does more than identify its bearer. It announces a frightening institutional permission.\n\nSome authority extends by association to an Inquisitor’s agents and companions. [c14] Someone claiming authority in an Inquisitor’s name, such as an Interrogator, is said to “Bear the Seal.” [c15] Here’s my read: the tribunal’s calificador and the rosette-bearing Inquisitor stand at different points in very different machines, but each makes institutional power legible. One classifies suspicion within a judicial process; the other signifies authority that can travel with a person, a vehicle, or an armed force. That is a comparison, not a line of descent.\n\nKeep the worlds distinct. The historical procedure involved ecclesiastical judges and tribunals addressing religious offenses and customs. [c16] The rosette belongs to Warhammer’s fictional universe, where authority can extend through an Inquisitor’s agents and companions. [c17] One turns denunciation into a legal process that could remain secret and later become public ceremony; the other gives authority a portable sign. [c18] They are not the same machine. But both stories ask a sharp question: when suspicion receives an office, who can challenge it?\n\nSo: the tribunal made suspicion durable through assessment, possible detention, secrecy, and public confessions and sentencing. [c19] The rosette makes authority portable, extending an Inquisitor’s reach through symbols and people who act in that Inquisitor’s name. [c20] For our next journey: another tribunal turns belief into evidence; the Emperor’s Inquisitors face their fractured records; or we follow how empires make fear official.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "After a denunciation in the Spanish Inquisition, the process included assessment for heresy and possible detention.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 explicitly places assessment for heresy and possible detention after a denunciation.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "After a denunciation, calificadores assessed whether heresy was involved.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 directly states that calificadores assessed whether heresy was involved after a denunciation.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "After assessment, the accused could be detained.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 says detention followed the assessment; the narration’s cautious “could” does not overstate that sequence.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The procedure moved from denunciation to assessment and could then lead to detention.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 supports the stated sequence from denunciation to assessment and then detention, while the narration appropriately describes custody as possible.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "An inquisition was a Catholic judicial procedure in which ecclesiastical judges could initiate, investigate, and try cases within their jurisdiction.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 plainly describes an inquisition as a Catholic judicial procedure with ecclesiastical judges who could initiate, investigate, and try cases in their jurisdiction.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Inquisition",
+       "snippet": "An inquisition was a Catholic judicial procedure in which ecclesiastical judges could initiate, investigate and try cases in their jurisdiction. Popularly, the Inquisition became the name for various medieval and Reformation -era state-organized tribunals whose aim was to combat heresy , apostasy , blasphemy , witchcraft , and customs considered to be deviant , using this judicial procedure.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Inquisition became a popular name for medieval and Reformation-era state-organized tribunals targeting heresy, apostasy, blasphemy, witchcraft, and customs considered deviant.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 explicitly describes the popular use of “the Inquisition” for medieval and Reformation-era state-organized tribunals targeting the listed offenses and customs.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Inquisition",
+       "snippet": "An inquisition was a Catholic judicial procedure in which ecclesiastical judges could initiate, investigate and try cases in their jurisdiction. Popularly, the Inquisition became the name for various medieval and Reformation -era state-organized tribunals whose aim was to combat heresy , apostasy , blasphemy , witchcraft , and customs considered to be deviant , using this judicial procedure.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Accusations could be concealed from the public and the accused.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 says accusations were concealed from both the public and the accused.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "A suspect might never learn that they had been suspected.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 explicitly says a person accused might never learn that they had been suspected.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Confessions occurred publicly at autos-da-fé.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E14 states that confessions occurred publicly at autos-da-fé.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "In 1578, Francisco Peña argued that trials and executions served public good and that public sentencing should educate and terrify.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E14 directly attributes to Francisco Peña in 1578 the argument that trials and executions served the public good and public sentencing should educate and terrify.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Autos-da-fé ceremonies rivaled bullfights in popularity.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "E14 makes the popularity comparison, but it is a single unsupported-in-context sentence, so the sourcing is thin.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "In Warhammer 40,000, an Inquisitor’s rosette is a powerful symbol worn on clothing or wargear.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E16 states that the rosette is a powerful Inquisition symbol worn on an Inquisitor’s clothing or wargear.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The rosette can be worn by an Inquisitor’s employees or displayed on vehicles and armed forces used by that Inquisitor.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E16 states that the rosette may be worn by employees or displayed on vehicles and armed forces used by the Inquisitor.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "A degree of authority passes by association to an Inquisitor’s agents and companions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E15 plainly says a degree of authority passes by association to an Inquisitor’s agents and companions.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "In addition to the power the rosette grants to the Inquisitor bearing it, a degree of authority is passed on to the Inquisitor's agents and companions, by way of association. One who claims authority in the name of an Inquisitor, such as an Interrogator, is said to \"Bear the Seal\".",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "An Interrogator claiming authority in an Inquisitor’s name is said to Bear the Seal.",
+     "kind": "lore",
+     "grade": "Conflicting",
+     "note": "E15 says an Interrogator is “said to” Bear the Seal, marking this as a qualified or multiply-told lore claim rather than an unqualified canon-status fact.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "In addition to the power the rosette grants to the Inquisitor bearing it, a degree of authority is passed on to the Inquisitor's agents and companions, by way of association. One who claims authority in the name of an Inquisitor, such as an Interrogator, is said to \"Bear the Seal\".",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The historical inquisition was a judicial procedure involving ecclesiastical judges and tribunals addressing specified offenses and customs.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E17 supports the described judicial procedure, ecclesiastical judges, and the tribunal’s specified targets.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Inquisition",
+       "snippet": "An inquisition was a Catholic judicial procedure in which ecclesiastical judges could initiate, investigate and try cases in their jurisdiction. Popularly, the Inquisition became the name for various medieval and Reformation -era state-organized tribunals whose aim was to combat heresy , apostasy , blasphemy , witchcraft , and customs considered to be deviant , using this judicial procedure.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The rosette is a fictional Warhammer 40,000 symbol whose associated authority can extend to agents and companions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E15 and E16 identify the rosette and its associated authority as elements of Warhammer 40,000 lore.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "In addition to the power the rosette grants to the Inquisitor bearing it, a degree of authority is passed on to the Inquisitor's agents and companions, by way of association. One who claims authority in the name of an Inquisitor, such as an Interrogator, is said to \"Bear the Seal\".",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "The historical tribunal’s procedure and the fictional rosette represent distinct forms of institutional power.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is an explicitly framed comparison between the distinct institutional powers described by the history and lore cards.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "In addition to the power the rosette grants to the Inquisitor bearing it, a degree of authority is passed on to the Inquisitor's agents and companions, by way of association. One who claims authority in the name of an Inquisitor, such as an Interrogator, is said to \"Bear the Seal\".",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The tribunal’s procedure involved assessment, possible detention, secrecy, and public confessions and sentencing.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 supports assessment, possible detention, and secrecy, while E14 supports public confessions and sentencing.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "The rosette symbolizes authority that may extend to people acting for an Inquisitor.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E15 and E16 support the rosette as a sign of authority associated with an Inquisitor and extending by association to agents and companions.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "In addition to the power the rosette grants to the Inquisitor bearing it, a degree of authority is passed on to the Inquisitor's agents and companions, by way of association. One who claims authority in the name of an Inquisitor, such as an Interrogator, is said to \"Bear the Seal\".",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E16",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Another tribunal turns belief into evidence",
+    "The Emperor’s Inquisitors face their fractured records",
+    "How empires make fear official"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "After a denunciation, calificadores assessed whether heresy was involved before the accused could be detained.",
+      "verdict": "fact",
+      "explanation": "The documented sequence was assessment for heresy, followed by possible detention. The process also maintained secrecy around accusations.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "history",
+        "page_title": "Spanish Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+        "snippet": "After a denunciation, calificadores assessed whether heresy was involved, followed by the accused's detention. Apologist William Thomas Walsh noted that the process maintained strict secrecy, concealing accusations from both the public and the accused, who might never learn that that they had been suspected.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Autos-da-fé ceremonies rivaled bullfights in popularity.",
+      "verdict": "debated",
+      "explanation": "The source reports that they rivaled bullfights, but the chapter grades this popularity claim as debated rather than settled.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "history",
+        "page_title": "Spanish Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+        "snippet": "Confessions occurred publicly at autos-da-fé . Legal expert Francisco Peña stated in 1578 that trials and executions aimed to ensure public good and instill fear, requiring public sentencing \"for education and to terrify\". These ceremonies rivaled bullfights in popularity.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "An Inquisitor’s rosette could be displayed on vehicles and used by the Inquisitor’s armed forces.",
+      "verdict": "fact",
+      "explanation": "In Warhammer 40,000 lore, the rosette may be displayed on vehicles or by armed forces used by an Inquisitor.",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "warhammer40k",
+        "page_title": "Inquisitorial Rosette",
+        "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+        "snippet": "This powerful symbol of the Inquisition is worn on an Inquisitor's clothing or wargear. The rosette can be worn by those in an Inquisitor's employ and can also be displayed on vehicles or by the armed forces being used by the Inquisitor.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After accusations could be kept secret, where did confessions take place?",
+     "options": [
+      "At public autos-da-fé",
+      "In private hearings before the accused",
+      "At bullfights"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "Confessions occurred publicly at autos-da-fé."
+    }
+   }
+  },
+  "The Imperium’s rival orders: demons, witches, and emergency": {
+   "index": 2,
+   "title": "One Seal, Many Orders",
+   "narration": "We chose the branch where the Imperium’s rival orders split the work: heresy on one side, the terror of Chaos on the other. And we return to our question: how does suspicion become a system?\n\nStart with a seal. In fourteen seventy-eight, Pope Sixtus the Fourth authorized the Tribunal of the Holy Office of the Inquisition. [c1] Two years later, the first inquisitors, Miguel de Morillo and Juan de San Martín, were appointed by Ferdinand of Aragon and Isabella of Castile. [c2] The machinery had a shape before Torquemada became its most famous face.\n\nThen comes the question of who gets to turn suspicion into procedure. The papal bull gave the sovereigns full powers to name inquisitors, while Rome kept the formal appointment. [c3] That arrangement is a hinge: authority travels through more than one hand, but the crown has a commanding role in choosing who carries it. Torquemada, a Dominican friar, became the Spanish Inquisition’s first Grand Inquisitor. [c4] He led ecclesiastical prelates created to uphold Catholic orthodoxy across the union of Castile and Aragon. [c5]\n\nNotice the design. This is not suspicion as a private hunch, whispered in a corridor and forgotten by morning. It has offices, appointments, a stated purpose, and a chain of authority. The system makes a judgment repeatable. That is its power, and its danger: a suspicion can outlive the person who first voiced it.\n\nNow cross into the Imperium, where the word “Inquisition” opens not one door but several. The Ordo Hereticus is one of the three major Ordos within the Emperor’s Inquisition. [c6] Its remit is to guard humanity from internal threats, including treason, mutation, heresy, apostate members of the Ecclesiarchy, and unsanctioned psykers called witches. [c7] That is a list with a frighteningly wide perimeter. It can make an enemy out of a traitor, a religious dissenter, or someone whose powers are uncontrolled.\n\nThe Ordo Malleus gives the darkness another jurisdiction. It works to conceal the existence of Chaos and its mortal and daemonic servants from the wider population. [c8] Its stated fear is that knowledge itself could draw more people into the corruption of the Dark Gods. [c9] The grim little loop is obvious: hide the danger to prevent its spread, but the act of hiding it gives the secret keepers still more power.\n\nHere is my read: Torquemada’s tribunal and an Imperial rosette are two different answers to the same nightmare. The Spanish tribunal’s authority is tied to appointments, crowns, Rome, and an organized ecclesiastical body. The fictional Ordos divide danger into specialized categories, while the image of an individual Inquisitor suggests authority carried in one person’s hand. That contrast is an interpretation, not a family tree. The useful parallel is not that one directly descended from the other. It is that both make fear legible to institutions.\n\nAnd that is the trick. Suspicion begins as a question about a person: What do they believe? What are they hiding? A system turns that question into categories, offices, and powers of action. The Spanish Inquisition’s founding authority and appointments are part of the history we can name. The Ordos are the grim fictional version, splitting threats into departments while keeping the public in the dark.\n\nSo: a seal makes authority official, and an office gives suspicion a routine. A rosette, in the Imperium’s fiction, turns that routine into the terrifying possibility of personal reach. What should we follow next: the crown and the tribunal, the Ordos’ hidden war, or another empire’s machinery of belief?\n\nFor the next episode, choose: “Ferdinand’s crown and the tribunal’s chain of command.” “The Ordo Malleus and the cost of hiding Chaos.” “When empires make belief a matter of state.”",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Pope Sixtus IV authorized the Tribunal of the Holy Office of the Inquisition in 1478.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Spanish Inquisition card states that Pope Sixtus IV authorized the Tribunal in 1478.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "The Tribunal of the Holy Office of the Inquisition ( Spanish : Tribunal del Santo Oficio de la Inquisición ) was authorized by Pope Sixtus IV in 1478 and the first inquisitors, Miguel de Morillo and Juan de San Martín, were appointed by the future Catholic Monarchs , King Ferdinand II of Aragon and Queen Isabella I of Castile , in 1480.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Miguel de Morillo and Juan de San Martín were appointed as the first inquisitors in 1480 by Ferdinand and Isabella.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card names Miguel de Morillo and Juan de San Martín as the first inquisitors appointed in 1480 by Ferdinand and Isabella.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "The Tribunal of the Holy Office of the Inquisition ( Spanish : Tribunal del Santo Oficio de la Inquisición ) was authorized by Pope Sixtus IV in 1478 and the first inquisitors, Miguel de Morillo and Juan de San Martín, were appointed by the future Catholic Monarchs , King Ferdinand II of Aragon and Queen Isabella I of Castile , in 1480.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The papal bull gave the sovereigns full powers to name inquisitors, while Rome retained formal appointment.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Torquemada card says the sovereigns had full powers to name inquisitors while Rome retained formal appointment.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Tomás de Torquemada",
+       "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Torquemada",
+       "snippet": "The papal bull gave the sovereigns full powers to name inquisitors. Rome retained the right to formally appoint the royal nominees. Henry Charles Lea observed that the Spanish Inquisition in both Castile and Aragon remained firmly under Ferdinand's direction throughout the joint reign.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Torquemada was a Dominican friar and the Spanish Inquisition’s first Grand Inquisitor.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies Torquemada as a Dominican friar and the Spanish Inquisition’s first Grand Inquisitor.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "history",
+       "page_title": "Tomás de Torquemada",
+       "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Torquemada",
+       "snippet": "Tomás de Torquemada OP (14 October 1420 – 16 September 1498), anglicized as Thomas of Torquemada , was a Spanish Dominican friar and the first Grand Inquisitor of the Spanish Inquisition . In that role, he led a group of ecclesiastical prelates created in 1478 to uphold Catholic religious orthodoxy within the newly formed union of the crowns of Castile and Aragon , presently known as the Kingdom …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Torquemada led ecclesiastical prelates created to uphold Catholic orthodoxy across the union of Castile and Aragon.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Torquemada led ecclesiastical prelates created to uphold Catholic orthodoxy within the union of Castile and Aragon.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "history",
+       "page_title": "Tomás de Torquemada",
+       "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Torquemada",
+       "snippet": "Tomás de Torquemada OP (14 October 1420 – 16 September 1498), anglicized as Thomas of Torquemada , was a Spanish Dominican friar and the first Grand Inquisitor of the Spanish Inquisition . In that role, he led a group of ecclesiastical prelates created in 1478 to uphold Catholic religious orthodoxy within the newly formed union of the crowns of Castile and Aragon , presently known as the Kingdom …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Ordo Hereticus is one of the three Ordos Majoris in the Emperor’s Inquisition.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Ordo Hereticus card identifies it as one of the three Ordos Majoris of the Emperor’s Inquisition.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "warhammer40k",
+       "page_title": "Ordo Hereticus",
+       "url": "https://warhammer40k.fandom.com/wiki/Ordo_Hereticus",
+       "snippet": "The Ordo Hereticus is one of the three Ordos Majoris of the secretive organisation known as the Holy Ordos of the Emperor's Inquisition . They are tasked with protecting Mankind from itself, by combatting such internal threats to the Imperium as treason, mutation , heresy , apostate members of the Ecclesiarchy and Unsanctioned Psykers , colloquially known as \" witches \" across much of the …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Ordo Hereticus confronts internal threats including treason, mutation, heresy, apostate Ecclesiarchy members, and unsanctioned psykers known as witches.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card lists these internal threats as part of the Ordo Hereticus’s remit, including unsanctioned psykers colloquially called witches.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "warhammer40k",
+       "page_title": "Ordo Hereticus",
+       "url": "https://warhammer40k.fandom.com/wiki/Ordo_Hereticus",
+       "snippet": "The Ordo Hereticus is one of the three Ordos Majoris of the secretive organisation known as the Holy Ordos of the Emperor's Inquisition . They are tasked with protecting Mankind from itself, by combatting such internal threats to the Imperium as treason, mutation , heresy , apostate members of the Ecclesiarchy and Unsanctioned Psykers , colloquially known as \" witches \" across much of the …",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Ordo Malleus seeks to hide Chaos and its mortal and daemonic servants from the wider population.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Ordo Malleus card says it hides Chaos and its mortal and daemonic servants from the wider population.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "warhammer40k",
+       "page_title": "Ordo Malleus",
+       "url": "https://warhammer40k.fandom.com/wiki/Ordo_Malleus",
+       "snippet": "The Ordo Malleus goes to great lengths to hide the existence of Chaos and its mortal and Daemonic servants from the greater masses of Mankind as they fear such knowledge might only increase the number of individuals who fall prey to the corruption of the Dark Gods .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Ordo Malleus fears that knowledge of Chaos could increase the number of people corrupted by the Dark Gods.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card explicitly gives fear of increased corruption by the Dark Gods as the reason for concealing knowledge of Chaos.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "warhammer40k",
+       "page_title": "Ordo Malleus",
+       "url": "https://warhammer40k.fandom.com/wiki/Ordo_Malleus",
+       "snippet": "The Ordo Malleus goes to great lengths to hide the existence of Chaos and its mortal and Daemonic servants from the greater masses of Mankind as they fear such knowledge might only increase the number of individuals who fall prey to the corruption of the Dark Gods .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Ferdinand’s crown and the tribunal’s chain of command",
+    "The Ordo Malleus and the cost of hiding Chaos",
+    "When empires make belief a matter of state"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Pope Sixtus IV authorized the Tribunal of the Holy Office of the Inquisition in 1478.",
+      "verdict": "fact",
+      "explanation": "The evidence states that Sixtus IV authorized the tribunal in 1478.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "history",
+        "page_title": "Spanish Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+        "snippet": "The Tribunal of the Holy Office of the Inquisition ( Spanish : Tribunal del Santo Oficio de la Inquisición ) was authorized by Pope Sixtus IV in 1478 and the first inquisitors, Miguel de Morillo and Juan de San Martín, were appointed by the future Catholic Monarchs , King Ferdinand II of Aragon and Queen Isabella I of Castile , in 1480.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Spanish Inquisition’s first inquisitors were appointed by Rome in 1480.",
+      "verdict": "myth",
+      "explanation": "Miguel de Morillo and Juan de San Martín were appointed by Ferdinand and Isabella; Rome formally appointed the royal nominees.",
+      "evidence_ids": [
+       "E29",
+       "E31"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "history",
+        "page_title": "Spanish Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+        "snippet": "The Tribunal of the Holy Office of the Inquisition ( Spanish : Tribunal del Santo Oficio de la Inquisición ) was authorized by Pope Sixtus IV in 1478 and the first inquisitors, Miguel de Morillo and Juan de San Martín, were appointed by the future Catholic Monarchs , King Ferdinand II of Aragon and Queen Isabella I of Castile , in 1480.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E31",
+        "pack": "history",
+        "page_title": "Tomás de Torquemada",
+        "url": "https://en.wikipedia.org/wiki/Tom%C3%A1s_de_Torquemada",
+        "snippet": "The papal bull gave the sovereigns full powers to name inquisitors. Rome retained the right to formally appoint the royal nominees. Henry Charles Lea observed that the Spanish Inquisition in both Castile and Aragon remained firmly under Ferdinand's direction throughout the joint reign.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Ordo Malleus hides Chaos because it fears knowledge could lead more people into corruption.",
+      "verdict": "fact",
+      "explanation": "The lore says the Ordo Malleus conceals Chaos and its servants because it fears that knowledge could increase the number corrupted by the Dark Gods.",
+      "evidence_ids": [
+       "E38"
+      ],
+      "evidence": [
+       {
+        "id": "E38",
+        "pack": "warhammer40k",
+        "page_title": "Ordo Malleus",
+        "url": "https://warhammer40k.fandom.com/wiki/Ordo_Malleus",
+        "snippet": "The Ordo Malleus goes to great lengths to hide the existence of Chaos and its mortal and Daemonic servants from the greater masses of Mankind as they fear such knowledge might only increase the number of individuals who fall prey to the corruption of the Dark Gods .",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter says the Ordo Hereticus has a broad remit. Which threat is included in its list?",
+     "options": [
+      "Unsanctioned psykers called witches",
+      "Only daemonic servants of Chaos",
+      "Rival Imperial military commanders"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "The Ordo Hereticus is tasked with confronting internal threats that include unsanctioned psykers, called witches."
+    }
+   }
+  },
+  "The hidden rosette: why authority sometimes stays unseen": {
+   "index": 2,
+   "title": "Authority Behind the Veil",
+   "narration": "A tribunal can make suspicion visible. A rosette can make authority visible—or let it travel unseen. You chose the hidden rosette, so let’s follow the power that does not always announce itself. [c1]\n\nBy fifteen thirty, Spanish Inquisition tribunals required towns to keep genealogy registers. [c2] Those records classified married men and their families as Old Christians or conversos, and marked them “pure” or “impure.” [c3] If someone lacked proof of pure lineage, or was suspected of lying, investigations and trials could follow. [c4]\n\nThat is suspicion given a filing system. A label enters a register; the register makes a person legible to an institution; and the institution can investigate. [c5] The record does not merely describe a community. It helps decide who must answer questions. [c6]\n\nNow look at the rosette. In the forty-first millennium, an Interrogator promoted to full Inquisitor receives one. [c7] It is a mark of rank, and the bearer’s proof of ultimate authority in the Emperor’s name. [c8] The symbol says, in effect: this person is not merely making a demand. An institution stands behind it. [c9]\n\nBut the rosette’s power is not limited to display. An Inquisitor may grant an Acolyte the right to wield it in the Inquisitor’s name. [c10] For much of an Acolyte’s work, the Acolyte may never identify themself as part of the Inquisition; even disclosure usually comes at the master’s direction. [c11]\n\nHere’s the hinge: the tribunal’s authority becomes legible through registers and procedure, while the Inquisitor’s authority can be carried by a delegated symbol—and withheld from view. [c12] If you ask me, the Spanish tribunal is a machine for making suspicion public to the institution, while the rosette is a portable seal that can make an unseen agent’s power suddenly real. That comparison is an interpretation, not a family tree. [c13]\n\nAnd the fictional institution has its own argument over authority. One account says the first two Inquisitors made themselves known to Terra’s High Lords with backing from surviving Loyalist primarchs, including Roboute Guilliman, then Imperial Regent and Lord Commander. [c14] They began recruiting like-minded adepts and warriors there. [c15] Even inside the Inquisition, certainty fractures: an Ordo Malleus member might call a colleague Radical for using forbidden Chaos lore, while others judge that same member dangerous merely for consulting a blasphemous text. [c16]\n\nSo the rosette does not settle every dispute. It identifies authority, but it cannot make every Inquisitor agree on what authority should permit. [c17] That tension belongs to the fiction’s design; the registers and tribunal procedures belong to documented history. These are two different kinds of evidence, and the resemblance is a useful comparison, not proof that one institution descended from the other. [c18]\n\nReturn to the opening contrast. A tribunal systematizes suspicion with classifications, records, investigations, and trials. [c19] A lone Inquisitor—or an Acolyte carrying delegated authority—can remain unseen until the rosette appears. [c20] One power works through a public paper trail; the other can wait in the shadow, wearing its authority only when the moment demands it. [c21]\n\nThat is the payoff: institutions make power recognizable, but they do not make it look the same. [c22] One chapter belongs to the history of tribunals; the other belongs to the imagined machinery of the forty-first millennium. [c23]\n\nFor our next journey, we could follow “The machinery of suspicion: how records shape lives,” “The rosette and the hidden agent,” or “When Inquisitors accuse one another.” [c24]",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The tribunal and the rosette represent contrasting ways authority can become visible or remain unseen.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a stated comparison of what the tribunal and rosette signify, rather than a factual claim that either source establishes.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "By 1530, Inquisition tribunals required towns to maintain genealogy registers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E23 plainly says that by 1530 Inquisition tribunals required towns to maintain genealogy registers.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The registers classified families as Old Christians or conversos and labeled lineage pure or impure.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E23 states that the registers classified married men and their families as Old Christians or conversos and marked them pure or impure.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Lack of proof of pure lineage or suspicion of lying could lead to investigations and trials.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E23 states that investigations and trials followed when people lacked proof of pure lineage or faced suspicion of lying.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The register system made suspicion administratively legible to the institution.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E23 documents the registers and resulting investigations, while the description of suspicion becoming administratively legible is the narrator’s interpretation.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The records could determine who faced questions from the institution.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E23 supports investigations following the records, but the claim that records determined who faced questions is an interpretive gloss.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "An Interrogator promoted to full Inquisitor receives an Inquisitorial Rosette.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E25 directly states that an Interrogator promoted to full Inquisitor is presented with an Inquisitorial Rosette.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The rosette is a mark of rank and incontrovertible evidence of authority in the Emperor’s name.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E25 describes the rosette as a mark of rank and incontrovertible evidence of the bearer’s authority in the Emperor’s name.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The rosette signals institutional authority behind its bearer.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "E25 supports the bearer’s authority and E24 supports delegated use, while the institution-standing-behind-the-bearer phrasing is a paraphrased interpretation.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "An Inquisitor may grant an Acolyte the right to wield the rosette in the Inquisitor’s name.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E24 directly says an Inquisitor may grant an Acolyte the right to wield the rosette in the Inquisitor’s name.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "An Acolyte may work without identifying as an Inquisition member, and disclosure is usually at the master’s behest.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E24 states that Acolytes often do not identify as Inquisition members and that disclosure is usually at the master’s behest.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Tribunals made authority legible through records and procedure, while the rosette can carry delegated authority unseen.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The contrast between documented tribunal procedure and delegated, concealable rosette authority is an interpretive comparison supported on each side by its own evidence.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The comparison between the tribunal and rosette is an interpretation, not evidence of direct lineage.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The narration explicitly presents the comparison as interpretation and disclaims a claim of historical descent.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The first two Inquisitors revealed themselves to Terra’s High Lords with backing from surviving Loyalist primarchs, including Roboute Guilliman, Imperial Regent and Lord Commander.",
+     "kind": "lore",
+     "grade": "Conflicting",
+     "note": "E26 reports this as one account, so the narrated hedge is appropriate and the event’s canon status is not presented as settled across accounts.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Inquisition",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+       "snippet": "With the backing of the surviving Loyalist primarchs, including the new Imperial Regent and Lord Commander of the Imperium Roboute Guilliman , the two first Inquisitors made themselves known to the High Lords of Terra and began to recruit like-minded individuals from amongst the adepts and warriors on Terra.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The first two Inquisitors began recruiting like-minded adepts and warriors on Terra.",
+     "kind": "lore",
+     "grade": "Conflicting",
+     "note": "E26 reports the recruitment as part of the same account of the first Inquisitors, rather than establishing an unqualified canon fact.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "warhammer40k",
+       "page_title": "Inquisition",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+       "snippet": "With the backing of the surviving Loyalist primarchs, including the new Imperial Regent and Lord Commander of the Imperium Roboute Guilliman , the two first Inquisitors made themselves known to the High Lords of Terra and began to recruit like-minded individuals from amongst the adepts and warriors on Terra.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Ordo Malleus members can disagree over what constitutes dangerous use or study of Chaos lore.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E27 directly describes Ordo Malleus members disagreeing over what conduct involving Chaos lore is dangerous.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Inquisition",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+       "snippet": "A member of the Ordo Malleus might be quick to decry a colleague as Radical for using forbidden Chaos lore to bind a Daemon to their will, little recognising that others of their ordo consider them just as dangerous for daring to consult a tome of blasphemous lore, even though they have no intention of employing the knowledge contained within.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The rosette does not resolve disagreements among Inquisitors about acceptable conduct.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "E27 establishes disagreement, while the claim that the rosette cannot settle it is the narrator’s inference.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Inquisition",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+       "snippet": "A member of the Ordo Malleus might be quick to decry a colleague as Radical for using forbidden Chaos lore to bind a Daemon to their will, little recognising that others of their ordo consider them just as dangerous for daring to consult a tome of blasphemous lore, even though they have no intention of employing the knowledge contained within.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "The tribunal procedures are historical, while the Inquisitorial rosette and its fictional institutions belong to lore; their resemblance does not establish descent.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The narration distinguishes documented history from fictional lore and explicitly treats their resemblance as comparison rather than descent.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The Spanish Inquisition used classifications, records, investigations, and trials to systematize suspicion.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E23 plainly documents classifications, genealogy records, investigations, and trials in the Spanish Inquisition.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "An Inquisitor or delegated Acolyte may remain unidentified until revealing the rosette.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "E24 says Acolytes may work without identifying as Inquisition members until disclosure at a master’s behest, and E25 establishes the rosette’s authority for a bearer.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c21",
+     "text": "The comparison contrasts a paper trail with potentially concealed authority.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The paper-trail versus concealed-authority contrast is a metaphorical comparison drawn from the history and lore evidence.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c22",
+     "text": "Institutions can make authority recognizable in different ways.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a broad interpretive takeaway about how institutions display power, not a claim established as a general fact by these cards.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c23",
+     "text": "Tribunal procedures are part of documented history, while the forty-first-millennium Inquisition is fictional lore.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This framing accurately separates the historical tribunal evidence from fictional Inquisition lore, but it is narration about the comparison rather than a distinct factual claim.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E25",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c24",
+     "text": "The listed next-episode ideas concern records, hidden agents, and disagreement among Inquisitors.",
+     "kind": "lore",
+     "grade": "Interpretation",
+     "note": "These are proposed episode topics derived from the evidence, not factual claims about the history or lore.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "Spanish Inquisition",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+       "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "warhammer40k",
+       "page_title": "Inquisitorial Rosette",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+       "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Inquisition",
+       "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+       "snippet": "A member of the Ordo Malleus might be quick to decry a colleague as Radical for using forbidden Chaos lore to bind a Daemon to their will, little recognising that others of their ordo consider them just as dangerous for daring to consult a tome of blasphemous lore, even though they have no intention of employing the knowledge contained within.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The machinery of suspicion: how records shape lives",
+    "The rosette and the hidden agent",
+    "When Inquisitors accuse one another"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "By 1530, Spanish Inquisition tribunals required towns to maintain genealogy registers.",
+      "verdict": "fact",
+      "explanation": "The registers classified families as Old Christians or conversos and marked lineage as pure or impure. Lack of proof of pure lineage or suspicion of lying could lead to investigations and trials.",
+      "evidence_ids": [
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "history",
+        "page_title": "Spanish Inquisition",
+        "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+        "snippet": "By 1530, Inquisition tribunals required towns to maintain genealogy registers, labeling married men and their families as Old Christians or conversos, marking them as \"pure\" or \"impure.\" Investigations and trials followed if individuals lacked proof of pure lineage or faced suspicion of lying.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "An Acolyte may wield an Inquisitorial Rosette in the Inquisitor’s name without identifying as part of the Inquisition.",
+      "verdict": "fact",
+      "explanation": "An Inquisitor may grant an Acolyte the right to wield the rosette, and the Acolyte may work without identifying as an Inquisition member; disclosure is usually at the master’s behest.",
+      "evidence_ids": [
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "warhammer40k",
+        "page_title": "Inquisitorial Rosette",
+        "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+        "snippet": "The greatest gift an Inquisitor can grant an Acolyte is the right to wield the Inquisitorial Rosette in his name. For much of an Acolyte's work he will never identify himself as a member of the Inquisition and even when he does, it is usually at the behest of his master.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "The rosette’s authority means Inquisitors agree on what conduct is acceptable.",
+      "verdict": "myth",
+      "explanation": "The rosette marks rank and authority, but Ordo Malleus members can disagree about what counts as dangerous use or study of Chaos lore.",
+      "evidence_ids": [
+       "E25",
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "warhammer40k",
+        "page_title": "Inquisitorial Rosette",
+        "url": "https://warhammer40k.fandom.com/wiki/Inquisitorial_Rosette",
+        "snippet": "When an Interrogator (an Inquisitor's Acolyte) is promoted to the full rank of Inquisitor, he is presented with an Inquisitorial Rosette. A mark of rank, this symbol is incontrovertible evidence that the bearer wields ultimate authority, and they do so in the name of the Emperor.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E27",
+        "pack": "warhammer40k",
+        "page_title": "Inquisition",
+        "url": "https://warhammer40k.fandom.com/wiki/Inquisition",
+        "snippet": "A member of the Ordo Malleus might be quick to decry a colleague as Radical for using forbidden Chaos lore to bind a Daemon to their will, little recognising that others of their ordo consider them just as dangerous for daring to consult a tome of blasphemous lore, even though they have no intention of employing the knowledge contained within.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "An Acolyte is given the right to wield an Inquisitor’s rosette. How might the Acolyte work for much of the time?",
+     "options": [
+      "By openly identifying as an Inquisition member",
+      "Without identifying as an Inquisition member",
+      "Only while serving on Terra"
+     ],
+     "answer_index": 1,
+     "reveal_para": 4,
+     "explanation": "An Acolyte may work without identifying as part of the Inquisition, and disclosure is usually at the master’s direction."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Horus Rising",
+   "author": "Dan Abnett",
+   "year": 2006,
+   "why": "Its portrayal of Imperial authority and the early Imperium offers a compelling fictional companion to the episode’s focus on power, office, and institutional control.",
+   "url": "https://openlibrary.org/works/OL5843391W"
+  },
+  {
+   "title": "History of the Society of Jesus in North America",
+   "author": "Thomas Hughes",
+   "year": 1907,
+   "why": "For a historical counterpart to the episode’s religious institutions and their authority, this offers a period study of the Jesuits in North America.",
+   "url": "https://openlibrary.org/works/OL15699375W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8304,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 532,
+   "output_tokens": 1233,
+   "cost_usd": 0.00080608
+  },
+  {
+   "agent": "researcher",
+   "requests": 12,
+   "input_tokens": 37019,
+   "cached_tokens": 26620,
+   "cache_write_tokens": 8887,
+   "output_tokens": 1662,
+   "cost_usd": 0.00235928
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 21462,
+   "cached_tokens": 15835,
+   "cache_write_tokens": 4997,
+   "output_tokens": 8278,
+   "cost_usd": 0.00498497
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 22459,
+   "cached_tokens": 11425,
+   "cache_write_tokens": 10404,
+   "output_tokens": 4354,
+   "cost_usd": 0.00365475
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1680,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 230,
+   "output_tokens": 225,
+   "cost_usd": 0.00016709
+  }
+ ],
+ "build_cost_usd": 0.011972,
+ "build_seconds": 83.7
+}

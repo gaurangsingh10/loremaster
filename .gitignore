@@ -1,0 +1,24 @@
+# secrets: never commit
+.env
+.env.*
+!.env.example
+
+# environments & builds
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend/dist/
+
+# local runtime data
+data/loremaster.db
+data/audio/
+output/user_tests/responses/
+*.log
+.DS_Store
+*.tsbuildinfo
+models/
+
+# demo video (upload to Canvas; too big for git)
+output/demo/

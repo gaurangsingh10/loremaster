@@ -1,0 +1,57 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Loremaster · blind lore check</title>
+<style>
+body{margin:0;background:#0b1020;color:#e9e4d8;font-family:-apple-system,Segoe UI,Inter,sans-serif}
+.wrap{max-width:760px;margin:auto;padding:28px 18px 60px}
+.brand{font-family:Georgia,serif;letter-spacing:.14em;color:#f0cf7e;text-transform:uppercase;font-size:14px}
+h1{font-family:Georgia,serif;color:#f0cf7e;font-weight:600;margin:.2em 0 .3em;font-size:30px}
+p{line-height:1.55} .muted{color:#9aa3b8;font-size:14px}
+.card{background:linear-gradient(170deg,#efe3c8,#e4d4b0);color:#2b2218;border-radius:14px;padding:16px 18px;margin:14px 0;box-shadow:0 6px 20px rgba(0,0,0,.35)}
+.card p{font-family:Georgia,serif;font-size:19px;margin:0 0 12px} .num{color:#8a5a10;font-weight:700;margin-right:6px}
+.opts{display:flex;flex-wrap:wrap;gap:8px} .opts label{border:1.5px solid #a8916a;border-radius:999px;padding:7px 13px;cursor:pointer;font-size:14px;user-select:none}
+.opts input{display:none} .opts input:checked+span{font-weight:700} .opts label:has(input:checked){background:#3a2a12;color:#f0cf7e;border-color:#3a2a12}
+input[type=text]{background:#121a30;border:1px solid rgba(212,166,74,.4);color:#e9e4d8;border-radius:10px;padding:10px 12px;font-size:15px;width:100%;max-width:340px;box-sizing:border-box}
+button{background:#d4a64a;color:#0b1020;border:0;border-radius:12px;padding:14px 20px;font-weight:700;font-size:16px;cursor:pointer}
+.progress{position:sticky;top:0;background:#0b1020;padding:8px 0;color:#9aa3b8;font-size:13px;z-index:2}
+#ok{color:#7fb77e;font-weight:600;margin-left:10px}
+</style></head><body><div class="wrap">
+<div class="brand">✦ Loremaster</div>
+<h1>Lore check: true or not?</h1>
+<p>Thanks for helping! Below are <b>10 claims</b> about <b>The Horus Heresy: A Tragedy in Betrayals</b>. Some were written by one AI system and some by another. Judge each one from <i>your own knowledge</i>, with no Googling. It takes about 5 minutes.</p>
+<p class="muted">Not sure? Pick “Not sure”, which is a useful answer too. “Fan theory / interpretation” means it's an opinion or a popular theory, not established lore.</p>
+<p>Your name or alias<br><input type="text" id="tester" placeholder="e.g. Sam, 40K fan since 3rd ed."></p>
+<p>Optional: how many minutes would it take you to <i>check</i> five of these online?<br><input type="text" id="google" placeholder="minutes"></p>
+<div class="progress" id="prog">0 of 10 answered</div>
+<div class="card"><p><span class="num">1.</span>At Isstvan V, forces that appeared loyal revealed their treachery and ambushed loyalists.</p><div class="opts"><label><input type="radio" name="hor1" value="True"><span>True</span></label><label><input type="radio" name="hor1" value="False"><span>False</span></label><label><input type="radio" name="hor1" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor1" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">2.</span>After the Heresy, the Imperium endured under the Emperor’s incapacitated presence and became shaped by fear and ritual.</p><div class="opts"><label><input type="radio" name="hor2" value="True"><span>True</span></label><label><input type="radio" name="hor2" value="False"><span>False</span></label><label><input type="radio" name="hor2" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor2" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">3.</span>The Horus Heresy officially began with the Isstvan III Atrocity while Horus&#x27;s duplicity remained unrevealed.</p><div class="opts"><label><input type="radio" name="hor3" value="True"><span>True</span></label><label><input type="radio" name="hor3" value="False"><span>False</span></label><label><input type="radio" name="hor3" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor3" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">4.</span>The campaign targets loyalists within Horus’s legion and three allied Traitor Legions.</p><div class="opts"><label><input type="radio" name="hor4" value="True"><span>True</span></label><label><input type="radio" name="hor4" value="False"><span>False</span></label><label><input type="radio" name="hor4" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor4" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">5.</span>Morturg became a commander of the Loyalist resistance.</p><div class="opts"><label><input type="radio" name="hor5" value="True"><span>True</span></label><label><input type="radio" name="hor5" value="False"><span>False</span></label><label><input type="radio" name="hor5" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor5" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">6.</span>The civil war forced commanders to choose between competing allegiances.</p><div class="opts"><label><input type="radio" name="hor6" value="True"><span>True</span></label><label><input type="radio" name="hor6" value="False"><span>False</span></label><label><input type="radio" name="hor6" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor6" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">7.</span>The Emperor fought Horus aboard the flagship, killed him, and was mortally wounded.</p><div class="opts"><label><input type="radio" name="hor7" value="True"><span>True</span></label><label><input type="radio" name="hor7" value="False"><span>False</span></label><label><input type="radio" name="hor7" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor7" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">8.</span>Angron disobeyed Horus and led the World Eaters to the surface to kill survivors.</p><div class="opts"><label><input type="radio" name="hor8" value="True"><span>True</span></label><label><input type="radio" name="hor8" value="False"><span>False</span></label><label><input type="radio" name="hor8" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor8" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">9.</span>Horus’s forces besieged Terra during the final phase of the Heresy.</p><div class="opts"><label><input type="radio" name="hor9" value="True"><span>True</span></label><label><input type="radio" name="hor9" value="False"><span>False</span></label><label><input type="radio" name="hor9" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor9" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<div class="card"><p><span class="num">10.</span>The Solar War was a battle for the Sol System in which traitor infiltration, raids, Dark Mechanicum attacks, and attempted breakouts from besieged traitor-controlled Mars tested the Throneworld’s defenses.</p><div class="opts"><label><input type="radio" name="hor10" value="True"><span>True</span></label><label><input type="radio" name="hor10" value="False"><span>False</span></label><label><input type="radio" name="hor10" value="Not sure"><span>Not sure</span></label><label><input type="radio" name="hor10" value="Fan theory / interpretation"><span>Fan theory / interpretation</span></label></div></div>
+<p><b>Anything the AI got wrong, or a grade you'd argue with?</b><br><input type="text" id="notes" style="max-width:100%" placeholder="Optional comments"></p>
+<div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:8px">
+<button onclick="wa()" style="background:#25D366;color:#06210f">Send my answers on WhatsApp</button>
+<button onclick="cp()" style="background:transparent;color:#f0cf7e;border:1.5px solid #d4a64a">Copy answers</button>
+<button onclick="dl()" style="background:transparent;color:#9aa3b8;border:1.5px solid #555">Download file</button>
+</div><p id="ok"></p>
+<p class="muted">“Send on WhatsApp” opens WhatsApp with your answers typed out: just pick Gaurang's chat and send. Nothing is uploaded anywhere else. Opened this inside WhatsApp and the buttons don't respond? Tap Share → Open in Safari/Chrome.</p>
+<script>
+const IDS=["hor1", "hor2", "hor3", "hor4", "hor5", "hor6", "hor7", "hor8", "hor9", "hor10"];
+function upd(){let k=IDS.filter(id=>document.querySelector('input[name='+id+']:checked')).length;document.getElementById('prog').textContent=k+' of '+IDS.length+' answered'}
+document.addEventListener('change',upd);
+const CODE={'True':'T','False':'F','Not sure':'N','Fan theory / interpretation':'I'};
+function code(){const parts=IDS.map(id=>{const r=document.querySelector('input[name='+id+']:checked');return id+'='+(r?CODE[r.value]:'-')});
+return 'LOREMASTER-BLIND v1 | sheet=horus-heresy | tester='+(document.getElementById('tester').value||'anon').replace(/[|\n]/g,' ')+
+' | mins='+(document.getElementById('google').value||'').replace(/[|\n]/g,' ')+' | '+parts.join(' ')+' | notes='+(document.getElementById('notes').value||'').replace(/[|\n]/g,' ')}
+function wa(){const t=code();window.open('https://wa.me/?text='+encodeURIComponent(t),'_blank');document.getElementById('ok').textContent='Opening WhatsApp… choose Gaurang\'s chat and press send.'}
+function cp(){const t=code();(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(()=>{document.getElementById('ok').textContent='Copied! Paste it into a WhatsApp message to Gaurang.'}).catch(()=>{prompt('Copy this and send it to Gaurang:',t)})}
+function dl(){const a={tester:document.getElementById('tester').value,google_minutes:document.getElementById('google').value,notes:document.getElementById('notes').value,answers:{}};
+for(const id of IDS){const r=document.querySelector('input[name='+id+']:checked');a.answers[id]=r?r.value:null}
+const b=new Blob([JSON.stringify(a,null,1)],{type:'application/json'});const l=document.createElement('a');
+l.href=URL.createObjectURL(b);l.download='loremaster_blind_'+(a.tester||'anon').replace(/\W+/g,'_')+'.json';l.click();
+document.getElementById('ok').textContent='Saved! Send that file back to Gaurang.'}
+</script></div></body></html>

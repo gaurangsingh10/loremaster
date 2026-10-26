@@ -1,0 +1,1569 @@
+{
+ "thread": {
+  "id": "edison-tesla",
+  "title": "Edison vs. Tesla: The Myth of the Lone Genius",
+  "hook": "The War of the Currents, and why great inventions are almost never one person's eureka moment.",
+  "mode": "history",
+  "packs": [
+   "technology"
+  ],
+  "era": "1880s–1890s",
+  "universe": "",
+  "curated": true,
+  "genre": "technology"
+ },
+ "title": "The Myth of the Lone Genius",
+ "logline": "The War of the Currents made Edison and Tesla into rivals—but the story of electric power is really about teams, systems, and the myths we build around inventors.",
+ "plan": [
+  {
+   "title": "A War of Systems",
+   "focus": "Open with the irresistible Edison–Tesla rivalry, then show how the War of the Currents was a contest between electrical systems and the people and businesses developing them. Set up the central question: who gets remembered when invention depends on collaboration?",
+   "queries": [
+    "technology: War of the Currents",
+    "technology: Thomas Edison electric light",
+    "technology: Nikola Tesla alternating current"
+   ],
+   "packs": [
+    "technology"
+   ]
+  },
+  {
+   "title": "Who Gets the Credit?",
+   "focus": "Put the lone-genius myth on trial by tracing how inventions associated with Edison and Tesla depended on prior work, collaborators, engineering, and commercial execution. End by weighing what each man contributed without reducing a complex history to a single winner.",
+   "queries": [
+    "technology: Edison Menlo Park",
+    "technology: Tesla polyphase system",
+    "technology: electric power history"
+   ],
+   "packs": [
+    "technology"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A War of Systems",
+  "narration": "Picture the story as it is usually told: Edison on one side, Tesla on the other, two famous names cast as rivals in a duel over the future of light. [c1] The lone genius faces the lone genius, and history picks a winner. It is irresistible. It is also too small.\n\nThe real contest had a wider cast: companies, electrical systems, patents, and people trying to make power useful at scale. The War of the Currents was a series of events around competing electric-power transmission systems in the late eighteen-eighties and early eighteen-nineties. [c2] Its roots reached back to two lighting systems developed in the late eighteen-seventies and early eighteen-eighties. [c3]\n\nOne system used arc lamps for street lighting, powered by high-voltage alternating current. The other paired large-scale, low-voltage direct current with indoor incandescent lighting. [c4] These were not just rival slogans. They were different ways of producing and delivering electric light. And every choice about the system shaped the business built around it.\n\nEdison wanted more than a bright bulb. In eighteen seventy-eight, he began working on electrical illumination that could operate as a large-scale commercial utility and compete with gas and oil lighting. [c5] Many inventors had devised incandescent lamps before him, but early bulbs had flaws that made them difficult to use commercially at scale. [c6] That is the first crack in the lone-genius legend: an invention can exist, yet still fail to become a working system.\n\nEdison was an inventor and businessman known for work that included the incandescent bulb and electric-power distribution. [c7] His ambition was commercial illumination: a utility, not merely a clever object. [c8] Here's my take: the shift from a device to a dependable system is where the drama begins. The lightbulb gets the portrait. The network has to keep the lights on.\n\nBut a direct-current network faced competition from alternating-current companies. Transformers developed in Europe and by Westinghouse Electric in the United States in eighteen eighty-five and eighteen eighty-six made it possible to transmit AC over long distances using thinner, cheaper wires. [c9] That was not a technical footnote. It changed the economics of reaching customers. The system itself could make one business plan stronger than another.\n\nNow bring Tesla into the picture, but do not shrink the story back to a duel. In eighteen eighty-eight, Tesla demonstrated his induction motor, and Westinghouse licensed its patent. [c10] The timing mattered: electric companies were competing intensely. Westinghouse, Edison, and Thomson-Houston were trying to grow in a business requiring heavy capital while undercutting one another financially. [c11] A motor, a patent, a transmission method, and a company’s ability to fund expansion all belonged to the same fight.\n\nHere is the parallel worth keeping: Edison’s commercial lighting project and Tesla’s licensed motor entered a contest where invention met infrastructure and business. That comparison is an interpretation. [c12] The public loves a duel because two names fit neatly into a sentence. Systems are harder to remember. They involve firms, investment, and decisions spread across time.\n\nBy the early eighteen-nineties, the conflict was winding down. [c13] Further deaths caused by AC lines in New York City forced electric companies to address safety problems. [c14] Edison no longer controlled Edison Electric, and subsidiary companies were beginning to add AC to the systems they were building. [c15] The story did not end with one genius standing triumphant over another. It moved through companies adapting as the contest changed.\n\nSo: the famous rivalry points toward a much larger struggle between electrical systems, commercial ambitions, and the people developing them. And the ending is not a clean victory for a solitary inventor; it is a changing industry, with AC entering systems even as safety concerns demanded attention. Who gets remembered when invention depends on more than one mind?\n\nNext, follow the patent that brought Tesla’s motor into a larger business. Or trace Edison’s utility ambition into companies that outlasted his control. Or ask why the lone-genius story keeps winning the public imagination.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The story of the War of the Currents is commonly told as a rivalry between Edison and Tesla.",
+    "kind": "history",
+    "grade": "Unsupported",
+    "note": "No evidence card says the story is commonly told as an Edison–Tesla rivalry.",
+    "evidence": []
+   },
+   {
+    "id": "c2",
+    "text": "The War of the Currents involved competing electric power transmission systems in the late 1880s and early 1890s.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The War of the Currents card describes events around competing electric-power transmission systems in the late 1880s and early 1890s.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "The war of the currents was a series of events surrounding the introduction of competing electric power transmission systems in the late 1880s and early 1890s. It grew out of two lighting systems developed in the late 1870s and early 1880s: arc lamp street lighting running on high-voltage alternating current (AC), and large-scale low-voltage direct current (DC) indoor incandescent lighting being …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The competing systems grew from lighting systems developed in the late 1870s and early 1880s.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the conflict grew out of two lighting systems developed in the late 1870s and early 1880s.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "The war of the currents was a series of events surrounding the introduction of competing electric power transmission systems in the late 1880s and early 1890s. It grew out of two lighting systems developed in the late 1870s and early 1880s: arc lamp street lighting running on high-voltage alternating current (AC), and large-scale low-voltage direct current (DC) indoor incandescent lighting being …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "One lighting system used high-voltage AC arc lamps for streets; another used low-voltage DC incandescent lighting indoors at large scale.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies high-voltage AC arc-lamp street lighting and large-scale low-voltage DC indoor incandescent lighting as the two systems.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "The war of the currents was a series of events surrounding the introduction of competing electric power transmission systems in the late 1880s and early 1890s. It grew out of two lighting systems developed in the late 1870s and early 1880s: arc lamp street lighting running on high-voltage alternating current (AC), and large-scale low-voltage direct current (DC) indoor incandescent lighting being …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Edison began work in 1878 on a commercially deployable electrical illumination system intended to compete with gas and oil lighting.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Edison began this work in 1878, aiming for a large-scale commercial utility that could compete with gas and oil lighting.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "In 1878, Edison began working on a system of electrical illumination that he could deploy in a large-scale commercial utility, something he hoped could compete with gas and oil-based lighting. Many incandescent lamps had been devised by inventors prior to Edison, but these early bulbs all had flaws that made them difficult to use on a large scale commercially.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Earlier incandescent lamps had flaws that made large-scale commercial use difficult.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says earlier incandescent lamps had flaws that made large-scale commercial use difficult.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "In 1878, Edison began working on a system of electrical illumination that he could deploy in a large-scale commercial utility, something he hoped could compete with gas and oil-based lighting. Many incandescent lamps had been devised by inventors prior to Edison, but these early bulbs all had flaws that made them difficult to use on a large scale commercially.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Edison was an inventor and businessman known for work including the incandescent bulb and electric power distribution.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies Edison as an inventor and businessman known for work including the incandescent bulb and electric-power distribution.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman known for his work on the incandescent light bulb , the phonograph , electric power distribution and early motion pictures . The merger of the Edison General Electric Company and the competitor Thomson-Houston Electric Company resulted in the formation of General Electric .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Edison sought a large-scale commercial electrical illumination utility.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Edison sought an electrical illumination system deployable as a large-scale commercial utility.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "In 1878, Edison began working on a system of electrical illumination that he could deploy in a large-scale commercial utility, something he hoped could compete with gas and oil-based lighting. Many incandescent lamps had been devised by inventors prior to Edison, but these early bulbs all had flaws that made them difficult to use on a large scale commercially.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Transformers developed in Europe and by Westinghouse Electric in the United States in 1885–1886 made long-distance AC transmission possible over thinner, cheaper wires.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that transformers developed in Europe and by Westinghouse Electric in the United States in 1885–1886 enabled long-distance AC transmission over thinner, cheaper wires.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "As Edison expanded his direct current (DC) power delivery system, he received stiff competition from companies installing alternating current (AC) systems. With the development of transformers in Europe and by Westinghouse Electric in the US in 1885–1886, it became possible to transmit AC long distances over thinner and cheaper wires.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Tesla demonstrated his induction motor and Westinghouse licensed its patent in 1888.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Tesla demonstrated his induction motor and Westinghouse licensed its patent in 1888.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "technology",
+      "page_title": "Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "snippet": "Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies. The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company , were trying to grow in a capital-intensive business while financially undercutting each other.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Westinghouse, Edison, and Thomson-Houston competed to grow in a capital-intensive business while financially undercutting one another.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the three firms competed to grow in a capital-intensive business while financially undercutting one another.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "technology",
+      "page_title": "Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "snippet": "Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies. The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company , were trying to grow in a capital-intensive business while financially undercutting each other.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Edison’s commercial lighting project and Tesla’s licensed motor can be interpreted as examples of inventions entering a contest involving infrastructure and business.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The cards support the underlying commercial lighting project and licensed motor, while their connection as a shared contest of invention, infrastructure, and business is explicitly presented as interpretation.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "technology",
+      "page_title": "Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "snippet": "In 1878, Edison began working on a system of electrical illumination that he could deploy in a large-scale commercial utility, something he hoped could compete with gas and oil-based lighting. Many incandescent lamps had been devised by inventors prior to Edison, but these early bulbs all had flaws that made them difficult to use on a large scale commercially.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "technology",
+      "page_title": "Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "snippet": "Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies. The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company , were trying to grow in a capital-intensive business while financially undercutting each other.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The War of the Currents was winding down by the early 1890s.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly says the War of the Currents was winding down by the early 1890s.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "By the early 1890s, the war was winding down. Further deaths caused by AC lines in New York City forced electric companies to fix safety problems. Thomas Edison no longer controlled Edison Electric, and subsidiary companies were beginning to add AC to the systems they were building.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Further deaths caused by AC lines in New York City forced electric companies to fix safety problems.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says further deaths caused by AC lines in New York City forced electric companies to fix safety problems.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "By the early 1890s, the war was winding down. Further deaths caused by AC lines in New York City forced electric companies to fix safety problems. Thomas Edison no longer controlled Edison Electric, and subsidiary companies were beginning to add AC to the systems they were building.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "Edison no longer controlled Edison Electric, and subsidiary companies were beginning to add AC to systems they built.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Edison no longer controlled Edison Electric and subsidiary companies were beginning to add AC to their systems.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "technology",
+      "page_title": "War of the currents",
+      "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+      "snippet": "By the early 1890s, the war was winding down. Further deaths caused by AC lines in New York City forced electric companies to fix safety problems. Thomas Edison no longer controlled Edison Electric, and subsidiary companies were beginning to add AC to the systems they were building.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Tesla’s patent enters Westinghouse’s high-stakes business",
+   "Edison’s utility vision outlives Edison’s control",
+   "Why does the lone-genius story endure?"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The War of the Currents was simply a duel between Edison and Tesla.",
+     "verdict": "myth",
+     "explanation": "The chapter describes a wider contest between competing transmission systems, companies, and business interests. The two-person duel is a popular framing, not established by these evidence cards.",
+     "evidence_ids": [
+      "E1",
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "technology",
+       "page_title": "War of the currents",
+       "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+       "snippet": "The war of the currents was a series of events surrounding the introduction of competing electric power transmission systems in the late 1880s and early 1890s. It grew out of two lighting systems developed in the late 1870s and early 1880s: arc lamp street lighting running on high-voltage alternating current (AC), and large-scale low-voltage direct current (DC) indoor incandescent lighting being …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E7",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies. The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company , were trying to grow in a capital-intensive business while financially undercutting each other.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Transformers made it possible to send alternating current long distances over thinner, cheaper wires.",
+     "verdict": "fact",
+     "explanation": "Transformers developed in Europe and by Westinghouse Electric in the United States in 1885–1886 enabled long-distance AC transmission over thinner, cheaper wires.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "technology",
+       "page_title": "Thomas Edison",
+       "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+       "snippet": "As Edison expanded his direct current (DC) power delivery system, he received stiff competition from companies installing alternating current (AC) systems. With the development of transformers in Europe and by Westinghouse Electric in the US in 1885–1886, it became possible to transmit AC long distances over thinner and cheaper wires.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Tesla demonstrated his induction motor and Westinghouse licensed its patent in 1888.",
+     "verdict": "fact",
+     "explanation": "The evidence places both Tesla’s demonstration and Westinghouse’s licensing of the patent in 1888.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "Tesla's demonstration of his induction motor and Westinghouse's subsequent licensing of the patent, both in 1888, came at the time of extreme competition between electric companies. The three big firms, Westinghouse, Edison, and Thomson-Houston Electric Company , were trying to grow in a capital-intensive business while financially undercutting each other.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "By the early 1890s, Edison no longer controlled Edison Electric. What change was beginning in the systems its subsidiaries built?",
+    "options": [
+     "They were beginning to add AC.",
+     "They were switching entirely to gas lighting.",
+     "They were abandoning electric power distribution."
+    ],
+    "answer_index": 0,
+    "reveal_para": 8,
+    "explanation": "The subsidiaries were beginning to add AC to the systems they were building."
+   }
+  }
+ },
+ "branches": {
+  "Tesla’s patent enters Westinghouse’s high-stakes business": {
+   "index": 2,
+   "title": "The Patent, the Partner, the Myth",
+   "narration": "You chose the moment when Tesla’s patent leaves the inventor’s desk and enters Westinghouse’s high-stakes business. In July eighteen eighty-eight, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla’s polyphase induction motor and transformer designs. [c1] The agreement offered sixty thousand dollars in cash and stock, plus a royalty of two dollars and fifty cents for every AC horsepower produced by each motor. [c2]\n\nThat is not the image of a solitary genius changing the world with one flash of inspiration. It is a contract: designs, money, and a payment tied to future production. [c3] The patent mattered because it could become part of a business, and the business had to make the system work beyond the page. [c4]\n\nWestinghouse was not simply buying a brilliant idea and waiting for history to applaud. He kept pouring money and engineering resources into the goal of building a completely integrated AC system. [c5] He bought Consolidated Electric Light to obtain the Sawyer–Man lamp, and developed components such as an induction meter. [c6] He also obtained rights to Tesla’s brushless AC induction motor, alongside patents for a new type of electric system component. [c7]\n\nHere’s my read: Tesla’s motor and Westinghouse’s company fit together like a key and a lock, but the lock had to be built. The inventor supplied designs; the firm assembled a larger technical and commercial effort around them. [c8] The so-called war of systems was not a duel decided by two famous names. It was a contest among patents, engineering resources, equipment, and companies willing to take risks. [c9]\n\nAnd the risk was real. In early eighteen ninety-one, Westinghouse explained his financial difficulties to Tesla in stark terms. [c10] He said that if he failed to meet his lenders’ demands, he would no longer control Westinghouse Electric. [c11] Tesla might then have to deal with the bankers to try to collect future royalties. [c12]\n\nPause there. The inventor’s reward depended not only on what he had designed, but also on whether a company could survive its debts and keep producing. [c13] A royalty written into a deal was not the same thing as money safely in hand. [c14] In this story, the banker belongs in the cast alongside the inventor and the industrialist.\n\nWestinghouse also faced a rival in Thomson-Houston Electric. [c15] That company had built twenty-two power stations by the end of eighteen eighty-seven, then acquired another competitor, Brush Electric, by eighteen eighty-nine. [c16] So there was no simple two-man arena. There were companies expanding, buying rivals, and trying to turn competing technologies into working systems.\n\nEven the phrase “war of systems” can mislead if it makes the story sound like one technology simply vanishing when another wins. The institutional war of currents ended in a financial merger, while the technical differences between direct and alternating current systems continued through a much longer process of technical combination. [c17] Alternating current’s scale advantages, with large generating plants linked to distant loads, were gradually combined with other technical capabilities. [c18] The end result was not a trophy handed to one lone genius. It was a changing system built through many rounds of innovation in the United States and Europe. [c19]\n\nSo: Tesla’s designs entered a licensing deal with specific payments, and Westinghouse put money and engineering resources behind a larger AC system. [c20] Lenders, corporate rivals, and technical development shaped what those designs could become. [c21] The lone-genius duel makes a clean poster; the real story is messier, and far more interesting. Which next thread should we follow: the patent wars behind modern technology, the business risks of early electricity, or another famous rivalry reconsidered?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E10 states the July 1888 licensing negotiation and identifies the motor and transformer designs.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The deal provided $60,000 in cash and stock and royalties of $2.50 per AC horsepower produced by each motor.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E10 gives the $60,000 cash-and-stock payment and the $2.50-per-AC-horsepower royalty.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Tesla-Westinghouse arrangement was a licensing contract involving designs, payment, and production royalties.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E10 describes a licensing deal for designs with payment and a production-based royalty.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The designs entered a business arrangement that tied payment to future production.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E10 directly ties the licensed designs to an agreement with specified payment and royalties based on production.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Westinghouse continued to commit money and engineering resources to building an integrated AC system.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E30 says Westinghouse continued committing money and engineering resources to an integrated AC system.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Westinghouse obtained the Sawyer-Man lamp by buying Consolidated Electric Light and developed components such as an induction meter.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E30 says Westinghouse obtained the Sawyer–Man lamp through the Consolidated Electric Light purchase and developed components such as an induction meter.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Westinghouse obtained rights to Tesla's brushless AC induction motor along with patents for another electric-system component.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E30 says Westinghouse obtained rights to Tesla’s brushless AC induction motor and patents for another electric-system component.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Tesla's designs and Westinghouse's broader corporate engineering effort formed complementary parts of the effort to build an AC system.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E10 documents Tesla’s licensed designs and E30 documents Westinghouse’s broader system effort; their complementarity is the narrator’s synthesis.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The contest over electricity involved patents, engineering resources, equipment, and companies, not only famous inventors.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E29 and E30 describe rivals, equipment, patents, and engineering resources, while calling the contest more than a duel between famous names is framing.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "Westinghouse also had to deal with another AC rival, the Thomson-Houston Electric Company , which had constructed 22 power stations by the end of 1887 and by 1889 it had acquired another competitor, the Brush Electric Company .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "In early 1891, Westinghouse explained his financial difficulties to Tesla.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 says Westinghouse explained his financial difficulties to Tesla in early 1891.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Westinghouse warned that failure to meet lenders' demands would cost him control of Westinghouse Electric.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 says Westinghouse warned that failing to meet lenders’ demands would cost him control of Westinghouse Electric.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Westinghouse warned Tesla that Tesla might have to deal with bankers to collect future royalties.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E11 says Tesla might have to deal with the bankers to try to collect future royalties.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The collection of future royalties depended on the financial circumstances of the company and its lenders.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E11’s conditional warning links future royalty collection to Westinghouse’s financial difficulties and lender demands; the broader statement is a reasonable inference.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The deal specified royalties, while Westinghouse later warned of financial difficulties that could affect future collection.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E10 establishes the royalty terms and E11 describes a risk to collecting future royalties, supporting the narrator’s distinction between a contractual royalty and cash in hand.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Westinghouse faced Thomson-Houston Electric as another AC rival.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E29 identifies Thomson-Houston Electric as another AC rival Westinghouse faced.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "Westinghouse also had to deal with another AC rival, the Thomson-Houston Electric Company , which had constructed 22 power stations by the end of 1887 and by 1889 it had acquired another competitor, the Brush Electric Company .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Thomson-Houston had constructed 22 power stations by the end of 1887 and acquired Brush Electric by 1889.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E29 states that Thomson-Houston had constructed 22 power stations by the end of 1887 and acquired Brush Electric by 1889.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "Westinghouse also had to deal with another AC rival, the Thomson-Houston Electric Company , which had constructed 22 power stations by the end of 1887 and by 1889 it had acquired another competitor, the Brush Electric Company .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The institutional war of currents ended in a financial merger, while technical differences between DC and AC systems continued through a longer process of technical combination.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 states that the institutional war ended in a financial merger while technical combination continued over a longer period.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "technology",
+       "page_title": "War of the currents",
+       "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+       "snippet": "Even though the institutional war of currents had ended in a financial merger, the technical difference between direct and alternating current systems followed a much longer technical merger. Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long-distance transmission was slowly being combined with the ability to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "AC's economy of scale in large generating plants connected by long-distance transmission was gradually combined with other capabilities.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 describes AC’s large-plant and long-distance-transmission advantages being slowly combined with other capabilities.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "technology",
+       "page_title": "War of the currents",
+       "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+       "snippet": "Even though the institutional war of currents had ended in a financial merger, the technical difference between direct and alternating current systems followed a much longer technical merger. Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long-distance transmission was slowly being combined with the ability to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The technical development involved innovation in the United States and Europe.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E13 explicitly attributes the technical development to innovation in the United States and Europe.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "technology",
+       "page_title": "War of the currents",
+       "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+       "snippet": "Even though the institutional war of currents had ended in a financial merger, the technical difference between direct and alternating current systems followed a much longer technical merger. Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long-distance transmission was slowly being combined with the ability to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "Tesla's designs entered a licensing deal with specified payments, and Westinghouse invested money and engineering resources in a broader AC system.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "E10 documents the licensing terms, and E30 documents Westinghouse’s investment of money and engineering resources in a broader AC system.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c21",
+     "text": "Lenders, rival companies, and technical development affected the commercial and technical context of Tesla's designs.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "E11, E29, E30, and E13 document lenders, a rival company, and technical development; their combined effect on what the designs could become is the narrator’s synthesis.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "In early 1891, George Westinghouse explained his financial difficulties to Tesla in stark terms, saying that, if he did not meet the demands of his lenders, he would no longer be in control of Westinghouse Electric and Tesla would have to \"deal with the bankers\" to try to collect future royalties.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "technology",
+       "page_title": "War of the currents",
+       "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+       "snippet": "Even though the institutional war of currents had ended in a financial merger, the technical difference between direct and alternating current systems followed a much longer technical merger. Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long-distance transmission was slowly being combined with the ability to …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E29",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "Westinghouse also had to deal with another AC rival, the Thomson-Houston Electric Company , which had constructed 22 power stations by the end of 1887 and by 1889 it had acquired another competitor, the Brush Electric Company .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E30",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "During this period, Westinghouse continued to pour money and engineering resources into the goal of building a completely integrated AC system — obtaining the Sawyer–Man lamp by buying Consolidated Electric Light, and developing components such as an induction meter , and obtaining the rights to inventor Nikola Tesla 's brushless AC induction motor along with patents for a new type of electric …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Patent wars: who owned the future?",
+    "The business risks behind early electricity",
+    "Famous rivalries, stripped of the myth"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Tesla’s 1888 deal with Westinghouse included cash, stock, and royalties tied to motor production.",
+      "verdict": "fact",
+      "explanation": "Brown and Peck negotiated a licensing deal that offered $60,000 in cash and stock, plus a royalty of $2.50 per AC horsepower produced by each motor.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "technology",
+        "page_title": "Nikola Tesla",
+        "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+        "snippet": "In July 1888, Brown and Peck negotiated a licensing deal with George Westinghouse for Tesla's polyphase induction motor and transformer designs for $60,000 in cash and stock and a royalty of $2.50 per AC horsepower produced by each motor.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Westinghouse was Tesla’s only serious corporate rival in the contest over electricity.",
+      "verdict": "myth",
+      "explanation": "Thomson-Houston was another AC rival. It had built 22 power stations by the end of 1887 and acquired Brush Electric by 1889.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "technology",
+        "page_title": "George Westinghouse",
+        "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+        "snippet": "Westinghouse also had to deal with another AC rival, the Thomson-Houston Electric Company , which had constructed 22 power stations by the end of 1887 and by 1889 it had acquired another competitor, the Brush Electric Company .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Once the institutional war of currents ended, the technical differences between AC and DC disappeared immediately.",
+      "verdict": "myth",
+      "explanation": "The institutional contest ended in a financial merger, but the technical differences continued through a much longer process of combination.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "technology",
+        "page_title": "War of the currents",
+        "url": "https://en.wikipedia.org/wiki/War_of_the_currents",
+        "snippet": "Even though the institutional war of currents had ended in a financial merger, the technical difference between direct and alternating current systems followed a much longer technical merger. Due to innovation in the US and Europe, alternating current's economy of scale with very large generating plants linked to loads via long-distance transmission was slowly being combined with the ability to …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Westinghouse warns Tesla that he may lose control of his company if he cannot satisfy his lenders. What might Tesla then have to do to collect future royalties?",
+     "options": [
+      "Negotiate with the bankers",
+      "Sell the motor designs to Thomson-Houston",
+      "Wait for the technical merger to finish"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "Westinghouse warned that Tesla might have to deal with the bankers to try to collect future royalties."
+    }
+   }
+  },
+  "Edison’s utility vision outlives Edison’s control": {
+   "index": 2,
+   "title": "The System Outlives the Genius",
+   "narration": "Manhattan, September fourth, eighteen eighty-two. At Pearl Street, Edison’s first central station opens at 257 Pearl Street, bringing a commercial power plant into the story of American electricity. [c1] The scene sounds like a triumph with one name on the marquee. But look closer, and the name is already becoming a system.\n\nYou chose the branch where Edison’s utility vision outlives his control. The payoff is not that one man wins the duel. It is that the duel is too small to explain what happens next.\n\nThe Edison Illuminating Company was established by Thomas Edison on December seventeenth, eighteen eighty, to build generating stations, initially in New York City. [c2] It became a prototype for other local illuminating companies founded across the United States during the eighteen eighties. [c3] That is the turn: a personal project becomes a model other organizations can repeat.\n\nAnd repeat it they did. In November eighteen eighty-two, the Edison Electric Illuminating Company of Shamokin, Pennsylvania, was established. [c4] In eighteen eighty-three, it became only the second three-wire electrical station in the world. [c5] The first was Edison’s plant in Sunbury, Pennsylvania, which opened on July fourth, eighteen eighty-three, with Edison himself at the ceremony. [c6]\n\nNotice the cast expanding. Edison is there, certainly. But so are companies, stations, engineers, workers, customers, and the places that must be connected. The evidence gives us an institutional story, not a one-man relay race with a single finish line.\n\nPearl Street mattered, but it was not permanent. The plant burned down on January second, eighteen ninety. [c7] Only one dynamo survived, and it is now displayed at the Henry Ford Museum. [c8] The machine remains as a relic of a beginning; the work it represented had already spread beyond that one building.\n\nHere is the larger transformation. Commercial distribution of electric power began in eighteen eighty-two, when electricity was produced for electric lighting. [c9] The electric power industry came to include generation, transmission, distribution, and sale of electricity to the public and industry. [c10] That is not one invention sitting under glass. It is a chain of activities, each dependent on systems and people beyond the inventor’s workshop.\n\nThe industry also brought new problems. In the eighteen eighties and nineties, growing concerns about economics and safety led to regulation. [c11] Once electricity becomes a public service, the story changes: reliability, access, cost, and safety matter alongside the spark. A genius can imagine a station. A society has to decide how the service works, who maintains it, and how its risks are managed.\n\nAnd the system keeps growing more intricate. Power-generation units may provide services that help stabilize an electrical grid, including frequency control, reactive power, and restarting a collapsed grid. [c12] Those services can have commercial value when generation, transmission, and distribution companies are separate entities. [c13] Electricity, in other words, is not simply made and handed over. It is coordinated across a network.\n\nThe familiar duel between Edison and Tesla gives us two vivid faces, and vivid faces make a good story. But the history here refuses a single victor. Edison’s company helped establish a repeatable model; local companies, stations, infrastructure, regulation, and specialized grid services carried electrification into a larger institutional life. [c14]\n\nIf you ask me, that is the real twist: the genius’s greatest legacy may be the thing that no longer needs him in the room. The founder can open the first door, but the public walks through a whole building built by many hands.\n\nSo: Edison helped launch a company model, and the model spread. Electricity became an industry of generation, networks, distribution, sales, and oversight. [c15] The lone-genius duel makes a sharp opening; the system is what keeps the lights on.\n\nFor our next journey, we could follow the contested race to invent the telephone. We could ask how a few laboratories became the internet. Or we could trace how public utilities learned to regulate a network too large for any one inventor to command.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Edison's first central station, Pearl Street Station, opened at 257 Pearl Street in Manhattan on September 4, 1882.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Pearl Street Station opened at 257 Pearl Street on September 4, 1882, as Edison's first central station.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "On September 4, 1882, Edison's first central station , the Pearl Street Station, opened at 257 Pearl Street in Manhattan . The station was the first commercial power plant in the United States, and was the world's first cogeneration plant. The plant burned down on January 2, 1890. Only 1 dynamo (or generator) survived; it is currently displayed at the Henry Ford Museum .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Thomas Edison established the Edison Illuminating Company on December 17, 1880, to build generating stations initially in New York City.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly gives the company’s establishment date, founder, and initial New York City purpose.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "The Edison Illuminating Company was established by Thomas Edison on December 17, 1880, to construct electrical generating stations , initially in New York City . The company was the prototype for other local illuminating companies that were established in the United States during the 1880s.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Edison Illuminating Company served as a prototype for other local illuminating companies established in the United States in the 1880s.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says the company was a prototype for other local illuminating companies established in the United States during the 1880s.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "The Edison Illuminating Company was established by Thomas Edison on December 17, 1880, to construct electrical generating stations , initially in New York City . The company was the prototype for other local illuminating companies that were established in the United States during the 1880s.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Edison Electric Illuminating Company of Shamokin, Pennsylvania, was established in November 1882.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Shamokin company was established in November 1882.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "In November 1882, the Edison Electric Illuminating Company of Shamokin, Pennsylvania was established. In 1883, it became only the second three-wire electrical station in the world. The first was Edison's plant in Sunbury, Pennsylvania , which opened on July 4, 1883. The opening ceremony was attended by Edison himself.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "In 1883, the Shamokin company became the world's second three-wire electrical station.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says that in 1883 it became only the world’s second three-wire electrical station.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "In November 1882, the Edison Electric Illuminating Company of Shamokin, Pennsylvania was established. In 1883, it became only the second three-wire electrical station in the world. The first was Edison's plant in Sunbury, Pennsylvania , which opened on July 4, 1883. The opening ceremony was attended by Edison himself.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Edison's Sunbury, Pennsylvania, plant opened July 4, 1883, and Edison attended its opening ceremony.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Sunbury plant opened July 4, 1883, and that Edison attended the opening ceremony.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "In November 1882, the Edison Electric Illuminating Company of Shamokin, Pennsylvania was established. In 1883, it became only the second three-wire electrical station in the world. The first was Edison's plant in Sunbury, Pennsylvania , which opened on July 4, 1883. The opening ceremony was attended by Edison himself.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Pearl Street Station burned down on January 2, 1890.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Pearl Street Station burned down on January 2, 1890.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "On September 4, 1882, Edison's first central station , the Pearl Street Station, opened at 257 Pearl Street in Manhattan . The station was the first commercial power plant in the United States, and was the world's first cogeneration plant. The plant burned down on January 2, 1890. Only 1 dynamo (or generator) survived; it is currently displayed at the Henry Ford Museum .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "One dynamo survived the Pearl Street fire and is displayed at the Henry Ford Museum.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says one dynamo survived and is currently displayed at the Henry Ford Museum.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "On September 4, 1882, Edison's first central station , the Pearl Street Station, opened at 257 Pearl Street in Manhattan . The station was the first commercial power plant in the United States, and was the world's first cogeneration plant. The plant burned down on January 2, 1890. Only 1 dynamo (or generator) survived; it is currently displayed at the Henry Ford Museum .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Commercial distribution of electric power began in 1882 when electricity was produced for electric lighting.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that commercial distribution began in 1882 when electricity was produced for electric lighting.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The electric power industry includes generation, transmission, distribution, and sale of electric power to the public and industry.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card defines the electric power industry as covering generation, transmission, distribution, and sale to the general public and industry.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Growing economic and safety concerns led to regulation of the electric power industry in the 1880s and 1890s.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that growing economic and safety concerns led to regulation in the 1880s and 1890s.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Power-generation units may provide grid services including frequency control, reactive power, and black start after a collapsed grid.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The claim is appropriately hedged as possible services, and the card lists frequency control, reactive power, and black start among them.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "In addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Ancillary grid services may have commercial value when generation, transmission, and distribution companies are separate entities.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly says these ancillary services may have commercial value when generation, transmission, and distribution companies are separate entities.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "In addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Edison’s company model, alongside other companies, stations, infrastructure, regulation, and grid services, contributed to electrification's institutional development rather than a single-victor story.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a synthesis about institutional development, supported by cards describing companies, stations, industry, regulation, and grid services rather than a direct statement of causation.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "The Edison Illuminating Company was established by Thomas Edison on December 17, 1880, to construct electrical generating stations , initially in New York City . The company was the prototype for other local illuminating companies that were established in the United States during the 1880s.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "technology",
+       "page_title": "Edison Illuminating Company",
+       "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+       "snippet": "In November 1882, the Edison Electric Illuminating Company of Shamokin, Pennsylvania was established. In 1883, it became only the second three-wire electrical station in the world. The first was Edison's plant in Sunbury, Pennsylvania , which opened on July 4, 1883. The opening ceremony was attended by Edison himself.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "In addition to electrical power production, electrical generation units may provide other ancillary services to the electrical grid, such as frequency control, reactive power, and black start of a collapsed power grid. These ancillary services may be commercially valuable when the generation, transmission, and distribution electrical companies are separate commercial entities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Electricity developed into an industry involving generation, networks, distribution, sales, and oversight.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The broad framing of electricity becoming an industry with oversight is a synthesis; the card lists industry functions and regulation but does not state this exact developmental conclusion.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Electric power industry",
+       "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+       "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The telephone: a race with more than one inventor",
+    "From laboratories to the internet: who built the network?",
+    "How utilities learned to govern a giant electric grid"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Edison’s company became a model for other local electric companies in the 1880s.",
+      "verdict": "fact",
+      "explanation": "The Edison Illuminating Company was a prototype for other local illuminating companies established across the United States during that decade.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "technology",
+        "page_title": "Edison Illuminating Company",
+        "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+        "snippet": "The Edison Illuminating Company was established by Thomas Edison on December 17, 1880, to construct electrical generating stations , initially in New York City . The company was the prototype for other local illuminating companies that were established in the United States during the 1880s.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Pearl Street Station survived the fire that destroyed it in 1890.",
+      "verdict": "myth",
+      "explanation": "The station burned down on January 2, 1890. One dynamo survived, not the station itself.",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "technology",
+        "page_title": "Edison Illuminating Company",
+        "url": "https://en.wikipedia.org/wiki/Edison_Illuminating_Company",
+        "snippet": "On September 4, 1882, Edison's first central station , the Pearl Street Station, opened at 257 Pearl Street in Manhattan . The station was the first commercial power plant in the United States, and was the world's first cogeneration plant. The plant burned down on January 2, 1890. Only 1 dynamo (or generator) survived; it is currently displayed at the Henry Ford Museum .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Electricity’s early commercial story was only about generating power, not transmission, distribution, or sales.",
+      "verdict": "myth",
+      "explanation": "The electric power industry includes generation, transmission, distribution, and sale of power.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "technology",
+        "page_title": "Electric power industry",
+        "url": "https://en.wikipedia.org/wiki/Electric_power_industry",
+        "snippet": "The electric power industry covers the generation , transmission , distribution and sale of electric power to the general public and industry. The commercial distribution of electric power started in 1882 when electricity was produced for electric lighting . In the 1880s and 1890s, growing economic and safety concerns lead to the regulation of the industry.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After Pearl Street Station burns, what remains from the fire?",
+     "options": [
+      "One dynamo",
+      "The station’s control room",
+      "Three generators"
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "Only one dynamo survived the fire, and it is now displayed at the Henry Ford Museum."
+    }
+   }
+  },
+  "Why does the lone-genius story endure?": {
+   "index": 2,
+   "title": "Why the Lone Genius Endures",
+   "narration": "We left Edison and Tesla facing each other like two men at opposite ends of a bright, humming wire. You chose the question behind that picture: why does the lone-genius story endure? Here is the payoff. The duel is memorable because it gives a sprawling system a pair of faces. But the cards we have tell a more crowded story: laboratories, hired engineers, imported equipment, linked technical ideas, and the people whose work a famous name could gather around itself.\n\nThe phrase “great man” has a history of its own. Thomas Carlyle put the idea bluntly: “The History of the world is but the Biography of great men.” [c1] That sentence offers a clean plot. Find the hero, follow his character, and history seems to move in a straight line. It is a powerful storytelling machine. It also makes the supporting cast easy to lose.\n\nEdison gives us a perfect example of the problem. His name was registered on one thousand and ninety-three United States patents, and during his adult life he averaged a patent every ten to twelve days. [c2] That is an astonishing number attached to one name. But the same account says that Edison, as laboratory leader, was credited for inventions made in large part by the people working under him. [c3] The famous name is real; so is the laboratory behind it. Those two facts belong in the same sentence, even if the legend prefers to separate them.\n\nTesla, too, gives the story a face audiences can remember. He was a Serbian-American engineer, futurist, and inventor, known for contributions to the design of the modern alternating-current electricity supply system. [c4] That contribution matters. But “known for” is not the same as “did it alone.” The evidence we have describes a field of interlocking work, not a single hand reaching out to switch on the modern world.\n\nLook at George Westinghouse. In eighteen eighty-four, he began developing his own direct-current domestic lighting system and hired physicist William Stanley to help. [c5] The next year, Westinghouse learned of a transformer concept introduced by Lucien Gaulard and John Gibbs, then imported Gaulard–Gibbs transformers and a Siemens alternating-current generator to experiment with networks in Pittsburgh. [c6] That is already a cast list crossing countries and specialties. Then Stanley, assisted by engineers Albert Schmid and Oliver B. Shallenberger, dramatically improved the transformer design, making the first practical, manufacturable transformer described here. [c7]\n\nAnd the machinery was not one isolated clever object. The ZBD patents included innovations for connecting electrical loads in parallel rather than in series, and for using high-turns-ratio transformers so network voltage could be much higher than the voltage used by customers. [c8] Those are design choices that fit together. A system is made from relationships: generation, transformation, transmission, and delivery. The history of electric-power transmission reaches back to the late nineteenth century, and the terms for bulk movement and customer delivery were initially used interchangeably. [c9]\n\nNow the lone genius story makes its move. It takes that network and compresses it. Edison becomes the laboratory. Tesla becomes alternating current. Westinghouse, Stanley, Schmid, Shallenberger, Gaulard, Gibbs, and the generator become supporting scenery. That compression is my interpretation of why the duel works so well: two names are easier to carry in memory than a chain of inventions, hiring decisions, imported machines, and collaborations. The evidence gives us the ingredients; the neat two-man contest is the dramatic arrangement.\n\nAnd notice what that arrangement does emotionally. It offers a contest with a winner, instead of a system with many contributors. It turns an infrastructure problem into a character test. You do not need to remember how transformers and networks fit together; you only need to remember which genius you are rooting for. That is a satisfying story. It is also a story that can quietly transfer credit away from the workers named in the record.\n\nTolstoy pushed against this kind of history in War and Peace. He argued that the significance of great individuals was imaginary, and described them as “history’s slaves,” carrying out a larger decree. [c10] You do not have to follow Tolstoy all the way to accept his useful challenge: when a celebrated person appears to make history alone, ask who built the room, who supplied the tools, and whose labor became the celebrated person’s name.\n\nSo: Edison’s patent record is extraordinary, and his laboratory workers belong inside the story. Tesla’s contribution to alternating-current supply belongs there too, alongside Westinghouse’s experiments and the engineers who improved the transformer. The lone genius endures because a pair of faces makes a complicated system feel like a duel. But the light, in this telling, comes from a whole network.\n\nWhere should we go next: the inventors whose names history misplaced, the infrastructure that made electricity ordinary, or the great-man theory Carlyle helped make famous?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Carlyle stated that the history of the world is the biography of great men.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly attributes this formulation of great-man history to Carlyle.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "technology",
+       "page_title": "Great man theory",
+       "url": "https://en.wikipedia.org/wiki/Great_man_theory",
+       "snippet": "Carlyle stated that \"The History of the world is but the Biography of great men\", reflecting his belief that heroes shape history through both their personal attributes and divine inspiration. In his book Heroes and Hero-Worship , Carlyle saw history as having turned on the decisions, works, ideas and characters of \"heroes\", giving detailed analysis of six types: The hero as divinity (such as …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Edison's name was registered on 1,093 United States patents, averaging one patent every 10–12 days during his adult life.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states both the 1,093 U.S. patents and the average rate of one every 10–12 days during Edison’s adult life.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "technology",
+       "page_title": "Thomas Edison",
+       "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+       "snippet": "Edison's name is registered on 1,093 patents in the United States — during his adult life, he averaged a patent once every 10–12 days. As the leader of his laboratory, Edison was credited for inventions made in large part by those working under him . He worked extreme hours and expected those around him to follow suit.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "As leader of his laboratory, Edison was credited for inventions made largely by those working under him.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Edison was credited for inventions made in large part by people working under him.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "technology",
+       "page_title": "Thomas Edison",
+       "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+       "snippet": "Edison's name is registered on 1,093 patents in the United States — during his adult life, he averaged a patent once every 10–12 days. As the leader of his laboratory, Edison was credited for inventions made in large part by those working under him . He worked extreme hours and expected those around him to follow suit.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Tesla was a Serbian-American engineer, futurist, and inventor known for contributions to modern AC electricity supply design.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives Tesla’s Serbian-American identity and describes his contributions to modern AC electricity supply design.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "technology",
+       "page_title": "Nikola Tesla",
+       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+       "snippet": "Nikola Tesla (10 July 1856 – 7 January 1943) was a Serbian-American engineer, futurist , and inventor . He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Westinghouse began developing a DC domestic lighting system in 1884 and hired William Stanley to help.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Westinghouse began developing a DC domestic lighting system and hired Stanley in 1884.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "In 1884, Westinghouse began developing his own DC domestic lighting system and hired physicist William Stanley to help work on it. In 1885, Westinghouse became aware of the concept of an electrical transformer introduced by Frenchman Lucien Gaulard and Englishman John Gibbs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "In 1885, Westinghouse learned of Gaulard and Gibbs's transformer concept and imported transformers and a Siemens AC generator to experiment in Pittsburgh.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Both cards support the sequence: Westinghouse learned of the Gaulard–Gibbs transformer concept and imported transformers and a Siemens AC generator for Pittsburgh experiments in 1885.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "In 1884, Westinghouse began developing his own DC domestic lighting system and hired physicist William Stanley to help work on it. In 1885, Westinghouse became aware of the concept of an electrical transformer introduced by Frenchman Lucien Gaulard and Englishman John Gibbs.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E39",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "In 1885, Westinghouse imported several Gaulard–Gibbs transformers and a Siemens AC generator to begin experimenting with AC networks in Pittsburgh . Stanley, assisted by engineers Albert Schmid and Oliver B. Shallenberger , dramatically improved the Gaulard–Gibbs transformer design, creating the first practical and manufacturable transformer.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Stanley, assisted by Albert Schmid and Oliver B. Shallenberger, improved the Gaulard–Gibbs transformer into a practical, manufacturable design.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Stanley, assisted by Schmid and Shallenberger, improved the design into the first practical, manufacturable transformer.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "technology",
+       "page_title": "George Westinghouse",
+       "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+       "snippet": "In 1885, Westinghouse imported several Gaulard–Gibbs transformers and a Siemens AC generator to begin experimenting with AC networks in Pittsburgh . Stanley, assisted by engineers Albert Schmid and Oliver B. Shallenberger , dramatically improved the Gaulard–Gibbs transformer design, creating the first practical and manufacturable transformer.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The ZBD patents included parallel-connected loads and high-turns-ratio transformers allowing network voltage above customer-use voltage.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes both the parallel-connected loads and high-turns-ratio transformers that permitted higher network voltage than customer-use voltage.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "technology",
+       "page_title": "History of electric power transmission",
+       "url": "https://en.wikipedia.org/wiki/History_of_electric_power_transmission",
+       "snippet": "The ZBD patents included two other major interrelated innovations: one concerning the use of parallel connected, instead of series connected, utilization loads, the other concerning the ability to have high turns ratio transformers such that the supply network voltage could be much higher (initially 1,400 to 2,000 V) than the voltage of utilization loads (100 V initially preferred).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Electric-power transmission dates to the late nineteenth century, and transmission and distribution were initially used interchangeably.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that electric-power transmission dates to the late nineteenth century and that transmission and distribution were initially used interchangeably.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "technology",
+       "page_title": "History of electric power transmission",
+       "url": "https://en.wikipedia.org/wiki/History_of_electric_power_transmission",
+       "snippet": "Electric power transmission , the tools and means of moving electricity far from where it is generated, date back to the late 19th century. They include the movement of electricity in bulk (formally called \" transmission \") and the delivery of electricity to individual customers (\" distribution \"). In the beginning, the two terms were used interchangeably.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Tolstoy's War and Peace criticizes great-man theories, calling great individuals' significance imaginary and describing them as history's slaves.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly presents Tolstoy’s criticism of great-man theories and his description of great individuals as history’s slaves.",
+     "evidence": [
+      {
+       "id": "E36",
+       "pack": "technology",
+       "page_title": "Great man theory",
+       "url": "https://en.wikipedia.org/wiki/Great_man_theory",
+       "snippet": "Leo Tolstoy 's War and Peace features criticism of great-man theories as a recurring theme in the philosophical digressions. According to Tolstoy, the significance of great individuals is imaginary; as a matter of fact they are only \"history's slaves\", realising the decree of Providence.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Who built the inventions history credits to one name?",
+    "How did electric networks make power part of everyday life?",
+    "Carlyle's heroes: why do we keep telling history this way?"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Edison’s name was registered on 1,093 U.S. patents.",
+      "verdict": "fact",
+      "explanation": "The evidence gives that patent total and says he averaged one patent every 10 to 12 days during his adult life.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "technology",
+        "page_title": "Thomas Edison",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "snippet": "Edison's name is registered on 1,093 patents in the United States — during his adult life, he averaged a patent once every 10–12 days. As the leader of his laboratory, Edison was credited for inventions made in large part by those working under him . He worked extreme hours and expected those around him to follow suit.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Edison personally made most of the inventions credited to him.",
+      "verdict": "myth",
+      "explanation": "The evidence says that, as laboratory leader, Edison was credited for inventions made in large part by people working under him.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "technology",
+        "page_title": "Thomas Edison",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+        "snippet": "Edison's name is registered on 1,093 patents in the United States — during his adult life, he averaged a patent once every 10–12 days. As the leader of his laboratory, Edison was credited for inventions made in large part by those working under him . He worked extreme hours and expected those around him to follow suit.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Tesla alone created the modern alternating-current electricity supply system.",
+      "verdict": "myth",
+      "explanation": "Tesla is known for contributions to its design, but the chapter’s evidence also describes work by Westinghouse, Stanley, other engineers, and earlier transformer and generator developments.",
+      "evidence_ids": [
+       "E27",
+       "E38",
+       "E39"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "technology",
+        "page_title": "Nikola Tesla",
+        "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+        "snippet": "Nikola Tesla (10 July 1856 – 7 January 1943) was a Serbian-American engineer, futurist , and inventor . He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E38",
+        "pack": "technology",
+        "page_title": "George Westinghouse",
+        "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+        "snippet": "In 1884, Westinghouse began developing his own DC domestic lighting system and hired physicist William Stanley to help work on it. In 1885, Westinghouse became aware of the concept of an electrical transformer introduced by Frenchman Lucien Gaulard and Englishman John Gibbs.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E39",
+        "pack": "technology",
+        "page_title": "George Westinghouse",
+        "url": "https://en.wikipedia.org/wiki/George_Westinghouse",
+        "snippet": "In 1885, Westinghouse imported several Gaulard–Gibbs transformers and a Siemens AC generator to begin experimenting with AC networks in Pittsburgh . Stanley, assisted by engineers Albert Schmid and Oliver B. Shallenberger , dramatically improved the Gaulard–Gibbs transformer design, creating the first practical and manufacturable transformer.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Westinghouse brings in a transformer concept from Gaulard and Gibbs. What happens when Stanley and his fellow engineers work on it?",
+     "options": [
+      "They turn it into a practical, manufacturable design.",
+      "They replace it with a direct-current generator.",
+      "They abandon it in favor of series-connected loads."
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "Stanley, assisted by Albert Schmid and Oliver B. Shallenberger, improved the Gaulard–Gibbs transformer into a practical, manufacturable design."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9043,
+   "cached_tokens": 8040,
+   "cache_write_tokens": 499,
+   "output_tokens": 814,
+   "cost_usd": 0.00060018
+  },
+  {
+   "agent": "researcher",
+   "requests": 13,
+   "input_tokens": 40931,
+   "cached_tokens": 31114,
+   "cache_write_tokens": 8179,
+   "output_tokens": 1418,
+   "cost_usd": 0.00220632
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 22133,
+   "cached_tokens": 16630,
+   "cache_write_tokens": 4873,
+   "output_tokens": 8695,
+   "cost_usd": 0.00518593
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 22744,
+   "cached_tokens": 12220,
+   "cache_write_tokens": 9894,
+   "output_tokens": 3871,
+   "cost_usd": 0.00335744
+  }
+ ],
+ "build_cost_usd": 0.01135,
+ "build_seconds": 73.8
+}

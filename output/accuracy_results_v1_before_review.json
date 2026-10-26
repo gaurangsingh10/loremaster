@@ -1,0 +1,1892 @@
+[
+ {
+  "variant": "off",
+  "claims": 16,
+  "words": 728,
+  "judge_supported_pct": 93.8,
+  "misleading_as_fact": 1,
+  "misleading_pct": 6.2,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.00093,
+  "seconds": 10.2,
+  "misleading_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "overstated_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "U.S. community-property traditions derive from civil-law jurisdictions, including Spain.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "King Chindasuinth began the Visigothic Code in 642–643.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code abolished separate legal traditions for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The code described the kingdom's subjects collectively as Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Siete Partidas was among Castile's most important legal texts because it regulated many matters.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas later mattered to the Spanish Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas drew on Justinian Roman law, canon law, and feudal law, with Islamic-law influences.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c10",
+    "text": "U.S. community-property states draw primarily from French and Spanish marital-property laws.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "Texas is one of nine U.S. community-property states.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Depending on jurisdiction, premarital property and gifts or inheritances received during marriage may remain separate property at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c13",
+    "text": "Other property acquired during marriage is treated as community property subject to division at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Community property may be divided item by item or by values.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "The Siete Partidas entered Spanish America alongside Castilian law from the beginnings of European expansion into the New World.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "The evidence describes a sequence from Visigothic legal unification through Castilian law and the Partidas into Spanish America.",
+    "shown": "Documented",
+    "judge": "Documented"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "lite",
+  "claims": 16,
+  "words": 728,
+  "judge_supported_pct": 93.8,
+  "misleading_as_fact": 1,
+  "misleading_pct": 6.2,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001604,
+  "seconds": 17.6,
+  "misleading_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "overstated_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "U.S. community-property traditions derive from civil-law jurisdictions, including Spain.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "King Chindasuinth began the Visigothic Code in 642–643.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code abolished separate legal traditions for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The code described the kingdom's subjects collectively as Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Siete Partidas was among Castile's most important legal texts because it regulated many matters.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas later mattered to the Spanish Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas drew on Justinian Roman law, canon law, and feudal law, with Islamic-law influences.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c10",
+    "text": "U.S. community-property states draw primarily from French and Spanish marital-property laws.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "Texas is one of nine U.S. community-property states.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Depending on jurisdiction, premarital property and gifts or inheritances received during marriage may remain separate property at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c13",
+    "text": "Other property acquired during marriage is treated as community property subject to division at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Community property may be divided item by item or by values.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "The Siete Partidas entered Spanish America alongside Castilian law from the beginnings of European expansion into the New World.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "The evidence describes a sequence from Visigothic legal unification through Castilian law and the Partidas into Spanish America.",
+    "shown": "Unsupported",
+    "judge": "Documented"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "full",
+  "claims": 18,
+  "words": 733,
+  "judge_supported_pct": 94.4,
+  "misleading_as_fact": 1,
+  "misleading_pct": 5.6,
+  "overstated_as_fact": 1,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.003585,
+  "seconds": 33.8,
+  "misleading_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "overstated_examples": [
+   "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "The U.S. community-property tradition comes from civil-law jurisdictions, including Spain.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "King Chindasuinth began the Visigothic Code in 642–643.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The code sought common legal status for Visigothic and Spanish-Roman subjects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "The Visigothic Code abolished the separate laws for Romans and Visigoths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "Under the code, the subjects were collectively called Hispani rather than Romans and Goths.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Siete Partidas was one of Castile’s most important legal texts because it regulated many matters.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The Siete Partidas was an important legal text for the Spanish Empire.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "The Siete Partidas drew on Justinian Roman law, canon law, and feudal law, alongside Islamic-law influences.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "Maritime law and Indigenous law have also been asserted as sources of the Siete Partidas.",
+    "shown": "Documented",
+    "judge": "Debated"
+   },
+   {
+    "id": "c10",
+    "text": "U.S. community-property states draw primarily from French and Spanish marital-property laws.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c11",
+    "text": "Texas is one of nine U.S. community-property states.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Depending on jurisdiction, premarital property and gifts or inheritances received during marriage may remain separate property at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c13",
+    "text": "Other property acquired during marriage is treated as community property subject to division at divorce.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c14",
+    "text": "Community property may be divided item by item or by assigning values.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "The Siete Partidas entered Spanish America alongside Castilian law from the beginnings of European expansion into the New World.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c16",
+    "text": "Spanish marital-property law is among the primary influences on U.S. community-property states.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c17",
+    "text": "The Visigothic Code sought common legal status, the Partidas was important in Castile and the Spanish Empire, and the Partidas entered Spanish America alongside Castilian law.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c18",
+    "text": "U.S. community-property states draw primarily from French and Spanish marital-property laws.",
+    "shown": "Documented",
+    "judge": "Documented"
+   }
+  ],
+  "rewrote": true,
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "baseline",
+  "claims": 21,
+  "words": 773,
+  "judge_supported_pct": 0.0,
+  "misleading_as_fact": 21,
+  "misleading_pct": 100.0,
+  "overstated_as_fact": 3,
+  "unsourced_as_fact": 18,
+  "honestly_flagged": 21,
+  "gen_cost_usd": 0.000985,
+  "seconds": 19.8,
+  "misleading_examples": [
+   "Texas divorce law has a historical connection to legal traditions that passed through medieval Iberia.",
+   "Texas broadly distinguishes community property from separate property and requires a just-and-right division of the community estate at divorce.",
+   "The modern Texas rules are distinct from a simple claim that the state still applies Visigothic law unchanged.",
+   "The Liber Iudiciorum, or Lex Visigothorum, was promulgated under Recceswinth in 654 and later revised, seeking a common law for Gothic and Roman populations."
+  ],
+  "overstated_examples": [
+   "Texas broadly distinguishes community property from separate property and requires a just-and-right division of the community estate at divorce.",
+   "The Siete Partidas incorporated Roman and canon law alongside earlier Iberian traditions and covered multiple legal subjects.",
+   "Spanish imperial law crossed into the Americas alongside royal legislation for the Indies, local orders, and practices."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Texas divorce law has a historical connection to legal traditions that passed through medieval Iberia.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "Texas broadly distinguishes community property from separate property and requires a just-and-right division of the community estate at divorce.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c3",
+    "text": "The modern Texas rules are distinct from a simple claim that the state still applies Visigothic law unchanged.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The Liber Iudiciorum, or Lex Visigothorum, was promulgated under Recceswinth in 654 and later revised, seeking a common law for Gothic and Roman populations.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "Visigothic provisions on family and property provide historical context but do not prove that Texas courts apply a Visigothic divorce formula.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "Muslim forces began conquering much of Iberia in 711.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Medieval Iberia contained changing Muslim-ruled territories and Christian kingdoms rather than one stable political unit.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "Visigothic legal materials persisted in some Christian settings while kingdoms developed their own laws and practices.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c9",
+    "text": "The Siete Partidas was a major thirteenth-century Castilian compilation associated with Alfonso X.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "The Siete Partidas incorporated Roman and canon law alongside earlier Iberian traditions and covered multiple legal subjects.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c11",
+    "text": "The Siete Partidas was a later synthesis rather than merely the Visigothic code under another name.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "The Siete Partidas did not immediately displace every local custom or royal enactment, and its authority evolved over time.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "Legal rules can persist in revised form, be displaced, or influence later law without remaining verbatim.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "Spanish imperial law crossed into the Americas alongside royal legislation for the Indies, local orders, and practices.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c15",
+    "text": "New Spain was the Spanish colonial realm centered on Mexico.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "Texas passed through Spanish and Mexican jurisdictions before developing under United States constitutions, statutes, and courts.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "A historical legal lineage can be traced from Visigothic Iberia through Castilian law and Spanish America into Texas's regional history.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c18",
+    "text": "The legal lineage does not establish that a modern Texas property division is an unchanged Visigothic rule.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c19",
+    "text": "Texas courts apply contemporary law, including current statutes and decisions, in community-property cases.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "The Visigothic relationship is better characterized as a transformed historical ancestry than as legal identity.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c21",
+    "text": "The history of medieval Iberia can be examined beyond simplified legends of a unified Muslim Spain.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   }
+  ],
+  "thread": "texas-law-medieval-spain",
+  "evidence_cards": 7
+ },
+ {
+  "thread": "texas-law-medieval-spain",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.002129
+ },
+ {
+  "variant": "off",
+  "claims": 14,
+  "words": 761,
+  "judge_supported_pct": 92.9,
+  "misleading_as_fact": 1,
+  "misleading_pct": 7.1,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001072,
+  "seconds": 12.2,
+  "misleading_examples": [
+   "The Imperium of Man spans a galaxy and faces threats to human survival."
+  ],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Rome’s military readiness was chiefly based on an active force stationed at or beyond its frontiers.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Historian Edward Luttwak described Rome’s military arrangement as a thin linear perimeter.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Imperium of Man spans a galaxy and faces threats to human survival.",
+    "shown": "Documented",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The Astra Militarum is the largest coherent fighting force in the galaxy and is colloquially called the Imperial Guard in Low Gothic.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Astra Militarum is the Imperium’s primary military force and first line of defense against threats.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Constantine removed most military functions from the praetorian prefects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "Praetorian prefects remained responsible for army recruitment and supply under Constantine.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Five praetorian prefects were regularly appointed under Constantine, each overseeing a defined group of dioceses.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "The praetorian prefectures emerged as territorial administrative units during Constantine’s reign.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Great Crusade involved billions of troops and tens of thousands of voidships.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "The Emperor cannot interact day to day, leaving basic governance to the Senatorum Imperialis, an oligarchic council of powerful nobles and adepts.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The number of regiments raised from each world varies with population, from a handful on sparse worlds to hundreds annually on overcrowded Hive Worlds.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "Millions of guardsmen had fallen on Cadia alone.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Great Rift’s opening, Warp storms, and enemies emerging from its depths caused further losses.",
+    "shown": "Documented",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "lite",
+  "claims": 14,
+  "words": 761,
+  "judge_supported_pct": 92.9,
+  "misleading_as_fact": 1,
+  "misleading_pct": 7.1,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 1,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001704,
+  "seconds": 16.4,
+  "misleading_examples": [
+   "The Imperium of Man spans a galaxy and faces threats to human survival."
+  ],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Rome’s military readiness was chiefly based on an active force stationed at or beyond its frontiers.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Historian Edward Luttwak described Rome’s military arrangement as a thin linear perimeter.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Imperium of Man spans a galaxy and faces threats to human survival.",
+    "shown": "Canon",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The Astra Militarum is the largest coherent fighting force in the galaxy and is colloquially called the Imperial Guard in Low Gothic.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Astra Militarum is the Imperium’s primary military force and first line of defense against threats.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Constantine removed most military functions from the praetorian prefects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "Praetorian prefects remained responsible for army recruitment and supply under Constantine.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Five praetorian prefects were regularly appointed under Constantine, each overseeing a defined group of dioceses.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "The praetorian prefectures emerged as territorial administrative units during Constantine’s reign.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Great Crusade involved billions of troops and tens of thousands of voidships.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "The Emperor cannot interact day to day, leaving basic governance to the Senatorum Imperialis, an oligarchic council of powerful nobles and adepts.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The number of regiments raised from each world varies with population, from a handful on sparse worlds to hundreds annually on overcrowded Hive Worlds.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "Millions of guardsmen had fallen on Cadia alone.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Great Rift’s opening, Warp storms, and enemies emerging from its depths caused further losses.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "full",
+  "claims": 14,
+  "words": 759,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.003495,
+  "seconds": 28.5,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Rome’s military readiness was chiefly based on an active force stationed at or beyond its frontiers.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Historian Luttwak described Rome’s military arrangement as a thin linear perimeter.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "The Imperium faces myriad threats to the survival of humanity.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c4",
+    "text": "The Astra Militarum is the largest coherent fighting force in the galaxy and is colloquially called the Imperial Guard in Low Gothic.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "The Astra Militarum is the Imperium’s primary military force and first line of defense against threats.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c6",
+    "text": "Constantine removed most military functions from the praetorian prefects.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "Praetorian prefects remained responsible for army recruitment and supply under Constantine.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Five praetorian prefects were regularly appointed under Constantine, each overseeing a defined group of dioceses.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c9",
+    "text": "The praetorian prefectures emerged as territorial administrative units during Constantine’s reign.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c10",
+    "text": "The Great Crusade involved billions of troops and tens of thousands of voidships.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "The Emperor cannot interact day to day, leaving basic governance to the Senatorum Imperialis, an oligarchic council of powerful nobles and adepts.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c12",
+    "text": "The number of regiments raised from each world varies with population, from a handful on sparse worlds to hundreds annually on overcrowded Hive Worlds.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c13",
+    "text": "Millions of guardsmen had fallen on Cadia alone.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c14",
+    "text": "The Great Rift’s opening, Warp storms, and enemies emerging from its depths caused further losses.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "rewrote": true,
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "variant": "baseline",
+  "claims": 19,
+  "words": 725,
+  "judge_supported_pct": 10.5,
+  "misleading_as_fact": 17,
+  "misleading_pct": 89.5,
+  "overstated_as_fact": 2,
+  "unsourced_as_fact": 15,
+  "honestly_flagged": 17,
+  "gen_cost_usd": 0.000909,
+  "seconds": 23.2,
+  "misleading_examples": [
+   "Late Rome and the fictional Imperium can be compared as empires that bind wide territories through law and armies while treating order as survival, but the comparison is interpretive.",
+   "Late Rome faced military rivals, civil wars, and difficulties governing distant provinces, with pressures varying by time and region.",
+   "The western imperial government ended in the fifth century, while the eastern Roman Empire continued for nearly a millennium, centered on Constantinople.",
+   "In late Roman political thought, the emperor was associated with defense, justice, and public order."
+  ],
+  "overstated_examples": [
+   "Late Rome and the fictional Imperium can be compared as empires that bind wide territories through law and armies while treating order as survival, but the comparison is interpretive.",
+   "The chapter’s comparison between Roman imperial practices and the Imperium is an interpretive analogy rather than literal descent."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Late Rome and the fictional Imperium can be compared as empires that bind wide territories through law and armies while treating order as survival, but the comparison is interpretive.",
+    "shown": "Documented (ungraded)",
+    "judge": "Fan theory"
+   },
+   {
+    "id": "c2",
+    "text": "Late Rome faced military rivals, civil wars, and difficulties governing distant provinces, with pressures varying by time and region.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c3",
+    "text": "The western imperial government ended in the fifth century, while the eastern Roman Empire continued for nearly a millennium, centered on Constantinople.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The Imperium’s fictional setting depicts humanity facing alien, rebellious, and supernatural dangers across a galactic realm.",
+    "shown": "Documented (ungraded)",
+    "judge": "Canon"
+   },
+   {
+    "id": "c5",
+    "text": "In late Roman political thought, the emperor was associated with defense, justice, and public order.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "In Imperium lore, the Emperor is a sacred sovereign and institutions operate in his name to preserve humanity.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Roman governance used provincial administration, taxation, roads, legal traditions, and armies, with their roles changing over time.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "Roman law offered a shared framework for authority and status across a diverse empire without eliminating local custom everywhere.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c9",
+    "text": "The Imperium is depicted as a galactic apparatus of officials, armies, fleets, and compliance systems.",
+    "shown": "Documented (ungraded)",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "Roman armies guarded borders, campaigned beyond them, and sometimes participated in imperial political struggles.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "The Imperium’s fictional setting presents war and mobilization as permanent conditions.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "Late Roman emperors depended on revenue, loyalty, capable commanders, and functioning institutions, while military victories could not remove the costs of governance.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "The eastern empire survived through adaptation and changing borders, while Roman identity persisted in altered forms.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "The Imperium’s fictional ideology portrays compromise and vulnerability as dangerous in a perpetual emergency.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "Religious and imperial authority in Roman history sometimes cooperated and sometimes conflicted, with the relationship changing across time.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "The fictional Imperium’s Inquisition hunts threats to humanity, including heresy and corruption.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "Rome sought to govern provinces and peoples through force, law, and negotiation, with varying success.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c18",
+    "text": "The chapter’s comparison between Roman imperial practices and the Imperium is an interpretive analogy rather than literal descent.",
+    "shown": "Documented (ungraded)",
+    "judge": "Fan theory"
+   },
+   {
+    "id": "c19",
+    "text": "Late Rome experienced pressures and adaptation, while the Imperium is fictionally portrayed as trapped in an endless emergency.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   }
+  ],
+  "thread": "rome-imperium",
+  "evidence_cards": 7
+ },
+ {
+  "thread": "rome-imperium",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.002262
+ },
+ {
+  "variant": "off",
+  "claims": 12,
+  "words": 775,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.000934,
+  "seconds": 10.1,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "In 60 BC, Caesar, Crassus, and Pompey formed the First Triumvirate, an informal alliance that dominated Roman politics for several years.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The alliance's attempts to amass power were opposed by senators including Cato the Younger, with Cicero's private support.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Caesar was born on July 12 or 13, 100 BC, and was a Roman general, statesman, and author.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Caesar led Roman armies through the Gallic Wars and defeated Pompey in the civil war.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "Caesar was dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "During the Separatist Crisis, thousands of star systems seceded from the Galactic Republic and pledged loyalty to Count Dooku and the Confederacy of Independent Systems.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c7",
+    "text": "The Separatist Crisis lasted from 24 to 22 BBY, at the end of 1008 years of the Great Peace.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "Palpatine publicly hoped for diplomacy and avoiding war, while many Confederacy members sought freedom from what they saw as Republic corruption and did not want to fight.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "The Emergency Powers Act let Palpatine stay in office past his term for as long as the crisis lasted.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "After the Separatists' secret battle-droid army was revealed, Palpatine used the situation to secure emergency powers through Representative Jar Jar Binks.",
+    "shown": "Documented",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Augustus's reforms, enacted from 30 to 2 BC, transformed the Roman Republic's constitution into the Roman Empire's constitution.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Augustus took the title princeps, meaning roughly 'first in order,' traditionally associated with leading the Senate and speaking first.",
+    "shown": "Documented",
+    "judge": "Documented"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "lite",
+  "claims": 12,
+  "words": 775,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001531,
+  "seconds": 14.5,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "In 60 BC, Caesar, Crassus, and Pompey formed the First Triumvirate, an informal alliance that dominated Roman politics for several years.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The alliance's attempts to amass power were opposed by senators including Cato the Younger, with Cicero's private support.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Caesar was born on July 12 or 13, 100 BC, and was a Roman general, statesman, and author.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Caesar led Roman armies through the Gallic Wars and defeated Pompey in the civil war.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "Caesar was dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "During the Separatist Crisis, thousands of star systems seceded from the Galactic Republic and pledged loyalty to Count Dooku and the Confederacy of Independent Systems.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c7",
+    "text": "The Separatist Crisis lasted from 24 to 22 BBY, at the end of 1008 years of the Great Peace.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "Palpatine publicly hoped for diplomacy and avoiding war, while many Confederacy members sought freedom from what they saw as Republic corruption and did not want to fight.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "The Emergency Powers Act let Palpatine stay in office past his term for as long as the crisis lasted.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "After the Separatists' secret battle-droid army was revealed, Palpatine used the situation to secure emergency powers through Representative Jar Jar Binks.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Augustus's reforms, enacted from 30 to 2 BC, transformed the Roman Republic's constitution into the Roman Empire's constitution.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Augustus took the title princeps, meaning roughly 'first in order,' traditionally associated with leading the Senate and speaking first.",
+    "shown": "Documented",
+    "judge": "Documented"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "full",
+  "claims": 12,
+  "words": 775,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001531,
+  "seconds": 10.1,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "In 60 BC, Caesar, Crassus, and Pompey formed the First Triumvirate, an informal alliance that dominated Roman politics for several years.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "The alliance's attempts to amass power were opposed by senators including Cato the Younger, with Cicero's private support.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Caesar was born on July 12 or 13, 100 BC, and was a Roman general, statesman, and author.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Caesar led Roman armies through the Gallic Wars and defeated Pompey in the civil war.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "Caesar was dictator of the Roman Republic almost continuously from 49 BC until his assassination in 44 BC.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "During the Separatist Crisis, thousands of star systems seceded from the Galactic Republic and pledged loyalty to Count Dooku and the Confederacy of Independent Systems.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c7",
+    "text": "The Separatist Crisis lasted from 24 to 22 BBY, at the end of 1008 years of the Great Peace.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c8",
+    "text": "Palpatine publicly hoped for diplomacy and avoiding war, while many Confederacy members sought freedom from what they saw as Republic corruption and did not want to fight.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c9",
+    "text": "The Emergency Powers Act let Palpatine stay in office past his term for as long as the crisis lasted.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c10",
+    "text": "After the Separatists' secret battle-droid army was revealed, Palpatine used the situation to secure emergency powers through Representative Jar Jar Binks.",
+    "shown": "Canon",
+    "judge": "Canon"
+   },
+   {
+    "id": "c11",
+    "text": "Augustus's reforms, enacted from 30 to 2 BC, transformed the Roman Republic's constitution into the Roman Empire's constitution.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c12",
+    "text": "Augustus took the title princeps, meaning roughly 'first in order,' traditionally associated with leading the Senate and speaking first.",
+    "shown": "Documented",
+    "judge": "Documented"
+   }
+  ],
+  "rewrote": false,
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 8
+ },
+ {
+  "variant": "baseline",
+  "claims": 37,
+  "words": 745,
+  "judge_supported_pct": 8.1,
+  "misleading_as_fact": 34,
+  "misleading_pct": 91.9,
+  "overstated_as_fact": 3,
+  "unsourced_as_fact": 31,
+  "honestly_flagged": 34,
+  "gen_cost_usd": 0.001249,
+  "seconds": 24.3,
+  "misleading_examples": [
+   "The chapter frames a republic in crisis and a leader accumulating extraordinary authority as its central parallel.",
+   "Palpatine's rise takes place within the fictional Galactic Republic's crisis and transformation.",
+   "The comparison between Rome and Star Wars does not by itself prove direct inspiration.",
+   "Rome's crisis predated Julius Caesar's march on Rome."
+  ],
+  "overstated_examples": [
+   "Caesar held repeated consulships and dictatorships and was named dictator perpetuo in 44 BCE.",
+   "Augustus exercised authority through offices, honors, control of important provinces and armies, and prestige, while republican institutions continued to operate.",
+   "The fictional Republic faces secession and war, and Palpatine acquires emergency authority as the Separatist conflict deepens."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "The chapter frames a republic in crisis and a leader accumulating extraordinary authority as its central parallel.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "Julius Caesar and Augustus are central historical figures in Rome's transition from Republic to imperial rule.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Palpatine's rise takes place within the fictional Galactic Republic's crisis and transformation.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "The comparison between Rome and Star Wars does not by itself prove direct inspiration.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "Rome's crisis predated Julius Caesar's march on Rome.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "Roman expansion brought wealth, territory, enslaved people, and new responsibilities into a political system originally built for a smaller city-state.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "Late-Republic political competition included disputes over land, military command, and political power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c8",
+    "text": "The late Republic experienced violence, inequality, and political rivalry before Caesar's rise.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c9",
+    "text": "In 88 BCE, consul Lucius Cornelius Sulla marched on Rome amid a struggle over command against Mithridates.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "Sulla's march established a shocking precedent of using troops to settle a political contest in Rome.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "Sulla later became dictator with powers to remake the state, and his proscriptions killed or dispossessed opponents.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "Sulla's dictatorship ended, but the precedent of extraordinary personal rule remained part of Roman political memory.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "Caesar's rise occurred amid armed competition and fragile political conventions.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "Caesar was consul in 59 BCE, campaigned in Gaul, and later faced conflict with the Senate and Pompey.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c15",
+    "text": "Caesar crossed the Rubicon with his army in 49 BCE, beginning a civil war that ended in his victory.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "Caesar's Rubicon crossing represented a commander bringing an army into Roman political conflict.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "Caesar held repeated consulships and dictatorships and was named dictator perpetuo in 44 BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c18",
+    "text": "Caesar's supporters could portray his concentrated authority as necessary for order and reform.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c19",
+    "text": "Caesar's opponents feared that permanent personal supremacy would destroy the Republic's political balance.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "Senators assassinated Caesar on the Ides of March in 44 BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c21",
+    "text": "Caesar's assassination did not restore the Republic's previous settlement, and further civil wars followed.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c22",
+    "text": "The political aftermath of Caesar's assassination enabled another transformation of Roman government.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c23",
+    "text": "Octavian, Mark Antony, and Lepidus formed the Second Triumvirate, a legally constituted alliance with exceptional powers that acted against enemies.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c24",
+    "text": "Octavian defeated Antony and Cleopatra at Actium in 31 BCE.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c25",
+    "text": "In 27 BCE Octavian took the name Augustus and presented a new arrangement as a restoration of the Republic.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c26",
+    "text": "Augustus did not simply declare himself king.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c27",
+    "text": "Augustus exercised authority through offices, honors, control of important provinces and armies, and prestige, while republican institutions continued to operate.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c28",
+    "text": "The Principate is commonly characterized as monarchy in practice expressed through republican language and institutions.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c29",
+    "text": "Augustus's concentration of power while preserving republican appearances proved more durable than Caesar's openly exceptional dictatorship.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c30",
+    "text": "The Star Wars prequel story includes a fictional Galactic Republic.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c31",
+    "text": "The fictional Republic faces secession and war, and Palpatine acquires emergency authority as the Separatist conflict deepens.",
+    "shown": "Documented (ungraded)",
+    "judge": "Conflicting"
+   },
+   {
+    "id": "c32",
+    "text": "Palpatine presents expanding power as necessary and temporary while rule by exception becomes normalized.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c33",
+    "text": "Palpatine announces the reorganization of the Republic into the first Galactic Empire.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c34",
+    "text": "Roman history offers parallels involving emergencies, military force in politics, claims of necessity, and institutions retaining form while losing power.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c35",
+    "text": "The Roman sequence is not a one-to-one blueprint for Palpatine, and resemblance alone cannot prove direct influence.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c36",
+    "text": "Augustus and Palpatine belong to different stories with different settings and consequences.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c37",
+    "text": "The chapter argues that republics can be surrendered through extraordinary powers granted across successive crises.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   }
+  ],
+  "thread": "republic-galactic-empire",
+  "evidence_cards": 8
+ },
+ {
+  "thread": "republic-galactic-empire",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.001669
+ },
+ {
+  "variant": "off",
+  "claims": 7,
+  "words": 726,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001,
+  "seconds": 11.9,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Military orders were Latin Catholic religious orders of knights, and the Templars and Hospitallers were among the original examples.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Most members of military orders were laymen who took vows of poverty, chastity, and obedience according to monastic ideals.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Military orders had a hierarchy topped by a grand master and owned houses called commanderies across Europe.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Templar sergeants from non-noble families supplied trades and administrative work, and fought beside knights as light cavalry with one horse.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s, hiring knights, and became a chartered military religious order charged with care and defense of the Holy Land.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Hospitallers fought at the Siege of Ascalon in 1153, and the fort surrendered to the Crusaders on August 22, 1153.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The lore describes just over a thousand Space Marine Chapters scattered across the Imperium, each a brotherhood of its finest warriors.",
+    "shown": "Documented",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "lite",
+  "claims": 7,
+  "words": 726,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001455,
+  "seconds": 15.2,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Military orders were Latin Catholic religious orders of knights, and the Templars and Hospitallers were among the original examples.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Most members of military orders were laymen who took vows of poverty, chastity, and obedience according to monastic ideals.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Military orders had a hierarchy topped by a grand master and owned houses called commanderies across Europe.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Templar sergeants from non-noble families supplied trades and administrative work, and fought beside knights as light cavalry with one horse.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s, hiring knights, and became a chartered military religious order charged with care and defense of the Holy Land.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Hospitallers fought at the Siege of Ascalon in 1153, and the fort surrendered to the Crusaders on August 22, 1153.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The lore describes just over a thousand Space Marine Chapters scattered across the Imperium, each a brotherhood of its finest warriors.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "full",
+  "claims": 7,
+  "words": 726,
+  "judge_supported_pct": 100.0,
+  "misleading_as_fact": 0,
+  "misleading_pct": 0.0,
+  "overstated_as_fact": 0,
+  "unsourced_as_fact": 0,
+  "honestly_flagged": 0,
+  "gen_cost_usd": 0.001455,
+  "seconds": 11.9,
+  "misleading_examples": [],
+  "overstated_examples": [],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "Military orders were Latin Catholic religious orders of knights, and the Templars and Hospitallers were among the original examples.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c2",
+    "text": "Most members of military orders were laymen who took vows of poverty, chastity, and obedience according to monastic ideals.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Military orders had a hierarchy topped by a grand master and owned houses called commanderies across Europe.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c4",
+    "text": "Templar sergeants from non-noble families supplied trades and administrative work, and fought beside knights as light cavalry with one horse.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c5",
+    "text": "The Order of Saint John was militarized in the 1120s and 1130s, hiring knights, and became a chartered military religious order charged with care and defense of the Holy Land.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c6",
+    "text": "The Hospitallers fought at the Siege of Ascalon in 1153, and the fort surrendered to the Crusaders on August 22, 1153.",
+    "shown": "Documented",
+    "judge": "Documented"
+   },
+   {
+    "id": "c7",
+    "text": "The lore describes just over a thousand Space Marine Chapters scattered across the Imperium, each a brotherhood of its finest warriors.",
+    "shown": "Canon",
+    "judge": "Canon"
+   }
+  ],
+  "rewrote": false,
+  "thread": "crusades-space-marines",
+  "evidence_cards": 6
+ },
+ {
+  "variant": "baseline",
+  "claims": 26,
+  "words": 580,
+  "judge_supported_pct": 7.7,
+  "misleading_as_fact": 24,
+  "misleading_pct": 92.3,
+  "overstated_as_fact": 2,
+  "unsourced_as_fact": 22,
+  "honestly_flagged": 24,
+  "gen_cost_usd": 0.00097,
+  "seconds": 18.3,
+  "misleading_examples": [
+   "The chapter opens with the image of a monk taking up a sword.",
+   "Christian forces captured Jerusalem in 1099 during the First Crusade, after which Latin Christian rulers established states in the eastern Mediterranean.",
+   "Pilgrims traveled to holy places, and routes and settlements could be dangerous while the new states needed defenders.",
+   "The Templars and Hospitallers emerged from the Crusading world with different original purposes."
+  ],
+  "overstated_examples": [
+   "Care for the sick remained central to the Hospitallers' institutional identity even as armed service became part of their role.",
+   "The Space Marines resemble the warrior-monk ideal through vows, brotherhood, discipline, sacred language, and violence framed as service."
+  ],
+  "claims_detail": [
+   {
+    "id": "c1",
+    "text": "The chapter opens with the image of a monk taking up a sword.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c2",
+    "text": "During the Crusading era, religious orders joined devotion and discipline to armed service.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c3",
+    "text": "Christian forces captured Jerusalem in 1099 during the First Crusade, after which Latin Christian rulers established states in the eastern Mediterranean.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c4",
+    "text": "Pilgrims traveled to holy places, and routes and settlements could be dangerous while the new states needed defenders.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c5",
+    "text": "The Templars and Hospitallers emerged from the Crusading world with different original purposes.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c6",
+    "text": "The Hospitallers grew from a Jerusalem charitable institution caring for sick and poor pilgrims, with roots predating the First Crusade's conquest of the city.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c7",
+    "text": "In the twelfth century, the Hospitallers took on military responsibilities alongside charitable work.",
+    "shown": "Documented (ungraded)",
+    "judge": "Documented"
+   },
+   {
+    "id": "c8",
+    "text": "Care for the sick remained central to the Hospitallers' institutional identity even as armed service became part of their role.",
+    "shown": "Documented (ungraded)",
+    "judge": "Debated"
+   },
+   {
+    "id": "c9",
+    "text": "The Templars arose in the early twelfth century with an explicitly martial mission.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c10",
+    "text": "Tradition holds that a small group of knights associated with Hugh of Payns organized to protect pilgrims in the region.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c11",
+    "text": "The Templars received formal recognition at the Council of Troyes in 1129 and adopted a rule shaped by monastic discipline.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c12",
+    "text": "The Templars took their name from their association with Jerusalem's Temple Mount, understood by Latin Christians as the site of Solomon's Temple.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c13",
+    "text": "The Hospitallers began in charitable care and expanded into warfare, while the Templars began as armed protectors and adopted a religious rule.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c14",
+    "text": "Both orders became transregional institutions supported by property and donations and operated across Crusader states and western Europe.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c15",
+    "text": "The Templars and Hospitallers were neither simply armies with unusual uniforms nor ordinary monasteries that happened to possess weapons.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c16",
+    "text": "The orders represented an institutional answer to whether fighting could be made a form of religious service.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c17",
+    "text": "The answer to whether fighting could be religious service was not uncomplicated.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c18",
+    "text": "Vows and communal regulation could discipline violence but could not make warfare harmless or eliminate spiritual tensions over bloodshed.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c19",
+    "text": "The orders' existence reflects medieval attempts to manage violence as well as commitment to battle.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c20",
+    "text": "The Adeptus Astartes are armored warriors in Warhammer 40,000 shaped by ritual, hierarchy, and devotion to a cause.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c21",
+    "text": "The Space Marines resemble the warrior-monk ideal through vows, brotherhood, discipline, sacred language, and violence framed as service.",
+    "shown": "Documented (ungraded)",
+    "judge": "Fan theory"
+   },
+   {
+    "id": "c22",
+    "text": "Resemblance alone does not prove that one tradition descends from another.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c23",
+    "text": "The Templars and Hospitallers are a useful historical comparison for sacred warriors, but are not established here as a direct source for the Space Marines.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c24",
+    "text": "The comparison between medieval orders and the Space Marines opens a rich line of inquiry.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c25",
+    "text": "Medieval orders explored the coexistence of religious life and warfare, a tension science fiction can magnify and transpose to space.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   },
+   {
+    "id": "c26",
+    "text": "The enduring question is what vows do to violence and what violence does to vows.",
+    "shown": "Documented (ungraded)",
+    "judge": "Unsupported"
+   }
+  ],
+  "thread": "crusades-space-marines",
+  "evidence_cards": 6
+ },
+ {
+  "thread": "crusades-space-marines",
+  "variant": "_judge_cost",
+  "gen_cost_usd": 0.001252
+ }
+]

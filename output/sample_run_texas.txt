@@ -1,0 +1,115 @@
+  [showrunner] started plan: Texas Law & Medieval Spain
+  [showrunner] done plan: Texas Law & Medieval Spain 3.3s $0.00019
+  [researcher] started chapter 1: The King in the Courthouse
+      ↳ search_wiki(history: Texas community property origins Visigothic Code Castilian law Siete Partidas New Spain) → 0 results
+      ↳ search_wiki(history: Visigothic Code community property marital property) → 5 results
+      ↳ search_wiki(history: Siete Partidas community property Texas Spanish law) → 5 results
+      ↳ search_wiki(history: Texas community property Spanish Mexican law origins Texas statute) → 5 results
+      ↳ read_page(history: Treaty of Guadalupe Hidalgo) → 3 cards
+      ↳ read_page(history: Community property in the United States) → 3 cards
+  [researcher] done chapter 1: The King in the Courthouse 11.4s $0.00051
+  [storyteller] started chapter 1: The King in the Courthouse
+  [storyteller] done chapter 1: The King in the Courthouse 9.7s $0.00110
+  [skeptic] started chapter 1: grade 14 claims
+  [skeptic] done chapter 1: grade 14 claims 4.3s $0.00058
+  ** choice: {"branch": "Trace the Visigothic Code through Spanish law", "chapter": 1}
+  [showrunner] started next beat: Trace the Visigothic Code through Spanis
+  [showrunner] done next beat: Trace the Visigothic Code through Spanis 3.0s $0.00016
+  [researcher] started chapter 2: From Visigothic Code to Texas
+      ↳ search_wiki(history: Siete Partidas) → 5 results
+      ↳ search_wiki(history: Fuero Juzgo) → 5 results
+      ↳ search_wiki(history: Visigothic Code) → 5 results
+      ↳ search_wiki(history: Texas community property Spanish law origins) → 5 results
+      ↳ read_page(history: Fuero Juzgo) → 2 cards
+      ↳ read_page(history: Visigothic Code) → 3 cards
+      ↳ read_page(history: Siete Partidas) → 3 cards
+      ↳ read_page(history: Spanish Texas) → 3 cards
+  [researcher] done chapter 2: From Visigothic Code to Texas 6.9s $0.00060
+  [storyteller] started chapter 2: From Visigothic Code to Texas
+  [storyteller] done chapter 2: From Visigothic Code to Texas 12.0s $0.00101
+  [skeptic] started chapter 2: grade 11 claims
+  [skeptic] done chapter 2: grade 11 claims 4.5s $0.00056
+  [librarian] started further reading
+  [librarian] done further reading 4.8s $0.00006
+
+=== Texas, Visigoths, and the Muslim Spain Myth [done] 
+
+--- Chapter 1: The King in the Courthouse (612 words)
+Here’s a question for your next trip to the courthouse: when a marriage ends, why might the law treat what you built together as belonging to both of you? Texas community-property law has a long ancestry. But the story is not a straight jump from a medieval Spanish king to a modern judge. [c1]
+
+Think of the “Visigothic king” as an image, not a man in a courtroom whispering into Texas law. The documented trail runs through legal systems and borders: from the Visigothic Code, through Spanish law, into Mexico’s system, and onward into parts of the American West. [c2] That chain is the story. And every link matters.
+
+So what does community property mean in practice? In general, property owned by one spouse before marriage, along with gifts and inheritances received during marriage, can remain that spouse’s separate property. Other property acquired during marriage is treated as community property and is subject to division in a divorce. [c3] The exact rules depend on the jurisdiction. [c4]
+
+That distinction sounds technical until you imagine the moment it matters. A home, a business, savings built over years: the court must decide what belongs to whom. The system offers a framework for sorting those claims. Depending on the jurisdiction, division can happen item by item or by assigning values. [c5]
+
+Now pull back. Community property began in civil-law jurisdictions, though it is also found in some common-law jurisdictions. [c6] The American states that use it draw primarily on marital-property laws from the civil law of France and Spain. [c7] That is already more complicated than the tidy legend. There isn’t one ancient switch that flips from a king’s code to your divorce decree. There are legal traditions carried, adapted, and adopted across time.
+
+Here’s the geographic clue. Community-property states in the United States are primarily in the West. [c8] One account traces the system through Mexico’s ganancial community system, inherited from Spanish law, which it describes as a Roman-derived civil-law tradition, and ultimately to the Visigothic Code. [c9] Another account says Spain adopted the Visigothic Code and brought it to the Americas, including territories of Mexico later ceded to the United States. [c10]
+
+That is a lineage, not a magic spell. The code does not leap centuries intact into a Texas courthouse. Legal forms travel with people and governments; local systems inherit them and reshape them. The available account says each state had different motivations for adopting the Spanish approach, but one shared reason was that the approach had already been in place in the region for many years. [c11]
+
+And the transfer of territory was not an abstract map exercise. The Treaty of Guadalupe Hidalgo’s Articles Eight and Nine sought to protect existing property rights of Mexican citizens in transferred territories. [c12] Yet land grants made by the Mexican government were often not honored by the United States, despite those assurances, because of changes in treaty interpretation and American legal decisions. [c13] So when we tell a story about inherited law, we must also hear the harder story: legal continuity did not guarantee that every person’s property claim survived.
+
+If you ask me, the king is a useful silhouette. He gives the distant past a face. But the real protagonist is a chain of legal traditions, carried through Spain and Mexico, then encountered by American states with their own choices. That chain helps explain why a modern property rule can have roots much older than the state that applies it. [c14]
+
+Next, we can follow the Visigothic Code through Spanish law, examine the Mexican legal bridge, or confront the treaty and the property rights it promised to protect. Which trail do you want?
+     c1 Documented   Texas community-property law has a long ancestry but is not a direct leap from medieval Spain to a modern cour
+     c2 Documented   The documented lineage runs from the Visigothic Code through Spanish and Mexican legal traditions into parts o
+     c3 Documented   Property owned before marriage and gifts or inheritances received during marriage may remain separate, while o
+     c4 Documented   Treatment of property under community-property regimes depends on jurisdiction.
+     c5 Documented   Community property may be divided item by item or by assigning values, depending on jurisdiction.
+     c6 Documented   Community property originated in civil-law jurisdictions and is also found in some common-law jurisdictions.
+     c7 Documented   US states with community-property laws draw primarily from French and Spanish civil-law marital-property rules
+     c8 Documented   US states recognizing community property are primarily in the West.
+     c9 Documented   One account traces US community property through Mexico’s ganancial community system and Spanish law to the Vi
+    c10 Documented   Spain adopted the Visigothic Code and brought it to the Americas, including former Mexican territories ceded t
+    c11 Documented   States adopting the Spanish approach had different motivations, but a shared factor was its long-standing regi
+    c12 Documented   Articles VIII and IX of the Treaty of Guadalupe Hidalgo addressed protection of existing property rights of Me
+    c13 Documented   Mexican-government land grants were often not honored by the United States despite treaty assurances, amid uni
+    c14 Documented   The modern rule is best understood as a chain of legal traditions that crossed Spain and Mexico and was adopte
+   branches: ['Trace the Visigothic Code through Spanish law', 'Follow Mexico’s ganancial community system', 'Examine the treaty and contested property rights'] | chosen: Trace the Visigothic Code through Spanish law
+
+--- Chapter 2: From Visigothic Code to Texas (688 words)
+Last time, we put a courthouse question on the table: why can Texas treat some property as belonging to both spouses? You chose to follow the legal trail backward, toward the Visigothic Code.
+
+Here’s the payoff. Not a magic rule surviving unchanged for more than a thousand years. A chain of legal systems, each carrying, translating, and reshaping material from the one before it.
+
+Start with the Visigothic kingdom. King Chindasuinth began a law code in six hundred forty-two or six hundred forty-three, aiming to establish common legal status for Visigothic and Spanish-Roman subjects. [c1] That aim matters. This was not simply a private family custom. It was part of a larger effort to make a kingdom legible to its people through law.
+
+The code did not freeze in place. The six hundred fifty-four code was enlarged by legislation under Recceswinth and later kings. [c2] Recceswinth’s version was edited by Braulio of Zaragoza, after Chindasuinth’s original code had been hastily written and promulgated. [c3] Already, the story is less like a baton passed untouched and more like a manuscript repeatedly revised. That image is my interpretation, but the revisions are the point: legal inheritance can be real without being motionless.
+
+Now jump forward to Castile. In twelve forty-one, Fernando the Third enacted the Fuero Juzgo, a Castilian legal codex that was essentially a translation of the Liber Iudiciorum, formulated by the Visigoths in six hundred fifty-four. [c4] There’s the clearest bridge in our story: not a vague resemblance, but a named later text built through translation from an earlier one.
+
+And translation is not the same thing as unchanged survival. The Fuero Juzgo was applied as a local law in several kingdoms in the middle of the Iberian Peninsula that Castile slowly reconquered from Muslim rulers. [c5] In thirteen forty-eight, the Ordenamiento de Alcalá gave the Fuero Juzgo legal preeminence over the Siete Partidas. [c6] A law’s place in the system could shift. Texts could be translated, applied locally, and ranked against other bodies of law. The lineage is documented; the idea of one identical rule marching straight from a Visigothic court into a Texas courtroom is not the story these milestones tell.
+
+Then comes the Siete Partidas, the great Castilian legal work associated with Alfonso the Tenth. It stands at the high point of the acceptance in Spain of common law drawn from Roman and canon-law traditions. [c7] It became one of the most important legal texts for governing Castile and later the Spanish Empire. [c8] This is a crucial turn: Spanish law was not one sealed inheritance. It absorbed and organized traditions, then carried legal texts into a much larger imperial world.
+
+From the beginnings of European expansion into the New World, the Siete Partidas was introduced to Spanish America along with Castilian law. [c9] That gives us a documented route toward the legal world that shaped Spanish Texas. And Texas did not simply keep every Spanish institution intact. It eventually adopted much of the Anglo-American legal system, while retaining some Spanish legal practices. [c10]
+
+Among those practices, Texas retains community property and the homestead exemption. [c11] Here’s my take: the courthouse connection is powerful precisely because it is a history of adaptation, not a family heirloom sealed in glass. A legal idea crosses languages, kingdoms, and empires, then meets a new political system. What survives is not necessarily the same rule in the same form. It is a tradition with a traceable ancestry.
+
+And what about the popular claim that Texas community property comes directly from Islamic law? The chain we have traced gives us a much firmer path through Visigothic law, Castilian law, and Spanish legal practice carried into the Americas. It does not establish a direct Islamic-law origin. Treat that sweeping claim cautiously, not as the proven source of Texas law.
+
+So the courthouse hook lands, but with a sharper edge. The Visigothic Code is not a secret Texas statute in disguise. It is an ancestor in a documented legal lineage, transformed along the way. The question now is what other Texas institutions carry Spanish legal inheritances—and where those inheritances changed beyond recognition.
+     c1 Documented   Chindasuinth began a code in 642–643 seeking common legal status for Visigothic and Spanish-Roman subjects.
+     c2 Documented   The 654 code was enlarged by legislation under Recceswinth and later kings.
+     c3 Documented   Braulio of Zaragoza edited Recceswinth's code after Chindasuinth's original was hastily written and promulgate
+     c4 Documented   Fernando III enacted the Fuero Juzgo in Castile in 1241 as essentially a translation of the Visigothic Liber I
+     c5 Documented   The Fuero Juzgo was applied locally in several central Iberian kingdoms reconquered by Castile from Muslim rul
+     c6 Documented   The 1348 Ordenamiento de Alcalá granted the Fuero Juzgo legal preeminence over the Siete Partidas.
+     c7 Documented   The Siete Partidas represented a high point of accepting common law from Roman and canonical traditions in Spa
+     c8 Documented   The Siete Partidas was important in governing Castile and later the Spanish Empire.
+     c9 Documented   The Siete Partidas entered Spanish America with Castilian law from the beginnings of European expansion into t
+    c10 Documented   Texas eventually adopted much of the Anglo-American legal system while retaining some Spanish legal practices.
+    c11 Documented   Spanish legal practices retained in Texas include community property and the homestead exemption.
+   branches: ['Texas homestead law and the Spanish inheritance', 'How Castilian law crossed into New Spain', 'Compare Texas community property with other states'] | chosen: None
+
+Usage by agent:
+  showrunner   req=2   in=3920    cached=3454    write=214    out=514    $0.00034
+  researcher   req=7   in=19459   cached=14463   write=4114   out=717    $0.00111
+  storyteller  req=2   in=6766    cached=2546    write=3968   out=3136   $0.00211
+  skeptic      req=2   in=7439    cached=3386    write=3801   out=1211   $0.00114
+  librarian    req=1   in=1561    cached=1324    write=111    out=39     $0.00006
+TOTAL $0.00476   episode id 922be2ee2e
+saved sample episode for Demo mode

@@ -1,0 +1,32 @@
+{
+ "steps": [
+  {
+   "agent": "Showrunner",
+   "t": 1.1
+  },
+  {
+   "agent": "Researcher",
+   "t": 5.9
+  },
+  {
+   "agent": "Storyteller",
+   "t": 12.5
+  },
+  {
+   "agent": "Skeptic",
+   "t": 22.4
+  }
+ ],
+ "choice": "Follow Diocletian and Rome\u2019s military restructuring",
+ "episode": {
+  "id": "15e5e31d14",
+  "title": "Rome in the Stars",
+  "thread_title": "Rome \u2192 Imperium of Man",
+  "status": "done",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "total_usd": 0.00775483,
+  "updated": "2026-10-23T20:47:17+00:00"
+ }
+}

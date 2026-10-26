@@ -1,0 +1,21 @@
+{
+  "id": "star_wars",
+  "name": "Star Wars",
+  "wiki": "Wookieepedia",
+  "api": "https://starwars.fandom.com/api.php",
+  "page_url": "https://starwars.fandom.com/wiki/{title}",
+  "domains": [
+    "starwars.fandom.com"
+  ],
+  "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0",
+  "kind": "lore",
+  "scale": [
+    "Canon",
+    "Legends",
+    "Conflicting",
+    "Fan theory",
+    "Interpretation",
+    "Unsupported"
+  ],
+  "grading_rules": "Canon = stated on a canon Wookieepedia page (titles WITHOUT '/Legends'). Legends = only supported by a page whose title ends in '/Legends' (the pre-2014 Expanded Universe Lucasfilm rebranded as Legends). Conflicting = canon sources disagree. Fan theory = popular interpretation or speculation the evidence does not confirm (or real-world inspiration claims that only appear as creator commentary). Unsupported = no evidence card says it. Grade canon STATUS, not paraphrase: hedged or multiply-told events are Conflicting. Interpretation = history-to-fiction parallels and narrator framing."
+}

@@ -1,0 +1,1390 @@
+{
+ "thread": {
+  "id": "placebo-effect",
+  "title": "The Placebo Effect: Medicine's Strangest Truth",
+  "hook": "Sugar pills that help, even when patients know they're sugar pills. What the evidence really says, and what it doesn't.",
+  "mode": "history",
+  "packs": [
+   "science"
+  ],
+  "era": "Medicine, 18th century to today",
+  "universe": "",
+  "curated": true,
+  "genre": "science"
+ },
+ "title": "The Placebo Effect: Medicine’s Strangest Truth",
+ "logline": "Can a sugar pill help when you know it’s a sugar pill—and what does the evidence actually prove?",
+ "plan": [
+  {
+   "title": "The Open-Label Paradox",
+   "focus": "Open with the surprising question of how an openly identified placebo might affect symptoms, then distinguish reported benefits from proof that a treatment changes the underlying disease. Set up the key tension: expectations and care may matter, but the effect is not a license to assume every illness responds.",
+   "queries": [
+    "science: Open-label placebo",
+    "science: Placebo effect",
+    "science: Placebo clinical trial"
+   ],
+   "packs": [
+    "science"
+   ]
+  },
+  {
+   "title": "What the Evidence Can’t Promise",
+   "focus": "Put the popular claim that placebos broadly heal people on trial: examine what evidence says about symptom outcomes, study limitations, and the difference between feeling better and curing disease. End with a careful takeaway about what remains uncertain and why placebo comparisons matter in testing treatments.",
+   "queries": [
+    "science: Placebo effect clinical trials",
+    "science: Placebo-controlled study",
+    "science: Nocebo"
+   ],
+   "packs": [
+    "science"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Open-Label Paradox",
+  "narration": "Imagine a clinic where the bottle says, plainly, “placebo.” No disguise. No secret ingredient. You know the pill is inert, and still you’re asked: could taking it change how you feel? That question sounds like a prank. It is also a question researchers have put to trials. [c1]\n\nTo see why, start with the ordinary placebo-controlled study. One group receives the treatment being tested; another receives a sham treatment designed to have no real effect. [c2] That control group gives researchers a comparison. Placebo-controlled studies are used to assess the efficacy of medicinal treatments. [c3]\n\nThe terminology has a trapdoor. A placebo response is any change seen in the control group. The placebo effect, in this distinction, is the difference between that response and the result of no treatment. [c4] Those are not interchangeable labels. A person can improve while receiving a placebo, but that observation alone does not tell us what caused the improvement.\n\nAnd here, it is tempting to reach for explanations: expectations, attention, the ritual of treatment. Those are possibilities to investigate, not findings established by the cards in front of us. So let’s keep the central question narrow: what do trials report, and what remains open?\n\nResearchers have studied open-label placebos: treatments patients know are inert. [c5] Some clinical trials found possible positive effects compared with no treatment. [c6] That is the surprising result. The label is not hidden, yet some studies report a benefit.\n\nBut the next sentence matters more than the headline. A review of open-label placebo trials noted that the studies had small numbers of participants. [c7] Small studies can open an intriguing door; they cannot, by themselves, settle how large or reliable an effect is. The cited account says these findings may open new avenues for treatments. [c8]\n\nNow draw the boundary that keeps hope from turning into hype. The cited account reports possible benefits in some trials, and notes that the trials reviewed had small participant numbers. It does not provide evidence establishing a cure, a universal response, or a change to underlying disease. [c9]\n\nThat distinction is the whole story’s hinge. Feeling better matters. Pain, nausea, fatigue, and distress are not imaginary just because someone measures them through a patient’s report. But symptom relief and disease modification are different claims, and evidence for one cannot simply be carried over to the other.\n\nThe placebo itself is also a tool in medicine, not merely a curious pill. Placebos are used in randomized clinical trials to test the efficacy of treatments. [c10] In that setting, the sham treatment supplies a comparison, while the treatment group tests the candidate intervention. [c11] The point is not to dismiss the control group’s experience. It is to ask what the new treatment adds.\n\nThere is another design detail worth holding onto. An open-label trial means information is not withheld from participants; researchers and participants know which treatment is being given. [c12] An open-label trial can still be randomized, or it can be uncontrolled, with everyone receiving the same treatment. [c13] So “open label” describes what people know. It does not, by itself, tell you whether a study has a comparison group.\n\nHere’s my read: the paradox is not that a knowingly inert pill secretly becomes medicine. It is that treatment is an encounter, not just a molecule. But that’s an interpretation of the puzzle, not proof of a mechanism. What these cards support is narrower: some small studies report possible benefits against no treatment. They leave the size, reliability, and meaning of those benefits open.\n\nSo: open-label placebos are openly inert, and some trials report possible benefits. The cited evidence does not establish a cure, a universal response, or a change to underlying disease. [c14] Next, we can ask what a careful trial would need to separate signal from noise; whether expectations and clinical attention offer a plausible explanation; or why the placebo response is such a difficult comparison to interpret.\n\nWhich path should we take: “The trial that tries to separate signal from noise”; “Expectation, attention, and the patient’s experience”; or “Why placebo response is not the same as placebo effect”?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Researchers have investigated placebos given while patients know the treatment is inert.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says studies have investigated placebos given when patients know the treatment is inert.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "In a placebo-controlled study, one group receives the treatment being evaluated and a control group receives a sham placebo designed to have no real effect.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly describes a treatment group and a control group receiving a sham designed to have no real effect.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "science",
+      "page_title": "Placebo-controlled study",
+      "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+      "snippet": "Placebo-controlled studies are a way of testing a medical therapy in which, in addition to a group of subjects that receives the treatment to be evaluated, a separate control group receives a sham \" placebo \" treatment which is specifically designed to have no real effect.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Placebo-controlled studies are used to assess the efficacy of medicinal treatments.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says placebo-controlled studies assess the efficacy of medicinal drugs or treatments.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "science",
+      "page_title": "Placebo-controlled study",
+      "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+      "snippet": "Therefore, the use of placebos is a standard control component of most clinical trials, which attempt to make some sort of quantitative assessment of the efficacy of medicinal drugs or treatments. Such a test or clinical trial is called a placebo-controlled study, and its control is of the negative type.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "A placebo response is a change in the control group, while the placebo effect is the difference between that response and the result of no treatment.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card defines the placebo response as change in the control group and the placebo effect as the difference from no treatment.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Placebos are used in randomized clinical trials to test the efficacy of medical treatments . In a placebo-controlled trial, any change in the control group is known as the placebo response , and the difference between this and the result of no treatment is the placebo effect .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Open-label placebos are treatments patients know are inert.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies open-label placebos as placebos used when the patient knows the treatment is inert.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Some clinical trials found possible positive effects of open-label placebos compared with no treatment.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card reports that clinical trials found open-label placebos may have positive effects compared with no treatment.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "A review noted that open-label placebo trials had small numbers of participants.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says a review noted that the trials involved small numbers of participants.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "The cited account says possible open-label placebo benefits may open new avenues for treatments.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the possible effects may open new avenues for treatments.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The cited account reports possible benefits in some trials with small participant numbers, but does not provide evidence establishing cure, universal response, or disease modification.",
+    "kind": "history",
+    "grade": "Unsupported",
+    "note": "The card supports possible benefits and small participant numbers, but does not state the broader conclusion about cure, universal response, or disease modification.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Placebos are used in randomized clinical trials to test treatment efficacy.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says placebos are used in randomized clinical trials to test treatment efficacy.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Placebos are used in randomized clinical trials to test the efficacy of medical treatments . In a placebo-controlled trial, any change in the control group is known as the placebo response , and the difference between this and the result of no treatment is the placebo effect .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "In a placebo-controlled study, the sham placebo serves as a control comparison to the treatment being evaluated.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The cards describe the sham placebo as the control comparison against the treatment being evaluated.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "science",
+      "page_title": "Placebo-controlled study",
+      "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+      "snippet": "Placebo-controlled studies are a way of testing a medical therapy in which, in addition to a group of subjects that receives the treatment to be evaluated, a separate control group receives a sham \" placebo \" treatment which is specifically designed to have no real effect.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E3",
+      "pack": "science",
+      "page_title": "Placebo-controlled study",
+      "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+      "snippet": "Therefore, the use of placebos is a standard control component of most clinical trials, which attempt to make some sort of quantitative assessment of the efficacy of medicinal drugs or treatments. Such a test or clinical trial is called a placebo-controlled study, and its control is of the negative type.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "In an open-label trial, researchers and participants know which treatment is being administered.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says both researchers and participants know which treatment is being administered in an open-label trial.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "science",
+      "page_title": "Open-label trial",
+      "url": "https://en.wikipedia.org/wiki/Open-label_trial",
+      "snippet": "An open-label trial , or open trial , is a type of clinical trial in which information is not withheld from trial participants. In particular, both the researchers and participants know which treatment is being administered. This contrasts with a double-blinded trial , where information is withheld both from the researchers and the participants to reduce bias.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Open-label trials may be randomized or uncontrolled, with all participants receiving the same treatment.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says open-label trials may be randomized or uncontrolled, with all participants receiving the same treatment.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "science",
+      "page_title": "Open-label trial",
+      "url": "https://en.wikipedia.org/wiki/Open-label_trial",
+      "snippet": "An open-label trial may still be randomized . Open-label trials may also be uncontrolled (without a placebo group ), with all participants receiving the same treatment. This would be a single-arm study design .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "The cited evidence reports possible benefits in some trials with small participant numbers, but does not provide evidence establishing cure, universal response, or disease modification.",
+    "kind": "history",
+    "grade": "Unsupported",
+    "note": "The card supports possible benefits and small participant numbers, but does not state the broader conclusion about cure, universal response, or disease modification.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Placebo",
+      "url": "https://en.wikipedia.org/wiki/Placebo",
+      "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The trial that tries to separate signal from noise",
+   "Expectation, attention, and the patient’s experience",
+   "Why placebo response is not the same as placebo effect"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Open-label placebos have produced possible benefits compared with no treatment in some trials.",
+     "verdict": "fact",
+     "explanation": "Some clinical trials reported possible positive effects, though a review noted that the studies had small numbers of participants.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Some studies have investigated the use of placebos where the patient is fully aware that the treatment is inert, known as an open-label placebo . Clinical trials found that open-label placebos may have positive effects in comparison to no treatment, which may open new avenues for treatments, but a review of such trials noted that they were done with a small number of participants and hence should …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "A placebo response and a placebo effect mean the same thing.",
+     "verdict": "myth",
+     "explanation": "The placebo response is a change in the control group; the placebo effect is the difference between that response and the result of no treatment.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Placebos are used in randomized clinical trials to test the efficacy of medical treatments . In a placebo-controlled trial, any change in the control group is known as the placebo response , and the difference between this and the result of no treatment is the placebo effect .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Every open-label trial has a comparison group.",
+     "verdict": "myth",
+     "explanation": "Open-label trials can be uncontrolled, with all participants receiving the same treatment. “Open label” describes what participants and researchers know, not whether a comparison group exists.",
+     "evidence_ids": [
+      "E8",
+      "E9"
+     ],
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "science",
+       "page_title": "Open-label trial",
+       "url": "https://en.wikipedia.org/wiki/Open-label_trial",
+       "snippet": "An open-label trial may still be randomized . Open-label trials may also be uncontrolled (without a placebo group ), with all participants receiving the same treatment. This would be a single-arm study design .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E9",
+       "pack": "science",
+       "page_title": "Open-label trial",
+       "url": "https://en.wikipedia.org/wiki/Open-label_trial",
+       "snippet": "An open-label trial , or open trial , is a type of clinical trial in which information is not withheld from trial participants. In particular, both the researchers and participants know which treatment is being administered. This contrasts with a double-blinded trial , where information is withheld both from the researchers and the participants to reduce bias.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "A review found that the open-label placebo trials had a limitation. What was it?",
+    "options": [
+     "They included small numbers of participants.",
+     "They always concealed the treatment from participants.",
+     "They tested only against active medication."
+    ],
+    "answer_index": 0,
+    "reveal_para": 5,
+    "explanation": "The review noted that the trials had small numbers of participants."
+   }
+  }
+ },
+ "branches": {
+  "The trial that tries to separate signal from noise": {
+   "index": 2,
+   "title": "Signal in the Noise",
+   "narration": "You chose the trial: the attempt to separate a treatment’s effect from expectation, natural symptom changes, and measurement noise. We return to the bottle marked “placebo,” and to the question it cannot answer alone: what does knowing tell you? [c1]\n\nA placebo is a treatment intended to appear genuine, though it has no pharmaceutical effect. [c2] That definition describes the treatment, not every part of the experience around it. The clinic, the ritual, the hope, the worry, the attention paid to a symptom: those are different questions. Here’s the trap. If someone feels better after taking an inert pill, the sequence is real. The conclusion that the pill caused the improvement does not automatically follow. [c3]\n\nA trial tries to make that leap harder. Random assignment reduces selection and allocation bias, helping balance known and unknown factors that might affect outcomes. [c4] In plain language, researchers do not simply let people choose which treatment they receive. The point is to keep the comparison from being tilted before the treatment even begins.\n\nBlinding can reduce other biases from participants and experimenters. [c5] It is a way of making expectations less able to steer the process, though it is not a magic eraser. Randomized controlled trials are a fundamental method in modern clinical research and have been widely considered among the highest-quality sources of evidence because they can reduce selection bias and confounding. [c6] They have also been criticized for failing to reduce bias in some cases. [c7]\n\nThat second sentence matters. A trial is not a truth machine. It is a designed comparison, and the design determines which question it can answer. Suppose one group receives a drug and another receives a placebo. The contrast can help test whether the drug outperforms the comparison. But a difference between groups is not a complete account of why any one person felt better. [c8]\n\nAnd even the phrase “placebo response” needs care. In a placebo-controlled study, whether a comparison measures the efficacy of the entire treatment process or the magnitude of the placebo response is a matter of interpretation. [c9] The results of those comparisons help determine whether a drug is considered efficacious. [c10] There’s the fine seam in the story: the measured change can belong to the whole encounter, while the question researchers want answered may be narrower.\n\nThe trial’s aim matters, too. Many randomized controlled trials are superiority trials, testing whether one intervention is statistically superior to another. [c11] Other designs include noninferiority trials and equivalence trials, with different methods and reporting. [c12] Those are not three decorative labels. They point toward different questions: Is this better? Is it not unacceptably worse? Are the outcomes similar enough to count as equivalent? The comparison has to match the question, or the answer can sound more decisive than it is.\n\nNow bring back the openly labeled pill. Knowing it is a placebo removes one kind of uncertainty: you are not being fooled about what the pill is. But that knowledge alone cannot tell you whether a change in your symptoms came from the pill, from the wider treatment process, from ordinary fluctuation, or from how change was measured. The evidence here does not establish those possible causes for an individual person. What it does establish is narrower: placebo-controlled comparisons can help assess a drug, while interpretation of what the comparison measures remains important. [c13]\n\nSo: randomization and blinding can reduce some biases, and trial design sets the question being tested. A placebo-controlled result can help distinguish a treatment’s performance from its comparison, but it does not make every improvement proof that an inert pill caused it. [c14] Knowing the pill is a placebo tells you what the pill is supposed to be; by itself, it does not identify the cause of how you feel. [c15]\n\nFor the next episode: when expectation hurts in the nocebo effect; the history of sham treatments; or how clinical trials decide what counts as evidence.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "This chapter considers how trials compare treatments and what knowing a pill is a placebo can tell us.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a framing of the chapter’s topic; the cards discuss placebo comparisons but do not establish this description of what knowing a placebo can tell you.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E22",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "A placebo ( / p l ə ˈ s iː b oʊ / pluh- SEE -boh ) is a medicine or treatment intended to appear genuine to its recipient, but which has no pharmaceutical effect. Common placebos include inert tablets (like sugar pills), inert injections (like saline ), sham surgery , and other procedures.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "The randomness in the assignment of participants to treatments reduces selection bias and allocation bias, balancing both known and unknown prognostic factors, in the assignment of treatments. Blinding reduces other forms of experimenter and subject biases .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "RCTs are a fundamental methodology in modern clinical trials and have been widely considered one of the highest-quality sources of evidence in evidence-based medicine , due to their ability to reduce selection bias and the influence of confounding factors. However, they have also been criticized for failing to reduce bias in some cases.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "A placebo is intended to appear genuine but has no pharmaceutical effect.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The placebo card defines it as intended to appear genuine while having no pharmaceutical effect.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "A placebo ( / p l ə ˈ s iː b oʊ / pluh- SEE -boh ) is a medicine or treatment intended to appear genuine to its recipient, but which has no pharmaceutical effect. Common placebos include inert tablets (like sugar pills), inert injections (like saline ), sham surgery , and other procedures.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Feeling better after taking a placebo does not by itself establish that the pill caused the improvement.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cited card does not address whether feeling better after taking a placebo establishes that the pill caused the improvement.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Random assignment reduces selection and allocation bias and helps balance known and unknown prognostic factors.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The trial card states that random assignment reduces selection and allocation bias and balances known and unknown prognostic factors.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "The randomness in the assignment of participants to treatments reduces selection bias and allocation bias, balancing both known and unknown prognostic factors, in the assignment of treatments. Blinding reduces other forms of experimenter and subject biases .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Blinding reduces some experimenter and participant biases.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The trial card says blinding reduces other experimenter and subject biases.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "The randomness in the assignment of participants to treatments reduces selection bias and allocation bias, balancing both known and unknown prognostic factors, in the assignment of treatments. Blinding reduces other forms of experimenter and subject biases .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Randomized controlled trials are a fundamental modern clinical methodology and have been widely considered high-quality evidence because they can reduce selection bias and confounding.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes RCTs as a fundamental modern clinical-trial methodology, widely considered high-quality evidence for reducing selection bias and confounding.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "RCTs are a fundamental methodology in modern clinical trials and have been widely considered one of the highest-quality sources of evidence in evidence-based medicine , due to their ability to reduce selection bias and the influence of confounding factors. However, they have also been criticized for failing to reduce bias in some cases.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Randomized controlled trials have been criticized for failing to reduce bias in some cases.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly reports criticism that RCTs fail to reduce bias in some cases.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "RCTs are a fundamental methodology in modern clinical trials and have been widely considered one of the highest-quality sources of evidence in evidence-based medicine , due to their ability to reduce selection bias and the influence of confounding factors. However, they have also been criticized for failing to reduce bias in some cases.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "A treatment-versus-placebo comparison can test relative performance but does not by itself explain why an individual felt better.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cited card discusses interpretation of placebo-controlled comparisons but does not state that such a comparison cannot explain why an individual felt better.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Whether a placebo-controlled comparison reflects the efficacy of the whole treatment process or the magnitude of placebo response is a matter of interpretation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly calls it a matter of interpretation whether the comparison reflects the whole treatment process’s efficacy or the magnitude of placebo response.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Results of placebo-controlled comparisons help determine whether a drug is considered efficacious.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that results of these comparisons determine whether a particular drug is considered efficacious.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Most randomized controlled trials are superiority trials testing whether an intervention is statistically superior to another.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says most RCTs are superiority trials testing whether one intervention is statistically superior to another.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "Another classification of RCTs categorizes them as \"superiority trials\", \"noninferiority trials\", and \"equivalence trials\", which differ in methodology and reporting. Most RCTs are superiority trials, in which one intervention is hypothesized to be superior to another in a statistically significant way.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Noninferiority and equivalence trials are other RCT categories with different methods and reporting.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies noninferiority and equivalence as other RCT categories with differing methods and reporting.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "Another classification of RCTs categorizes them as \"superiority trials\", \"noninferiority trials\", and \"equivalence trials\", which differ in methodology and reporting. Most RCTs are superiority trials, in which one intervention is hypothesized to be superior to another in a statistically significant way.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Placebo-controlled comparisons can help assess a drug, but interpretation of what they measure matters.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports that placebo-controlled comparison results help determine drug efficacy and that what those comparisons measure is a matter of interpretation.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Randomization and blinding can reduce some biases, while a placebo-controlled result does not prove an inert pill caused every improvement.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cards support the bias-reduction points, but none states that a placebo-controlled result cannot prove an inert pill caused every improvement.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "The randomness in the assignment of participants to treatments reduces selection bias and allocation bias, balancing both known and unknown prognostic factors, in the assignment of treatments. Blinding reduces other forms of experimenter and subject biases .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "science",
+       "page_title": "Randomized controlled trial",
+       "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+       "snippet": "RCTs are a fundamental methodology in modern clinical trials and have been widely considered one of the highest-quality sources of evidence in evidence-based medicine , due to their ability to reduce selection bias and the influence of confounding factors. However, they have also been criticized for failing to reduce bias in some cases.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Knowing that a pill is a placebo does not by itself identify the cause of a person's symptoms or symptom changes.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cards define placebo and discuss interpretation of trial comparisons, but do not establish this claim about identifying an individual’s symptom causes.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "It is a matter of interpretation whether the value of P-NH indicates the efficacy of the entire treatment process or the magnitude of the \"placebo response\" . The results of these comparisons then determine whether or not a particular drug is considered efficacious.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E22",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "A placebo ( / p l ə ˈ s iː b oʊ / pluh- SEE -boh ) is a medicine or treatment intended to appear genuine to its recipient, but which has no pharmaceutical effect. Common placebos include inert tablets (like sugar pills), inert injections (like saline ), sham surgery , and other procedures.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "When expectation hurts: the nocebo effect",
+    "Sham treatments through medical history",
+    "Who decides what counts as clinical evidence?"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "A placebo is intended to appear genuine but has no pharmaceutical effect.",
+      "verdict": "fact",
+      "explanation": "That is the stated definition of a placebo in the evidence card.",
+      "evidence_ids": [
+       "E22"
+      ],
+      "evidence": [
+       {
+        "id": "E22",
+        "pack": "science",
+        "page_title": "Placebo",
+        "url": "https://en.wikipedia.org/wiki/Placebo",
+        "snippet": "A placebo ( / p l ə ˈ s iː b oʊ / pluh- SEE -boh ) is a medicine or treatment intended to appear genuine to its recipient, but which has no pharmaceutical effect. Common placebos include inert tablets (like sugar pills), inert injections (like saline ), sham surgery , and other procedures.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Random assignment can reduce selection and allocation bias.",
+      "verdict": "fact",
+      "explanation": "The evidence says random assignment reduces both biases and helps balance known and unknown prognostic factors.",
+      "evidence_ids": [
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "science",
+        "page_title": "Randomized controlled trial",
+        "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+        "snippet": "The randomness in the assignment of participants to treatments reduces selection bias and allocation bias, balancing both known and unknown prognostic factors, in the assignment of treatments. Blinding reduces other forms of experimenter and subject biases .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Most randomized controlled trials are designed to test whether one intervention is superior to another.",
+      "verdict": "fact",
+      "explanation": "The evidence identifies superiority trials as the most common RCT category, while also noting noninferiority and equivalence designs.",
+      "evidence_ids": [
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "science",
+        "page_title": "Randomized controlled trial",
+        "url": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+        "snippet": "Another classification of RCTs categorizes them as \"superiority trials\", \"noninferiority trials\", and \"equivalence trials\", which differ in methodology and reporting. Most RCTs are superiority trials, in which one intervention is hypothesized to be superior to another in a statistically significant way.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "A placebo-controlled comparison produces a measured change. What does the chapter say that result can help determine?",
+     "options": [
+      "Whether a drug is considered efficacious",
+      "Why one individual felt better",
+      "Whether a placebo has a pharmaceutical effect"
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "The results of placebo-controlled comparisons help determine whether a drug is considered efficacious."
+    }
+   }
+  },
+  "Expectation, attention, and the patient’s experience": {
+   "index": 2,
+   "title": "What the Pill Can—and Cannot—Do",
+   "narration": "We followed your chosen path: expectation, attention, and the patient’s experience. Now the question is not whether a person’s experience matters. It does. The question is what that experience can tell us—and what it cannot.\n\nStart with expectation. A person’s belief about whether they are taking an active drug or a placebo can substantially affect their therapeutic outcome. [c1] Stronger positive expectations have been associated with greater therapeutic improvement. [c2] That is a striking finding, but it is not a magic trick. An expectation can shape what happens to a patient without turning an inactive pill into an active drug.\n\nHere is the distinction to keep in your pocket. “I feel better” is a report about experience. “This pill directly treated my disease” is a claim about cause. Those statements may travel together, but one does not automatically prove the other. The evidence we have points strongly to belief and expectation; it does not give us a formula for separating every influence in every patient.\n\nAnd attention? Care? The quiet ritual of someone listening, explaining, and taking your symptoms seriously? Those belong in the conversation, but we have to be precise. The available evidence here does not establish how much attention, reassurance, or the act of care independently changes a patient’s reported experience. [c3] That is not a reason to dismiss care. It is a reason not to invent numbers or mechanisms. We can say these are important questions without pretending we have their answers in hand.\n\nThe clinical-trial example brings the distinction into focus. Antidepressants typically improve depressive symptoms by about ten points on a rating scale, while placebos improve symptoms by about eight points, leaving a reported advantage of about two points for the antidepressant. [c4] Those are changes on a symptom scale. They are not a promise that every person improves, and they do not establish that an inactive pill directly treats the underlying disease.\n\nSo don’t hear “placebo response” and translate it as “the patient made it up.” A person’s reported experience can be real even when the cause of that experience is uncertain. The scale records symptoms; the score alone does not tell us exactly why they changed. That distinction protects patients from being waved away, and it protects medicine from claiming more than the measurement can show.\n\nEven a study designed to keep people uncertain can have a wrinkle. In a blinded clinical trial, someone may suspect they received the active drug because of functional unblinding, and that suspicion can amplify placebo effects. [c5] The blindfold, in other words, may not always stay on. What a person thinks they received can become part of the experience researchers are trying to measure.\n\nExpectation has a shadow, too. When someone expects an inactive treatment to have a negative impact, that phenomenon is called a nocebo. [c6] The same broad human susceptibility that can accompany hope can accompany fear. That is a reason for thoughtful communication, not a license to promise that positive thinking cures illness. Hope is not a prescription, and a clinician’s kindness is not a substitute for treatment that a condition requires.\n\nThe placebo effect is well documented, but it remains widely misunderstood, and studies have questioned its clinical relevance. [c7] That combination is the honest ending: real experiences, real questions, and real limits. A change in symptoms is worth noticing. It does not automatically show that an inactive pill treated a disease, and it cannot tell us that every condition will respond in the same way.\n\nHere’s my read: the pill can matter as an event, even when it has no active drug in it. Expectation can shape the story a patient lives through; it cannot guarantee the ending. The medicine of attention may belong in the room, but we should not confuse a caring encounter with proof of a cure.\n\nSo: expectation can influence therapeutic outcome, while the precise contribution of attention and care is not established by the evidence in this chapter. [c1] Placebo responses are real experiences, but they are not universal treatment for every condition or outcome. [c7] For our next journey, we could follow pain and symptom relief, ask what clinical trials can really measure, or turn toward the nocebo effect—the expectation of harm.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "A person's belief about whether they are taking an active drug or placebo can substantially affect therapeutic outcome.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says belief about receiving an active drug or placebo has a substantial impact on therapeutic outcome.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "science",
+       "page_title": "Amplified placebo effect",
+       "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+       "snippet": "A person's belief about whether they are taking an active drug or placebo has been shown to have a substantial impact on their therapeutic outcome, with stronger positive expectations resulting in greater therapeutic improvement.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Stronger positive expectations are associated with greater therapeutic improvement.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly reports that stronger positive expectations result in greater therapeutic improvement.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "science",
+       "page_title": "Amplified placebo effect",
+       "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+       "snippet": "A person's belief about whether they are taking an active drug or placebo has been shown to have a substantial impact on their therapeutic outcome, with stronger positive expectations resulting in greater therapeutic improvement.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The provided evidence does not establish how much attention, reassurance, or care independently changes reported experience.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "Neither cited card addresses whether attention, reassurance, or care independently changes reported experience.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "science",
+       "page_title": "Amplified placebo effect",
+       "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+       "snippet": "A person's belief about whether they are taking an active drug or placebo has been shown to have a substantial impact on their therapeutic outcome, with stronger positive expectations resulting in greater therapeutic improvement.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "The placebo effect is a well-documented phenomenon, though it remains widely misunderstood and surrounded by misconceptions. Several studies have questioned its clinical relevance, fueling ongoing debate about its actual effectiveness.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Antidepressants typically improve depressive symptoms about ten points on a rating scale, placebos about eight, with an approximately two-point advantage for antidepressants.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives approximately ten points of improvement for antidepressants, eight for placebo, and a roughly two-point advantage, though its excerpt is truncated after that.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "science",
+       "page_title": "Amplified placebo effect",
+       "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+       "snippet": "There are large placebo responses and effects in clinical trials of psychiatric drugs such as antidepressants and anxiolytics . For example, antidepressants typically improve depressive symptoms by about 10 points on a depression rating scale , whereas placebos improve symptoms by about 8 points on the scale, with about a 2-point advantage for antidepressant over placebo and at least 80% of the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "In a blinded trial, suspicion of receiving the active drug due to functional unblinding can amplify placebo effects.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly describes suspicion of receiving the active drug through functional unblinding as producing amplified placebo effects.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "science",
+       "page_title": "Amplified placebo effect",
+       "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+       "snippet": "The amplified placebo effect , also known as the enhanced placebo effect , is a phenomenon in psychology and medicine in which a person in a blinded clinical trial suspects that they have received the active drug due to functional unblinding and this results in the person experiencing amplified placebo effects .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Expecting an inactive treatment to have a negative impact is known as a nocebo.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card defines nocebo as an inactive treatment given when the recipient expects a negative impact.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "A phenomenon opposite to the placebo effect has also been observed. When an inactive substance or treatment is administered to a recipient who has an expectation of it having a negative impact, this intervention is known as a nocebo ( Latin nocebo = \"I shall harm\").",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The placebo effect is well documented and widely misunderstood, and studies have questioned its clinical relevance.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card calls the placebo effect well documented and widely misunderstood, and says studies have questioned its clinical relevance.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "The placebo effect is a well-documented phenomenon, though it remains widely misunderstood and surrounded by misconceptions. Several studies have questioned its clinical relevance, fueling ongoing debate about its actual effectiveness.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Pain and placebo: what changes when symptoms ease?",
+    "Clinical trials: what can a rating scale really tell us?",
+    "The nocebo effect: when expectation turns toward harm"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "A person's belief about taking an active drug or a placebo can affect their therapeutic outcome.",
+      "verdict": "fact",
+      "explanation": "The evidence states that this belief can have a substantial impact on therapeutic outcome, with stronger positive expectations associated with greater improvement.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "science",
+        "page_title": "Amplified placebo effect",
+        "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+        "snippet": "A person's belief about whether they are taking an active drug or placebo has been shown to have a substantial impact on their therapeutic outcome, with stronger positive expectations resulting in greater therapeutic improvement.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Antidepressants and placebos produce the same average improvement in depressive symptoms.",
+      "verdict": "myth",
+      "explanation": "The cited example reports about ten points of improvement with antidepressants and about eight with placebos, an average advantage of roughly two points for the antidepressant.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "science",
+        "page_title": "Amplified placebo effect",
+        "url": "https://en.wikipedia.org/wiki/Amplified_placebo_effect",
+        "snippet": "There are large placebo responses and effects in clinical trials of psychiatric drugs such as antidepressants and anxiolytics . For example, antidepressants typically improve depressive symptoms by about 10 points on a depression rating scale , whereas placebos improve symptoms by about 8 points on the scale, with about a 2-point advantage for antidepressant over placebo and at least 80% of the …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Expecting an inactive treatment to have a negative impact is called a nocebo.",
+      "verdict": "fact",
+      "explanation": "The evidence describes a nocebo as an inactive treatment given when the recipient expects a negative impact.",
+      "evidence_ids": [
+       "E14"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "science",
+        "page_title": "Placebo",
+        "url": "https://en.wikipedia.org/wiki/Placebo",
+        "snippet": "A phenomenon opposite to the placebo effect has also been observed. When an inactive substance or treatment is administered to a recipient who has an expectation of it having a negative impact, this intervention is known as a nocebo ( Latin nocebo = \"I shall harm\").",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In a blinded trial, what can happen if a participant suspects they received the active drug?",
+     "options": [
+      "The suspicion can amplify placebo effects",
+      "The participant can no longer report symptoms",
+      "The trial automatically proves the drug works"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The chapter says suspicion caused by functional unblinding can amplify placebo effects."
+    }
+   }
+  },
+  "Why placebo response is not the same as placebo effect": {
+   "index": 2,
+   "title": "What the Pill Can’t Claim",
+   "narration": "Last time, we stepped into a clinic where the bottle says “placebo.” You know the pill is inert, and the question is whether taking it can still change how you feel. Now we follow the branch that makes the question sharper: why is getting better after a placebo not the same as getting better because of one?\n\nStart with the sentence that causes the trouble: “I took the pill, and then I felt better.” That may be an honest account of what happened. But “then” gives us a sequence, not a verdict about cause. Someone may feel better after taking a placebo because symptoms naturally change, including through regression toward the mean. [c1]\n\nRegression toward the mean sounds like a statistical phrase wearing a lab coat. The idea is more ordinary: a striking high or low reading, or a particularly bad spell, may be followed by something closer to the usual level. The Placebo article gives natural recovery or changing symptoms as a reason someone may feel better after taking a placebo. [c2]\n\nHere’s the trap. People often seek help when a symptom is especially bad. If it later becomes less severe, the pill gets to stand in the spotlight, even when the symptom’s own course may explain some of the change. The article identifies natural recovery and regression to the mean as confounding factors in measuring the placebo effect. [c3]\n\nThere’s a memorable sports version of the same statistical warning. Analysts call a follow-up dip after an exceptional season a “sophomore slump.” The cited example is Carmelo Anthony: after an outstanding rookie season in two thousand four, his numbers dropped in two thousand five. [c4] That example illustrates regression toward the mean in sports; it does not establish anything about how a particular patient responds to a pill.\n\nSo we need two ideas, not one. One is improvement observed after taking a placebo, which may include natural changes in symptoms. [c5] The other is an effect from treatment-related factors that do not depend on the treatment itself. [c6] The cards distinguish those ideas, but they do not give us a precise definition that turns every before-and-after improvement into a measured placebo effect.\n\nHow do you separate them? Compare groups. The Placebo article says natural recovery or regression toward the mean can be ruled out by comparing a placebo group with a no-treatment group. The placebo-controlled-study article says the placebo group is meant to account for effects that do not depend on the treatment itself. [c7]\n\nThat comparison matters because a study is not only a pill in a hand. People know they are receiving some kind of treatment. Health professionals give attention. Researchers may have expectations about whether a treatment works. The study card identifies these as factors that can contribute to effects apart from the treatment itself. [c8]\n\nThe useful question is not simply, “Did people in the placebo group improve?” It is, “How did their outcomes compare with the relevant control?” The study card says outcomes in each group are observed and compared with one another. [c9] That comparison lets researchers measure differences instead of treating every improvement as proof of a pill’s power.\n\nAnd the comparison has ethical stakes. Debate over placebo-controlled studies has appeared in revisions of the Declaration of Helsinki. One concern is the difference between testing an experimental treatment against an inert placebo and testing it against the best available treatment. [c10]\n\nA control group is not just a clever measuring instrument. Researchers must also think about what comparison is acceptable when people need care. The card records that ethical debate and identifies that distinction. [c11]\n\nNow return to the open-label paradox. An inert pill may sit inside a treatment ritual: someone offers care, you know you are being treated, and expectations can matter to the experience. The study card names attention and expectations among factors that can operate without depending on the treatment itself. [c12]\n\nBut improvement alone cannot tell you which part did the work. Symptoms may already be moving back toward their usual level. The experience of receiving care may matter. Or the comparison may show little difference between placebo and no treatment. The cards give us reasons to measure carefully, not permission to turn a before-and-after story into a causal conclusion. [c13]\n\nSo: improvement after a placebo is an observation, and natural change may be part of it. Comparing outcomes helps distinguish that observation from effects attributed to factors that do not depend on the treatment itself. [c14]\n\nThe pill can shape the story you experience; improvement alone cannot prove the pill caused it. For the next episode, we could follow the ethics of placebo trials, ask how expectations shape symptoms, or unpack the statistics behind regression to the mean. Which thread should we take?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "A patient may feel better after taking a placebo because symptoms naturally change, including through regression toward the mean.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Placebo card explicitly says symptoms may change naturally, including through regression to the mean, after someone takes a placebo.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Placebo article identifies natural recovery or changing symptoms as reasons someone may feel better after placebo.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Placebo card identifies natural recovery or changing symptoms as reasons a patient may feel better after taking a placebo.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Natural recovery and regression to the mean are confounding factors in measuring the placebo effect.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Placebo card explicitly describes regression to the mean and natural symptom changes as confounding factors in measuring the placebo effect.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Analysts use the term sophomore slump for regression to the mean in sports; the cited example describes Carmelo Anthony's exceptional 2004 rookie season and a drop in 2005.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The regression-to-the-mean card says analysts call the sports pattern a “sophomore slump” and gives Anthony’s 2004 exceptional season and 2005 decline as its example.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "science",
+       "page_title": "Regression toward the mean",
+       "url": "https://en.wikipedia.org/wiki/Regression_toward_the_mean",
+       "snippet": "Statistical analysts have long recognized the effect of regression to the mean in sports; they even have a special name for it: the \" sophomore slump \". For example, Carmelo Anthony of the NBA 's Denver Nuggets had an outstanding rookie season in 2004. It was so outstanding that he could not be expected to repeat it: in 2005, Anthony's numbers had dropped from his rookie season.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Observed improvement after taking a placebo may include natural changes in symptoms.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Placebo card says natural recovery or symptom changes can contribute to improvement observed after taking a placebo.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The study card describes effects from treatment-related factors that do not depend on the treatment itself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The placebo-controlled-study card defines the relevant effects as effects from treatment that do not depend on the treatment itself.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Comparing a placebo group with a no-treatment group can rule out natural recovery or regression to the mean, and the placebo group accounts for effects independent of the treatment itself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards say comparison with a no-treatment group can rule out natural recovery or regression to the mean, and that the placebo group accounts for effects independent of the treatment itself.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Knowing one is receiving treatment, healthcare-professional attention, and researchers' expectations are factors identified as independent of the treatment itself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The study card names awareness of treatment, professional attention, and researchers’ expectations as factors that do not depend on the treatment itself.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Placebo-controlled studies observe outcomes within each group and compare them with each other.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The study card states that outcomes within each group are observed and compared with one another.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The outcomes within each group are observed, and compared with each other, allowing us to measure:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Ethical debates over placebo-controlled studies have appeared in revisions of the Declaration of Helsinki, including concern about inert-placebo versus best-available-treatment comparisons.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Placebo card reports ethical debate during revisions of the Declaration of Helsinki and identifies the inert-placebo versus best-available-treatment comparison as a concern.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "The ethics of placebo-controlled studies have been debated in the revision process of the Declaration of Helsinki . Of particular concern has been the difference between trials comparing inert placebos with experimental treatments, versus comparing the best available treatment with an experimental treatment;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The cited card identifies an ethical debate and a distinction between types of controls.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly identifies both an ethical debate and the distinction between inert-placebo and best-available-treatment controls.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "The ethics of placebo-controlled studies have been debated in the revision process of the Declaration of Helsinki . Of particular concern has been the difference between trials comparing inert placebos with experimental treatments, versus comparing the best available treatment with an experimental treatment;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Attention and expectations can contribute to effects that do not depend on the treatment itself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The study card identifies attention and expectations as factors that can produce effects independent of the treatment itself.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The cards identify natural symptom changes and treatment-independent factors as reasons to compare outcomes rather than infer causation from improvement alone.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards identify natural symptom changes and treatment-independent factors, supporting the narration’s caution against inferring causation from improvement alone.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E12",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The outcomes within each group are observed, and compared with each other, allowing us to measure:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Observed improvement may include natural change, and comparison helps distinguish it from effects associated with factors independent of the treatment itself.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards describe natural symptom changes and treatment-independent effects, and state that comparing group outcomes helps measure differences.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "science",
+       "page_title": "Placebo",
+       "url": "https://en.wikipedia.org/wiki/Placebo",
+       "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E12",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The outcomes within each group are observed, and compared with each other, allowing us to measure:",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Placebo-controlled study",
+       "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+       "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Placebo trial ethics: when does a control become unfair?",
+    "Expectation and symptoms: what can studies really show?",
+    "Regression to the mean: why extremes tend to fade"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Feeling better after taking a placebo proves that the pill caused the improvement.",
+      "verdict": "myth",
+      "explanation": "Symptoms can change naturally, including through regression toward the mean. Comparing placebo and no-treatment groups helps separate those changes from treatment-independent effects.",
+      "evidence_ids": [
+       "E10",
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "science",
+        "page_title": "Placebo",
+        "url": "https://en.wikipedia.org/wiki/Placebo",
+        "snippet": "Measuring the extent of the placebo effect is difficult due to confounding factors. For example, a patient may feel better after taking a placebo due to regression to the mean (i.e. a natural recovery or change in symptoms), but this can be ruled out by comparing the placebo group with a no treatment group (as all the placebo research does).",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E13",
+        "pack": "science",
+        "page_title": "Placebo-controlled study",
+        "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+        "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "A placebo group can account for effects such as receiving attention or knowing you are being treated.",
+      "verdict": "fact",
+      "explanation": "The study card identifies treatment awareness, healthcare-professional attention, and researchers’ expectations as factors that do not depend on the treatment itself.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "science",
+        "page_title": "Placebo-controlled study",
+        "url": "https://en.wikipedia.org/wiki/Placebo-controlled_study",
+        "snippet": "The purpose of the placebo group is to account for the placebo effect , that is, effects from treatment that do not depend on the treatment itself. Such factors include knowing one is receiving a treatment, attention from health care professionals, and the expectations of a treatment's effectiveness by those running the research study.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The “sophomore slump” is a name analysts use for regression toward the mean in sports.",
+      "verdict": "fact",
+      "explanation": "The card gives Carmelo Anthony’s drop in numbers after an outstanding 2004 rookie season as an example.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "science",
+        "page_title": "Regression toward the mean",
+        "url": "https://en.wikipedia.org/wiki/Regression_toward_the_mean",
+        "snippet": "Statistical analysts have long recognized the effect of regression to the mean in sports; they even have a special name for it: the \" sophomore slump \". For example, Carmelo Anthony of the NBA 's Denver Nuggets had an outstanding rookie season in 2004. It was so outstanding that he could not be expected to repeat it: in 2005, Anthony's numbers had dropped from his rookie season.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "A patient feels better after taking an inert pill. What comparison can help separate natural symptom changes from effects associated with the placebo group?",
+     "options": [
+      "Compare the placebo group with a no-treatment group",
+      "Compare only the patient's symptoms before and after the pill",
+      "Compare the patient's result with a sports statistic"
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The chapter explains that comparing a placebo group with a no-treatment group can help rule out natural recovery or regression toward the mean."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9046,
+   "cached_tokens": 8040,
+   "cache_write_tokens": 502,
+   "output_tokens": 835,
+   "cost_usd": 0.00061104
+  },
+  {
+   "agent": "researcher",
+   "requests": 15,
+   "input_tokens": 45970,
+   "cached_tokens": 36945,
+   "cache_write_tokens": 6548,
+   "output_tokens": 1490,
+   "cost_usd": 0.00218067
+  },
+  {
+   "agent": "storyteller",
+   "requests": 8,
+   "input_tokens": 38061,
+   "cached_tokens": 26608,
+   "cache_write_tokens": 10445,
+   "output_tokens": 13141,
+   "cost_usd": 0.00824301
+  },
+  {
+   "agent": "skeptic",
+   "requests": 8,
+   "input_tokens": 34737,
+   "cached_tokens": 19552,
+   "cache_write_tokens": 14177,
+   "output_tokens": 5591,
+   "cost_usd": 0.00486395
+  }
+ ],
+ "build_cost_usd": 0.015899,
+ "build_seconds": 114.6
+}

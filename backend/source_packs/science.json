@@ -1,0 +1,20 @@
+{
+  "id": "science",
+  "name": "Science",
+  "grading_rules": "Grade the claim as stated. Documented = established science the evidence states plainly (or 'scientists found X' when the card reports that finding). Debated = active research question, contested or preliminary result, single study, or the evidence reports disagreement. Legend = popular science myth or misattributed story the evidence contradicts or presents as myth (e.g. 'we use only 10% of our brains', the Newton apple as a literal bonk). Interpretation = narrator's analogy or framing. Unsupported = no card says it. Never upgrade an analogy into a fact.",
+  "wiki": "Wikipedia",
+  "api": "https://en.wikipedia.org/w/api.php",
+  "page_url": "https://en.wikipedia.org/wiki/{title}",
+  "domains": [
+    "en.wikipedia.org"
+  ],
+  "license": "Text from Wikipedia, CC BY-SA 4.0",
+  "kind": "history",
+  "scale": [
+    "Documented",
+    "Debated",
+    "Legend",
+    "Interpretation",
+    "Unsupported"
+  ]
+}

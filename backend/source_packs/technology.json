@@ -1,0 +1,20 @@
+{
+  "id": "technology",
+  "name": "Technology",
+  "grading_rules": "Grade the claim as stated. Documented = dates, inventions, people and adoption the evidence states plainly. Debated = contested priority disputes (who invented X first), disputed impact, or estimates. Legend = popular inventor myths the evidence contradicts (lone-genius stories, apocryphal quotes). Interpretation = narrator's framing or predictions. Unsupported = no card says it. Treat company marketing claims as claims, not facts.",
+  "wiki": "Wikipedia",
+  "api": "https://en.wikipedia.org/w/api.php",
+  "page_url": "https://en.wikipedia.org/wiki/{title}",
+  "domains": [
+    "en.wikipedia.org"
+  ],
+  "license": "Text from Wikipedia, CC BY-SA 4.0",
+  "kind": "history",
+  "scale": [
+    "Documented",
+    "Debated",
+    "Legend",
+    "Interpretation",
+    "Unsupported"
+  ]
+}

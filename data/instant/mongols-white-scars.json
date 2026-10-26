@@ -1,0 +1,1334 @@
+{
+ "thread": {
+  "id": "mongols-white-scars",
+  "title": "The Mongols → The White Scars",
+  "hook": "Genghis Khan's riders and Jaghatai Khan's Legion: speed, loyalty, and an empire on horseback.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "warhammer40k"
+  ],
+  "era": "The Mongol Empire",
+  "universe": "Warhammer 40,000",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "The Khan’s Ride",
+ "logline": "Follow the Mongol riders and the White Scars from the tactics of the open steppe to an empire—and a Legion—built around speed and loyalty.",
+ "plan": [
+  {
+   "title": "The Steppe’s Advantage",
+   "focus": "Open on the irresistible parallel: Mongol horsemen and the White Scars both make speed feel like a source of power. Set the historical ground with Mongol mounted warfare and the fictional ground with the White Scars’ mobile way of war, while making clear that resemblance is not proof of direct inspiration.",
+   "queries": [
+    "history: Mongol military tactics",
+    "history: Mongol Empire cavalry",
+    "warhammer40k: White Scars",
+    "warhammer40k: Jaghatai Khan"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  },
+  {
+   "title": "Two Khans, One Echo",
+   "focus": "Pair Genghis Khan’s consolidation of the Mongols with Jaghatai Khan’s role as primarch of the White Scars, then explore the shared imagery of loyalty, mobility, and rule across distance. Treat the comparison—and any claim that the historical Mongols directly inspired the Legion—as interpretation unless the evidence establishes it; close on what the echo reveals about empire and identity.",
+   "queries": [
+    "history: Genghis Khan",
+    "history: Mongol Empire administration",
+    "warhammer40k: Jaghatai Khan",
+    "warhammer40k: White Scars culture"
+   ],
+   "packs": [
+    "history",
+    "warhammer40k"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Steppe’s Advantage",
+  "narration": "A Mongol rider sees the enemy ahead. He does not have to charge straight at them. He can turn away, draw them onward, and let pursuit spend their strength. The trick is not simply moving fast. It is deciding when speed becomes a weapon. [c1]\n\nNow picture the White Scars: assault bikes surging across a battlefield, striking before a slower opponent can settle the fight. The Mongols and the White Scars share a striking idea: mobility can dictate the terms of battle. That is a comparison, not proof of direct inspiration. [c2]\n\nThe Mongol way of war rested on horse archery, mobility, flexibility, and organization. Its tactics generally aimed for decisive victory. Ambushes and feigned retreats could keep an enemy chasing for days, until tired pursuers faced the Mongols on ground of their choosing. [c3]\n\nThat is a brutal kind of patience. You let the other side mistake motion for flight. You make their confidence do the exhausting work. Then the battlefield is no longer theirs to choose.\n\nAnd the horse beneath the rider was not treated as a single-use engine. A Mongol soldier typically maintained three or four horses. When one tired, the rider could switch to another, while the exhausted animal kept pace with the herd unloaded. [c4]\n\nChanging horses helped Mongol riders travel at high speed for days without stopping or wearing out one animal. The system turned endurance into logistics: not one miraculous mount, but a moving supply of fresh legs. [c5]\n\nThe deeper advantage was organization. Mongol forces built on the strengths of nomadic armies while eliminating their traditional weaknesses. Earlier nomadic forces relied on skilled horse-archers, whose speed, mobility, ambushes, and accurate shooting with composite bows could overwhelm opponents. [c6]\n\nSo the famous speed was not just a blur on the horizon. It was a system: mounted archery, spare horses, and tactics that could make an enemy chase into a trap. The horse mattered, but so did the plan around it. [c7]\n\nIn the thirteenth century, at the Battle of Liegnitz, an army including twenty thousand Mongol horse archers defeated a force of thirty thousand troops led by Henry the Second, Duke of Silesia. The Mongols used demoralization and continued harassment. [c8]\n\nNumbers alone do not explain that result. A larger force can still lose control of a fight when its opponent sets the pace and keeps it under pressure. The account of Liegnitz points to demoralization and harassment as part of the story. [c9]\n\nNow return to the White Scars. They are known across the Imperium for highly mobile warfare, lightning strikes, and hit-and-run attacks. Their forces include unusually many bike squads, and they are especially adapted to assault bikes as mechanical steeds. [c10]\n\nHere’s my read: the Mongol horse and the White Scars’ bike do the same dramatic work in their respective worlds. Each makes speed more than transportation; it becomes control over when and where violence arrives. But the Mongols’ rotating horses and the White Scars’ mechanical steeds belong to different systems, one historical and one fictional. [c11]\n\nThe parallel is specific. Mongol riders could switch horses to preserve pace; the White Scars build their identity around assault bikes and mobile attacks. One circles a battlefield on living mounts. The other turns the bike into a signature of a fictional military culture. [c12]\n\nSo: Mongol mobility joined horse archery, organization, spare mounts, and tactical deception. The White Scars turn mobile strikes into an unmistakable fictional identity. [c13]\n\nNext, we can follow the feigned retreat into the trap, explore the horse-and-bike parallel more closely, or ask what speed cannot solve.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Mongol tactics included feigned retreats that drew pursuers toward a chosen battlefield.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Mongol tactics card explicitly describes feigned retreats that left pursuers tired before the Mongols confronted them on chosen ground.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "Mongol horsemen and White Scars both emphasize mobility; their resemblance does not prove direct inspiration.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is explicitly framed as a comparison rather than proof of inspiration, with mobility described for Mongol tactics and White Scars in the respective cards.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "warhammer40k",
+      "page_title": "White Scars",
+      "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+      "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Mongol tactics emphasized horse archery, mobility, flexibility, organization, decisive victory, ambushes, and feigned retreats.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states these tactics and aims plainly, including horse archery, mobility, flexibility, organization, decisive victory, ambushes, and feigned retreats.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Mongol soldiers typically maintained three or four horses and could change mounts when one tired.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Mongol soldiers typically maintained three or four horses and rotated mounts when one became tired.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Changing horses enabled sustained fast travel while allowing tired horses to keep up unloaded.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that changing horses enabled high-speed travel for days and allowed tired horses to keep up unloaded.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Mongol forces built on nomadic strengths while addressing weaknesses, including horse-archer skills and composite bows.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Mongol forces built on nomadic strengths while eliminating traditional weaknesses and describes horse-archer skills and composite bows.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "The Mongol military eliminated the traditional weaknesses of nomadic armies and built upon their tactical strengths to become one of the most formidable armed forces in history. Previous nomadic armies were based on the skill of horse-archers —armoured cavalry able to shoot accurately and quickly with composite bows —who often overwhelmed their enemies with their speed and mobility, ambushes , or …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Mongol mounted warfare combined horse archery, spare horses, and tactics such as ambushes and feigned retreats.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The cited cards support the combined account of spare horses, horse archery, and ambushes or feigned retreats as Mongol practices.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "The Mongol military eliminated the traditional weaknesses of nomadic armies and built upon their tactical strengths to become one of the most formidable armed forces in history. Previous nomadic armies were based on the skill of horse-archers —armoured cavalry able to shoot accurately and quickly with composite bows —who often overwhelmed their enemies with their speed and mobility, ambushes , or …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "At the thirteenth-century Battle of Liegnitz, an army including twenty thousand Mongol horse archers defeated thirty thousand troops led by Henry II using demoralization and harassment.",
+    "kind": "history",
+    "grade": "Debated",
+    "note": "The specific Liegnitz troop totals and explanation rest on one evidence-card sentence, so this unusually precise account has thin sourcing.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Mounted archers were a major part of the armies of the Mongol Empire, for instance at the 13th-century Battle of Liegnitz , where an army including 20,000 horse archers defeated a force of 30,000 troops led by Henry II , Duke of Silesia, via demoralization and continued harassment.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The Liegnitz account identifies demoralization and continued harassment as part of the Mongol victory.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Liegnitz card explicitly identifies demoralization and continued harassment as part of the Mongol victory.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Mounted archers were a major part of the armies of the Mongol Empire, for instance at the 13th-century Battle of Liegnitz , where an army including 20,000 horse archers defeated a force of 30,000 troops led by Henry II , Duke of Silesia, via demoralization and continued harassment.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "The White Scars are known for mobile warfare, lightning strikes, hit-and-run attacks, and unusually many bike squads.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The lore card states that the White Scars specialize in mobile warfare, lightning strikes, hit-and-run attacks, and unusually many bike squads.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "warhammer40k",
+      "page_title": "White Scars",
+      "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+      "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The Mongol horse and White Scars’ bike serve a similar dramatic role, though in distinct historical and fictional systems.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "The narration labels the shared dramatic role as its own comparison, while the cards independently describe Mongol horses and White Scars assault bikes.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "warhammer40k",
+      "page_title": "White Scars",
+      "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+      "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Mongol soldiers rotated among horses, while White Scars are especially adapted to assault bikes.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The claim is framed as a comparison of documented Mongol horse rotation and the White Scars’ stated adaptation to assault bikes.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "warhammer40k",
+      "page_title": "White Scars",
+      "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+      "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Mongol mobility joined mounted tactics and endurance, while White Scars’ identity centers on mobile strikes.",
+    "kind": "lore",
+    "grade": "Interpretation",
+    "note": "This is a summary that interprets the shared theme of mobility across historical Mongol warfare and fictional White Scars identity.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Military of the Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+      "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E9",
+      "pack": "history",
+      "page_title": "Mongol Empire",
+      "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "warhammer40k",
+      "page_title": "White Scars",
+      "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+      "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+      "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The feigned retreat: when pursuit becomes the trap",
+   "Horse or bike: two machines of battlefield control",
+   "What speed cannot solve"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Mongol riders used feigned retreats to draw pursuers onto a battlefield of their choosing.",
+     "verdict": "fact",
+     "explanation": "Mongol tactics included feigned retreats that could tire pursuers before the Mongols faced them on chosen ground.",
+     "evidence_ids": [
+      "E9"
+     ],
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Each Mongol soldier typically maintained only one horse.",
+     "verdict": "myth",
+     "explanation": "The evidence says a Mongol soldier typically maintained three or four horses and could switch mounts when one tired.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Military of the Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Military_of_the_Mongol_Empire",
+       "snippet": "Each Mongol soldier typically maintained three or four horses . Changing horses often allowed them to travel at high speed for days without stopping or wearing out the animals. When one horse became tired, the rider would dismount and rotate to another. By letting a tired horse keep up with the rest of the herd without a load, the strategy preserved mobility without overburdening the animal.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The White Scars were directly inspired by Mongol warfare.",
+     "verdict": "myth",
+     "explanation": "The chapter presents their shared emphasis on mobility as a comparison, not proof of direct inspiration. The cards support the two separate traditions but do not establish a direct influence.",
+     "evidence_ids": [
+      "E9",
+      "E11"
+     ],
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E11",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Known and feared throughout the Imperium of Man for their highly mobile way of war, the White Scars are considered the masters of the lightning strike and hit-and-run attack and are particularly adapted to the use of the Astartes Assault Bike as their mechanical steeds and their forces contain an unusually large number of Bike Squads compared to other Chapters.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "Mongol riders could switch to a fresh horse while a tired one kept pace with the herd. What did that help them do?",
+    "options": [
+     "Travel at high speed for days without stopping",
+     "Carry heavier loads into battle",
+     "Keep horses hidden from enemy scouts"
+    ],
+    "answer_index": 0,
+    "reveal_para": 5,
+    "explanation": "Changing horses helped riders sustain high-speed travel for days while the tired horses continued unloaded with the herd."
+   }
+  }
+ },
+ "branches": {
+  "The feigned retreat: when pursuit becomes the trap": {
+   "index": 2,
+   "title": "The Pursuit Becomes the Trap",
+   "narration": "You chose the feigned retreat: the moment pursuit stops being the enemy’s answer and becomes the Mongols’ instrument. We are back on the steppe, where the rider’s most important movement may be the one that looks like defeat.\n\nThe Mongol tactic is not simply “run away.” Mongol forces used ambushes and the famous feigned retreat, sometimes drawing pursuers on for days before confronting them on a battlefield of their choosing. [c1] That waiting matters. The pursuer thinks the decision belongs to him. He believes he is closing the distance, correcting an insult, finishing a rout. But with every mile, he is also accepting the conditions the retreating force has set.\n\nThe Mongols brought more than speed to that exchange. Their military emphasized mobility, flexibility, and organization, and its tactics sought decisive victory. [c2] Most Mongol soldiers were horse-archers, having learned to ride since childhood. [c3] An adult Mongol man was a soldier, and when not called up he returned to pastoral life; soldiers received no army pay beyond plunder, divided after battle according to contribution. [c4] Those facts do not make every retreat a trap. They show the world that made the tactic possible: a force accustomed to riding, organized for movement, and invested in the outcome.\n\nNow the White Scars enter the comparison—not as a second historical army, but as a fictional one built around mobility. The lore says the White Scars established mastery of hit-and-run warfare during missions in which they were rarely more than a thousand, standing far from aid against dangers beyond mapped space. [c5] Their small numbers make movement a way to manage risk. They cannot afford to make every strong position a frontal contest. They need to choose where the enemy must look, where it must turn, and where it discovers the attack has already moved on.\n\nThe White Scars’ lore draws that distinction plainly. Against weak or exposed positions, they enveloped and overran them; against strong or well-placed positions, they harried weaknesses and left the enemy vulnerable to forces following behind. [c6] That is not the same maneuver as the Mongol feigned retreat. One draws pursuit toward a chosen battlefield; the other can unsettle a strong position and prepare it for a following force. But both make the opponent react to movement rather than dictate the encounter.\n\nHere’s my read: the Mongol rider turning away and the White Scars striking a flank are different scenes with the same wicked question at their center. “What will you do when I refuse the battle you planned?” The history gives us a specific answer: Mongol pursuers could be drawn on for days, then met on the Mongols’ chosen ground. [c7] The fiction gives us another: the White Scars could harry a strong position where it was weak, leaving it exposed to the Legion that followed. [c8]\n\nThat is why “faster” is too small a word. Speed matters, but speed without choice is just distance. The deeper advantage is making the other side spend attention, energy, and time responding to your decisions. The retreating Mongol force makes pursuit feel like the pursuer’s initiative. The White Scars make a strong position defend every vulnerable edge. In both stories, movement changes the shape of the enemy’s choices.\n\nAnd there is a danger in this kind of control. A feigned retreat depends on the pursuer taking the bait; the enemy must believe it sees a chance. Hit-and-run warfare depends on choosing when to engage and when to refuse the costly fight. Mobility can open options, but it can also make an opponent angry, cautious, or unwilling to follow. No tactic commands the enemy’s mind. It creates pressures, temptations, and risks—and then waits to see which one the enemy chooses.\n\nSo the payoff is not that the Mongols and the White Scars are secretly the same army. They are not. The Mongol tactic is documented history; the White Scars are fictional lore. The comparison is ours: a feigned retreat shapes pursuit, while hit-and-run warfare shapes where strength can be brought to bear. The shared idea is sharper than “outrun them.” Make the enemy choose the ground, the pace, or the response you want it to choose.\n\nSo: the Mongols could turn retreat into a long invitation, ending on ground they selected. The White Scars’ lore makes mobility a way to exploit weakness and expose strength. What other worlds should we connect next: Rome and the Galactic Empire, medieval law and Texas, or the late Roman world and the Imperium of Man?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Mongol forces used ambushes and feigned retreats that could draw pursuers on for days before confronting them on a chosen battlefield.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly describes ambushes and feigned retreats that often lasted days before pursuers were met on a chosen battlefield.",
+     "evidence": [
+      {
+       "id": "E36",
+       "pack": "history",
+       "page_title": "Mongol conquests",
+       "url": "https://en.wikipedia.org/wiki/Mongol_conquests",
+       "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Mongol tactics emphasized mobility, flexibility, and organization and generally aimed for decisive total victory.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence plainly says Mongol tactics emphasized mobility, flexibility, and organization and generally aimed for decisive total victory.",
+     "evidence": [
+      {
+       "id": "E36",
+       "pack": "history",
+       "page_title": "Mongol conquests",
+       "url": "https://en.wikipedia.org/wiki/Mongol_conquests",
+       "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Most Mongol soldiers were horse-archers who had learned to ride since childhood.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that most Mongol soldiers were horse-archers who learned to ride in childhood.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "Every adult Mongol man was a soldier; when not called up, they resumed their traditional pastoralist way of life. They received no army pay save plunder, which was divided post-battle according to each soldier's contribution. Most were horse-archers, having learned to ride since childhood.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Adult Mongol men served as soldiers, returned to pastoral life when not called up, and received plunder rather than army pay.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that adult Mongol men served as soldiers, resumed pastoral life when not called up, and received plunder rather than army pay.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "Every adult Mongol man was a soldier; when not called up, they resumed their traditional pastoralist way of life. They received no army pay save plunder, which was divided post-battle according to each soldier's contribution. Most were horse-archers, having learned to ride since childhood.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The White Scars developed hit-and-run mastery on missions where they were rarely more than one thousand and far from aid.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore states that the White Scars established hit-and-run mastery on missions where they were rarely more than a thousand and far from aid.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Here, in these largely forgotten years, was the basis of the White Scars' mastery of hit and run warfare established by the necessity of their mission. They were rarely more than one thousand against the dark empires beyond the edge of the maps, the brave few standing against the terrors of the outer dark far from aid and succour.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The White Scars overran weak or exposed positions and harried weaknesses in strong positions, leaving them vulnerable to following forces.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore directly describes the White Scars overrunning weak or exposed positions and harrying weak points in strong positions, leaving them vulnerable to following forces.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Where the enemy was weak or exposed, they enveloped and overran its positions without mercy, using speed and fury to overwhelm any defence. Where it was strong or well-emplaced they harried the enemy where it was weak, leaving it vulnerable to the Legions that followed the trail of destruction they wrought.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Mongol pursuers could be drawn on for days before Mongol forces confronted them on chosen ground.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says feigned retreats often lasted days before Mongol forces confronted tired pursuers on chosen ground.",
+     "evidence": [
+      {
+       "id": "E36",
+       "pack": "history",
+       "page_title": "Mongol conquests",
+       "url": "https://en.wikipedia.org/wiki/Mongol_conquests",
+       "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The White Scars could harry strong positions at their weaknesses and leave them exposed to following Legions.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore says the White Scars harried strong positions at their weak points, leaving them vulnerable to following Legions.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Where the enemy was weak or exposed, they enveloped and overran its positions without mercy, using speed and fury to overwhelm any defence. Where it was strong or well-emplaced they harried the enemy where it was weak, leaving it vulnerable to the Legions that followed the trail of destruction they wrought.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Rome and the Galactic Empire: who taught power to wear a republic’s mask?",
+    "Medieval law and Texas: how old codes crossed an ocean",
+    "Late Rome and the Imperium: when survival becomes sacred"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Mongol feigned retreats could draw pursuers on for days before the Mongols met them on chosen ground.",
+      "verdict": "fact",
+      "explanation": "The evidence describes feigned retreats lasting days, ending with tired pursuers confronted on a battlefield the Mongols chose.",
+      "evidence_ids": [
+       "E36"
+      ],
+      "evidence": [
+       {
+        "id": "E36",
+        "pack": "history",
+        "page_title": "Mongol conquests",
+        "url": "https://en.wikipedia.org/wiki/Mongol_conquests",
+        "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The White Scars used hit-and-run warfare only against weak or exposed positions.",
+      "verdict": "myth",
+      "explanation": "The lore says they overran weak positions, but against strong or well-placed ones they harried weaknesses and left them vulnerable to following Legions.",
+      "evidence_ids": [
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E35",
+        "pack": "warhammer40k",
+        "page_title": "White Scars",
+        "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+        "snippet": "Where the enemy was weak or exposed, they enveloped and overran its positions without mercy, using speed and fury to overwhelm any defence. Where it was strong or well-emplaced they harried the enemy where it was weak, leaving it vulnerable to the Legions that followed the trail of destruction they wrought.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Mongol feigned retreats and White Scars hit-and-run warfare were the same maneuver.",
+      "verdict": "myth",
+      "explanation": "The chapter distinguishes them: the Mongols could draw pursuit toward chosen ground, while the White Scars harried strong positions and exposed them to following forces.",
+      "evidence_ids": [
+       "E36",
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E36",
+        "pack": "history",
+        "page_title": "Mongol conquests",
+        "url": "https://en.wikipedia.org/wiki/Mongol_conquests",
+        "snippet": "Mongol military tactics exploited their mastery as horse archers, emphasised their mobility, flexibility, and organisation, and generally aimed for a decisive total victory. They included traditional steppe tactics such as ambushes or the famous feigned retreat , which often lasted days before the Mongols confronted their tired pursuers on their chosen battlefield.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E35",
+        "pack": "warhammer40k",
+        "page_title": "White Scars",
+        "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+        "snippet": "Where the enemy was weak or exposed, they enveloped and overran its positions without mercy, using speed and fury to overwhelm any defence. Where it was strong or well-emplaced they harried the enemy where it was weak, leaving it vulnerable to the Legions that followed the trail of destruction they wrought.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "When the White Scars faced a strong or well-placed enemy position, what did they do?",
+     "options": [
+      "They attacked it head-on.",
+      "They harried its weaknesses and left it vulnerable to following forces.",
+      "They withdrew and waited for the enemy to pursue."
+     ],
+     "answer_index": 1,
+     "reveal_para": 4,
+     "explanation": "Against strong or well-placed positions, the White Scars harried weaknesses and left the enemy vulnerable to forces following behind."
+    }
+   }
+  },
+  "Horse or bike: two machines of battlefield control": {
+   "index": 2,
+   "title": "Horse and Bike: Speed as Control",
+   "narration": "The branch you chose puts a horse beside a bike: two kinds of speed, and one battlefield question. Who decides when the enemy commits? [c1]\n\nAt Samarkand, in the year twelve twenty, the answer comes in a trap. On the third day of Genghis Khan’s assault, the city’s garrison launched a counterattack. [c2] Genghis Khan feigned retreat, drawing about half the garrison beyond the fortifications, where his forces defeated them in open combat. [c3]\n\nThat is not speed as a race. It is speed as a sentence with a missing ending. The riders appear to leave; the defenders decide that pursuit is worth the risk; then the Mongols decide the pursuit has gone far enough. A feigned retreat is a deliberate false withdrawal meant to lure an enemy into vulnerability. [c4] It is difficult to perform and depends on disciplined soldiers. [c5]\n\nRemember the hinge: the pursuer supplies the commitment. The retreating force shapes the choice, but it cannot make the enemy follow. The danger is that a feint becomes a real rout if control breaks. The source’s emphasis on discipline points to the hard part: not turning away, but keeping the withdrawal under command. [c5]\n\nAnd speed is not only the horse beneath one rider. Mongol armies used scouting screens that could range tens or hundreds of kilometers around the main force, helping protect moving armies from surprise. [c6] They also planned multi-pronged invasions, with plans and scouting networks allowing separate columns to join. [c7] So the mobility of the army was a system: eyes ahead, forces moving on separate paths, and the possibility of gathering where the enemy least wanted them.\n\nNow put the White Scars in the frame. Their lore describes lightning assaults using the fastest vehicles, with the warriors descending on foes in a torrent. [c8] Their battle cry joins two titles: “the Emperor and the Khan.” [c9] Their assault bike is a light vehicle used by Space Marine chapters across the Imperium, including the White Scars. [c10]\n\nThe White Scars’ own tactical language gives speed a job. It calls for bikes to strike the enemy and turn aside counter-blows, while warning that speed without direction is useless. [c11] Surprise, it says, is a biker’s deadliest weapon. [c12] That is not merely a promise to arrive first. It is a plan to make the opponent react—to spend attention, formation, and timing answering a threat that can shift before the answer lands.\n\nHere’s my read: the Mongol rider and the White Scars biker occupy a similar tactical role, though one belongs to documented history and the other to fiction. The parallel is specific: both use apparent movement and rapid attack to influence when an enemy acts. But the Samarkand account gives us a feigned withdrawal and a garrison drawn outside its defenses; the White Scars passage gives us fast assaults, bikes, and the turn aside of counter-blows. Those are related battlefield functions, not proof that the fictional chapter was directly inspired by Mongol history.\n\nThe difference matters. At Samarkand, the trap is a retreat that invites pursuit. In the White Scars’ account, the emphasis is a fast strike and the ability to evade or deflect the reply. One draws the opponent forward; the other can make the opponent’s response arrive late, or in the wrong direction. Both turn movement into pressure on someone else’s decision.\n\nSo the horse is not impressive merely because it covers ground. The bike is not terrifying merely because it is fast. Each matters when movement changes what the enemy believes is happening, what the enemy chooses to do, and when that choice becomes costly. Speed is power when it edits the opponent’s options.\n\nThat is the payoff to the rider at the opening of our story. He does not need to outrun every enemy forever. He needs to make one enemy pursue at the wrong moment. The White Scars’ bike doctrine reaches for a different image, but the same question: can you strike, turn aside the answer, and keep the battle’s timing in your hands? [c13]\n\nSo: Mongol mobility could make retreat a lure, while scouts and separated columns helped an army move with awareness. [c14] The White Scars’ bikes turn speed into assault, surprise, and control over the counter-blow. [c15] If speed is really the power to shape another person’s choices, where should we ride next: the Roman cavalry that made retreat a weapon, the steppe empires that built networks of movement, or the armored bikers of another grim future?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The chapter compares Mongol mounted tactics with White Scars bike warfare through the question of who controls an enemy's commitment.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The comparison about controlling an enemy’s commitment is narrator framing, not a historical fact established by these cards.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "A feigned retreat is a military tactic , a type of feint , whereby a military force will pretend to withdraw or to have been routed , in order to lure an enemy into a position of vulnerability. A feigned retreat is one of the more difficult tactics for a military force to undertake, and requires well-disciplined soldiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "On the third day of Genghis Khan's 1220 assault on Samarkand, the garrison launched a counterattack.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Samarkand account explicitly says the garrison launched a counterattack on the third day of the 1220 assault.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "During the Mongol conquest of Khwarezmia (1219–21), on the third day of Genghis Khan 's 1220 assault on its capital, Samarkand 's garrison launched a counterattack. Genghis Khan, feigning retreat, drew about half of Samarkand's garrison outside the city's fortifications and slaughtered them in open combat.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Genghis Khan feigned retreat at Samarkand, drew about half the garrison outside the fortifications, and defeated them in open combat.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The account states that Genghis Khan feigned retreat, drew about half the garrison outside the fortifications, and defeated them in open combat.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "During the Mongol conquest of Khwarezmia (1219–21), on the third day of Genghis Khan 's 1220 assault on its capital, Samarkand 's garrison launched a counterattack. Genghis Khan, feigning retreat, drew about half of Samarkand's garrison outside the city's fortifications and slaughtered them in open combat.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "A feigned retreat is a false withdrawal intended to lure an enemy into vulnerability.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card defines a feigned retreat as a pretended withdrawal intended to lure an enemy into vulnerability.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "A feigned retreat is a military tactic , a type of feint , whereby a military force will pretend to withdraw or to have been routed , in order to lure an enemy into a position of vulnerability. A feigned retreat is one of the more difficult tactics for a military force to undertake, and requires well-disciplined soldiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "A feigned retreat is difficult to execute and requires disciplined soldiers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says this is a difficult tactic requiring well-disciplined soldiers.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "A feigned retreat is a military tactic , a type of feint , whereby a military force will pretend to withdraw or to have been routed , in order to lure an enemy into a position of vulnerability. A feigned retreat is one of the more difficult tactics for a military force to undertake, and requires well-disciplined soldiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Mongol scouting screens ranged tens or hundreds of kilometers around moving armies to protect them from surprise attacks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says scouting screens ranged tens or hundreds of kilometers around moving armies to protect them from surprise attacks.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols usually planned a multi-pronged invasion, relying on their plans and scouting networks to allow individual columns to join with others. Moving armies were protected from surprise attacks by scouting screens which ranged tens or hundreds of kilometers around the main force.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Mongol armies planned multi-pronged invasions and used plans and scouting networks to allow separate columns to join.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Mongol invasions were usually multi-pronged and that plans and scouting networks allowed columns to join.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols usually planned a multi-pronged invasion, relying on their plans and scouting networks to allow individual columns to join with others. Moving armies were protected from surprise attacks by scouting screens which ranged tens or hundreds of kilometers around the main force.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "White Scars lore describes lightning assaults using fast vehicles and attacks upon foes in a torrent.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The White Scars lore card describes lightning assaults using fast vehicles and an attack in a torrent.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Mounting lightning assaults utilising the fastest of vehicles, the White Scars descend upon their foes in an unstoppable torrent, their hearts filled with savage joy and the battle cry \"For the Emperor and the Khan!\" on their lips.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The White Scars' battle cry invokes the Emperor and the Khan.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The White Scars lore card gives their battle cry as invoking the Emperor and the Khan.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Mounting lightning assaults utilising the fastest of vehicles, the White Scars descend upon their foes in an unstoppable torrent, their hearts filled with savage joy and the battle cry \"For the Emperor and the Khan!\" on their lips.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Assault bikes are light vehicles used by Space Marine chapters throughout the Imperium, including the White Scars.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card identifies the Assault Bike as a light vehicle used throughout the Imperium by most Adeptus Astartes Chapters; the narration’s White Scars example is consistent with this, though not stated by name in that card.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "The Assault Bike , also known as the Space Marine Bike , is a light vehicle that is used throughout the Imperium by most Adeptus Astartes Chapters , and even by Renegade and Chaos Space Marines .",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "White Scars bike guidance recommends striking enemies and turning aside counter-blows, while warning that speed without direction is useless.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Assault Bike guidance says to strike and turn aside counter-blows and warns that speed without direction is useless.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The White Scars bike guidance describes surprise as a biker's deadliest weapon.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Assault Bike guidance explicitly calls surprise a biker’s deadliest weapon.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The Mongol and White Scars examples can be compared as battlefield functions, but the cards do not establish direct inspiration.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The narration explicitly presents this as a comparison of battlefield functions and says the cards do not prove direct inspiration.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "During the Mongol conquest of Khwarezmia (1219–21), on the third day of Genghis Khan 's 1220 assault on its capital, Samarkand 's garrison launched a counterattack. Genghis Khan, feigning retreat, drew about half of Samarkand's garrison outside the city's fortifications and slaughtered them in open combat.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Mongol mobility included feigned retreats, scouting screens, and coordinated moving columns.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support the stated elements separately: feigned retreat, scouting screens, and coordinated columns, though they do not establish a single causal connection among them.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Feigned retreat",
+       "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+       "snippet": "A feigned retreat is a military tactic , a type of feint , whereby a military force will pretend to withdraw or to have been routed , in order to lure an enemy into a position of vulnerability. A feigned retreat is one of the more difficult tactics for a military force to undertake, and requires well-disciplined soldiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E33",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols usually planned a multi-pronged invasion, relying on their plans and scouting networks to allow individual columns to join with others. Moving armies were protected from surprise attacks by scouting screens which ranged tens or hundreds of kilometers around the main force.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "White Scars bike warfare emphasizes fast assault, surprise, and managing counter-blows.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The White Scars and Assault Bike cards support fast assault, surprise, and turning aside counter-blows as lore descriptions.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Mounting lightning assaults utilising the fastest of vehicles, the White Scars descend upon their foes in an unstoppable torrent, their hearts filled with savage joy and the battle cry \"For the Emperor and the Khan!\" on their lips.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E27",
+       "pack": "warhammer40k",
+       "page_title": "Assault Bike",
+       "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+       "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Roman cavalry: when retreat became a weapon",
+    "The steppe’s hidden infrastructure of scouts and roads",
+    "Warhammer’s other fast armies, from outriders to daemons"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Genghis Khan’s forces used a feigned retreat to draw Samarkand’s defenders outside the city walls.",
+      "verdict": "fact",
+      "explanation": "On the third day of the 1220 assault, the garrison counterattacked; Genghis Khan feigned retreat, drew about half the garrison beyond the fortifications, and defeated them in open combat.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "history",
+        "page_title": "Feigned retreat",
+        "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+        "snippet": "During the Mongol conquest of Khwarezmia (1219–21), on the third day of Genghis Khan 's 1220 assault on its capital, Samarkand 's garrison launched a counterattack. Genghis Khan, feigning retreat, drew about half of Samarkand's garrison outside the city's fortifications and slaughtered them in open combat.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Mongol scouting screens stretched tens or hundreds of kilometers around moving armies.",
+      "verdict": "fact",
+      "explanation": "The evidence describes scouting screens ranging tens or hundreds of kilometers around the main force to protect moving armies from surprise attacks.",
+      "evidence_ids": [
+       "E33"
+      ],
+      "evidence": [
+       {
+        "id": "E33",
+        "pack": "history",
+        "page_title": "Mongol Empire",
+        "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+        "snippet": "The Mongols usually planned a multi-pronged invasion, relying on their plans and scouting networks to allow individual columns to join with others. Moving armies were protected from surprise attacks by scouting screens which ranged tens or hundreds of kilometers around the main force.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The White Scars were directly inspired by Mongol military history.",
+      "verdict": "myth",
+      "explanation": "The chapter draws a tactical parallel between Mongol mobility and White Scars bike warfare, but the evidence does not establish direct inspiration.",
+      "evidence_ids": [
+       "E26",
+       "E27"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "history",
+        "page_title": "Feigned retreat",
+        "url": "https://en.wikipedia.org/wiki/Feigned_retreat",
+        "snippet": "During the Mongol conquest of Khwarezmia (1219–21), on the third day of Genghis Khan 's 1220 assault on its capital, Samarkand 's garrison launched a counterattack. Genghis Khan, feigning retreat, drew about half of Samarkand's garrison outside the city's fortifications and slaughtered them in open combat.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E27",
+        "pack": "warhammer40k",
+        "page_title": "Assault Bike",
+        "url": "https://warhammer40k.fandom.com/wiki/Assault_Bike",
+        "snippet": "\" Use your Bike Squads as a blade, striking the enemy and turning aside his counter-blows in equal measure. But in all things, beware that speed is nothing without direction, just as the mightiest weapon is worthless without careful aim. A biker's stance should always be resolute and dauntless, but never immobile or rigid. Speed is his advantage, and surprise his deadliest weapon.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "At Samarkand, what did Genghis Khan do when the garrison launched its counterattack?",
+     "options": [
+      "He feigned retreat and drew part of the garrison outside the fortifications.",
+      "He waited for the garrison to return inside before attacking.",
+      "He divided his army into columns and joined them beyond the city."
+     ],
+     "answer_index": 0,
+     "reveal_para": 1,
+     "explanation": "He feigned retreat, drawing about half the garrison outside the fortifications, where his forces defeated them."
+    }
+   }
+  },
+  "What speed cannot solve": {
+   "index": 2,
+   "title": "When Speed Is Not Enough",
+   "narration": "You chose the question speed cannot answer. In the first chapter, the rider’s advantage was not merely that he could move quickly. It was that he could make an enemy move when he wanted, and make pursuit part of the trap. Now we reach the hard edge of that advantage: a fast army still has to know where it is going, when to go, and what happens when the road ends at a wall.\n\nThe Mongols did not treat campaigning as one long, breathless charge. Their armies commonly rested in late spring and summer. [c1] Campaigns normally took place in winter, and summer kurultais were where war plans were drawn up. [c2] Commanders were appointed there, and planners could use intelligence from merchants or their own scouts. [c3] Their plans balanced commanders’ independent tactical thinking against a strict strategic timetable. [c4]\n\nThat is the quiet machinery behind the thunder. Speed gets the army across the map; coordination helps decide whether the army arrives together, arrives in time, and knows what waits ahead. That last sentence is my interpretation of the system, not a claim that a timetable magically makes every campaign succeed. A timetable is not omniscience. A scout can bring information, but information still has to be judged. A commander can adapt, but adaptation still has to fit the larger plan.\n\nHere is the twist: the Mongols’ reputation for movement can make us imagine that movement solved every military problem. It did not. They were initially poor at siege warfare, and at first could take walls only when they had surprise. [c5] They learned to incorporate Muslim and Chinese siege engineers into their armies. [c6] Those specialists served not only in sieges, but also on the battlefield and in logistics. [c7]\n\nThere is the difference between a weapon and a whole way of war. A bow can threaten an enemy at a distance; a rider can cross ground swiftly. But a wall asks a different question. It asks what your army can do when speed meets stone. The Mongol answer, as it developed, included expertise they did not begin with. The lesson is not that mobility was useless. It is that mobility could bring an army to the problem, while knowledge and coordination helped it deal with the problem.\n\nThe White Scars make that tension feel almost personal. Their way of fighting drew criticism from some, who considered their strategies flawed, especially the inflexible sons of Dorn and Guilliman. [c8] Others looked down on the Chogorian traditions that bound the Legion together. [c9] So the argument is not simply whether speed is good. It is whether a force built around a distinctive style can keep its identity without letting that style become a cage.\n\nIf you ask me, that is where the Mongol campaign plan and the White Scars make a striking comparison. The Mongol commanders’ independent thinking had to live inside a strategic timetable; the White Scars’ distinctive approach had to live inside a Legion held together by tradition. The parallel is about a shared problem, not a claim that one directly inspired the other. A doctrine can set you free from an opponent’s expectations. It can also tempt you to answer every problem with the tool you love most.\n\nAnd battle charges a price that no slogan can cancel. Not a price we can calculate from these details, and not one we should decorate with invented numbers. Simply the human reality built into the word battle: people are sent into danger, and plans are made because danger is coming. In the Mongol case, the evidence here shows planning, intelligence, adaptation, and a serious early weakness at walls. In the White Scars case, it shows a doctrine admired by some and criticized by others. These are not identical stories. They meet at the question of what speed cannot do by itself.\n\nA fast force still needs judgment. It needs coordination between the person reading the ground and the person setting the plan. It needs a way to respond when the enemy refuses the kind of fight the force prefers. The Mongols’ use of engineers makes that point with unusual clarity: when walls exposed a weakness, they added different expertise. The White Scars’ critics point toward another danger: when a style becomes a tradition, outsiders may see strength where others see inflexibility—or the reverse.\n\nSo here is the payoff. Speed is a weapon, but it cannot decide every fight alone. It can shape the encounter; it cannot guarantee the ending. The Mongols paired movement with intelligence, coordination, and adaptation. The White Scars turn speed into identity, and that identity brings both cohesion and argument. The memorable part is not that one army moved fast. It is that every army, however swift, eventually meets a problem that asks for something else.\n\nThat leaves three roads for what comes next: the Mongols and the walls that stopped them; the White Scars and the price of a doctrine; or another empire where speed meets stubborn resistance. Which one do you want to follow?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Mongols commonly rested in late spring and summer.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence plainly says the Mongols were accustomed to rest in late spring and summer.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were accustomed to rest in late spring and summer. Campaigns, which normally took place in winter, were planned at summer kurultai 's . Here, commanders were appointed and plans drawn up, often using military intelligence gathered from merchants or their own scouting networks. Mongol war plans balanced independent tactical thinking by commanders with a strict strategic timetable.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Mongol campaigns normally took place in winter, and summer kurultais were used to draw up war plans.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence directly states that campaigns normally took place in winter and plans were drawn up at summer kurultais.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were accustomed to rest in late spring and summer. Campaigns, which normally took place in winter, were planned at summer kurultai 's . Here, commanders were appointed and plans drawn up, often using military intelligence gathered from merchants or their own scouting networks. Mongol war plans balanced independent tactical thinking by commanders with a strict strategic timetable.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Commanders were appointed at summer kurultais, and planners used intelligence from merchants or scouting networks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says commanders were appointed at the kurultais and plans often used intelligence from merchants or scouting networks.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were accustomed to rest in late spring and summer. Campaigns, which normally took place in winter, were planned at summer kurultai 's . Here, commanders were appointed and plans drawn up, often using military intelligence gathered from merchants or their own scouting networks. Mongol war plans balanced independent tactical thinking by commanders with a strict strategic timetable.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Mongol war plans balanced commanders’ independent tactical thinking with a strict strategic timetable.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence directly says Mongol war plans balanced commanders’ independent tactical thinking with a strict strategic timetable.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were accustomed to rest in late spring and summer. Campaigns, which normally took place in winter, were planned at summer kurultai 's . Here, commanders were appointed and plans drawn up, often using military intelligence gathered from merchants or their own scouting networks. Mongol war plans balanced independent tactical thinking by commanders with a strict strategic timetable.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Mongols were initially poor at siege warfare and could initially take walls only through surprise.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that the Mongols were initially poor at siege warfare and could conquer walls only with the element of surprise.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were initially poor at siege warfare , only being able to conquer walls with the element of surprise. However, they quickly learnt to incorporate Muslim and Chinese siege engineers into their armies. These artillery experts were used, in addition to sieges, on the battlefield and in logistics.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Mongols learned to incorporate Muslim and Chinese siege engineers into their armies.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says they quickly learned to incorporate Muslim and Chinese siege engineers into their armies.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were initially poor at siege warfare , only being able to conquer walls with the element of surprise. However, they quickly learnt to incorporate Muslim and Chinese siege engineers into their armies. These artillery experts were used, in addition to sieges, on the battlefield and in logistics.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The siege experts served in sieges, on battlefields, and in logistics.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence directly says these artillery experts were used in sieges, on battlefields, and in logistics.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Mongol Empire",
+       "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+       "snippet": "The Mongols were initially poor at siege warfare , only being able to conquer walls with the element of surprise. However, they quickly learnt to incorporate Muslim and Chinese siege engineers into their armies. These artillery experts were used, in addition to sieges, on the battlefield and in logistics.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Some critics considered White Scars strategies flawed, especially the inflexible sons of Dorn and Guilliman.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore evidence says some considered the Legion’s strategies flawed, particularly the inflexible sons of Dorn and Guilliman.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Some found the strategies by which his Legion fought to be flawed, especially the inflexible sons of Dorn and Guilliman, while others looked down upon the trapping of Chogorian tradition that bound the Legion together.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Some looked down on the Chogorian traditions that bound the White Scars Legion together.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The lore evidence says others looked down upon the Chogorian traditions that bound the Legion together.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "warhammer40k",
+       "page_title": "White Scars",
+       "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+       "snippet": "Some found the strategies by which his Legion fought to be flawed, especially the inflexible sons of Dorn and Guilliman, while others looked down upon the trapping of Chogorian tradition that bound the Legion together.",
+       "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Mongols and the walls that stopped them",
+    "The White Scars and the price of a doctrine",
+    "Another empire where speed meets stubborn resistance"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Mongol campaigns normally took place in winter.",
+      "verdict": "fact",
+      "explanation": "The evidence says campaigns normally took place in winter, with plans drawn up at summer kurultais.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Mongol Empire",
+        "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+        "snippet": "The Mongols were accustomed to rest in late spring and summer. Campaigns, which normally took place in winter, were planned at summer kurultai 's . Here, commanders were appointed and plans drawn up, often using military intelligence gathered from merchants or their own scouting networks. Mongol war plans balanced independent tactical thinking by commanders with a strict strategic timetable.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Mongols could take walled cities only after learning siege warfare from Muslim and Chinese engineers.",
+      "verdict": "myth",
+      "explanation": "They were initially able to take walls through surprise, then learned to incorporate Muslim and Chinese siege engineers. The evidence does not say engineers were the only way they could take walls.",
+      "evidence_ids": [
+       "E20"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "history",
+        "page_title": "Mongol Empire",
+        "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+        "snippet": "The Mongols were initially poor at siege warfare , only being able to conquer walls with the element of surprise. However, they quickly learnt to incorporate Muslim and Chinese siege engineers into their armies. These artillery experts were used, in addition to sieges, on the battlefield and in logistics.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The White Scars’ fighting style was considered flawed by everyone who encountered it.",
+      "verdict": "myth",
+      "explanation": "The evidence says some critics considered their strategies flawed, while others looked down on Chogorian tradition; it does not say everyone agreed.",
+      "evidence_ids": [
+       "E39"
+      ],
+      "evidence": [
+       {
+        "id": "E39",
+        "pack": "warhammer40k",
+        "page_title": "White Scars",
+        "url": "https://warhammer40k.fandom.com/wiki/White_Scars",
+        "snippet": "Some found the strategies by which his Legion fought to be flawed, especially the inflexible sons of Dorn and Guilliman, while others looked down upon the trapping of Chogorian tradition that bound the Legion together.",
+        "license": "Text from the Warhammer 40k Wiki (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "What did the Mongols add to their armies as they adapted to the challenge of walls?",
+     "options": [
+      "Muslim and Chinese siege engineers",
+      "A larger force of mounted archers",
+      "A rule against winter campaigns"
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "They learned to incorporate Muslim and Chinese siege engineers into their armies."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Mongol Warriors",
+   "author": "Lois Sepahban",
+   "year": 2015,
+   "why": "A focused introduction to Mongol warfare that connects directly to the episode’s exploration of steppe mobility and pursuit.",
+   "url": "https://openlibrary.org/works/OL21806222W"
+  },
+  {
+   "title": "Tollins",
+   "author": "Conn Iggulden",
+   "year": 2007,
+   "why": "Iggulden’s historical-fiction background makes this a fitting next read for a listener drawn to sweeping stories of conquest and strategy.",
+   "url": "https://openlibrary.org/works/OL5734887W"
+  },
+  {
+   "title": "Horus Rising",
+   "author": "Dan Abnett",
+   "year": 2006,
+   "why": "This opens the Horus Heresy saga, offering another fictional exploration of military power, momentum, and the limits of expansion.",
+   "url": "https://openlibrary.org/works/OL5843391W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8272,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 500,
+   "output_tokens": 759,
+   "cost_usd": 0.00056507
+  },
+  {
+   "agent": "researcher",
+   "requests": 18,
+   "input_tokens": 61046,
+   "cached_tokens": 48255,
+   "cache_write_tokens": 9582,
+   "output_tokens": 1892,
+   "cost_usd": 0.00294721
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 21023,
+   "cached_tokens": 15835,
+   "cache_write_tokens": 4558,
+   "output_tokens": 8022,
+   "cost_usd": 0.00480211
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 22015,
+   "cached_tokens": 11425,
+   "cache_write_tokens": 9960,
+   "output_tokens": 2895,
+   "cost_usd": 0.00286974
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1752,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 302,
+   "output_tokens": 201,
+   "cost_usd": 0.00016409
+  }
+ ],
+ "build_cost_usd": 0.011348,
+ "build_seconds": 79.3
+}

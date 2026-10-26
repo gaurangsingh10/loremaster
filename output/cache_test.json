@@ -1,0 +1,368 @@
+[
+ {
+  "setup": "with_cache",
+  "thread": "republic-galactic-empire",
+  "episode_id": "5d3a1f74b9",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 67.6,
+  "cost_usd": 0.00498957,
+  "requests": 13,
+  "input_tokens": 36756,
+  "cached_tokens": 25478,
+  "cache_write_tokens": 9640,
+  "output_tokens": 6732,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3906,
+    "cached_tokens": 3518,
+    "cache_write_tokens": 136,
+    "output_tokens": 379,
+    "cost_usd": 0.00026688
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16529,
+    "cached_tokens": 12072,
+    "cache_write_tokens": 3701,
+    "output_tokens": 673,
+    "cost_usd": 0.00099544
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6724,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 1294,
+    "output_tokens": 3523,
+    "cost_usd": 0.00200023
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7855,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4217,
+    "output_tokens": 1936,
+    "cost_usd": 0.00155418
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1742,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 292,
+    "output_tokens": 221,
+    "cost_usd": 0.00017284
+   }
+  ]
+ },
+ {
+  "setup": "with_cache",
+  "thread": "rome-imperium",
+  "episode_id": "e84d4b61c4",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 66.7,
+  "cost_usd": 0.00601037,
+  "requests": 15,
+  "input_tokens": 45543,
+  "cached_tokens": 29998,
+  "cache_write_tokens": 13655,
+  "output_tokens": 7629,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3923,
+    "cached_tokens": 3519,
+    "cache_write_tokens": 152,
+    "output_tokens": 491,
+    "cost_usd": 0.00032489
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17323,
+    "cached_tokens": 12309,
+    "cache_write_tokens": 4258,
+    "output_tokens": 779,
+    "cost_usd": 0.00112045
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11501,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 3356,
+    "output_tokens": 4244,
+    "cost_usd": 0.00265697
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11133,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5676,
+    "output_tokens": 1897,
+    "cost_usd": 0.00174659
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1663,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 213,
+    "output_tokens": 218,
+    "cost_usd": 0.00016147
+   }
+  ]
+ },
+ {
+  "setup": "with_cache",
+  "thread": "texas-law-medieval-spain",
+  "episode_id": "cbad05873d",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 69.1,
+  "cost_usd": 0.00593269,
+  "requests": 16,
+  "input_tokens": 48430,
+  "cached_tokens": 33084,
+  "cache_write_tokens": 13330,
+  "output_tokens": 7468,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3915,
+    "cached_tokens": 3519,
+    "cache_write_tokens": 144,
+    "output_tokens": 374,
+    "cost_usd": 0.00026539
+   },
+   {
+    "agent": "researcher",
+    "requests": 7,
+    "input_tokens": 20213,
+    "cached_tokens": 15395,
+    "cache_write_tokens": 3936,
+    "output_tokens": 828,
+    "cost_usd": 0.00114814
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11655,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 3510,
+    "output_tokens": 4513,
+    "cost_usd": 0.00281073
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11087,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5630,
+    "output_tokens": 1700,
+    "cost_usd": 0.00164234
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1560,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 110,
+    "output_tokens": 53,
+    "cost_usd": 6.609e-05
+   }
+  ]
+ },
+ {
+  "setup": "without_cache",
+  "thread": "republic-galactic-empire",
+  "episode_id": "08781c2d59",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 78.9,
+  "cost_usd": 0.01131571,
+  "requests": 17,
+  "input_tokens": 53754,
+  "cached_tokens": 0,
+  "cache_write_tokens": 51612,
+  "output_tokens": 9300,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3964,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3712,
+    "output_tokens": 522,
+    "cost_usd": 0.0007502
+   },
+   {
+    "agent": "researcher",
+    "requests": 8,
+    "input_tokens": 23966,
+    "cached_tokens": 0,
+    "cache_write_tokens": 22958,
+    "output_tokens": 781,
+    "cost_usd": 0.00336105
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 12060,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11682,
+    "output_tokens": 5094,
+    "cost_usd": 0.00404505
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 12001,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11623,
+    "output_tokens": 2689,
+    "cost_usd": 0.00283518
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1763,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1637,
+    "output_tokens": 214,
+    "cost_usd": 0.00032423
+   }
+  ]
+ },
+ {
+  "setup": "without_cache",
+  "thread": "rome-imperium",
+  "episode_id": "90a372ee7e",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 54.1,
+  "cost_usd": 0.00739955,
+  "requests": 13,
+  "input_tokens": 36560,
+  "cached_tokens": 0,
+  "cache_write_tokens": 34922,
+  "output_tokens": 5741,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3981,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3729,
+    "output_tokens": 522,
+    "cost_usd": 0.00075233
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16814,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16058,
+    "output_tokens": 744,
+    "cost_usd": 0.00245485
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6672,
+    "cached_tokens": 0,
+    "cache_write_tokens": 6420,
+    "output_tokens": 2830,
+    "cost_usd": 0.00224269
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7410,
+    "cached_tokens": 0,
+    "cache_write_tokens": 7158,
+    "output_tokens": 1420,
+    "cost_usd": 0.00162995
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1683,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1557,
+    "output_tokens": 225,
+    "cost_usd": 0.00031973
+   }
+  ]
+ },
+ {
+  "setup": "without_cache",
+  "thread": "texas-law-medieval-spain",
+  "episode_id": "e60180d04a",
+  "status": "done",
+  "chapters": 2,
+  "seconds": 68.3,
+  "cost_usd": 0.01094831,
+  "requests": 17,
+  "input_tokens": 53023,
+  "cached_tokens": 0,
+  "cache_write_tokens": 50881,
+  "output_tokens": 8748,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3962,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3710,
+    "output_tokens": 451,
+    "cost_usd": 0.00071445
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17044,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16288,
+    "output_tokens": 690,
+    "cost_usd": 0.00245659
+   },
+   {
+    "agent": "storyteller",
+    "requests": 4,
+    "input_tokens": 16194,
+    "cached_tokens": 0,
+    "cache_write_tokens": 15690,
+    "output_tokens": 5164,
+    "cost_usd": 0.00459364
+   },
+   {
+    "agent": "skeptic",
+    "requests": 4,
+    "input_tokens": 14237,
+    "cached_tokens": 0,
+    "cache_write_tokens": 13733,
+    "output_tokens": 2426,
+    "cost_usd": 0.00298003
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1586,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1460,
+    "output_tokens": 17,
+    "cost_usd": 0.0002036
+   }
+  ]
+ }
+]

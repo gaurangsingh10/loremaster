@@ -1,0 +1,2089 @@
+{
+ "thread": {
+  "id": "library-of-alexandria",
+  "title": "Who Really Destroyed the Library of Alexandria?",
+  "hook": "Caesar, Christians, a caliph, or just centuries of neglect? Every suspect, graded.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Ptolemaic Egypt to late antiquity",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Who Destroyed Alexandria’s Library?",
+ "logline": "Caesar, Christian zealots, a caliph—or no single culprit: follow the evidence through the library’s long decline and put each famous suspect on trial.",
+ "plan": [
+  {
+   "title": "The Fire and the First Suspect",
+   "focus": "Open with the irresistible question of whether Caesar burned the Library of Alexandria, then examine what ancient accounts say about the fire during his campaign and what they do—and do not—establish about damage to the Library itself. Set up the central distinction between a dramatic episode and the destruction of an institution over time.",
+   "queries": [
+    "history: Library of Alexandria",
+    "history: Siege of Alexandria Caesar",
+    "history: Julius Caesar fire Alexandria"
+   ],
+   "packs": [
+    "history"
+   ]
+  },
+  {
+   "title": "A Long, Uncertain Ending",
+   "focus": "Put the later suspects—the destruction of the Serapeum under Theophilus and the story of Caliph Omar—against the evidence, distinguishing the Library from the Serapeum and legend from documented history. End with the more cautious picture: a complex institution whose collections and support may have declined across centuries, with no securely established single final destroyer.",
+   "queries": [
+    "history: Serapeum Alexandria Theophilus",
+    "history: Caliph Omar Library Alexandria",
+    "history: destruction Library of Alexandria"
+   ],
+   "packs": [
+    "history"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Fire and the First Suspect",
+  "narration": "Alexandria, forty-eight BC. The harbor is crowded with ships, Caesar is trapped in a civil war, and fire is about to turn a military maneuver into one of history’s most persistent accusations. [c1] Did Caesar burn the Library of Alexandria? The question sounds simple. The answer is not. [c2]\n\nCaesar is besieged in Alexandria during his civil war. [c3] His soldiers set fire to Egyptian ships docked in the port, trying to clear the wharves and block the fleet of Cleopatra’s brother, Ptolemy the Thirteenth. [c4] That is the solid center of the story: a fire, a harbor, and a tactical purpose. [c5]\n\nNow picture the choice. Caesar’s forces are short on reinforcements, and fighting presses toward the Royal Quarter. [c6] In one account, Caesar uses the burning boats as a distraction and sends troops to Pharos, the island guarding the harbor. [c7] The fire is not described as a plan to attack books. It is described as a way to shape a battle. [c8]\n\nAnd the danger does not vanish with the first flames. Ganymedes orders the Alexandrians to repair ships, and they ready twenty-seven warships. [c9] Caesar gathers nineteen warships and fifteen smaller vessels, arranging them in two lines north of Pharos. [c10] This is what the scene looks like when we stay close to the military record: fleets maneuvering, control of the harbor at stake, and the city caught in a struggle for power. [c11]\n\nBut here comes the leap that made the story immortal. A fire in the port becomes a fire in the Library. The accusation has a real spark beneath it, but sparks are not the same thing as a complete account. [c12]\n\nCassius Dio’s wording has been interpreted by scholars as pointing to damage to one or more library warehouses near the docks, rather than the destruction of the entire Library. [c13] The distinction matters. A warehouse holding manuscripts could suffer terrible losses without the whole institution disappearing in one night. [c14] The surviving summary of the evidence says the Library was not completely destroyed by Caesar’s fire. [c15]\n\nThat does not mean the fire was harmless. Manuscripts were handwritten, costly, and slow to replace. [c16] And Alexandria’s collections faced fire on multiple occasions, while the details remain controversial. [c17] So the vivid version—one conqueror, one blaze, one lost wonder—may compress a longer, messier history into a single scene. [c18]\n\nHere’s my read: Caesar is the irresistible first suspect because his fire gives the legend a date, a face, and a harbor full of flames. [c19] But blaming him for destroying the Library outright outruns what these accounts establish. [c20] The better question is whether an institution can be lost by degrees: a damaged collection here, a burned quarter there, each blow harder to repair than the last. [c21]\n\nAnd there is another date waiting in the shadows. In two hundred seventy-two AD, Aurelian’s forces fought to retake Alexandria from the forces of Queen Zenobia. [c22] They destroyed the Broucheion quarter, where the main Library was located. [c23] If the Mouseion and Library still existed then, they were almost certainly damaged or destroyed in that attack. [c24] The story may have more than one fire—and more than one suspect. [c25]\n\nSo: Caesar’s soldiers burned ships during a military crisis, and the fire may have damaged library warehouses near the docks. [c26] The evidence does not establish that Caesar destroyed the entire Library, while later fighting may have dealt another blow. [c27] Was the decisive loss Aurelian’s assault, or did the institution fade through repeated damage? Choose the next path: trace the evidence for Aurelian’s attack; follow the Library’s repeated fires; or test whether “destroyed” ever meant one final moment.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "In 48 BC, Caesar was besieged in Alexandria during the civil war, and ships burned in the harbor.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 states that in 48 BC Caesar was besieged in Alexandria during the civil war and that his soldiers set fire to Egyptian ships in the port.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "Whether Caesar burned the Library of Alexandria is an unresolved question.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 reports scholarly interpretations of the fire’s possible damage, and E7 says the details of the Library’s destruction remain controversial.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Caesar was besieged in Alexandria during his civil war.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 plainly states that Caesar was besieged at Alexandria during the civil war.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Caesar’s soldiers burned Egyptian ships in the port to clear wharves and block Ptolemy XIII’s fleet.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E5 gives the ships, the effort to clear the wharves, and the aim of blocking Ptolemy XIII’s fleet.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The fire’s documented setting and purpose were military rather than an explicit attack on books.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a careful synthesis of E5’s stated military purpose and the absence there of any stated plan to attack books.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "After this, Achillas would besiege and then launch an all-out attack on the Royal Quarter. Initial fighting was fierce, and with little reinforcements available to him, Caesar set fire to the Ptolemaic boats in the harbor as a distraction, and sent a detachment to the island of Pharos to maintain control of the harbor.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Caesar had few reinforcements while fighting advanced toward the Royal Quarter.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E2 says Caesar had little reinforcement available while fighting moved toward an all-out attack on the Royal Quarter.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "After this, Achillas would besiege and then launch an all-out attack on the Royal Quarter. Initial fighting was fierce, and with little reinforcements available to him, Caesar set fire to the Ptolemaic boats in the harbor as a distraction, and sent a detachment to the island of Pharos to maintain control of the harbor.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Caesar used the burning boats as a distraction and sent a detachment to Pharos.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E2 states that Caesar used the harbor fire as a distraction and sent a detachment to Pharos to maintain control of the harbor.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "After this, Achillas would besiege and then launch an all-out attack on the Royal Quarter. Initial fighting was fierce, and with little reinforcements available to him, Caesar set fire to the Ptolemaic boats in the harbor as a distraction, and sent a detachment to the island of Pharos to maintain control of the harbor.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "The account describes the fire as a battle tactic, not as a plan to attack books.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This frames E2’s account of a military tactic and does not claim the source explicitly discusses books.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "After this, Achillas would besiege and then launch an all-out attack on the Royal Quarter. Initial fighting was fierce, and with little reinforcements available to him, Caesar set fire to the Ptolemaic boats in the harbor as a distraction, and sent a detachment to the island of Pharos to maintain control of the harbor.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Ganymedes ordered ships repaired, and the Alexandrians readied twenty-seven warships.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E1 states that Ganymedes ordered ships repaired and that the Alexandrians readied 27 warships.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "When Caesar set fire to the Alexandrian fleet, Ganymedes ordered the Alexandrians to repair as many ships as possible. They readied 27 warships for battle. Caesar unwilling to give up his naval superiority drew up his own fleet, 19 warships and 15 smaller vessels, in two lines just north of the coast of Pharos Island.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Caesar assembled nineteen warships and fifteen smaller vessels in two lines north of Pharos.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E1 gives Caesar’s fleet as 19 warships and 15 smaller vessels, drawn up in two lines just north of Pharos.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "When Caesar set fire to the Alexandrian fleet, Ganymedes ordered the Alexandrians to repair as many ships as possible. They readied 27 warships for battle. Caesar unwilling to give up his naval superiority drew up his own fleet, 19 warships and 15 smaller vessels, in two lines just north of the coast of Pharos Island.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "The accounts describe naval maneuvering and control of the harbor as military stakes.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This summarizes the military stakes evident in E1 and E2 rather than adding a separate factual event.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "When Caesar set fire to the Alexandrian fleet, Ganymedes ordered the Alexandrians to repair as many ships as possible. They readied 27 warships for battle. Caesar unwilling to give up his naval superiority drew up his own fleet, 19 warships and 15 smaller vessels, in two lines just north of the coast of Pharos Island.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Siege of Alexandria (47 BC)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Alexandria_%2847_BC%29",
+      "snippet": "After this, Achillas would besiege and then launch an all-out attack on the Royal Quarter. Initial fighting was fierce, and with little reinforcements available to him, Caesar set fire to the Ptolemaic boats in the harbor as a distraction, and sent a detachment to the island of Pharos to maintain control of the harbor.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The leap from a harbor fire to the Library’s destruction exceeds the simple account of the military fire.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a framing of the difference between the documented harbor fire and the disputed claim about the Library.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Scholars have read Cassius Dio’s wording as referring to one or more library warehouses near the docks.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 explicitly says scholars have interpreted Cassius Dio’s wording as referring to one or more Library warehouses near the docks.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Damage to a library warehouse would not by itself establish destruction of the whole institution.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a reasonable explanatory distinction, but E4 does not specifically describe the losses a warehouse fire would cause.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "The Library was not completely destroyed by Caesar’s fire.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E4 directly says that the Library was not completely destroyed by Caesar’s fire.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "Handwritten manuscripts were difficult, expensive, and time-consuming to replace.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E7 says handwritten manuscripts were difficult, expensive, and time-consuming to replace.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "Parts of Alexandria’s library collection were destroyed by fire on multiple occasions, and details remain controversial.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E7 says the library or parts of its collection were destroyed by fire on several occasions and that the details remain controversial.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "The single-fire version may compress a longer, disputed history.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is an interpretive summary of E7’s account of repeated fires and unresolved details.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c19",
+    "text": "Caesar’s harbor fire gives the popular accusation a vivid date, figure, and setting.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is the narrator’s framing of why the Caesar story is vivid, not a factual claim established by E5.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c20",
+    "text": "The cited accounts do not establish that Caesar destroyed the entire Library.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This appropriately describes the limits of the cited accounts, which do not establish that Caesar destroyed the entire Library.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c21",
+    "text": "The Library’s loss may be understood as occurring through damage over time rather than one decisive event.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This presents a possible way to understand the Library’s loss, not a conclusion directly established by E7.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c22",
+    "text": "In 272 AD, Aurelian fought to retake Alexandria from forces of Zenobia.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E6 states that in 272 AD Aurelian fought to recapture Alexandria from Zenobia’s forces.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c23",
+    "text": "Aurelian’s forces destroyed the Broucheion quarter, where the main Library was located.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E6 says Aurelian’s forces destroyed the Broucheion quarter and locates the main Library there.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c24",
+    "text": "If the Mouseion and Library still existed during Aurelian’s attack, they were almost certainly damaged or destroyed.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "E6 explicitly says that if the Mouseion and Library still existed then, they were almost certainly damaged or destroyed in the attack.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c25",
+    "text": "The evidence allows for multiple fires and possible episodes of damage to the Library.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This cautiously combines E7’s account of repeated fires with E6’s possible later damage to the Library.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Alexandria",
+      "snippet": "It has been reasonably established that the library, or parts of the collection, were destroyed by fire on a number of occasions (library fires were common and replacement of handwritten manuscripts was very difficult, expensive, and time-consuming). To this day, the details of the destruction (or destructions) remain a lively source of controversy.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c26",
+    "text": "Caesar’s soldiers burned ships during the crisis, and the fire may have damaged nearby library warehouses.",
+    "kind": "history",
+    "grade": "Debated",
+    "note": "E5 documents the ship fire, while E4 presents damage to nearby Library warehouses as a possibility rather than a settled finding.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c27",
+    "text": "The evidence does not show Caesar destroying the whole Library, and later fighting may have caused further damage.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This accurately frames the limits of the evidence: E4 does not establish destruction of the whole Library by Caesar, and E6 allows for later damage.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E6",
+      "pack": "history",
+      "page_title": "Library of Alexandria",
+      "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Aurelian’s assault: the quarter where the Library stood",
+   "A history of repeated fires, not one burning",
+   "What did “destroyed” mean for an ancient institution?"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Caesar’s soldiers set fire to Egyptian ships in Alexandria’s harbor.",
+     "verdict": "fact",
+     "explanation": "The account says the ships were burned to clear the wharves and block Ptolemy XIII’s fleet during the siege.",
+     "evidence_ids": [
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "In 48 BC, during Caesar's Civil War , Julius Caesar was besieged at Alexandria . His soldiers set fire to some of the Egyptian ships docked in the Alexandrian port while trying to clear the wharves to block the fleet belonging to Cleopatra 's brother, Ptolemy XIII Theos Philopator .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Caesar’s fire destroyed the entire Library of Alexandria.",
+     "verdict": "myth",
+     "explanation": "Scholars interpret the account as possibly describing damage to library warehouses near the docks; the evidence says the Library was not completely destroyed by Caesar’s fire.",
+     "evidence_ids": [
+      "E4"
+     ],
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Scholars have interpreted Cassius Dio's wording to indicate that the fire did not actually destroy the entire Library itself, but rather one or more Library warehouses near the docks. Whatever damage Caesar's fire may have caused, evidently the Library was not completely destroyed. The geographer Strabo ( c. 63 BC – c.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Aurelian’s forces destroyed the Broucheion quarter, where Alexandria’s main Library was located.",
+     "verdict": "fact",
+     "explanation": "The account places the main Library in the quarter destroyed during Aurelian’s campaign to retake Alexandria in 272 AD.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "In 272 AD, the emperor Aurelian fought to recapture the city of Alexandria from the forces of the Palmyrene queen Zenobia . During the course of the fighting, Aurelian's forces destroyed the Broucheion quarter of the city in which the main library was located. If the Mouseion and Library still existed at this time, they were almost certainly destroyed or damaged during the attack.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "After the account turns from Caesar’s harbor fire to a later assault on Alexandria, what happened to the Broucheion quarter?",
+    "options": [
+     "Aurelian’s forces destroyed it.",
+     "Caesar’s soldiers burned it.",
+     "Zenobia’s forces abandoned it intact."
+    ],
+    "answer_index": 0,
+    "reveal_para": 8,
+    "explanation": "In 272 AD, Aurelian’s forces destroyed the Broucheion quarter, where the main Library was located."
+   }
+  }
+ },
+ "branches": {
+  "Aurelian’s assault: the quarter where the Library stood": {
+   "index": 2,
+   "title": "Aurelian and the Missing Quarter",
+   "narration": "Alexandria, around two hundred seventy. Aurelian is moving to recover Egypt, a rich province caught in an empire-wide struggle. [c1] Zenobia’s invasion in two hundred sixty-nine brought Egypt under the breakaway Palmyrene Empire. [c2] Aurelian besieged Alexandria and recovered the province. [c3]\n\nYou chose the branch that follows Aurelian’s assault, not back to Caesar’s harbor fire. So let’s narrow the question: what burned in Alexandria, and what can we actually say about the Library? [c4]\n\nThe answer begins with a place name: the Brucheion, also called the Royal Quarter. The evidence reports that it burned to the ground, but does not explicitly connect that fire to Aurelian’s campaign. [c5] The quarter had once contained the Library of Alexandria. [c6] There’s the hard edge of the story: a district burned, and a famous institution had been associated with that district. [c7]\n\nBut a district is not a building inventory. The surviving extent of the Library in Aurelian’s time is uncertain. [c8] That uncertainty matters. The evidence does not tell us exactly what rooms, scrolls, or collections remained in the quarter when it burned. [c9]\n\nHere is the trap in the question. “Who destroyed Alexandria’s Library?” sounds like a courtroom, with one defendant and one decisive night. But the evidence for the Brucheion gives us a burned quarter, not a clear account of anyone destroying the Library itself. [c10] So the claim that Aurelian destroyed the Library as a specific institution goes beyond what this evidence establishes. [c11]\n\nStill, Aurelian belongs in the story. His victories reunited a Roman Empire that had nearly disintegrated under invasions and internal revolts. [c12] Egypt had come under Palmyrene control, then returned to Roman rule under Aurelian. [c13] The burning of the Royal Quarter belongs to Alexandria’s story of destruction, but it does not, by itself, reveal the Library’s final moment. [c14]\n\nNow consider the Library’s legendary scale. King Ptolemy the Second is said to have set a target of five hundred thousand scrolls. [c15] That reported ambition tells us nothing about how many scrolls remained centuries later. [c16] And a scroll was not necessarily a single book: one written work might occupy several scrolls, while editorial work divided texts into self-contained books. [c17] The numbers sound solid. The picture they create can still mislead.\n\nPut the two Alexandrias beside each other. The opening chapter followed Caesar’s harbor-fire story; this one brings us to the burned Royal Quarter and Aurelian’s era. [c18] The tempting move is to fuse fire, Library, and famous ruler into one neat culprit story. [c19] My read is that the honest ending is less tidy, and more haunting: the Library’s later fate remains uncertain, and we cannot identify one securely documented blaze as its end. [c20]\n\nThat uncertainty does not make the loss smaller. It means we should not fill the silence with a confident story the evidence cannot carry. The evidence gives us four firm points: Aurelian recovered Egypt; the Brucheion was burned; the Library had once been there; and its surviving extent is unknown. [c21]\n\nSo: Aurelian’s era brings us to a burned district associated with the Library, not proof that Aurelian personally destroyed it. [c22] The institution’s final fate remains uncertain; this evidence does not pin it to one documented blaze. [c23]\n\nFor what comes next, we could revisit Caesar’s fire and the first accusation. We could explore how the Library lived on in memory. Or we could ask why Alexandria became the enduring symbol of knowledge lost.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Aurelian sought to recover Egypt, a rich Roman province.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Aurelian card calls Egypt a rich province recovered by Aurelian.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Roman Egypt",
+       "url": "https://en.wikipedia.org/wiki/Roman_Egypt",
+       "snippet": "The Antonine Plague struck in the late 2nd century, but Roman Egypt recovered by the 3rd century. Having escaped much of the Crisis of the Third Century , Roman Egypt fell under the control of the breakaway Palmyrene Empire after an invasion of Egypt by Zenobia in 269. The emperor Aurelian ( r. 270–275 ) successfully besieged Alexandria and recovered Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Zenobia’s invasion in 269 brought Egypt under Palmyrene control.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Roman Egypt card says Zenobia invaded in 269 and Egypt then fell under Palmyrene control.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Roman Egypt",
+       "url": "https://en.wikipedia.org/wiki/Roman_Egypt",
+       "snippet": "The Antonine Plague struck in the late 2nd century, but Roman Egypt recovered by the 3rd century. Having escaped much of the Crisis of the Third Century , Roman Egypt fell under the control of the breakaway Palmyrene Empire after an invasion of Egypt by Zenobia in 269. The emperor Aurelian ( r. 270–275 ) successfully besieged Alexandria and recovered Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Aurelian besieged Alexandria and recovered Egypt.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Aurelian besieged Alexandria and recovered Egypt.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Roman Egypt",
+       "url": "https://en.wikipedia.org/wiki/Roman_Egypt",
+       "snippet": "The Antonine Plague struck in the late 2nd century, but Roman Egypt recovered by the 3rd century. Having escaped much of the Crisis of the Third Century , Roman Egypt fell under the control of the breakaway Palmyrene Empire after an invasion of Egypt by Zenobia in 269. The emperor Aurelian ( r. 270–275 ) successfully besieged Alexandria and recovered Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "This chapter follows Aurelian’s campaign rather than the earlier Caesar harbor-fire story.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is chapter framing rather than a historical claim established by the cited evidence.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The evidence reports that the Brucheion burned to the ground but does not explicitly link its burning to Aurelian’s campaign.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Brucheion burned to the ground but does not connect that burning to Aurelian’s campaign.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Brucheion once contained the Library of Alexandria.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Brucheion once contained the Library of Alexandria.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Library was associated with a district that burned.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says both that the quarter burned and that it once contained the Library, supporting the stated association.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The extent of the Library surviving in Aurelian’s time is uncertain.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says the extent of the surviving Library in Aurelian’s time is uncertain.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The evidence does not establish exactly what Library rooms, scrolls, or collections remained when the quarter burned.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card’s uncertainty about the surviving Library’s extent supports this cautious statement about what the evidence does not specify.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The evidence reports a burned quarter but does not clearly state that anyone destroyed the Library itself.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card reports a burned quarter associated with the Library, but makes no claim that the Library itself was destroyed.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The evidence provided does not establish that Aurelian destroyed the Library as a specific institution.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card does not establish that Aurelian destroyed the Library as an institution, so this is a careful evidentiary-limit statement.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Aurelian’s victories reunited an empire that had nearly disintegrated under invasions and internal revolts.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Aurelian card says his victories reunited an empire that had nearly disintegrated under invasions and internal revolts.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "Aurelian ( / ɔː ˈ r iː l i ən / ; Latin : Lucius Domitius Aurelianus ; 9 September c. 214 – c. November 275 ) was a Roman emperor from 270 to 275 during the Crisis of the Third Century . During his reign, he won an unprecedented series of military victories which reunited the Roman Empire after it had nearly disintegrated under the pressure of barbarian invasions and internal revolts.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Egypt came under Palmyrene control after Zenobia’s invasion and was later recovered by Aurelian.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards state that Egypt came under Palmyrene control after Zenobia’s invasion and was later recovered by Aurelian.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Roman Egypt",
+       "url": "https://en.wikipedia.org/wiki/Roman_Egypt",
+       "snippet": "The Antonine Plague struck in the late 2nd century, but Roman Egypt recovered by the 3rd century. Having escaped much of the Crisis of the Third Century , Roman Egypt fell under the control of the breakaway Palmyrene Empire after an invasion of Egypt by Zenobia in 269. The emperor Aurelian ( r. 270–275 ) successfully besieged Alexandria and recovered Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The burning of the Royal Quarter does not by itself reveal the Library’s final moment.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card records the quarter’s burning and the uncertainty about the Library’s extent, but the conclusion about what the fire reveals is interpretive.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Ptolemy II is said to have set a target of 500,000 scrolls for the Library.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly presents the 500,000-scroll objective as something Ptolemy II is said to have set.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "A single piece of writing might occupy several scrolls, and this division into self-contained \"books\" was a major aspect of editorial work. King Ptolemy II Philadelphus (309–246 BC) is said to have set 500,000 scrolls as an objective for the library.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The reported 500,000-scroll objective does not establish how many scrolls remained centuries later.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card gives the reported objective but no later inventory, so the distinction between the target and later holdings is a cautious inference.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "A single piece of writing might occupy several scrolls, and this division into self-contained \"books\" was a major aspect of editorial work. King Ptolemy II Philadelphus (309–246 BC) is said to have set 500,000 scrolls as an objective for the library.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "A single written work might occupy several scrolls, and division into self-contained books was part of editorial work.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says a written work might occupy several scrolls and that division into self-contained books was part of editorial work.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "A single piece of writing might occupy several scrolls, and this division into self-contained \"books\" was a major aspect of editorial work. King Ptolemy II Philadelphus (309–246 BC) is said to have set 500,000 scrolls as an objective for the library.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "The prior chapter concerned Caesar’s harbor-fire story, while this chapter concerns the burned Royal Quarter associated with Aurelian’s era.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a comparison of chapter framing, not a historical claim established by the card.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The association of the Library with a burned quarter can invite a neat single-culprit story.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This describes a possible narrative temptation, rather than asserting a factual event.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c20",
+     "text": "The Library’s later fate remains uncertain, and the evidence does not identify one securely documented blaze as its end.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The card leaves the surviving Library’s extent uncertain in Aurelian’s time, but does not establish its later fate or rule out a securely documented blaze as its end.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c21",
+     "text": "The evidence says Aurelian recovered Egypt, the Brucheion burned, the Library had once been there, and the surviving extent is uncertain.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support each listed point: Egypt’s recovery, the quarter’s burning, the Library’s prior presence there, and uncertainty about its surviving extent.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E32",
+       "pack": "history",
+       "page_title": "Roman Egypt",
+       "url": "https://en.wikipedia.org/wiki/Roman_Egypt",
+       "snippet": "The Antonine Plague struck in the late 2nd century, but Roman Egypt recovered by the 3rd century. Having escaped much of the Crisis of the Third Century , Roman Egypt fell under the control of the breakaway Palmyrene Empire after an invasion of Egypt by Zenobia in 269. The emperor Aurelian ( r. 270–275 ) successfully besieged Alexandria and recovered Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c22",
+     "text": "Aurelian’s era provides evidence of a burned district associated with the Library, not proof that he personally destroyed it.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card supports the burned district and Library association but does not identify Aurelian as the Library’s destroyer.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c23",
+     "text": "The evidence leaves the Library’s final fate uncertain and does not pin it to one documented blaze.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The card does not establish the Library’s final fate or whether one documented blaze marked its end; it only states that the surviving extent in Aurelian’s time is uncertain.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Aurelian",
+       "url": "https://en.wikipedia.org/wiki/Aurelian",
+       "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Caesar’s fire: the first accusation and the harbor at war",
+    "The Library after Alexandria: how a lost institution survived in memory",
+    "Why Alexandria became the symbol of knowledge destroyed"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Aurelian destroyed the Library of Alexandria during his campaign in Egypt.",
+      "verdict": "myth",
+      "explanation": "The evidence says the Brucheion, the district that once contained the Library, burned, but it does not link that fire to Aurelian or establish that he destroyed the Library itself.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Aurelian",
+        "url": "https://en.wikipedia.org/wiki/Aurelian",
+        "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Brucheion, or Royal Quarter, burned to the ground.",
+      "verdict": "fact",
+      "explanation": "The evidence reports that the quarter burned and says it once contained the Library, though it does not specify when or connect the fire to Aurelian’s campaign.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Aurelian",
+        "url": "https://en.wikipedia.org/wiki/Aurelian",
+        "snippet": "The rich province of Egypt was also recovered by Aurelian. The Brucheion (Royal Quarter) in Alexandria was burned to the ground. This section of the city once contained the Library of Alexandria , although the extent of the surviving Library in Aurelian's time is uncertain.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Ptolemy II is said to have set a target of 500,000 scrolls for the Library.",
+      "verdict": "fact",
+      "explanation": "The source presents this as a reported objective, not as a count of what remained centuries later.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "history",
+        "page_title": "Library of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+        "snippet": "A single piece of writing might occupy several scrolls, and this division into self-contained \"books\" was a major aspect of editorial work. King Ptolemy II Philadelphus (309–246 BC) is said to have set 500,000 scrolls as an objective for the library.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The evidence places the Library in a district that burned, but what does it leave uncertain?",
+     "options": [
+      "How much of the Library still survived in Aurelian’s time",
+      "Whether Egypt had come under Palmyrene control",
+      "Whether Aurelian besieged Alexandria"
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "The chapter says the extent of the Library surviving in Aurelian’s time is uncertain."
+    }
+   }
+  },
+  "A history of repeated fires, not one burning": {
+   "index": 2,
+   "title": "The Library’s Long Vanishing",
+   "narration": "Alexandria, three hundred ninety-one. The Serapeum is destroyed, and the old question rises again: is this where the Library finally dies? [c1] You chose the branch of repeated fires, not one burning. But the answer is stranger than a single blaze: the surviving evidence gives us no certain destroyer or clear final fire. [c2]\n\nStart with Caesar. In forty-eight BC, during the Alexandrian war, his men set a fire while repulsing an attack. Some sources say it spread to the Library and destroyed it. [c3] That is the first great suspect, and the first uncertainty: the account attributes that connection to some sources. [c4]\n\nNow jump forward more than four centuries. The Serapeum was a temple complex, and the Library was a separate institution. [c5] In three hundred ninety-one, a decree under Emperor Theodosius restricted access to sanctuaries and temples. [c6] The decree helped set the stage for riots in Alexandria, though the date is debated. [c7] The Serapeum was destroyed by Roman soldiers that year. [c8]\n\nHere is the trap in the story. A famous temple, a famous Library, and a dramatic destruction can blur together in retelling. Yet the evidence identifies the Serapeum and the Library as distinct institutions. [c9] The Serapeum’s destruction marks upheaval in Alexandria; the evidence here does not connect it to the destruction of the main Library’s collection. [c10]\n\nThe city’s religious conflict was not abstract. In three hundred ninety-one, Bishop Theophilus supervised the destruction of an old Mithraeum, and cult objects were paraded through the streets for ridicule. [c11] That episode belongs to the same turbulent setting, but it does not tell us the Library’s exact fate. [c12] A city can lose institutions in stages, while later generations may gather those losses into one memorable catastrophe.\n\nSo who destroyed Alexandria’s Library? Caesar’s fire may have damaged or destroyed it, but the account gives us uncertainty, not a verdict. [c13] The Serapeum fell centuries later; that episode does not document a final burning of the main Library. [c14] The evidence leaves the Library’s fate unresolved across these episodes, rather than naming one final destroyer. [c15]\n\nEven the Library’s beginning resists a neat origin story. Modern scholars think Ptolemy the First may have laid the groundwork, while the physical institution probably emerged under Ptolemy the Second. [c16] Its beginnings may have unfolded over time; the evidence does not give us a single founding moment. [c17]\n\nHere’s my take: the most haunting thing about Alexandria is not a villain with one match. It is how often history refuses the clean ending a legend demands. We can tell the story of Caesar’s fire, the Serapeum’s fall, and a city changing around its institutions. But these cards do not join those episodes into one documented chain that ends with the main Library’s final blaze.\n\nSo: Caesar’s fire is an early possible blow. The Serapeum’s destruction is later, and the evidence does not make it the Library’s final end. [c18] The Library’s fate remains uncertain, with no single destroyer established by these accounts. [c19]\n\nWhere do we go next? The lost archives of antiquity, and how collections disappeared; the Serapeum’s final days amid Alexandria’s religious conflict; or the Ptolemies’ Library and the ancient hunger to collect every book.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The Serapeum was destroyed in three hundred ninety-one.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Serapeum card states that Roman soldiers destroyed it in 391 following Theodosius’s decree.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The provided evidence does not identify one certain destroyer or clear final fire for the Library.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a careful synthesis of the cited accounts, which report a possible Library destruction by Caesar’s fire but do not identify a certain destroyer or final fire.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Under the Christian rule of Roman emperor Theodosius I , pagan rituals were outlawed and pagan temples were destroyed. In 391 AD, the bishop of Alexandria , Theophilus, supervised the destruction of an old mithraeum . They gave some of the cult objects to Theophilus , who had them paraded through the streets to be mocked and ridiculed.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Modern scholars agree that while it is possible that Ptolemy I, a historian and author of an account of Alexander's campaign, laid the groundwork for the Library, it probably did not become a physical institution until the reign of Ptolemy II. By that time, Demetrius of Phalerum had fallen out of favor with the Ptolemaic court.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "During the Alexandrian war in forty-eight BC, Caesar's men set a fire while repulsing an attack, and some sources say it spread to and destroyed the Library.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The account says Caesar’s men set a fire while repulsing an attack and that some sources say it spread to and destroyed the Library.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Library-destruction connection is attributed to some sources.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly attributes the claimed spread to and destruction of the Library to some sources.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Serapeum and the Library were distinct institutions.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "Neither cited card explicitly establishes that the Serapeum and the Library were distinct institutions.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "A decree under Theodosius in three hundred ninety-one restricted access to sanctuaries and temples.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Serapeum card quotes Theodosius’s decree restricting access to sanctuaries and temples.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The decree set the stage for riots in Alexandria, although the date is debated.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the decree set the stage for riots in Alexandria in 391 and notes that the date is debated.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Roman soldiers destroyed the Serapeum in three hundred ninety-one.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Serapeum card states that Roman soldiers destroyed it in 391.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Serapeum and the main Library are distinct institutions.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cited cards do not explicitly identify the Serapeum and the main Library as distinct institutions.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The evidence provided does not connect the Serapeum's destruction to destruction of the main Library's collection.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cited episodes report the Serapeum’s destruction and a possible earlier Library loss, but do not connect the Serapeum’s destruction to the main Library’s collection.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "In three hundred ninety-one, Bishop Theophilus supervised the destruction of an old Mithraeum, and cult objects were paraded through the streets for ridicule.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Library card states that Theophilus supervised the destruction of an old Mithraeum in 391 and that cult objects were paraded for ridicule.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Under the Christian rule of Roman emperor Theodosius I , pagan rituals were outlawed and pagan temples were destroyed. In 391 AD, the bishop of Alexandria , Theophilus, supervised the destruction of an old mithraeum . They gave some of the cult objects to Theophilus , who had them paraded through the streets to be mocked and ridiculed.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The Mithraeum episode does not establish the Library's exact fate.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The Mithraeum account says nothing about the Library’s exact fate, so this is a restrained inference about the limits of that episode.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Under the Christian rule of Roman emperor Theodosius I , pagan rituals were outlawed and pagan temples were destroyed. In 391 AD, the bishop of Alexandria , Theophilus, supervised the destruction of an old mithraeum . They gave some of the cult objects to Theophilus , who had them paraded through the streets to be mocked and ridiculed.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Caesar's fire may have damaged or destroyed the Library, but the account does not establish a definitive verdict.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card presents the fire and the possible Library destruction as reported by some sources, not as a definitive verdict.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The Serapeum's later destruction does not document a final burning of the main Library.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards describe the Serapeum’s later destruction and a possible earlier Library destruction but do not document a final burning of the main Library in 391.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The provided episodes leave the Library's fate unresolved rather than naming a final destroyer.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This synthesis accurately says the cited episodes do not establish one final destroyer, while remaining a conclusion drawn from the cards rather than their direct wording.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Under the Christian rule of Roman emperor Theodosius I , pagan rituals were outlawed and pagan temples were destroyed. In 391 AD, the bishop of Alexandria , Theophilus, supervised the destruction of an old mithraeum . They gave some of the cult objects to Theophilus , who had them paraded through the streets to be mocked and ridiculed.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Modern scholars agree that while it is possible that Ptolemy I, a historian and author of an account of Alexander's campaign, laid the groundwork for the Library, it probably did not become a physical institution until the reign of Ptolemy II. By that time, Demetrius of Phalerum had fallen out of favor with the Ptolemaic court.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Modern scholars think Ptolemy I may have laid groundwork for the Library, while the physical institution probably emerged under Ptolemy II.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says modern scholars consider Ptolemy I’s role possible and the physical Library’s emergence under Ptolemy II probable.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Modern scholars agree that while it is possible that Ptolemy I, a historian and author of an account of Alexander's campaign, laid the groundwork for the Library, it probably did not become a physical institution until the reign of Ptolemy II. By that time, Demetrius of Phalerum had fallen out of favor with the Ptolemaic court.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "The evidence does not give a single founding moment for the Library.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The card presents a possible groundwork phase and a probable later physical institution, but does not directly state that there was no single founding moment.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Modern scholars agree that while it is possible that Ptolemy I, a historian and author of an account of Alexander's campaign, laid the groundwork for the Library, it probably did not become a physical institution until the reign of Ptolemy II. By that time, Demetrius of Phalerum had fallen out of favor with the Ptolemaic court.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "Caesar's fire is a possible early blow, while the Serapeum's destruction is later and is not established as the main Library's final end.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a synthesis of the card’s uncertain account of Caesar’s fire and its separate account of the Serapeum’s later destruction.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c19",
+     "text": "The Library's fate remains uncertain in these accounts, which do not establish one destroyer.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cited episodes leave the final fate unresolved and name no certain destroyer, making this a cautious synthesis of the evidence.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "history",
+       "page_title": "Alexandrian war",
+       "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+       "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Under the Christian rule of Roman emperor Theodosius I , pagan rituals were outlawed and pagan temples were destroyed. In 391 AD, the bishop of Alexandria , Theophilus, supervised the destruction of an old mithraeum . They gave some of the cult objects to Theophilus , who had them paraded through the streets to be mocked and ridiculed.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Modern scholars agree that while it is possible that Ptolemy I, a historian and author of an account of Alexander's campaign, laid the groundwork for the Library, it probably did not become a physical institution until the reign of Ptolemy II. By that time, Demetrius of Phalerum had fallen out of favor with the Ptolemaic court.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The lost archives of antiquity, and how collections disappeared",
+    "The Serapeum’s final days amid Alexandria’s religious conflict",
+    "The Ptolemies’ Library and the ancient hunger to collect every book"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Caesar’s fire certainly destroyed the Library of Alexandria.",
+      "verdict": "myth",
+      "explanation": "Some sources say the fire spread to and destroyed the Library, but the account does not establish that as certain. The Library’s fate remains unresolved in these episodes.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "history",
+        "page_title": "Alexandrian war",
+        "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+        "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Roman soldiers destroyed the Serapeum in 391.",
+      "verdict": "fact",
+      "explanation": "The evidence states that Roman soldiers destroyed the Serapeum in 391, following Theodosius’s decree.",
+      "evidence_ids": [
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Serapeum’s destruction in 391 was the final burning of the main Library.",
+      "verdict": "myth",
+      "explanation": "The evidence identifies the Serapeum’s destruction but does not connect it to the destruction of the main Library’s collection.",
+      "evidence_ids": [
+       "E25",
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E25",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "The Serapeum was ultimately destroyed by Roman soldiers in 391 following the decree of the same year of emperor Theodosius I (379–395), a decree that declared that \"no one is to go to the sanctuaries, [or] walk through the temples\", which resulted in the abandonment of many temples throughout the Empire. This set the stage for riots in Alexandria in 391 (although the date is debated).",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E26",
+        "pack": "history",
+        "page_title": "Alexandrian war",
+        "url": "https://en.wikipedia.org/wiki/Alexandrian_war",
+        "snippet": "Pothinus, the eunuch serving as regent for Ptolemy XIII, sent secret orders to Achillas to summon his army of some 20,000 men to Alexandria. They promptly besieged Caesar in the palace compound. After a short truce, Achillas launched an all-out attack. In repulsing one of these attacks, Caesar's men set a fire which some sources say spread to and destroyed the Library of Alexandria .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In 391, what did Roman soldiers destroy in Alexandria?",
+     "options": [
+      "The Serapeum",
+      "The main Library",
+      "The old Mithraeum"
+     ],
+     "answer_index": 0,
+     "reveal_para": 2,
+     "explanation": "Roman soldiers destroyed the Serapeum in 391."
+    }
+   }
+  },
+  "What did “destroyed” mean for an ancient institution?": {
+   "index": 2,
+   "title": "What Destruction Meant",
+   "narration": "You chose the question hidden inside the word destroyed: what does it mean for an institution to disappear? The famous fire gives us a vivid scene. But a scene is not a complete history, and a library is more than a building full of scrolls.\n\nAlexandria’s story begins with a city founded by Alexander the Great in three hundred thirty-one BC, though the exact date is disputed. [c1] Even its beginning comes to us through ancient accounts that are numerous, varied, and shaped by later developments. [c2] That is a useful warning for the ending: the city’s history is not a neat line from one blaze to one empty shelf.\n\nThink of a library as three things at once. It is a collection, a place where people work, and an institution sustained by a city. Lose the collection, and books are gone. Lose the place or the people who maintain it, and the work changes. Lose the city’s support, and even surviving rooms can become a memory rather than a living center. Here’s my take: “destroyed” can name a sudden catastrophe, but it can also describe a long unmaking.\n\nOne clue sits at the Serapeum, a temple dedicated to Serapis, the Greco-Egyptian god believed to protect Alexandria. [c3] Built during the third century BC, chiefly between two hundred forty-six and two hundred twenty-two BC, it housed Alexandria’s daughter library. [c4] That detail matters. The city’s library life was not simply one famous room, one famous fire, one instant ending. A daughter collection was associated with a temple, so the fate of learning was entangled with the fate of institutions and civic spaces.\n\nThe Serapeum was closed in three hundred ninety-two CE. [c5] An account describing the aftermath says the cult and the buildings were “scattered to the winds.” [c6] Hear the force of that phrase, and its limits. It describes the destruction of temple life in sweeping, dramatic language. It does not, by itself, tell us precisely what happened to every book, every scholar, or every part of the larger library.\n\nThat distinction is the hinge of the whole story. A temple’s closure is not automatically proof that every collection vanished on the same day. And a library’s decline need not wait for one final flame. Collections can be lost, institutions disrupted, and civic priorities redirected. The evidence we have here gives us a concrete institutional change, but not an inventory of what survived it. The honest story keeps both thoughts in view: there was real rupture, and there are limits to what we can reconstruct.\n\nThen the city’s political fortunes changed again. Alexandria fell to the Arabs in six hundred forty-one CE, and Fustat was founded as Egypt’s new capital on the Nile. [c7] After Alexandria ceased to be the country’s capital, it entered a long decline, and by the late Ottoman period it had been reduced to little more than a small fishing village. [c8] That is the long view: a city’s importance can ebb across centuries. It does not prove that one event erased the library, but it shows why the story cannot be told as though a collection existed outside the life of its city.\n\nAnd what about the later tales of destruction? Later scholars, beginning with Father Eusèbe Renaudot in seventeen thirteen, were skeptical of those stories because they were recorded long after the events and their authors had political motivations. [c9] That skepticism is not a magic key that tells us exactly what happened. It is a reason to resist a clean, confident villain when the accounts themselves are uncertain.\n\nSo return to the opening accusation. Did one destroyer burn the Library of Alexandria? The famous fire remains part of the story, but the evidence here does not establish one definitive destroyer for the institution’s entire fate. Instead, we can responsibly speak of a complicated history: loss, institutional disruption, and a city whose fortunes changed. [c10] The library’s ending may be less like a door slammed shut than a lamp passed through many hands, dimming as the world around it changed.\n\nSo: Alexandria’s library life included a daughter collection at the Serapeum, and that temple was closed in three hundred ninety-two. The city later lost its capital status and entered a long decline, while later destruction stories drew scholarly skepticism. [c11] The fire gives us a memorable suspect, but not a proven final answer. [c12]\n\nNext, we could follow Caesar’s fire through the politics of the civil war; trace the Serapeum’s final days; or explore how Alexandria became a capital again in the modern imagination.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Alexandria was founded by Alexander the Great in 331 BC, though the exact date is disputed.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Alexander founded Alexandria in 331 BC and explicitly notes that the exact date is disputed.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "Alexandria was founded by Alexander the Great in 331 BC (the exact date is disputed) as Ἀλεξάνδρεια ( Aleksándreia ). Alexander's chief architect for the project was Dinocrates . Ancient accounts are extremely numerous and varied, and much influenced by subsequent developments.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Ancient accounts of Alexandria’s foundation are numerous, varied, and influenced by later developments.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly describes ancient accounts as numerous, varied, and influenced by later developments.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "Alexandria was founded by Alexander the Great in 331 BC (the exact date is disputed) as Ἀλεξάνδρεια ( Aleksándreia ). Alexander's chief architect for the project was Dinocrates . Ancient accounts are extremely numerous and varied, and much influenced by subsequent developments.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The Serapeum was dedicated to Serapis, a Greco-Egyptian god believed to protect Alexandria.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies Serapis as the temple’s dedicatee and says he was believed to protect Alexandria.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The Serapeum, built mainly between 246 and 222 BC, housed the daughter library of Alexandria.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Serapeum was built primarily between 246 and 222 BCE and housed Alexandria’s daughter library.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Serapeum was closed in 392 CE.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly states that the Serapeum was closed in 392 CE.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "An account described the cult and buildings of the Serapeum as scattered to the winds.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cited account uses the phrase “scattered to the winds” for the cult and buildings, and the narration correctly attributes it to an account.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "Now, not long after, an unmistakable sign was given that there was in him some diviner element. For no sooner had he left the world of men than the cult of the temples in Alexandria and at the shrine of Serapis was scattered to the winds, and not only the ceremonies of the cult but the buildings as well, and everything happened as in the myths of the poets when the Giants gained the upper hand.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Alexandria fell to the Arabs in 641 CE, and Fustat was founded as Egypt’s new capital on the Nile.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Alexandria fell to the Arabs in 641 and that Fustat was founded as Egypt’s new capital on the Nile.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "After Alexandria ceased to be Egypt’s capital, it entered a long decline and was a small fishing village by the late Ottoman period.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes a long decline after Alexandria lost capital status, ending by the late Ottoman period with the city reduced to little more than a small fishing village.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Beginning in 1713, later scholars questioned destruction stories because of the delay before they were recorded and authors’ political motivations.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says later scholars beginning with Renaudot in 1713 were skeptical for those stated reasons, and the narration preserves that attribution and qualification.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Later scholars, beginning with Father Eusèbe Renaudot in his 1713 translation of the History of the Patriarchs of Alexandria , are skeptical of these stories, given the amount of time that had passed before they were recorded and the political motivations of the various authors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The evidence provided does not establish one definitive destroyer for the entire institution’s fate.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a cautious conclusion about the limits of the supplied evidence, which does not establish one definitive destroyer for the institution’s entire fate.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Later scholars, beginning with Father Eusèbe Renaudot in his 1713 translation of the History of the Patriarchs of Alexandria , are skeptical of these stories, given the amount of time that had passed before they were recorded and the political motivations of the various authors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "Now, not long after, an unmistakable sign was given that there was in him some diviner element. For no sooner had he left the world of men than the cult of the temples in Alexandria and at the shrine of Serapis was scattered to the winds, and not only the ceremonies of the cult but the buildings as well, and everything happened as in the myths of the poets when the Giants gained the upper hand.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The library had a daughter collection at the Serapeum, which closed in 392, and Alexandria later lost capital status and declined.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support the Serapeum daughter collection and closure in 392, as well as Alexandria’s later loss of capital status and decline.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The evidence does not prove a final answer identifying one destroyer of the library.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a conclusion about what the supplied evidence cannot prove, rather than a claim that one particular account establishes a final answer.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "history",
+       "page_title": "Library of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+       "snippet": "Later scholars, beginning with Father Eusèbe Renaudot in his 1713 translation of the History of the Patriarchs of Alexandria , are skeptical of these stories, given the amount of time that had passed before they were recorded and the political motivations of the various authors.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Serapeum of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+       "snippet": "Now, not long after, an unmistakable sign was given that there was in him some diviner element. For no sooner had he left the world of men than the cult of the temples in Alexandria and at the shrine of Serapis was scattered to the winds, and not only the ceremonies of the cult but the buildings as well, and everything happened as in the myths of the poets when the Giants gained the upper hand.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E23",
+       "pack": "history",
+       "page_title": "History of Alexandria",
+       "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+       "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Caesar’s fire and the civil war that made Alexandria burn",
+    "The Serapeum’s last days and the daughter library",
+    "Alexandria’s afterlife in modern memory"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Serapeum housed Alexandria’s daughter library.",
+      "verdict": "fact",
+      "explanation": "The Serapeum evidence identifies it as the home of Alexandria’s daughter library.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Serapeum’s closure in 392 proves that every book in Alexandria’s library vanished that day.",
+      "verdict": "myth",
+      "explanation": "The evidence documents the temple’s closure and dramatic destruction language, but it does not establish what happened to every book or collection.",
+      "evidence_ids": [
+       "E18",
+       "E19"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E19",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "Now, not long after, an unmistakable sign was given that there was in him some diviner element. For no sooner had he left the world of men than the cult of the temples in Alexandria and at the shrine of Serapis was scattered to the winds, and not only the ceremonies of the cult but the buildings as well, and everything happened as in the myths of the poets when the Giants gained the upper hand.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "One definitive destroyer is known to have ended the Library of Alexandria.",
+      "verdict": "myth",
+      "explanation": "The chapter’s evidence does not establish a single definitive destroyer, and later scholars questioned destruction stories because of the delay in recording them and the authors’ political motivations.",
+      "evidence_ids": [
+       "E14",
+       "E18",
+       "E19",
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E14",
+        "pack": "history",
+        "page_title": "Library of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+        "snippet": "Later scholars, beginning with Father Eusèbe Renaudot in his 1713 translation of the History of the Patriarchs of Alexandria , are skeptical of these stories, given the amount of time that had passed before they were recorded and the political motivations of the various authors.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E18",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "The Serapeum of Alexandria was an ancient Greek temple built by Ptolemy III Euergetes and dedicated to the Greco-Egyptian syncretic god Serapis , who was believed to be the protector of Alexandria , Egypt. It was built during the 3rd century BCE, primarily between 246 and 222 BCE. It housed the daughter library of Alexandria. The Serapeum was closed in 392 CE.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E19",
+        "pack": "history",
+        "page_title": "Serapeum of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Serapeum_of_Alexandria",
+        "snippet": "Now, not long after, an unmistakable sign was given that there was in him some diviner element. For no sooner had he left the world of men than the cult of the temples in Alexandria and at the shrine of Serapis was scattered to the winds, and not only the ceremonies of the cult but the buildings as well, and everything happened as in the myths of the poets when the Giants gained the upper hand.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E23",
+        "pack": "history",
+        "page_title": "History of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/History_of_Alexandria",
+        "snippet": "The city fell to the Arabs in AD 641, and a new capital of Egypt , Fustat , was founded on the Nile . After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The Serapeum housed a daughter library. What does the chapter say its closure in 392 proves about every book in Alexandria?",
+     "options": [
+      "That every book vanished at once",
+      "That the temple closed, but the fate of every book remains unclear",
+      "That the whole library moved to Fustat"
+     ],
+     "answer_index": 1,
+     "reveal_para": 5,
+     "explanation": "The chapter says the closure is a concrete institutional change, not an inventory of what survived."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8257,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 485,
+   "output_tokens": 865,
+   "cost_usd": 0.00061621
+  },
+  {
+   "agent": "researcher",
+   "requests": 25,
+   "input_tokens": 83039,
+   "cached_tokens": 70837,
+   "cache_write_tokens": 8821,
+   "output_tokens": 1641,
+   "cost_usd": 0.00296961
+  },
+  {
+   "agent": "storyteller",
+   "requests": 6,
+   "input_tokens": 27618,
+   "cached_tokens": 19002,
+   "cache_write_tokens": 7860,
+   "output_tokens": 10718,
+   "cost_usd": 0.00660711
+  },
+  {
+   "agent": "skeptic",
+   "requests": 6,
+   "input_tokens": 26899,
+   "cached_tokens": 13710,
+   "cache_write_tokens": 12433,
+   "output_tokens": 6992,
+   "cost_usd": 0.00526283
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1650,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 200,
+   "output_tokens": 17,
+   "cost_usd": 5.934e-05
+  }
+ ],
+ "build_cost_usd": 0.015515,
+ "build_seconds": 98.0
+}

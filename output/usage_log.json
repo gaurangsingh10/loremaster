@@ -1,0 +1,2055 @@
+[
+ {
+  "ts": "2026-10-23T20:15:34+00:00",
+  "episode_id": "26b9dfbb8f",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "error",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.0,
+  "agents": [],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:17:16+00:00",
+  "episode_id": "56bd8dc4fe",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00753383,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3925,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3673,
+    "output_tokens": 460,
+    "cost_usd": 0.00071433
+   },
+   {
+    "agent": "researcher",
+    "requests": 7,
+    "input_tokens": 18833,
+    "cached_tokens": 12448,
+    "cache_write_tokens": 5503,
+    "output_tokens": 805,
+    "cost_usd": 0.00130306
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11325,
+    "cached_tokens": 4862,
+    "cache_write_tokens": 6085,
+    "output_tokens": 4635,
+    "cost_usd": 0.00316455
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11659,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 7895,
+    "output_tokens": 1933,
+    "cost_usd": 0.00202504
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1740,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1614,
+    "output_tokens": 225,
+    "cost_usd": 0.00032685
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:18:29+00:00",
+  "episode_id": "922be2ee2e",
+  "thread": "texas-law-medieval-spain",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00476264,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3920,
+    "cached_tokens": 3454,
+    "cache_write_tokens": 214,
+    "output_tokens": 514,
+    "cost_usd": 0.00034349
+   },
+   {
+    "agent": "researcher",
+    "requests": 7,
+    "input_tokens": 19459,
+    "cached_tokens": 14463,
+    "cache_write_tokens": 4114,
+    "output_tokens": 717,
+    "cost_usd": 0.00110558
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6766,
+    "cached_tokens": 2546,
+    "cache_write_tokens": 3968,
+    "output_tokens": 3136,
+    "cost_usd": 0.00211466
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7439,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 3801,
+    "output_tokens": 1211,
+    "cost_usd": 0.00113969
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1561,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 111,
+    "output_tokens": 39,
+    "cost_usd": 5.922e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:24:10+00:00",
+  "episode_id": "fc50b5c206",
+  "thread": "crusades-space-marines",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 1,
+  "total_chapters": 2,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00233046,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 1747,
+    "cache_write_tokens": 68,
+    "output_tokens": 277,
+    "cost_usd": 0.00017707
+   },
+   {
+    "agent": "researcher",
+    "requests": 5,
+    "input_tokens": 14371,
+    "cached_tokens": 11992,
+    "cache_write_tokens": 1749,
+    "output_tokens": 411,
+    "cost_usd": 0.00060705
+   },
+   {
+    "agent": "storyteller",
+    "requests": 1,
+    "input_tokens": 3136,
+    "cached_tokens": 2546,
+    "cache_write_tokens": 464,
+    "output_tokens": 1910,
+    "cost_usd": 0.00105106
+   },
+   {
+    "agent": "skeptic",
+    "requests": 1,
+    "input_tokens": 3565,
+    "cached_tokens": 1693,
+    "cache_write_tokens": 1746,
+    "output_tokens": 495,
+    "cost_usd": 0.00049528
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:25:40+00:00",
+  "episode_id": "fc50b5c206",
+  "thread": "crusades-space-marines",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00673612,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3918,
+    "cached_tokens": 3454,
+    "cache_write_tokens": 212,
+    "output_tokens": 538,
+    "cost_usd": 0.00035524
+   },
+   {
+    "agent": "researcher",
+    "requests": 10,
+    "input_tokens": 28753,
+    "cached_tokens": 23489,
+    "cache_write_tokens": 4004,
+    "output_tokens": 960,
+    "cost_usd": 0.0013414
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11294,
+    "cached_tokens": 7638,
+    "cache_write_tokens": 3278,
+    "output_tokens": 5272,
+    "cost_usd": 0.00315993
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11280,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5823,
+    "output_tokens": 1876,
+    "cost_usd": 0.00175446
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1692,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 242,
+    "output_tokens": 138,
+    "cost_usd": 0.00012509
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:27:23+00:00",
+  "episode_id": "56d0e87643",
+  "thread": "crusades-space-marines",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "budget_stop",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.0005,
+  "total_usd": 0.00064354,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 1747,
+    "cache_write_tokens": 68,
+    "output_tokens": 277,
+    "cost_usd": 0.00017707
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 8041,
+    "cached_tokens": 5967,
+    "cache_write_tokens": 1696,
+    "output_tokens": 314,
+    "cost_usd": 0.00046647
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:30:16+00:00",
+  "episode_id": "bd63b25f04",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00502705,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3913,
+    "cached_tokens": 1707,
+    "cache_write_tokens": 1954,
+    "output_tokens": 492,
+    "cost_usd": 0.00053253
+   },
+   {
+    "agent": "researcher",
+    "requests": 7,
+    "input_tokens": 19217,
+    "cached_tokens": 14256,
+    "cache_write_tokens": 4079,
+    "output_tokens": 676,
+    "cost_usd": 0.00107864
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6590,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 1160,
+    "output_tokens": 3678,
+    "cost_usd": 0.00206098
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7790,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4152,
+    "output_tokens": 1221,
+    "cost_usd": 0.00118856
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1742,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 292,
+    "output_tokens": 208,
+    "cost_usd": 0.00016634
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:31:23+00:00",
+  "episode_id": "18fe3883fc",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00469153,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3929,
+    "cached_tokens": 3454,
+    "cache_write_tokens": 223,
+    "output_tokens": 452,
+    "cost_usd": 0.00031362
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16653,
+    "cached_tokens": 12144,
+    "cache_write_tokens": 3753,
+    "output_tokens": 734,
+    "cost_usd": 0.00103316
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6714,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 1284,
+    "output_tokens": 3775,
+    "cost_usd": 0.00212498
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7845,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4207,
+    "output_tokens": 957,
+    "cost_usd": 0.00106343
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1662,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 212,
+    "output_tokens": 208,
+    "cost_usd": 0.00015634
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:32:41+00:00",
+  "episode_id": "aae4749813",
+  "thread": "texas-law-medieval-spain",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00676501,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3905,
+    "cached_tokens": 3454,
+    "cache_write_tokens": 199,
+    "output_tokens": 480,
+    "cost_usd": 0.00032461
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17634,
+    "cached_tokens": 12591,
+    "cache_write_tokens": 4287,
+    "output_tokens": 769,
+    "cost_usd": 0.00112188
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11715,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 3570,
+    "output_tokens": 5165,
+    "cost_usd": 0.00314422
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11328,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5871,
+    "output_tokens": 2562,
+    "cost_usd": 0.00210346
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1558,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 108,
+    "output_tokens": 63,
+    "cost_usd": 7.084e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:34:05+00:00",
+  "episode_id": "0c6fb973ed",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00986962,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3955,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3703,
+    "output_tokens": 417,
+    "cost_usd": 0.00069658
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17555,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16799,
+    "output_tokens": 613,
+    "cost_usd": 0.00248197
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11873,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11495,
+    "output_tokens": 4467,
+    "cost_usd": 0.00370817
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11679,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11301,
+    "output_tokens": 2475,
+    "cost_usd": 0.00268792
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1765,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1639,
+    "output_tokens": 155,
+    "cost_usd": 0.00029498
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:34:50+00:00",
+  "episode_id": "03748d2f89",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 4,
+  "total_chapters": 4,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00996191,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 4,
+    "input_tokens": 8152,
+    "cached_tokens": 6868,
+    "cache_write_tokens": 780,
+    "output_tokens": 904,
+    "cost_usd": 0.00066858
+   },
+   {
+    "agent": "researcher",
+    "requests": 12,
+    "input_tokens": 33879,
+    "cached_tokens": 24571,
+    "cache_write_tokens": 7796,
+    "output_tokens": 1422,
+    "cost_usd": 0.0020824
+   },
+   {
+    "agent": "storyteller",
+    "requests": 5,
+    "input_tokens": 18430,
+    "cached_tokens": 12945,
+    "cache_write_tokens": 4855,
+    "output_tokens": 7675,
+    "cost_usd": 0.00463682
+   },
+   {
+    "agent": "skeptic",
+    "requests": 5,
+    "input_tokens": 18701,
+    "cached_tokens": 8465,
+    "cache_write_tokens": 9606,
+    "output_tokens": 2122,
+    "cost_usd": 0.00240939
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1673,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 223,
+    "output_tokens": 222,
+    "cost_usd": 0.00016472
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:35:18+00:00",
+  "episode_id": "a821ae6c4e",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00946062,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3977,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3725,
+    "output_tokens": 493,
+    "cost_usd": 0.00073733
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16924,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16168,
+    "output_tokens": 755,
+    "cost_usd": 0.0024741
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11843,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11465,
+    "output_tokens": 4201,
+    "cost_usd": 0.00357141
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11356,
+    "cached_tokens": 0,
+    "cache_write_tokens": 10978,
+    "output_tokens": 1901,
+    "cost_usd": 0.00236055
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1691,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1565,
+    "output_tokens": 218,
+    "cost_usd": 0.00031723
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:36:05+00:00",
+  "episode_id": "a4ac86cdea",
+  "thread": "texas-law-medieval-spain",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00705242,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3948,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3696,
+    "output_tokens": 460,
+    "cost_usd": 0.0007172
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16938,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16182,
+    "output_tokens": 685,
+    "cost_usd": 0.00244084
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6871,
+    "cached_tokens": 0,
+    "cache_write_tokens": 6619,
+    "output_tokens": 2656,
+    "cost_usd": 0.00218057
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7291,
+    "cached_tokens": 0,
+    "cache_write_tokens": 7039,
+    "output_tokens": 1188,
+    "cost_usd": 0.00149908
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1579,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1453,
+    "output_tokens": 41,
+    "cost_usd": 0.00021473
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:36:57+00:00",
+  "episode_id": "3b2cbbfc62",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00438106,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3915,
+    "cached_tokens": 3518,
+    "cache_write_tokens": 145,
+    "output_tokens": 409,
+    "cost_usd": 0.00028301
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16955,
+    "cached_tokens": 12148,
+    "cache_write_tokens": 4051,
+    "output_tokens": 715,
+    "cost_usd": 0.00106096
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6841,
+    "cached_tokens": 5774,
+    "cache_write_tokens": 815,
+    "output_tokens": 3003,
+    "cost_usd": 0.00168631
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7772,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4134,
+    "output_tokens": 1209,
+    "cost_usd": 0.00118031
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1743,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 293,
+    "output_tokens": 216,
+    "cost_usd": 0.00017047
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:38:17+00:00",
+  "episode_id": "5d3a1f74b9",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00498957,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3906,
+    "cached_tokens": 3518,
+    "cache_write_tokens": 136,
+    "output_tokens": 379,
+    "cost_usd": 0.00026688
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16529,
+    "cached_tokens": 12072,
+    "cache_write_tokens": 3701,
+    "output_tokens": 673,
+    "cost_usd": 0.00099544
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6724,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 1294,
+    "output_tokens": 3523,
+    "cost_usd": 0.00200023
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7855,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4217,
+    "output_tokens": 1936,
+    "cost_usd": 0.00155418
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1742,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 292,
+    "output_tokens": 221,
+    "cost_usd": 0.00017284
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:39:24+00:00",
+  "episode_id": "e84d4b61c4",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00601037,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3923,
+    "cached_tokens": 3519,
+    "cache_write_tokens": 152,
+    "output_tokens": 491,
+    "cost_usd": 0.00032489
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17323,
+    "cached_tokens": 12309,
+    "cache_write_tokens": 4258,
+    "output_tokens": 779,
+    "cost_usd": 0.00112045
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11501,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 3356,
+    "output_tokens": 4244,
+    "cost_usd": 0.00265697
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11133,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5676,
+    "output_tokens": 1897,
+    "cost_usd": 0.00174659
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1663,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 213,
+    "output_tokens": 218,
+    "cost_usd": 0.00016147
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:39:32+00:00",
+  "episode_id": "43cbfec504",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 40,
+  "chapters_done": 8,
+  "total_chapters": 8,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.02404676,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 8,
+    "input_tokens": 17581,
+    "cached_tokens": 13696,
+    "cache_write_tokens": 2877,
+    "output_tokens": 2190,
+    "cost_usd": 0.00169241
+   },
+   {
+    "agent": "researcher",
+    "requests": 26,
+    "input_tokens": 77542,
+    "cached_tokens": 57267,
+    "cache_write_tokens": 16999,
+    "output_tokens": 3400,
+    "cost_usd": 0.00472514
+   },
+   {
+    "agent": "storyteller",
+    "requests": 11,
+    "input_tokens": 42780,
+    "cached_tokens": 28479,
+    "cache_write_tokens": 12915,
+    "output_tokens": 17766,
+    "cost_usd": 0.01092078
+   },
+   {
+    "agent": "skeptic",
+    "requests": 11,
+    "input_tokens": 42820,
+    "cached_tokens": 18623,
+    "cache_write_tokens": 22811,
+    "output_tokens": 6706,
+    "cost_usd": 0.00652921
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1785,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 335,
+    "output_tokens": 223,
+    "cost_usd": 0.00017922
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:40:33+00:00",
+  "episode_id": "cbad05873d",
+  "thread": "texas-law-medieval-spain",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00593269,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3915,
+    "cached_tokens": 3519,
+    "cache_write_tokens": 144,
+    "output_tokens": 374,
+    "cost_usd": 0.00026539
+   },
+   {
+    "agent": "researcher",
+    "requests": 7,
+    "input_tokens": 20213,
+    "cached_tokens": 15395,
+    "cache_write_tokens": 3936,
+    "output_tokens": 828,
+    "cost_usd": 0.00114814
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 11655,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 3510,
+    "output_tokens": 4513,
+    "cost_usd": 0.00281073
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 11087,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 5630,
+    "output_tokens": 1700,
+    "cost_usd": 0.00164234
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1560,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 110,
+    "output_tokens": 53,
+    "cost_usd": 6.609e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:41:52+00:00",
+  "episode_id": "08781c2d59",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.01131571,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3964,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3712,
+    "output_tokens": 522,
+    "cost_usd": 0.0007502
+   },
+   {
+    "agent": "researcher",
+    "requests": 8,
+    "input_tokens": 23966,
+    "cached_tokens": 0,
+    "cache_write_tokens": 22958,
+    "output_tokens": 781,
+    "cost_usd": 0.00336105
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 12060,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11682,
+    "output_tokens": 5094,
+    "cost_usd": 0.00404505
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 12001,
+    "cached_tokens": 0,
+    "cache_write_tokens": 11623,
+    "output_tokens": 2689,
+    "cost_usd": 0.00283518
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1763,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1637,
+    "output_tokens": 214,
+    "cost_usd": 0.00032423
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:42:46+00:00",
+  "episode_id": "90a372ee7e",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00739955,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3981,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3729,
+    "output_tokens": 522,
+    "cost_usd": 0.00075233
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16814,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16058,
+    "output_tokens": 744,
+    "cost_usd": 0.00245485
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6672,
+    "cached_tokens": 0,
+    "cache_write_tokens": 6420,
+    "output_tokens": 2830,
+    "cost_usd": 0.00224269
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7410,
+    "cached_tokens": 0,
+    "cache_write_tokens": 7158,
+    "output_tokens": 1420,
+    "cost_usd": 0.00162995
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1683,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1557,
+    "output_tokens": 225,
+    "cost_usd": 0.00031973
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:43:54+00:00",
+  "episode_id": "e60180d04a",
+  "thread": "texas-law-medieval-spain",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": false,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.01094831,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3962,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3710,
+    "output_tokens": 451,
+    "cost_usd": 0.00071445
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17044,
+    "cached_tokens": 0,
+    "cache_write_tokens": 16288,
+    "output_tokens": 690,
+    "cost_usd": 0.00245659
+   },
+   {
+    "agent": "storyteller",
+    "requests": 4,
+    "input_tokens": 16194,
+    "cached_tokens": 0,
+    "cache_write_tokens": 15690,
+    "output_tokens": 5164,
+    "cost_usd": 0.00459364
+   },
+   {
+    "agent": "skeptic",
+    "requests": 4,
+    "input_tokens": 14237,
+    "cached_tokens": 0,
+    "cache_write_tokens": 13733,
+    "output_tokens": 2426,
+    "cost_usd": 0.00298003
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1586,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1460,
+    "output_tokens": 17,
+    "cost_usd": 0.0002036
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:46:15+00:00",
+  "episode_id": "15e5e31d14",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 1,
+  "total_chapters": 2,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00200639,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1938,
+    "cached_tokens": 1812,
+    "cache_write_tokens": 0,
+    "output_tokens": 258,
+    "cost_usd": 0.00015972
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 7922,
+    "cached_tokens": 5910,
+    "cache_write_tokens": 1634,
+    "output_tokens": 263,
+    "cost_usd": 0.00043265
+   },
+   {
+    "agent": "storyteller",
+    "requests": 1,
+    "input_tokens": 3406,
+    "cached_tokens": 2589,
+    "cache_write_tokens": 691,
+    "output_tokens": 1385,
+    "cost_usd": 0.00081737
+   },
+   {
+    "agent": "skeptic",
+    "requests": 1,
+    "input_tokens": 3844,
+    "cached_tokens": 1693,
+    "cache_write_tokens": 2025,
+    "output_tokens": 628,
+    "cost_usd": 0.00059665
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:47:17+00:00",
+  "episode_id": "15e5e31d14",
+  "thread": "rome-imperium",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00775483,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3925,
+    "cached_tokens": 3519,
+    "cache_write_tokens": 154,
+    "output_tokens": 419,
+    "cost_usd": 0.00028914
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 16777,
+    "cached_tokens": 12119,
+    "cache_write_tokens": 3902,
+    "output_tokens": 660,
+    "cost_usd": 0.00101454
+   },
+   {
+    "agent": "storyteller",
+    "requests": 3,
+    "input_tokens": 12692,
+    "cached_tokens": 7767,
+    "cache_write_tokens": 4547,
+    "output_tokens": 5892,
+    "cost_usd": 0.00362985
+   },
+   {
+    "agent": "skeptic",
+    "requests": 3,
+    "input_tokens": 12628,
+    "cached_tokens": 5079,
+    "cache_write_tokens": 7171,
+    "output_tokens": 3351,
+    "cost_usd": 0.00266046
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1658,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 208,
+    "output_tokens": 218,
+    "cost_usd": 0.00016084
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T20:48:22+00:00",
+  "episode_id": "607ca5f5e9",
+  "thread": "crusades-space-marines",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "budget_stop",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.0005,
+  "total_usd": 0.00065898,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 1815,
+    "cache_write_tokens": 0,
+    "output_tokens": 278,
+    "cost_usd": 0.00016975
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 8032,
+    "cached_tokens": 5955,
+    "cache_write_tokens": 1699,
+    "output_tokens": 359,
+    "cost_usd": 0.00048923
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:01:49+00:00",
+  "episode_id": "35a3fc26a0",
+  "thread": "custom-who-gets-to-call-a-war-holy-medieval-crusades-an",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 1,
+  "total_chapters": 2,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00397196,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1646,
+    "cached_tokens": 1470,
+    "cache_write_tokens": 50,
+    "output_tokens": 42,
+    "cost_usd": 5.455e-05
+   },
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1966,
+    "cached_tokens": 1747,
+    "cache_write_tokens": 93,
+    "output_tokens": 229,
+    "cost_usd": 0.0001562
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 8330,
+    "cached_tokens": 6037,
+    "cache_write_tokens": 1915,
+    "output_tokens": 311,
+    "cost_usd": 0.00049305
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 8351,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 2921,
+    "output_tokens": 3254,
+    "cost_usd": 0.0020691
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 7686,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4048,
+    "output_tokens": 1268,
+    "cost_usd": 0.00119906
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:07:42+00:00",
+  "episode_id": "f757936a6c",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 1,
+  "total_chapters": 2,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00268776,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 1937,
+    "cached_tokens": 1811,
+    "cache_write_tokens": 0,
+    "output_tokens": 280,
+    "cost_usd": 0.00017071
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 8960,
+    "cached_tokens": 6161,
+    "cache_write_tokens": 2421,
+    "output_tokens": 355,
+    "cost_usd": 0.00057953
+   },
+   {
+    "agent": "storyteller",
+    "requests": 1,
+    "input_tokens": 3371,
+    "cached_tokens": 2589,
+    "cache_write_tokens": 656,
+    "output_tokens": 1775,
+    "cost_usd": 0.00100799
+   },
+   {
+    "agent": "skeptic",
+    "requests": 1,
+    "input_tokens": 4115,
+    "cached_tokens": 1693,
+    "cache_write_tokens": 2296,
+    "output_tokens": 1226,
+    "cost_usd": 0.00092953
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:08:33+00:00",
+  "episode_id": "f757936a6c",
+  "thread": "republic-galactic-empire",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 2,
+  "total_chapters": 2,
+  "status": "done",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00532667,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 2,
+    "input_tokens": 3915,
+    "cached_tokens": 3518,
+    "cache_write_tokens": 145,
+    "output_tokens": 510,
+    "cost_usd": 0.0003335
+   },
+   {
+    "agent": "researcher",
+    "requests": 6,
+    "input_tokens": 17387,
+    "cached_tokens": 12221,
+    "cache_write_tokens": 4410,
+    "output_tokens": 731,
+    "cost_usd": 0.00111455
+   },
+   {
+    "agent": "storyteller",
+    "requests": 2,
+    "input_tokens": 6948,
+    "cached_tokens": 5178,
+    "cache_write_tokens": 1518,
+    "output_tokens": 3680,
+    "cost_usd": 0.00210673
+   },
+   {
+    "agent": "skeptic",
+    "requests": 2,
+    "input_tokens": 8291,
+    "cached_tokens": 3386,
+    "cache_write_tokens": 4653,
+    "output_tokens": 1983,
+    "cost_usd": 0.00163218
+   },
+   {
+    "agent": "librarian",
+    "requests": 1,
+    "input_tokens": 1741,
+    "cached_tokens": 1324,
+    "cache_write_tokens": 291,
+    "output_tokens": 155,
+    "cost_usd": 0.00013971
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:19:53+00:00",
+  "episode_id": "5252fd9339",
+  "thread": "custom-how-did-the-byzantine-empire-survive-for-a-thous",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.0,
+  "agents": [],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:35:58+00:00",
+  "episode_id": "441147457b",
+  "thread": "custom-why-did-the-byzantine-empire-last-a-thousand-yea",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 0,
+  "total_chapters": 4,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 4.743e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1617,
+    "cached_tokens": 1470,
+    "cache_write_tokens": 21,
+    "output_tokens": 35,
+    "cost_usd": 4.743e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:38:10+00:00",
+  "episode_id": "43a743a129",
+  "thread": "custom-why-did-the-byzantine-empire-last-a-thousand-yea",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 0,
+  "total_chapters": 4,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 4.701e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1617,
+    "cached_tokens": 1491,
+    "cache_write_tokens": 0,
+    "output_tokens": 39,
+    "cost_usd": 4.701e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:40:44+00:00",
+  "episode_id": "67fbba0cc7",
+  "thread": "custom-why-did-the-byzantine-empire-last-a-thousand-yea",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 0,
+  "total_chapters": 4,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 4.501e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1617,
+    "cached_tokens": 1491,
+    "cache_write_tokens": 0,
+    "output_tokens": 35,
+    "cost_usd": 4.501e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:43:34+00:00",
+  "episode_id": "aa8e1b5c90",
+  "thread": "custom-why-did-the-byzantine-empire-last-a-thousand-yea",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 0,
+  "total_chapters": 4,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 4.701e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1617,
+    "cached_tokens": 1491,
+    "cache_write_tokens": 0,
+    "output_tokens": 39,
+    "cost_usd": 4.701e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:50:38+00:00",
+  "episode_id": "2f85687e1d",
+  "thread": "custom-when-did-the-roman-empire-collapse",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 0,
+  "total_chapters": 4,
+  "status": "error",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 4.955e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1614,
+    "cached_tokens": 1470,
+    "cache_write_tokens": 18,
+    "output_tokens": 40,
+    "cost_usd": 4.955e-05
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T21:53:55+00:00",
+  "episode_id": "b2aaaa4f61",
+  "thread": "custom-why-did-the-germans-invade-rome",
+  "mode": "crossover",
+  "minutes": 20,
+  "chapters_done": 1,
+  "total_chapters": 4,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00251518,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1617,
+    "cached_tokens": 1470,
+    "cache_write_tokens": 21,
+    "output_tokens": 41,
+    "cost_usd": 5.043e-05
+   },
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 2034,
+    "cached_tokens": 1908,
+    "cache_write_tokens": 0,
+    "output_tokens": 875,
+    "cost_usd": 0.00046918
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 9147,
+    "cached_tokens": 6480,
+    "cache_write_tokens": 2289,
+    "output_tokens": 386,
+    "cost_usd": 0.00058173
+   },
+   {
+    "agent": "storyteller",
+    "requests": 1,
+    "input_tokens": 3912,
+    "cached_tokens": 3167,
+    "cache_write_tokens": 619,
+    "output_tokens": 1225,
+    "cost_usd": 0.00073414
+   },
+   {
+    "agent": "skeptic",
+    "requests": 1,
+    "input_tokens": 4225,
+    "cached_tokens": 2285,
+    "cache_write_tokens": 1814,
+    "output_tokens": 835,
+    "cost_usd": 0.0006797
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-23T22:04:28+00:00",
+  "episode_id": "015e2c1a17",
+  "thread": "custom-who-should-i-vote-for-in-the-next-election",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "refused",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.0,
+  "agents": [],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-24T02:47:27+00:00",
+  "episode_id": "790478611d",
+  "thread": "crusades-space-marines",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "budget_stop",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.0005,
+  "total_usd": 0.00107356,
+  "agents": [
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 2234,
+    "cached_tokens": 0,
+    "cache_write_tokens": 2108,
+    "output_tokens": 304,
+    "cost_usd": 0.0004281
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 9839,
+    "cached_tokens": 7078,
+    "cache_write_tokens": 2383,
+    "output_tokens": 478,
+    "cost_usd": 0.00064546
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-25T14:11:16+00:00",
+  "episode_id": "97bc1a6f51",
+  "thread": "custom-how-did-the-roman-senate-work",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "error",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.0,
+  "agents": [],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-25T14:13:50+00:00",
+  "episode_id": "ff49be6aea",
+  "thread": "custom-how-did-the-roman-senate-work",
+  "mode": "history",
+  "minutes": 10,
+  "chapters_done": 1,
+  "total_chapters": 2,
+  "status": "waiting_choice",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00339055,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1940,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1814,
+    "output_tokens": 39,
+    "cost_usd": 0.00025885
+   },
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 2219,
+    "cached_tokens": 0,
+    "cache_write_tokens": 2093,
+    "output_tokens": 231,
+    "cost_usd": 0.00038972
+   },
+   {
+    "agent": "researcher",
+    "requests": 3,
+    "input_tokens": 8989,
+    "cached_tokens": 4849,
+    "cache_write_tokens": 3762,
+    "output_tokens": 295,
+    "cost_usd": 0.00070404
+   },
+   {
+    "agent": "storyteller",
+    "requests": 1,
+    "input_tokens": 4031,
+    "cached_tokens": 0,
+    "cache_write_tokens": 3905,
+    "output_tokens": 1360,
+    "cost_usd": 0.00118072
+   },
+   {
+    "agent": "skeptic",
+    "requests": 1,
+    "input_tokens": 4339,
+    "cached_tokens": 0,
+    "cache_write_tokens": 4213,
+    "output_tokens": 636,
+    "cost_usd": 0.00085722
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-26T02:42:33+00:00",
+  "episode_id": "96633bd26c",
+  "thread": "custom-how-did-the-printing-press-change-europe",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00025848,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 0,
+    "cache_write_tokens": 1815,
+    "output_tokens": 38,
+    "cost_usd": 0.00025848
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-26T02:46:40+00:00",
+  "episode_id": "351f690b78",
+  "thread": "custom-how-did-the-printing-press-change-europe",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 0.00021784,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 1815,
+    "cache_write_tokens": 0,
+    "output_tokens": 40,
+    "cost_usd": 5.075e-05
+   },
+   {
+    "agent": "showrunner",
+    "requests": 1,
+    "input_tokens": 2225,
+    "cached_tokens": 2099,
+    "cache_write_tokens": 0,
+    "output_tokens": 267,
+    "cost_usd": 0.00016709
+   }
+  ],
+  "extra_usd": 0.0
+ },
+ {
+  "ts": "2026-10-26T03:00:04+00:00",
+  "episode_id": "839f895b03",
+  "thread": "custom-how-did-the-printing-press-change-europe",
+  "mode": "crossover",
+  "minutes": 10,
+  "chapters_done": 0,
+  "total_chapters": 2,
+  "status": "stopped",
+  "skeptic": "full",
+  "defenses": "code+design+prompt",
+  "cache": true,
+  "model": "gpt-6-luna",
+  "budget_usd": 0.05,
+  "total_usd": 5.075e-05,
+  "agents": [
+   {
+    "agent": "guardian",
+    "requests": 1,
+    "input_tokens": 1941,
+    "cached_tokens": 1815,
+    "cache_write_tokens": 0,
+    "output_tokens": 40,
+    "cost_usd": 5.075e-05
+   }
+  ],
+  "extra_usd": 0.0
+ }
+]

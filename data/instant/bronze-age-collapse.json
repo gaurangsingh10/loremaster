@@ -1,0 +1,1119 @@
+{
+ "thread": {
+  "id": "bronze-age-collapse",
+  "title": "1177 BC: When Civilization Collapsed",
+  "hook": "The Sea Peoples, droughts, earthquakes: how a connected world fell apart in a generation.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Late Bronze Age",
+  "universe": "",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "1177 BC: The Collapse of a Connected World",
+ "logline": "How did drought, conflict, earthquakes, and migration help unravel the interconnected kingdoms of the eastern Mediterranean—and what can the evidence really tell us?",
+ "plan": [
+  {
+   "title": "A World in One Storm",
+   "focus": "Open on the hook: around the end of the Late Bronze Age, interconnected powers and trade networks faced upheaval across the eastern Mediterranean. Establish what the evidence says about the Sea Peoples and the wider disruptions, while distinguishing the securely documented events from the tidy idea of a single cause.",
+   "queries": [
+    "history: Late Bronze Age collapse",
+    "history: Sea Peoples",
+    "history: Bronze Age trade"
+   ],
+   "packs": [
+    "history"
+   ]
+  },
+  {
+   "title": "Many Causes, No Simple Ending",
+   "focus": "Put the competing explanations to the test: drought and climate change, earthquakes, warfare and migration, and the fragility of interdependent states. End with what is documented, what remains debated, and why the collapse is better understood as a complex process than one sudden catastrophe.",
+   "queries": [
+    "history: 1177 BC collapse",
+    "history: Late Bronze Age collapse causes",
+    "history: Bronze Age drought"
+   ],
+   "packs": [
+    "history"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A World in One Storm",
+  "narration": "Around twelve hundred BC, imagine standing at the edge of a world that seems to know itself. Not one kingdom, not one people, but a broad eastern Mediterranean of linked regions, where upheaval can travel farther than any single army. The Late Bronze Age collapse unfolded across the Mediterranean basin in the late thirteenth to early twelfth century BC. [c1]\n\nThat is the first solid foothold: not a neat date on which everything ended, but a period of collapse. The affected world included Egypt, Anatolia, the Aegean, eastern Libya, and the Balkans, as well as regions of the Near East. [c2] Those names stretch across a map. They do not, by themselves, tell us that every place fell in the same way, or at the same moment. They tell us the scale was broad.\n\nHere is the temptation. When a connected world breaks, we want one hand on the knife. One invader. One drought. One great battle. A single villain makes a clean story, and clean stories are comforting. History is often less polite.\n\nThe Sea Peoples enter this story as raiders of Egypt and other eastern Mediterranean regions around twelve hundred BC. [c3] The groups included the Lukka and Peleset, while the origins of others, including the Weshesh, remain unknown. [c4] So the name sounds more settled than the evidence behind it. It gathers several groups under one modern label, but it does not give us a single people with one clear birthplace, one shared plan, or one simple motive.\n\nAnd the phrase itself has a history. The modern concept of the Sea Peoples came from nineteenth-century Egyptologists Emmanuel de Rougé and Gaston Maspero, who drew on ancient texts, including reliefs at the mortuary temple of Ramesses the Third at Medinet Habu. [c5] The label is useful; it is also a reminder that our picture is assembled. We are looking at surviving evidence, interpreted across centuries, not listening to a unified people introduce themselves.\n\nThe raiding matters. It does not explain everything. Competing explanations for the wider collapse have included climate change, volcanic eruptions, drought, disease, Sea Peoples invasions, economic disruption linked to increased ironworking, and changes in military technology and strategy. [c6] Other proposed explanations include migration, political and social failures, and economic breakdown. [c7] These possibilities can fit together, but none has achieved consensus as the single cause. [c8]\n\nThat last point is the hinge. You can have violence and environmental stress, migration and political failure, all colliding in a region already under pressure. But the evidence we have here does not authorize a tidy domino chain. It does not let us say, with confidence, “This one thing happened, and then the whole world fell.” The honest story is not smaller. It is more unsettling.\n\nThink of a storm moving across a network. The metaphor is ours, not a recorded ancient description. A blow in one place may matter elsewhere because the world is connected; yet connection alone does not prove exactly how one crisis traveled to the next. If you ask me, that is the drama: not one monster at the gate, but a system vulnerable to several blows at once.\n\nThe Sea Peoples make a vivid face for the crisis. Their raids are part of the story, not a master key that opens every locked door. The collapse reaches many regions, and the explanations remain contested. So: we can name the upheaval, trace its wide geography, and recognize raiding among the proposed forces. We cannot honestly reduce the whole collapse to one cause.\n\nNow choose where we follow the fracture. Do we stay with the Sea Peoples and ask what the label can really tell us? Do we turn toward drought, climate, and the other proposed pressures? Or do we follow the political and economic failures that may have made a connected world so fragile?",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The Late Bronze Age collapse was a period of societal collapse in the Mediterranean basin during the late thirteenth to early twelfth century BC.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Late Bronze Age collapse card plainly describes a societal collapse in the Mediterranean basin from the late 13th to early 12th century BC.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Late Bronze Age collapse",
+      "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "snippet": "The Late Bronze Age collapse was a period of societal collapse in the Mediterranean basin during the late 13th to early 12th century BC. It is thought to have affected much of the Eastern Mediterranean and Near East , in particular Egypt , Anatolia , the Aegean , eastern Libya , and the Balkans .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The collapse affected regions including Egypt, Anatolia, the Aegean, eastern Libya, the Balkans, and the Near East.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists Egypt, Anatolia, the Aegean, eastern Libya, the Balkans, and the Near East among the affected regions.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "history",
+      "page_title": "Late Bronze Age collapse",
+      "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "snippet": "The Late Bronze Age collapse was a period of societal collapse in the Mediterranean basin during the late 13th to early 12th century BC. It is thought to have affected much of the Eastern Mediterranean and Near East , in particular Egypt , Anatolia , the Aegean , eastern Libya , and the Balkans .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "The Sea Peoples raided Egypt and other eastern Mediterranean regions around 1200 BC.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Sea Peoples card identifies them as raiders of Egypt and other eastern Mediterranean regions around 1200 BC.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Sea Peoples",
+      "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+      "snippet": "The Sea Peoples were a group of tribes who raided Egypt and other Eastern Mediterranean regions around 1200 BC during the Late Bronze Age . They included well-attested groups such as the Lukka and Peleset , as well as others such as the Weshesh whose origins are unknown.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Sea Peoples included the Lukka and Peleset, while the origins of the Weshesh are unknown.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card names the Lukka and Peleset and says the origins of the Weshesh are unknown.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Sea Peoples",
+      "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+      "snippet": "The Sea Peoples were a group of tribes who raided Egypt and other Eastern Mediterranean regions around 1200 BC during the Late Bronze Age . They included well-attested groups such as the Lukka and Peleset , as well as others such as the Weshesh whose origins are unknown.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The modern concept of the Sea Peoples arose through nineteenth-century Egyptologists drawing on ancient texts including the Medinet Habu reliefs.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the modern concept originated with 19th-century Egyptologists de Rougé and Maspero, who drew on texts including the Medinet Habu reliefs.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "history",
+      "page_title": "Sea Peoples",
+      "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+      "snippet": "The modern concept of the Sea People originates in the work of the 19th-century Egyptologists Emmanuel de Rougé and Gaston Maspero , who drew on primary texts such as the reliefs on the Mortuary Temple of Ramesses III at Medinet Habu .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Proposed explanations for the collapse include climate change, volcanic eruptions, drought, disease, Sea Peoples invasions, ironworking-related economic disruption, and military change.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly lists these as proposed competing explanations, including ironworking-related economic disruption and changes in military technology and strategy.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "history",
+      "page_title": "Late Bronze Age collapse",
+      "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "snippet": "Competing theories of the cause of the Late Bronze Age collapse have been proposed since the 19th century, with most involving the violent destruction of cities and towns. These include climate change , volcanic eruptions, droughts, disease, invasions by the Sea Peoples , economic disruptions due to increased ironworking , and changes in military technology and strategy that brought the decline …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Additional proposed explanations include migration and political, social, and economic system failures.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card lists migration and political, social, and economic system failures among proposed explanations.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Late Bronze Age collapse",
+      "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "snippet": "Various mutually compatible explanations for the collapse have been proposed, including climatic changes, migratory invasions by groups such as the Sea Peoples , the spread of iron metallurgy , military developments, and a range of political, social and economic systems failures, but none have achieved consensus.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "No proposed explanation has achieved consensus as the cause of the collapse.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly states that none of the proposed explanations has achieved consensus.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Late Bronze Age collapse",
+      "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "snippet": "Various mutually compatible explanations for the collapse have been proposed, including climatic changes, migratory invasions by groups such as the Sea Peoples , the spread of iron metallurgy , military developments, and a range of political, social and economic systems failures, but none have achieved consensus.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The Sea Peoples: raiders, names, and what remains unknown",
+   "Drought and climate: when environmental pressures join the storm",
+   "Political failure: how connected systems become fragile"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The Sea Peoples caused the Late Bronze Age collapse.",
+     "verdict": "myth",
+     "explanation": "Sea Peoples raids are part of the story, but they are one of several proposed explanations. No single cause has achieved consensus.",
+     "evidence_ids": [
+      "E1",
+      "E2",
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Competing theories of the cause of the Late Bronze Age collapse have been proposed since the 19th century, with most involving the violent destruction of cities and towns. These include climate change , volcanic eruptions, droughts, disease, invasions by the Sea Peoples , economic disruptions due to increased ironworking , and changes in military technology and strategy that brought the decline …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E2",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Various mutually compatible explanations for the collapse have been proposed, including climatic changes, migratory invasions by groups such as the Sea Peoples , the spread of iron metallurgy , military developments, and a range of political, social and economic systems failures, but none have achieved consensus.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The Sea Peoples were a group of tribes who raided Egypt and other Eastern Mediterranean regions around 1200 BC during the Late Bronze Age . They included well-attested groups such as the Lukka and Peleset , as well as others such as the Weshesh whose origins are unknown.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Late Bronze Age collapse affected Egypt, Anatolia, the Aegean, eastern Libya, and the Balkans.",
+     "verdict": "fact",
+     "explanation": "The collapse was a broad period of societal collapse across the Mediterranean and Near East, including these regions.",
+     "evidence_ids": [
+      "E3"
+     ],
+     "evidence": [
+      {
+       "id": "E3",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "The Late Bronze Age collapse was a period of societal collapse in the Mediterranean basin during the late 13th to early 12th century BC. It is thought to have affected much of the Eastern Mediterranean and Near East , in particular Egypt , Anatolia , the Aegean , eastern Libya , and the Balkans .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Sea Peoples were one people with a known common origin.",
+     "verdict": "myth",
+     "explanation": "The label covers multiple groups, and the origins of some, including the Weshesh, are unknown. The modern concept was assembled by nineteenth-century Egyptologists from ancient evidence.",
+     "evidence_ids": [
+      "E7",
+      "E8"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The Sea Peoples were a group of tribes who raided Egypt and other Eastern Mediterranean regions around 1200 BC during the Late Bronze Age . They included well-attested groups such as the Lukka and Peleset , as well as others such as the Weshesh whose origins are unknown.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E8",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The modern concept of the Sea People originates in the work of the 19th-century Egyptologists Emmanuel de Rougé and Gaston Maspero , who drew on primary texts such as the reliefs on the Mortuary Temple of Ramesses III at Medinet Habu .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": null
+  }
+ },
+ "branches": {
+  "The Sea Peoples: raiders, names, and what remains unknown": {
+   "index": 2,
+   "title": "Names Written in the Ashes",
+   "narration": "We followed the storm into a world of linked shores. You chose the Sea Peoples: raiders, names, and the questions their names cannot settle. Now the story reaches Egypt, where a king turns crisis into stone and insists that stone will remember him.\n\nAt Medinet Habu, near the Theban Hills on the Nile’s west bank, the walls carry a sequence of thirteen scenes. [c1] The scenes are viewed as one military campaign, beginning with the Libyans and ending with the people called the “sea peoples.” [c2] That order gives us a powerful image: danger approaching from more than one direction, and a ruler eager to make the whole struggle legible.\n\nThe reliefs show Ramesses the Third and his troops firing arrows at opponents aboard ships. [c3] Another scene shows the king leading his forces against feather-helmeted opponents, with women and children in oxcarts alongside them. [c4] Look closely at that second image. It is not just a clash of warriors. The carved story places families and carts inside the drama of conflict, making movement itself part of the threat.\n\nBut a carved wall is not a neutral camera. Here’s my read: it is royal storytelling, with the king at the center and disorder facing defeat. The images tell us how Egypt represented its enemies. They do not hand us a complete biography of every group named in the campaign.\n\nAnd those names matter. The Tjeker are known from the Story of Wenamun and from battles involving Egypt. [c5] They fought the Egyptians at Perire and in the Battle of the Delta during Ramesses the Third’s rule. [c6] The Tjeker are tentatively thought to have settled along the coasts of early Palestine; they may also have helped Tel Dor grow from a town into a larger city. [c7]\n\nThat is a trail, not a passport. A name appearing in a battle does not, by itself, tell us where everyone bearing it came from, why they moved, or whether every group gathered under a broad label shared one origin. The record gives us named opponents, Egyptian accounts of fighting, and a possible later settlement. It does not compress those fragments into one settled identity.\n\nHere is the larger reveal: the ruins do not all tell the same story. Cyprus is often placed inside the wider Late Bronze Age crisis, yet there is little evidence of destruction there around twelve hundred BC. [c8] Kition is commonly cited as destroyed at the end of the Late Cypriot IIC period, but its excavator, Vassos Karageorghis, expressly said it was not destroyed. [c9] A famous collapse can make every broken-looking chapter seem like another domino. Cyprus warns us to check the ground before drawing the chain.\n\nEven the climate story refuses to sit still. Some Egyptologists have dated Iceland’s Hekla Three eruption to eleven fifty-nine BC and blamed it for famines under Ramesses the Third. [c10] Other estimates place the eruption at substantially different dates, including estimates around eleven thirty-five BC and nine hundred twenty-nine BC. [c11] The proposed volcanic winter is therefore not a neat master key; the eruption’s date is uncertain, and its role in famine remains a proposal. [c12]\n\nThree things remain in view. Egypt’s walls show a royal campaign against named enemies, but they do not give us a full map of those people. Archaeology offers uneven signs of destruction, while environmental explanations remain uncertain. And the Sea Peoples may have mattered greatly, but these records do not make them the single, settled cause of every upheaval.\n\nSo: the names survive more clearly than the origins. The wider collapse looks less like one wave striking every shore than a pattern whose pieces do not all match. Where should we go next: the Hittite capital and its final letters; the shipwreck at Uluburun and the trade routes it reveals; or the Exodus story beside the archaeology of the eastern Mediterranean?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Medinet Habu is near the Theban Hills on the west bank of the Nile.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Medinet Habu card places the site near the foot of the Theban Hills on the west bank of the Nile.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "history",
+       "page_title": "Medinet Habu",
+       "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+       "snippet": "Medinet Habu ( Arabic : مدينة هابو , romanized : Madīnat Hābū ; Ancient Egyptian : ḏ3mwt ; Sahidic Coptic : (ⲧ)ϫⲏⲙⲉ, ⲉϫⲏⲙⲉ, ϫⲏⲙⲏ, ϫⲉⲙⲉ, ϫⲉⲙⲏ, ϫⲏⲙⲓ ; Bohairic Coptic : ϭⲏⲙⲓ ) is an archaeological locality situated near the foot of the Theban Hills on the West Bank of the River Nile opposite the modern city of Luxor , Egypt.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Medinet Habu's north wall has thirteen scenes viewed as one campaign beginning with the Libyans and ending with the sea peoples.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly describes thirteen north-wall scenes viewed as one campaign beginning with the Libyans and ending with the Sea Peoples.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Medinet Habu",
+       "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+       "snippet": "On the north wall are a series of 13 scenes which are viewed as a single military campaign beginning with the Libyans and ending with the \"sea peoples\". In one relief Rameses III and his troops rain arrows down on opponents in ships. In another he leads his troops in the destruction of feather helmeted opponents who are accompanied by women and children in oxcarts .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "A relief shows Ramesses III and his troops firing arrows at opponents in ships.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says a relief depicts Ramesses III and his troops raining arrows on opponents in ships.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Medinet Habu",
+       "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+       "snippet": "On the north wall are a series of 13 scenes which are viewed as a single military campaign beginning with the Libyans and ending with the \"sea peoples\". In one relief Rameses III and his troops rain arrows down on opponents in ships. In another he leads his troops in the destruction of feather helmeted opponents who are accompanied by women and children in oxcarts .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Another scene shows Ramesses III attacking feather-helmeted opponents accompanied by women and children in oxcarts.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes another scene with Ramesses III leading troops against feather-helmeted opponents accompanied by women and children in oxcarts.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Medinet Habu",
+       "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+       "snippet": "On the north wall are a series of 13 scenes which are viewed as a single military campaign beginning with the Libyans and ending with the \"sea peoples\". In one relief Rameses III and his troops rain arrows down on opponents in ships. In another he leads his troops in the destruction of feather helmeted opponents who are accompanied by women and children in oxcarts .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Tjeker are known from the Story of Wenamun and from battles involving Egypt.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Tjeker are known from the Story of Wenamun and also participated in battles against Egypt.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The Tjeker are commonly known from the Story of Wenamun but also took part in the Battle of Perire against the Egyptians along with the Battle of the Delta under the rule of Ramesses III . They are thought to have settled along the coasts of early Palestine and to have been the people who developed Tel Dor from a town to a larger city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Tjeker fought the Egyptians at Perire and in the Battle of the Delta under Ramesses III.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly states that the Tjeker took part in the Battle of Perire and the Battle of the Delta under Ramesses III.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The Tjeker are commonly known from the Story of Wenamun but also took part in the Battle of Perire against the Egyptians along with the Battle of the Delta under the rule of Ramesses III . They are thought to have settled along the coasts of early Palestine and to have been the people who developed Tel Dor from a town to a larger city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Tjeker are tentatively thought to have settled along early Palestine's coasts and may have helped develop Tel Dor into a larger city.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card says the Tjeker are thought to have settled on early Palestine’s coasts and developed Tel Dor, but the narration appropriately presents both as tentative possibilities.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Sea Peoples",
+       "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+       "snippet": "The Tjeker are commonly known from the Story of Wenamun but also took part in the Battle of Perire against the Egyptians along with the Battle of the Delta under the rule of Ramesses III . They are thought to have settled along the coasts of early Palestine and to have been the people who developed Tel Dor from a town to a larger city.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "There is little evidence of destruction on Cyprus around 1200 BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says there is little evidence of destruction on Cyprus around 1200 BC.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "There is little evidence of destruction on the island of Cyprus in the years surrounding 1200 BC which marks the separation between the Late Cypriot II (LCII) from the LCIII period. The city of Kition is commonly cited as destroyed at the end of the LC IIC, but the excavator, Vassos Karageorghis, made it expressly clear that it was not destroyed, stating, \"At Kition, major rebuilding was carried …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Although Kition is commonly cited as destroyed at the end of Late Cypriot IIC, excavator Vassos Karageorghis said it was not destroyed.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Kition is commonly cited as destroyed but that its excavator, Vassos Karageorghis, expressly said it was not.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "There is little evidence of destruction on the island of Cyprus in the years surrounding 1200 BC which marks the separation between the Late Cypriot II (LCII) from the LCIII period. The city of Kition is commonly cited as destroyed at the end of the LC IIC, but the excavator, Vassos Karageorghis, made it expressly clear that it was not destroyed, stating, \"At Kition, major rebuilding was carried …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Some Egyptologists date the Hekla 3 eruption to 1159 BC and connect it with famine under Ramesses III.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly reports that some Egyptologists date Hekla 3 to 1159 BC and blame it for famines under Ramesses III; the narration accurately attributes this as their view.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Some Egyptologists have dated the Hekla 3 volcanic eruption in Iceland to 1159 BC and blamed it for famines under Ramesses III during the wider Bronze Age collapse. The event is thought to have caused a volcanic winter . Other estimated dates for the Hekla 3 eruption range from 1021 (±130) to 1135 BC (±130) and 929 (±34). Other scholars estimate the date as \"3000 BP \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Other estimates date the Hekla 3 eruption to ranges including around 1135 BC and 929 BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card lists alternative Hekla 3 estimates including 1135 BC and 929 BC, and the narration accurately presents these as estimates.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Some Egyptologists have dated the Hekla 3 volcanic eruption in Iceland to 1159 BC and blamed it for famines under Ramesses III during the wider Bronze Age collapse. The event is thought to have caused a volcanic winter . Other estimated dates for the Hekla 3 eruption range from 1021 (±130) to 1135 BC (±130) and 929 (±34). Other scholars estimate the date as \"3000 BP \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The date of Hekla 3 is uncertain, with estimates differing substantially, and its proposed role in famine is not settled.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives substantially different eruption-date estimates and attributes the famine connection to some Egyptologists, supporting the narration’s cautious summary that the date is uncertain and the role is only proposed.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Some Egyptologists have dated the Hekla 3 volcanic eruption in Iceland to 1159 BC and blamed it for famines under Ramesses III during the wider Bronze Age collapse. The event is thought to have caused a volcanic winter . Other estimated dates for the Hekla 3 eruption range from 1021 (±130) to 1135 BC (±130) and 929 (±34). Other scholars estimate the date as \"3000 BP \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Hittite capital: letters from a kingdom going dark",
+    "Uluburun: a shipwreck that maps a trading world",
+    "Exodus and archaeology: what the eastern Mediterranean remembers"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The Medinet Habu reliefs present the Libyans first and the Sea Peoples last in one military campaign.",
+      "verdict": "fact",
+      "explanation": "The north wall has thirteen scenes viewed as a single campaign, beginning with the Libyans and ending with the Sea Peoples.",
+      "evidence_ids": [
+       "E20"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "history",
+        "page_title": "Medinet Habu",
+        "url": "https://en.wikipedia.org/wiki/Medinet_Habu",
+        "snippet": "On the north wall are a series of 13 scenes which are viewed as a single military campaign beginning with the Libyans and ending with the \"sea peoples\". In one relief Rameses III and his troops rain arrows down on opponents in ships. In another he leads his troops in the destruction of feather helmeted opponents who are accompanied by women and children in oxcarts .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Tjeker’s possible settlement along early Palestine’s coast proves where all the Sea Peoples came from.",
+      "verdict": "myth",
+      "explanation": "The proposed settlement is tentative and does not establish a shared origin for every group under the broad Sea Peoples label.",
+      "evidence_ids": [
+       "E15"
+      ],
+      "evidence": [
+       {
+        "id": "E15",
+        "pack": "history",
+        "page_title": "Sea Peoples",
+        "url": "https://en.wikipedia.org/wiki/Sea_Peoples",
+        "snippet": "The Tjeker are commonly known from the Story of Wenamun but also took part in the Battle of Perire against the Egyptians along with the Battle of the Delta under the rule of Ramesses III . They are thought to have settled along the coasts of early Palestine and to have been the people who developed Tel Dor from a town to a larger city.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Hekla Three eruption’s date and its role in Ramesses the Third’s famine are settled facts.",
+      "verdict": "myth",
+      "explanation": "Some Egyptologists connect the eruption to famine, but estimates for its date differ substantially and its role remains a proposal.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "Some Egyptologists have dated the Hekla 3 volcanic eruption in Iceland to 1159 BC and blamed it for famines under Ramesses III during the wider Bronze Age collapse. The event is thought to have caused a volcanic winter . Other estimated dates for the Hekla 3 eruption range from 1021 (±130) to 1135 BC (±130) and 929 (±34). Other scholars estimate the date as \"3000 BP \".",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter turns to Cyprus and checks a commonly repeated account of Kition. What did its excavator say?",
+     "options": [
+      "It was destroyed at the end of Late Cypriot IIC.",
+      "It was not destroyed.",
+      "The evidence gives no account of its fate."
+     ],
+     "answer_index": 1,
+     "reveal_para": 6,
+     "explanation": "The excavator, Vassos Karageorghis, expressly said that Kition was not destroyed."
+    }
+   }
+  },
+  "Drought and climate: when environmental pressures join the storm": {
+   "index": 2,
+   "title": "Drought Joins the Storm",
+   "narration": "Picture the eastern Mediterranean again: not as a map of isolated kingdoms, but as a connected world under pressure. You chose to follow the climate into the story. The evidence offers a real signal, but not a single master key.\n\nResearchers have compared several kinds of environmental evidence for this period. Their combined picture points toward cooler, drier, and less stable conditions across a broad span, from the thirteenth through the tenth centuries BC. [c1] Climate change belongs in the story. But the same analysis says it was one factor associated with the upheaval, not its sole cause. [c2]\n\nThat distinction matters. A drought is not a plot twist that explains everything. It is pressure on a system already carrying burdens we have traced: linked powers, contested regions, and shocks that could travel across connections. The climate evidence gives us a change in the conditions around those societies. It does not, by itself, name every consequence or prove one neat chain from dry skies to fallen kingdoms.\n\nHere’s my read: think of climate as a weight placed on a crowded beam. The beam may already be strained. Add another load, and the outcome can change. That image is an interpretation, not a measured ancient scene. What the evidence does give us is a broad environmental shift, alongside an explicit warning against making it the whole explanation.\n\nAnd that is why the interconnected world matters. A local hardship need not stay local when communities depend on wider networks. Yet the cards before us do not document a specific drought-driven route from one kingdom’s crisis to another’s collapse. So we should resist the tempting certainty of a single cause, even when the story would be cleaner that way.\n\nThere is another way scholars have approached collapse. General systems collapse theory, pioneered by Joseph Tainter, proposes that societies can become too complex to sustain, then revert to simpler ways of life. [c3] That is a theory, not a weather report. Put beside the climate evidence, it invites a bigger question: how might environmental stress interact with a society’s existing complexity and vulnerabilities? The cards do not settle that question for every place or every event.\n\nThe Levant gives us a reminder that this world was already politically contested. Between fifteen fifty and eleven seventy BC, much of the region was disputed between Egypt and the Hittites. [c4] That is not proof that climate caused their rivalry or decided its outcome. It is a picture of a region where environmental pressures, if they intensified, would meet an already complicated political landscape.\n\nKeep those two threads separate, then bring them together carefully. The environmental analysis points to cooler, more arid, unstable conditions. The political history shows a contested region. Neither fact alone explains the collapse. Together, they help us see why a single-cause story is too small for a connected world in crisis.\n\nReturn now to the opening image: a world that seems to know itself, because people, power, and dependence cross regional lines. The storm is not one thing. It is pressures converging, with climate among them, and with the reach of connection making local troubles matter beyond their point of origin. That final image is our synthesis, not a claim that the evidence traces every link.\n\nSo: the climate evidence supports a broad shift toward cooler, drier, and less stable conditions. It also warns us not to mistake one pressure for the whole collapse. If the world was already strained, which thread should we follow next: how complex societies absorb shocks, how the Levant’s rivalries reshaped power, or how ancient worlds left evidence of environmental change?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Multiple lines of paleoenvironmental evidence point to cooler, drier, and less stable conditions generally between the thirteenth and tenth centuries BC.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card reports a proxy-based shift toward cooler, more arid, and unstable conditions from the thirteenth to tenth centuries BC, but presents this as an analysis rather than an unqualified settled fact.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Analysis of multiple lines of paleoenvironmental evidence suggests climate change was one aspect associated with this period, but not the sole cause. This was also the conclusion reached by Knapp and Manning in 2016 who concluded that, \"Based on a series of proxy indicators, there is clearly some sort of shift to cooler and more arid and unstable conditions generally between the 13th and 10th …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The analysis concludes that climate change was associated with the period but was not the sole cause.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The analysis explicitly concludes that climate change was associated with the period but was not its sole cause.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Analysis of multiple lines of paleoenvironmental evidence suggests climate change was one aspect associated with this period, but not the sole cause. This was also the conclusion reached by Knapp and Manning in 2016 who concluded that, \"Based on a series of proxy indicators, there is clearly some sort of shift to cooler and more arid and unstable conditions generally between the 13th and 10th …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Joseph Tainter pioneered general systems collapse theory, which proposes that excessive social complexity can lead societies to revert to simpler ways of life.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly describes Tainter as pioneering the theory and summarizes its proposal about unsustainable complexity and reversion to simpler ways of life.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "General systems collapse theory, pioneered by Joseph Tainter , proposes that societal collapse results from an increase in social complexity beyond a sustainable level, leading people to revert to simpler ways of life.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Between 1550 and 1170 BC, much of the Levant was contested between Egypt and the Hittites.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that much of the Levant was contested between Egypt and the Hittites from 1550 to 1170 BC.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "History of the ancient Levant",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_ancient_Levant",
+       "snippet": "Between 1550–1170 BC, much of the Levant was contested between Egypt and the Hittites . The political vacuum paved way for the rise of Mitanni , a mixed Semitic and Hurrian -speaking kingdom whose names of the ruling family bore influence from Indo-Aryan languages.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Complexity under pressure: can societies outgrow their systems?",
+    "Egypt and the Hittites: rivalry across a contested Levant",
+    "Reading ancient climate through traces in earth and bone"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Climate change was the sole cause of the Late Bronze Age collapse.",
+      "verdict": "myth",
+      "explanation": "The analysis associates climate change with the period but explicitly says it was not the sole cause. It points to cooler, drier, and less stable conditions as a broad shift, not a complete explanation for collapse.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "Analysis of multiple lines of paleoenvironmental evidence suggests climate change was one aspect associated with this period, but not the sole cause. This was also the conclusion reached by Knapp and Manning in 2016 who concluded that, \"Based on a series of proxy indicators, there is clearly some sort of shift to cooler and more arid and unstable conditions generally between the 13th and 10th …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Between 1550 and 1170 BC, much of the Levant was contested between Egypt and the Hittites.",
+      "verdict": "fact",
+      "explanation": "The evidence describes much of the Levant as contested between Egypt and the Hittites during this period.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "history",
+        "page_title": "History of the ancient Levant",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_ancient_Levant",
+        "snippet": "Between 1550–1170 BC, much of the Levant was contested between Egypt and the Hittites . The political vacuum paved way for the rise of Mitanni , a mixed Semitic and Hurrian -speaking kingdom whose names of the ruling family bore influence from Indo-Aryan languages.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "General systems collapse theory says excessive social complexity can lead societies to revert to simpler ways of life.",
+      "verdict": "fact",
+      "explanation": "Joseph Tainter pioneered the theory, which proposes that societies can exceed a sustainable level of complexity and then revert to simpler ways of life.",
+      "evidence_ids": [
+       "E31"
+      ],
+      "evidence": [
+       {
+        "id": "E31",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "General systems collapse theory, pioneered by Joseph Tainter , proposes that societal collapse results from an increase in social complexity beyond a sustainable level, leading people to revert to simpler ways of life.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter introduces a broad environmental shift across the eastern Mediterranean. Which pattern does it describe?",
+     "options": [
+      "Warmer and wetter conditions",
+      "Cooler, drier, and less stable conditions",
+      "A stable climate with no major change"
+     ],
+     "answer_index": 1,
+     "reveal_para": 1,
+     "explanation": "The chapter describes conditions as cooler, drier, and less stable across a broad span."
+    }
+   }
+  },
+  "Political failure: how connected systems become fragile": {
+   "index": 2,
+   "title": "The Fragility of Connection",
+   "narration": "You chose political failure: the question of how connected systems can become fragile. Let’s return to that eastern Mediterranean world, not as a map of neat borders, but as a web of palaces, production, and exchange. The evidence gives us a powerful image: “extensive trade networks.” [c1] And it gives us a warning about what happens when the institutions holding a world together are themselves exposed to destruction.\n\nAcross the Late Bronze Age, roughly fifteen hundred fifty to twelve hundred BC, Egyptians, Hittites, Mesopotamians, and Mycenaeans belonged to societies marked by trade networks and complex political institutions. [c2] They also built monuments, worked advanced metals, and used writing. [c3] This was no scattered collection of villages. It was a connected world with institutions capable of organizing production, power, and exchange.\n\nBut connection is not the same as invulnerability. If you ask me, the palace is the perfect symbol of that contradiction: a center that can coordinate a society, and a target whose destruction can make coordination harder. That is an interpretation of the pattern, not a verdict on one settled cause. The record does not let us turn a complicated collapse into a single domino tipping all the others.\n\nLook at the destruction itself. It fell especially heavily on palaces and fortified sites. [c4] None of the Mycenaean palaces from the Late Bronze Age survived, with a possible exception involving the Cyclopean fortifications on the Acropolis of Athens. [c5] Thebes offers an especially stark case: its palace was sacked repeatedly between thirteen hundred and twelve hundred BC, then ultimately destroyed by fire. [c6]\n\nThose details matter because a palace was not merely a grand residence. In the Minoan civilization, agriculture included wheat, olives, grapes, and other products, while textile, pottery, and metalwork industries also formed part of the economy. [c7] Some manufacturing industries were based in the palaces. [c8] That is a documented example of production tied to palace institutions. It does not prove every kingdom worked the same way, or that palace destruction automatically stopped all exchange. But it shows why losing a center could mean more than losing a roof.\n\nImagine the people who depended on those systems. A craft worker needs materials and customers. A ruler needs goods, labor, and authority. A community needs food, and some way to organize what it produces. The evidence here does not tell us the name of a particular worker, or trace a shipment from one palace to another. So we should not pretend it does. What it does show is a world with extensive trade and complex institutions, alongside concentrated destruction at palaces and fortified sites. [c9]\n\nPut those facts together, and the danger becomes visible without pretending we have solved every cause. Networks can help people share goods and knowledge across distance. Yet when important production or political organization depends on vulnerable centers, disruption at those centers may spread beyond their walls. That last step is a careful inference from the pattern, not a settled explanation of the collapse.\n\nAnd that distinction matters. The collapse is not a morality tale about trade being foolish, or palaces being doomed. The evidence shows connected societies, palace-based manufacturing in at least one example, and severe destruction at major sites. [c10] It does not establish one universal chain of cause and effect. A story with one villain or one trigger would be cleaner. It would also claim more than these facts can carry.\n\nHere is the payoff to our opening image. A linked world can be resilient because exchange and institutions let people coordinate across distance. The same links can transmit strain when the places organizing production and power are damaged. That is the lesson I take from the evidence: connection can spread resilience—and failure.\n\nSo: the Late Bronze Age joined far-reaching trade to complex political life, and palaces could be economic centers. [c11] Destruction struck palaces hard, but the evidence does not settle on one cause for the wider collapse. [c12] The next question is where we follow the thread: the sea raiders and the evidence for them, the survivors who rebuilt, or another ancient world facing a crisis of connection.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Late Bronze Age societies had extensive trade networks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Late Bronze Age collapse card plainly characterizes the period as having extensive trade networks.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Late Bronze Age ran roughly from 1550 to 1200 BC and included Egyptians, Hittites, Mesopotamians, and Mycenaeans with complex institutions and trade networks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the approximate dates, names these four societies, and describes their trade networks and complex sociopolitical institutions.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "These societies had monumental architecture, advanced metallurgy, and literacy.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly attributes monumental architecture, advanced metallurgy, and literacy to the prominent societies it names.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Destruction was heaviest at palaces and fortified sites.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says destruction was heaviest at palaces and fortified sites.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "No Mycenaean palaces of the Late Bronze Age survived, with a possible exception involving the Acropolis of Athens fortifications.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says no Mycenaean palaces survived and explicitly qualifies the possible exception as Athens’s Cyclopean fortifications.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Thebes's palace was sacked repeatedly between 1300 and 1200 BC and eventually destroyed by fire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Thebes’s palace was repeatedly sacked between 1300 and 1200 BC and eventually destroyed by fire.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Minoan agriculture included wheat, olives, grapes, and other products, and its economy supported textile, pottery, and metalwork industries.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly lists these Minoan crops and industries as part of the civilization’s economy.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Palace economy",
+       "url": "https://en.wikipedia.org/wiki/Palace_economy",
+       "snippet": "The economy of the Minoan civilization depended on the cultivation of wheat, olives, grapes and other products and also supported several industries such as the textile, pottery and metalwork industries. Some of the manufacturing industries were based in the palaces.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Some Minoan manufacturing industries were based in palaces.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says some Minoan manufacturing industries were based in palaces.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Palace economy",
+       "url": "https://en.wikipedia.org/wiki/Palace_economy",
+       "snippet": "The economy of the Minoan civilization depended on the cultivation of wheat, olives, grapes and other products and also supported several industries such as the textile, pottery and metalwork industries. Some of the manufacturing industries were based in the palaces.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The evidence describes extensive trade and complex institutions alongside concentrated destruction at palaces and fortified sites.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cited cards directly establish extensive trade and complex institutions alongside concentrated destruction at palaces and fortified sites.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The evidence describes connected societies, palace-based manufacturing in at least one example, and severe destruction at major sites.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cited cards directly describe connected societies, Minoan palace-based manufacturing, and severe destruction at major sites.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Palace economy",
+       "url": "https://en.wikipedia.org/wiki/Palace_economy",
+       "snippet": "The economy of the Minoan civilization depended on the cultivation of wheat, olives, grapes and other products and also supported several industries such as the textile, pottery and metalwork industries. Some of the manufacturing industries were based in the palaces.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Late Bronze Age societies had extensive trade networks and complex political institutions, and some Minoan manufacturing took place in palaces.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards plainly support extensive trade, complex institutions, and the limited claim that some Minoan manufacturing took place in palaces.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Palace economy",
+       "url": "https://en.wikipedia.org/wiki/Palace_economy",
+       "snippet": "The economy of the Minoan civilization depended on the cultivation of wheat, olives, grapes and other products and also supported several industries such as the textile, pottery and metalwork industries. Some of the manufacturing industries were based in the palaces.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "The cited evidence does not establish one cause for the wider collapse.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards describe the collapse context and destruction but do not identify a single cause, so the narration accurately says this evidence does not establish one cause.",
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Late Bronze Age collapse",
+       "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+       "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Palace economy",
+       "url": "https://en.wikipedia.org/wiki/Palace_economy",
+       "snippet": "The economy of the Minoan civilization depended on the cultivation of wheat, olives, grapes and other products and also supported several industries such as the textile, pottery and metalwork industries. Some of the manufacturing industries were based in the palaces.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Sea raiders: what the evidence can—and cannot—tell us",
+    "After the palaces: who rebuilt, and how?",
+    "Another ancient world when connection becomes vulnerability"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Late Bronze Age societies had extensive trade networks and complex political institutions.",
+      "verdict": "fact",
+      "explanation": "The evidence describes extensive trade networks and complex sociopolitical institutions across prominent societies of the period.",
+      "evidence_ids": [
+       "E11"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "Advanced civilizations with extensive trade networks and complex sociopolitical institutions characterized the Late Bronze Age ( c. 1550 –1200 BC). Prominent societies (Egyptians, Hittites, Mesopotamians, and Mycenaeans) exhibited monumental architecture, advanced metallurgy, and literacy.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "All Mycenaean palaces survived the Late Bronze Age collapse.",
+      "verdict": "myth",
+      "explanation": "The evidence says none of the Mycenaean palaces survived, with a possible exception involving the Cyclopean fortifications on Athens’ Acropolis.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Thebes’s palace was sacked repeatedly before it was destroyed by fire.",
+      "verdict": "fact",
+      "explanation": "The evidence dates repeated sackings to between 1300 and 1200 BC and says the palace was eventually destroyed by fire.",
+      "evidence_ids": [
+       "E10"
+      ],
+      "evidence": [
+       {
+        "id": "E10",
+        "pack": "history",
+        "page_title": "Late Bronze Age collapse",
+        "url": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+        "snippet": "Destruction was heaviest at palaces and fortified sites, and none of the Mycenaean palaces of the Late Bronze Age survived (with the possible exception of the Cyclopean fortifications on the Acropolis of Athens ). Thebes was one of the earliest examples of this, having its palace sacked repeatedly between 1300 and 1200 BC and eventually completely destroyed by fire.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Some Minoan manufacturing industries were based in palaces. What does that suggest a palace could be, beyond a grand residence?",
+     "options": [
+      "A center of production",
+      "A marketplace for sea raiders",
+      "A refuge outside political life"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "The chapter explains that some Minoan manufacturing industries were based in palaces, making them economic centers as well as residences."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Glaukos of Crete",
+   "author": "Elo K. Glinfort",
+   "year": 2004,
+   "why": "A fiction pick with a Cretan setting offers a human-scale way to revisit the eastern Mediterranean world surrounding the collapse.",
+   "url": "https://openlibrary.org/works/OL13633230W"
+  },
+  {
+   "title": "Archaeologies of cult",
+   "author": "Anna Lucia D'Agata",
+   "year": 2007,
+   "why": "For a deeper look at the religious practices and material traces that help bring ancient Mediterranean societies into focus.",
+   "url": "https://openlibrary.org/works/OL18629665W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8222,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 450,
+   "output_tokens": 682,
+   "cost_usd": 0.00052034
+  },
+  {
+   "agent": "researcher",
+   "requests": 16,
+   "input_tokens": 49821,
+   "cached_tokens": 39297,
+   "cache_write_tokens": 7903,
+   "output_tokens": 1422,
+   "cost_usd": 0.00235395
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 21149,
+   "cached_tokens": 15835,
+   "cache_write_tokens": 4684,
+   "output_tokens": 7351,
+   "cost_usd": 0.00448236
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 20588,
+   "cached_tokens": 11425,
+   "cache_write_tokens": 8533,
+   "output_tokens": 2368,
+   "cost_usd": 0.00242788
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1641,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 191,
+   "output_tokens": 236,
+   "cost_usd": 0.00016772
+  }
+ ],
+ "build_cost_usd": 0.009952,
+ "build_seconds": 77.4
+}

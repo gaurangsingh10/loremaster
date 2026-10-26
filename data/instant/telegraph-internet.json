@@ -1,0 +1,1268 @@
+{
+ "thread": {
+  "id": "telegraph-internet",
+  "title": "From Telegraph to Internet: Wiring the World",
+  "hook": "The 'Victorian internet': how a dot-dash code shrank the planet, and what it says about ours.",
+  "mode": "history",
+  "packs": [
+   "technology"
+  ],
+  "era": "1830s–1990s",
+  "universe": "",
+  "curated": true,
+  "genre": "technology"
+ },
+ "title": "The Victorian Internet",
+ "logline": "Follow the telegraph’s dots and dashes as they shrink distance, then discover what the comparison with today’s internet gets right—and what it leaves out.",
+ "plan": [
+  {
+   "title": "A World in Dots and Dashes",
+   "focus": "Open on the irresistible “Victorian internet” hook: trace how the electric telegraph and Morse code let messages travel faster than people, changing the experience of distance. Establish the infrastructure and the limits of this new kind of connection.",
+   "queries": [
+    "technology: Electric telegraph",
+    "technology: Morse code",
+    "technology: Telegraphy"
+   ],
+   "packs": [
+    "technology"
+   ]
+  },
+  {
+   "title": "The Network and Its Echo",
+   "focus": "Pay off the comparison by weighing what the telegraph shares with the internet—networks, speed, and new forms of communication—against what differs, including access and the kinds of information carried. Keep the comparison clearly interpretive, grounded in separate evidence about telegraphy and the internet.",
+   "queries": [
+    "technology: Telegraphy history",
+    "technology: Internet history",
+    "technology: Internet access"
+   ],
+   "packs": [
+    "technology"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A World in Dots and Dashes",
+  "narration": "It is eighteen forty-four. A message travels along a wire between Washington and Baltimore, and the distance between those cities changes character. A person still needs hours to make the journey. The signal does not. [c1] That is the Victorian internet in miniature: not a screen in every pocket, but a new way to make words outrun the messenger.\n\nThe telegraph is a machine for sending and receiving messages across long distances. [c2] In the electrical telegraph, pulses of current move along wires and control an electromagnet in the receiving instrument. [c3] The trick is astonishingly plain: make electricity travel, then give its pulses a language.\n\nBut plain does not mean effortless. Before a message can cross a wire, someone must encode it. Morse code uses standardized sequences of two signal durations, dots and dashes, to represent text characters. [c4] The method takes its name from Samuel Morse, but the alphabet-based code was developed by Alfred Vail, the engineer working with him. [c5]\n\nThere is a small, revealing twist here. Morse first planned to send numerals and let a codebook translate each number into a word. [c6] In eighteen forty, Vail expanded the system to include letters and special characters. [c7] That change matters. A system that needs a codebook for every word is a narrow channel. A system that can spell is a new nervous system for commerce, news, and ordinary life.\n\nThe electricity itself has a backstory. Hans Christian Ørsted discovered electromagnetism in eighteen twenty, and William Sturgeon invented the electromagnet in eighteen twenty-four. [c8] Those advances helped set the stage for electromagnetic telegraphy in Europe and America. [c9] The wire does not abolish distance. It gives distance a second clock: the slow clock of bodies and roads, and the near-instant clock of a signal.\n\nAnd then the wire reaches beyond the land. Beginning in eighteen fifty, submarine telegraph cables made the first rapid communication between people on different continents possible. [c10] Messages could cross continents with nearly instant transmission, bringing widespread social and economic effects. [c11] The ocean was still there. Ships still had to cross it. But now a message could arrive before the person carrying it.\n\nThat is why “internet” is such a tempting comparison. Here’s my read: a telegraph office is a little like a gateway into a network, and the operator is the human interface. The parallel is about infrastructure, not identical technology. A wire system connects distant places; Morse supplies a shared code; people on each end make the signal useful. The Victorian version has no feed to scroll. It has a key, a line, and somebody waiting to hear the next click.\n\nAnd the network does more than deliver news. In eighteen thirty-seven, François Arago suggested using the telegraph to transmit time signals for determining longitude. [c12] The first test came in eighteen forty-four, when Captain Wilkes of the U.S. Navy used Morse’s line between Washington and Baltimore. [c13] The same wire that shrinks a message can help measure the world. That is a wonderfully modern feeling, even if the equipment is not.\n\nStill, connection has limits. A telegraph sends symbolic messages, not the people, goods, or events those messages describe. [c14] Its reach depends on wires and cables, and its language depends on trained senders and receivers. The signal can hurry. Human consequences cannot always keep pace.\n\nSo: electricity makes a pulse travel, and code turns that pulse into words. Submarine cables push the new speed across continents, while the telegraph also begins to serve as a tool for coordinating time and measurement. What happens when this network reaches its first great crisis? We can follow the ocean cable, watch the wire transform business and news, or ask how the new speed changes the meaning of distance.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "In 1844, the first test of telegraphic time-signal transmission for longitude determination took place over the Washington–Baltimore line.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the first test of telegraph time signaling for longitude determination was made in 1844 over Morse’s Washington–Baltimore line.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "snippet": "The idea of using the telegraph to transmit a time signal for longitude determination was suggested by François Arago to Samuel Morse in 1837, and the first test of this idea was made by Capt. Wilkes of the U.S. Navy in 1844, over Morse's line between Washington and Baltimore. The method was soon in practical use for longitude determination, in particular by the U.S.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "A telegraph transmits and receives messages over long distances.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card defines a telegraph as a device for transmitting and receiving messages over long distances.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "technology",
+      "page_title": "Telegraphy",
+      "url": "https://en.wikipedia.org/wiki/Telegraphy",
+      "snippet": "A telegraph is a device for transmitting and receiving messages over long distances, i.e., for telegraphy. The word telegraph alone generally refers to an electrical telegraph . Wireless telegraphy is transmission of messages over radio with telegraphic codes. Telegraphy refers to the long-distance transmission of text or symbolic messages, historically most often via electrical telegraph systems.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Electrical telegraphy sends current pulses along wires to control an electromagnet in the receiving instrument.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says electrical pulses were sent along wires to control an electromagnet in the receiving instrument.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "Following the discovery of electromagnetism by Hans Christian Ørsted in 1820 and the invention of the electromagnet by William Sturgeon in 1824, there were developments in electromagnetic telegraphy in Europe and America. Pulses of electric current were sent along wires to control an electromagnet in the receiving instrument.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Morse code represents text characters as standardized sequences of two signal durations, dots and dashes.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card describes Morse code as text encoded with standardized sequences of two signal durations, dots and dashes.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "Morse code is a telecommunications method which encodes text characters as standardized sequences of two different signal durations, called dots and dashes , or dits and dahs . It is named after Samuel Morse , one of several developers of the system. Morse's preliminary proposal for a telegraph code was replaced by an alphabet-based code developed by Alfred Vail , the engineer working with Morse.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The code is named for Samuel Morse, while Alfred Vail developed the alphabet-based version with him.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the method is named after Samuel Morse and that Alfred Vail developed the alphabet-based code with him.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "Morse code is a telecommunications method which encodes text characters as standardized sequences of two different signal durations, called dots and dashes , or dits and dahs . It is named after Samuel Morse , one of several developers of the system. Morse's preliminary proposal for a telegraph code was replaced by an alphabet-based code developed by Alfred Vail , the engineer working with Morse.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Morse initially planned to transmit numerals and use a codebook to look up words.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Morse’s earliest design used numerals and a codebook to look up words.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "In his earliest design for a code, Morse had planned to transmit only numerals, and to use a codebook to look up each word according to the number which had been sent. However, the code was soon expanded by Alfred Vail in 1840 to include letters and special characters, so it could be used more generally.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Alfred Vail expanded the code in 1840 to include letters and special characters.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Vail expanded the code in 1840 to include letters and special characters.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "In his earliest design for a code, Morse had planned to transmit only numerals, and to use a codebook to look up each word according to the number which had been sent. However, the code was soon expanded by Alfred Vail in 1840 to include letters and special characters, so it could be used more generally.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Hans Christian Ørsted discovered electromagnetism in 1820, and William Sturgeon invented the electromagnet in 1824.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly gives Ørsted’s 1820 discovery of electromagnetism and Sturgeon’s 1824 invention of the electromagnet.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "Following the discovery of electromagnetism by Hans Christian Ørsted in 1820 and the invention of the electromagnet by William Sturgeon in 1824, there were developments in electromagnetic telegraphy in Europe and America. Pulses of electric current were sent along wires to control an electromagnet in the receiving instrument.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "These advances preceded developments in electromagnetic telegraphy in Europe and America.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says developments in electromagnetic telegraphy followed these advances in Europe and America.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "technology",
+      "page_title": "Morse code",
+      "url": "https://en.wikipedia.org/wiki/Morse_code",
+      "snippet": "Following the discovery of electromagnetism by Hans Christian Ørsted in 1820 and the invention of the electromagnet by William Sturgeon in 1824, there were developments in electromagnetic telegraphy in Europe and America. Pulses of electric current were sent along wires to control an electromagnet in the receiving instrument.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Beginning in 1850, submarine telegraph cables enabled the first rapid communication between people on different continents.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that submarine telegraph cables beginning in 1850 allowed the first rapid communication between people on different continents.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "technology",
+      "page_title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "snippet": "Beginning in 1850, submarine telegraph cables allowed for the first rapid communication between people on different continents. The telegraph's nearly-instant transmission of messages across continents – and between continents – had widespread social and economic impacts.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Near-instant telegraph transmission across and between continents had widespread social and economic impacts.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card describes nearly instant telegraph transmission across and between continents and its widespread social and economic impacts.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "technology",
+      "page_title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "snippet": "Beginning in 1850, submarine telegraph cables allowed for the first rapid communication between people on different continents. The telegraph's nearly-instant transmission of messages across continents – and between continents – had widespread social and economic impacts.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "François Arago suggested using the telegraph for time signals to determine longitude in 1837.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says François Arago suggested using the telegraph for time signals in longitude determination in 1837.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "snippet": "The idea of using the telegraph to transmit a time signal for longitude determination was suggested by François Arago to Samuel Morse in 1837, and the first test of this idea was made by Capt. Wilkes of the U.S. Navy in 1844, over Morse's line between Washington and Baltimore. The method was soon in practical use for longitude determination, in particular by the U.S.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Captain Wilkes of the U.S. Navy made the first test in 1844 over Morse's Washington–Baltimore line.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies Captain Wilkes of the U.S. Navy and Morse’s Washington–Baltimore line as the site of the first test in 1844.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "technology",
+      "page_title": "Electrical telegraph",
+      "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "snippet": "The idea of using the telegraph to transmit a time signal for longitude determination was suggested by François Arago to Samuel Morse in 1837, and the first test of this idea was made by Capt. Wilkes of the U.S. Navy in 1844, over Morse's line between Washington and Baltimore. The method was soon in practical use for longitude determination, in particular by the U.S.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Historically, telegraphy transmitted text or symbolic messages over long distances rather than transporting people or goods.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card characterizes telegraphy as transmitting text or symbolic messages over long distances, rather than transporting people or goods.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "technology",
+      "page_title": "Telegraphy",
+      "url": "https://en.wikipedia.org/wiki/Telegraphy",
+      "snippet": "A telegraph is a device for transmitting and receiving messages over long distances, i.e., for telegraphy. The word telegraph alone generally refers to an electrical telegraph . Wireless telegraphy is transmission of messages over radio with telegraphic codes. Telegraphy refers to the long-distance transmission of text or symbolic messages, historically most often via electrical telegraph systems.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The ocean cable: a wire beneath the waves",
+   "Business and news learn to move at electric speed",
+   "When distance shrinks, what changes for ordinary people?"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "The first telegraphic time-signal test for determining longitude used Morse’s Washington–Baltimore line in 1844.",
+     "verdict": "fact",
+     "explanation": "Captain Wilkes of the U.S. Navy made the first test there in 1844, following François Arago’s suggestion to use telegraph time signals for longitude.",
+     "evidence_ids": [
+      "E1"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "technology",
+       "page_title": "Electrical telegraph",
+       "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+       "snippet": "The idea of using the telegraph to transmit a time signal for longitude determination was suggested by François Arago to Samuel Morse in 1837, and the first test of this idea was made by Capt. Wilkes of the U.S. Navy in 1844, over Morse's line between Washington and Baltimore. The method was soon in practical use for longitude determination, in particular by the U.S.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Samuel Morse developed the alphabet-based version of Morse code by himself.",
+     "verdict": "myth",
+     "explanation": "The code bears Morse’s name, but Alfred Vail developed the alphabet-based version with him.",
+     "evidence_ids": [
+      "E7"
+     ],
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "technology",
+       "page_title": "Morse code",
+       "url": "https://en.wikipedia.org/wiki/Morse_code",
+       "snippet": "Morse code is a telecommunications method which encodes text characters as standardized sequences of two different signal durations, called dots and dashes , or dits and dahs . It is named after Samuel Morse , one of several developers of the system. Morse's preliminary proposal for a telegraph code was replaced by an alphabet-based code developed by Alfred Vail , the engineer working with Morse.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Submarine telegraph cables enabled rapid communication between people on different continents beginning in 1850.",
+     "verdict": "fact",
+     "explanation": "The evidence describes submarine cables beginning in 1850 as enabling the first rapid intercontinental communication.",
+     "evidence_ids": [
+      "E2"
+     ],
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "technology",
+       "page_title": "Electrical telegraph",
+       "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+       "snippet": "Beginning in 1850, submarine telegraph cables allowed for the first rapid communication between people on different continents. The telegraph's nearly-instant transmission of messages across continents – and between continents – had widespread social and economic impacts.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "François Arago proposed using the telegraph to determine longitude. What happened when the idea was first tested?",
+    "options": [
+     "Captain Wilkes tested it over the Washington–Baltimore line.",
+     "Alfred Vail tested it over a submarine cable.",
+     "Samuel Morse tested it between Europe and America."
+    ],
+    "answer_index": 0,
+    "reveal_para": 7,
+    "explanation": "Captain Wilkes of the U.S. Navy made the first test in 1844 over Morse’s Washington–Baltimore line."
+   }
+  }
+ },
+ "branches": {
+  "The ocean cable: a wire beneath the waves": {
+   "index": 2,
+   "title": "A Wire Beneath the Waves",
+   "narration": "You chose the ocean: the stretch of water that made a message wait for a ship, a crossing, and a return. Now imagine the audacity of trying to put the message itself beneath the waves. The ambition is easy to say and hard to carry out. A wire must cross an ocean, and the signal must still arrive intelligibly on the far shore.\n\nCyrus Field was an American businessman and financier. He turned toward the Atlantic after Frederic Newton Gisborne approached him about a telegraph link from St. John’s, Newfoundland, to New York. Gisborne’s effort had failed for lack of funding. [c1] Field’s wager began with that failed regional plan: make the connection larger, and make the ocean part of the route. The leap from an unfinished link to a transatlantic one sounds almost unreasonable. That is precisely why it mattered.\n\nOn November sixth, eighteen fifty-six, the Atlantic Telegraph Company was formed to undertake and exploit a commercial telegraph cable across the Atlantic. [c2] The objective was not merely to prove that a signal could cross water. It was to create a telecommunications link joining continents. The word “commercial” carries the pressure inside the dream: this had to be more than a brave experiment. Someone had to lay the cable, keep it working, and persuade people that a message could trust it.\n\nIn eighteen fifty-eight, the first transatlantic cable was laid under Field’s direction. It worked for only three weeks. [c3] For a little while, the ocean seemed to have lost its veto. Then the insulation progressively deteriorated, and in September the cable failed altogether. [c4] The news drew a tremendous reaction. Some writers hinted that the line was a hoax; others called it stock-exchange speculation. [c5]\n\nThat response tells you what was at stake. A failed wire was not just a technical disappointment. It put the whole promise on trial. Was a cable under the Atlantic an engineering project, or a glittering claim that would vanish as soon as people depended on it? The first connection had made the possibility visible. Its collapse made reliability the real prize. A signal crossing once was a marvel. A signal crossing tomorrow, and the day after, was a system.\n\nEight years later, the attempt returned with a more durable result. On July thirteenth, eighteen sixty-six, the cable-laying ship Great Eastern sailed from Valentia Island, Ireland. On July twenty-seventh, it landed at Heart’s Content in Newfoundland, completing the first lasting connection across the Atlantic. [c6] Put those place names together and the scale comes into focus: an Irish departure, a Newfoundland arrival, and an ocean turned into a route for communication.\n\nThere had been another attempt in eighteen sixty-five. When the ship Agamemnon reached Valentia on August fifth, William Thomson handed the work over to Edward Whitehouse, and the project was declared a success to the press. Thomson had received clear signals throughout the voyage using his mirror galvanometer. Whitehouse immediately connected his own equipment. [c7] Here is the drama in miniature: a signal that can be read, a public declaration, and the delicate question of what happens when the next instrument takes over. A cable is only as convincing as the message that survives its journey.\n\nThe early Atlantic cables were single wires. [c8] That detail is almost startling now. A single wire, laid across the seabed, was asked to make distance behave differently. Later, coaxial cable with amplifiers would come into use after the mid-twentieth century. [c9] The technology changed; the underlying ambition remained legible: carry communication across the water instead of carrying the messenger across it.\n\nHere’s my read: Field’s story is not that he conquered distance once and for all. It is that he helped make distance into an engineering problem people could attempt, fail at, and attempt again. The 1858 cable showed that a transatlantic connection could briefly exist; the lasting 1866 connection made the ocean cable a crucial step toward a wired world. [c10] That is a meaningful milestone, not a straight line to the modern internet. The story here is narrower, and better: a wire beneath the waves changed what people could imagine doing across an ocean.\n\nSo: the first cable connected, then failed; the next lasting connection joined Valentia and Heart’s Content. The ocean had not disappeared, but messages no longer had to cross it only as cargo aboard a ship. What should we follow next: the telegraph’s effect on news, the people who built global cable networks, or the next leap in communication technology?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Cyrus Field, an American businessman and financier, pursued a transatlantic cable after Frederic Newton Gisborne approached him about a failed, underfunded telegraph link between St. John’s and New York City.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Field, an American businessman and financier, pursued the cable after Gisborne’s underfunded St. John’s–New York effort failed.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "technology",
+       "page_title": "Atlantic Telegraph Company",
+       "url": "https://en.wikipedia.org/wiki/Atlantic_Telegraph_Company",
+       "snippet": "Cyrus Field , American businessman and financier, set his sights on laying the first transatlantic underwater telegraph cable after having been contacted by Frederic Newton Gisborne who attempted to connect St. John's, Newfoundland to New York City , but failed due to lack of funding.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The Atlantic Telegraph Company was formed on November 6, 1856, to undertake and exploit a commercial telegraph cable across the Atlantic.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the company’s formation date as November 6, 1856, and says it was formed to undertake and exploit a commercial Atlantic telegraph cable.",
+     "evidence": [
+      {
+       "id": "E39",
+       "pack": "technology",
+       "page_title": "Atlantic Telegraph Company",
+       "url": "https://en.wikipedia.org/wiki/Atlantic_Telegraph_Company",
+       "snippet": "The Atlantic Telegraph Company was a company formed on 6 November 1856 to undertake and exploit a commercial telegraph cable across the Atlantic Ocean , the first such telecommunications link.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The first transatlantic cable was laid in 1858 and operated for only three weeks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the first transatlantic telegraph cable was laid in 1858 and operated for only three weeks.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The 1858 cable’s insulation progressively deteriorated before the cable failed altogether in September 1858.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the insulation progressively deteriorated before the cable failed altogether in September 1858.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "In September 1858, after several days of progressive deterioration of the insulation, the cable failed altogether. The reaction to the news was tremendous. Some writers even hinted that the line was a mere hoax; others pronounced it a stock-exchange speculation.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The 1858 cable’s failure prompted a tremendous reaction, with some writers alleging a hoax and others calling it stock-exchange speculation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card reports the tremendous reaction and says some writers alleged a hoax while others called it stock-exchange speculation.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "In September 1858, after several days of progressive deterioration of the insulation, the cable failed altogether. The reaction to the news was tremendous. Some writers even hinted that the line was a mere hoax; others pronounced it a stock-exchange speculation.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The Great Eastern sailed from Valentia Island on July 13, 1866, and landed at Heart’s Content on July 27, completing the first lasting Atlantic connection.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the Great Eastern’s July 13 departure from Valentia and July 27 landing at Heart’s Content, describing it as the first lasting Atlantic connection.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In the 1865 attempt, Agamemnon reached Valentia on August 5; Thomson handed the work to Whitehouse after receiving clear signals with his mirror galvanometer, and Whitehouse connected his own equipment.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports the stated sequence of Agamemnon’s arrival, Thomson’s handover, clear galvanometer signals, the press declaration, and Whitehouse connecting his equipment.",
+     "evidence": [
+      {
+       "id": "E40",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "When Agamemnon reached Valentia on 5 August, Thomson handed over to Whitehouse, and the project was declared a success to the press. Thomson received clear signals throughout the voyage using the mirror galvanometer, but Whitehouse immediately connected his own equipment.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Atlantic cables in the nineteenth and early twentieth centuries were single wires.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that each cable in the nineteenth and early twentieth centuries was a single wire.",
+     "evidence": [
+      {
+       "id": "E43",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "A transatlantic telecommunications cable is a submarine communications cable connecting one side of the Atlantic Ocean to the other. In the 19th and early 20th centuries, each cable was a single wire. After mid-century, coaxial cable came into use, with amplifiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "After the mid-twentieth century, coaxial cable with amplifiers came into use for transatlantic communications cables.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that coaxial cable with amplifiers came into use after mid-century.",
+     "evidence": [
+      {
+       "id": "E43",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "A transatlantic telecommunications cable is a submarine communications cable connecting one side of the Atlantic Ocean to the other. In the 19th and early 20th centuries, each cable was a single wire. After mid-century, coaxial cable came into use, with amplifiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The lasting 1866 Atlantic cable was a crucial step toward a wired world.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards establish the 1866 cable as the first lasting Atlantic connection, while calling it a crucial step toward a wired world is the narrator’s framing.",
+     "evidence": [
+      {
+       "id": "E42",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E43",
+       "pack": "technology",
+       "page_title": "Transatlantic communications cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+       "snippet": "A transatlantic telecommunications cable is a submarine communications cable connecting one side of the Atlantic Ocean to the other. In the 19th and early 20th centuries, each cable was a single wire. After mid-century, coaxial cable came into use, with amplifiers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "How the telegraph changed the speed and politics of news",
+    "The cable crews who stitched continents into a network",
+    "From ocean wires to satellites: communication’s next leap"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The first transatlantic cable worked for only three weeks.",
+      "verdict": "fact",
+      "explanation": "The 1858 cable operated for three weeks before its insulation deteriorated and it failed in September.",
+      "evidence_ids": [
+       "E42",
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E42",
+        "pack": "technology",
+        "page_title": "Transatlantic communications cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+        "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E25",
+        "pack": "technology",
+        "page_title": "Transatlantic telegraph cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+        "snippet": "In September 1858, after several days of progressive deterioration of the insulation, the cable failed altogether. The reaction to the news was tremendous. Some writers even hinted that the line was a mere hoax; others pronounced it a stock-exchange speculation.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The 1858 cable was exposed as a hoax.",
+      "verdict": "myth",
+      "explanation": "Some writers alleged it was a hoax, but the cable did operate for three weeks before failing; the allegation was a reaction to its failure, not an established explanation.",
+      "evidence_ids": [
+       "E42",
+       "E25"
+      ],
+      "evidence": [
+       {
+        "id": "E42",
+        "pack": "technology",
+        "page_title": "Transatlantic communications cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+        "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E25",
+        "pack": "technology",
+        "page_title": "Transatlantic telegraph cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+        "snippet": "In September 1858, after several days of progressive deterioration of the insulation, the cable failed altogether. The reaction to the news was tremendous. Some writers even hinted that the line was a mere hoax; others pronounced it a stock-exchange speculation.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The Great Eastern completed the first lasting Atlantic cable connection in 1866.",
+      "verdict": "fact",
+      "explanation": "It sailed from Valentia on July 13 and landed at Heart’s Content on July 27, completing the first lasting connection across the Atlantic.",
+      "evidence_ids": [
+       "E42"
+      ],
+      "evidence": [
+       {
+        "id": "E42",
+        "pack": "technology",
+        "page_title": "Transatlantic communications cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_communications_cable",
+        "snippet": "When the first transatlantic telegraph cable was laid in 1858 by Cyrus West Field , it operated for only three weeks; a subsequent attempt in 1866 was more successful. On July 13, 1866 the cable laying ship Great Eastern sailed out of Valentia Island , Ireland and on July 27 landed at Heart's Content in Newfoundland , completing the first lasting connection across the Atlantic.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The 1865 cable attempt reaches Valentia, and Thomson has been receiving clear signals. What happens when Whitehouse takes over?",
+     "options": [
+      "He connects his own equipment.",
+      "He abandons the project as a failure.",
+      "He turns the ship back across the Atlantic."
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "Whitehouse immediately connected his own equipment after Thomson handed over the work."
+    }
+   }
+  },
+  "Business and news learn to move at electric speed": {
+   "index": 2,
+   "title": "The Wire Takes Over",
+   "narration": "You chose the route where business and news learn to move at electric speed. The wire’s great change is not that it makes every journey disappear. It is that a message can begin moving without waiting for its messenger.\n\nAn electric telegraph sends signals over a wire between distant points, carrying text faster than a person could physically carry it. [c1] For decades, from the eighteen forties into the late twentieth century, this technology became the first electrical telecommunications system and the most widely used of the early telegraphs. [c2]\n\nThat sounds like an engineering story. It is also a story about who gets to know first. A price changes somewhere, and the person who hears about it sooner may act before a rival even knows the news has begun its journey. The wire does not make the market fair. It changes the pace at which advantage can be seized.\n\nBusiness historian H. W. Brands describes the telegraph as separating communication from transportation. [c3] In the United States, that separation helped New York’s financial markets become more consolidated as they dominated the national economy. [c4] Prompt news of price changes was the most valuable commodity traded in financial markets. [c5]\n\nThere is the hinge. A price is not merely a number waiting in a ledger. It is a signal about what somebody might do next. If the signal must travel with a person, then the news arrives at the speed of roads, schedules, and bodies. Once it can travel electrically, distance still exists, but distance no longer gets to set every deadline.\n\nAnd now look at the news business, where speed is not an accessory. Speed is the product. Paul Julius Reuter had worked at a book-publishing firm in Berlin and distributed radical pamphlets during the revolutions of eighteen forty-eight. [c6] In eighteen fifty, he developed a prototype news service in Aachen using homing pigeons; from eighteen fifty-one, he used electric telegraphy to transmit messages between Brussels and Aachen. [c7]\n\nPigeons and wires: that is not a polished leap into the future. It is a working transition, improvised out of whatever can carry the message. Reuter’s operation grew alongside the network that made greater reach possible. In eighteen seventy-two, it expanded into the Far East, then into South America in eighteen seventy-four, with both expansions made possible by advances in overland telegraphs and undersea cables. [c8]\n\nBut the ocean does not care about a company’s timetable. Cyrus West Field’s Atlantic Telegraph Company began its cable project in eighteen fifty-four, laying a first cable from Valentia Island off Ireland to Newfoundland. [c9] Communication began on August sixteenth, eighteen fifty-eight, but the line’s speed was poor. [c10] The grand ambition had crossed the Atlantic; the practical service still had to catch up.\n\nThe next attempt brought its own stubborn lesson. A second cable was laid in eighteen sixty-five aboard the Great Eastern, but it broke more than halfway across, and rescue attempts were abandoned. [c11] In July eighteen sixty-six, a third cable was laid. [c12] This is the unromantic cost of a communications revolution: not just the flash of a signal, but ships, materials, failed work, and the nerve to try again.\n\nBy eighteen eighty-three, Reuters began transmitting messages electrically to London newspapers. [c13] The arc from a makeshift news service to electrical messages sent straight to newspapers is not a story of the world becoming small. It is a story of more people and institutions learning to live by information that could arrive ahead of the traveler.\n\nHere’s my read: the telegraph is less like the internet than like a new rule of the clock. It does not give everyone the same access, and it does not abolish the distance between places. It makes the gap between an event and a report newly consequential. Whoever controls the wire, the route, or the first useful report can shape what others know and when they know it.\n\nSo: business learned that communication could break free from transportation, and news organizations built reach around electric signals. The wire did not make distance vanish; it made information outrun the traveler.\n\nFor our next journey, choose: “Pigeons, cables, and the birth of Reuters”; “The race to wire the Atlantic”; or “When speed reshaped the financial market.”",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Electric telegraphy sends signals over wire to communicate over distance.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Electrical telegraph card defines it as sending electric signals over wire to communicate over distance.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Electrical telegraph",
+       "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+       "snippet": "Electrical telegraphy is point-to-point distance communicating via sending electric signals over wire, a system primarily used from the 1840s until the late 20th century. It was the first electrical telecommunications system and the most widely used of a number of early messaging systems called telegraphs , that were devised to send text messages more quickly than physically carrying them.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Electric telegraphy was the first electrical telecommunications system and was widely used from the 1840s until the late twentieth century.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states it was the first electrical telecommunications system, primarily used from the 1840s to the late twentieth century, and the most widely used of the early telegraphs.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "technology",
+       "page_title": "Electrical telegraph",
+       "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+       "snippet": "Electrical telegraphy is point-to-point distance communicating via sending electric signals over wire, a system primarily used from the 1840s until the late 20th century. It was the first electrical telecommunications system and the most widely used of a number of early messaging systems called telegraphs , that were devised to send text messages more quickly than physically carrying them.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Business historian H. W. Brands described the telegraph as separating communication from transportation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card attributes to business historian H. W. Brands the description that the telegraph separated communication from transportation.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "According to business historian H. W. Brands , the telegraph separated communication from transportation. This caused American financial markets based in New York to become even more consolidated as they dominated the nation's economy. Prompt news of price changes is most valuable commodity traded in financial markets.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The telegraph helped New York financial markets consolidate as they dominated the American economy.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says this separation caused New York-based financial markets to become more consolidated as they dominated the nation's economy.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "According to business historian H. W. Brands , the telegraph separated communication from transportation. This caused American financial markets based in New York to become even more consolidated as they dominated the nation's economy. Prompt news of price changes is most valuable commodity traded in financial markets.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Prompt news of price changes is the most valuable commodity traded in financial markets.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that prompt news of price changes is the most valuable commodity traded in financial markets.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "According to business historian H. W. Brands , the telegraph separated communication from transportation. This caused American financial markets based in New York to become even more consolidated as they dominated the nation's economy. Prompt news of price changes is most valuable commodity traded in financial markets.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Paul Julius Reuter worked at a Berlin book-publishing firm and distributed radical pamphlets during the 1848 revolutions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Reuters card says Reuter worked at a Berlin book-publishing firm and distributed radical pamphlets at the beginning of the 1848 revolutions.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "technology",
+       "page_title": "Reuters",
+       "url": "https://en.wikipedia.org/wiki/Reuters",
+       "snippet": "Paul Julius Reuter worked at a book-publishing firm in Berlin and was involved in distributing radical pamphlets at the beginning of the revolutions of 1848 . These publications brought much attention to Reuter, who in 1850 developed a prototype news service in Aachen using homing pigeons and electric telegraphy from 1851 on, in order to transmit messages between Brussels and Aachen, in what …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Reuter developed a prototype news service in Aachen in 1850 using pigeons and used electric telegraphy from 1851 to transmit messages between Brussels and Aachen.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card supports the Aachen prototype using homing pigeons in 1850 and electric telegraphy from 1851 to transmit between Brussels and Aachen.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "technology",
+       "page_title": "Reuters",
+       "url": "https://en.wikipedia.org/wiki/Reuters",
+       "snippet": "Paul Julius Reuter worked at a book-publishing firm in Berlin and was involved in distributing radical pamphlets at the beginning of the revolutions of 1848 . These publications brought much attention to Reuter, who in 1850 developed a prototype news service in Aachen using homing pigeons and electric telegraphy from 1851 on, in order to transmit messages between Brussels and Aachen, in what …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Reuter’s expanded into the Far East in 1872 and South America in 1874, enabled by overland telegraphs and undersea cables.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states the Far East and South America expansions occurred in 1872 and 1874, respectively, and were enabled by overland telegraphs and undersea cables.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "technology",
+       "page_title": "Reuters",
+       "url": "https://en.wikipedia.org/wiki/Reuters",
+       "snippet": "In 1872, Reuter's expanded into the Far East , followed by South America in 1874. Both expansions were made possible by advances in overland telegraphs and undersea cables. In 1878, Reuter retired as managing director, and was succeeded by his eldest son, Herbert de Reuter . In 1883, Reuter's began transmitting messages electrically to London newspapers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Cyrus West Field’s Atlantic Telegraph Company began the cable project in 1854, laying its first cable from Valentia Island to Newfoundland.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Atlantic Telegraph Company, led by Cyrus West Field, began the project in 1854 and laid its first cable from Valentia Island to Newfoundland.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "The Atlantic Telegraph Company led by Cyrus West Field constructed the first transatlantic telegraph cable. The project began in 1854 with the first cable laid from Valentia Island off the west coast of Ireland to Bay of Bulls , Trinity Bay , Newfoundland . The first communications occurred on August 16, 1858, but the line speed was poor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The first transatlantic cable communications occurred on August 16, 1858, but the line speed was poor.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives August 16, 1858, for the first communications and says the line speed was poor.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "The Atlantic Telegraph Company led by Cyrus West Field constructed the first transatlantic telegraph cable. The project began in 1854 with the first cable laid from Valentia Island off the west coast of Ireland to Bay of Bulls , Trinity Bay , Newfoundland . The first communications occurred on August 16, 1858, but the line speed was poor.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The second transatlantic cable was laid in 1865, broke more than halfway across, and was abandoned after rescue attempts.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the 1865 cable broke more than halfway across and was abandoned after rescue attempts.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "The second cable was laid in 1865 with improved material. It was laid from the ship SS Great Eastern , built by John Scott Russell and Isambard Kingdom Brunel and skippered by Sir James Anderson . More than halfway across, the cable broke, and after many rescue attempts, it was abandoned. In July 1866 a third cable was laid from The Anglo-American Cable house on the Telegraph Field, Foilhommerum.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "A third transatlantic cable was laid in July 1866.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that a third cable was laid in July 1866.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "technology",
+       "page_title": "Transatlantic telegraph cable",
+       "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+       "snippet": "The second cable was laid in 1865 with improved material. It was laid from the ship SS Great Eastern , built by John Scott Russell and Isambard Kingdom Brunel and skippered by Sir James Anderson . More than halfway across, the cable broke, and after many rescue attempts, it was abandoned. In July 1866 a third cable was laid from The Anglo-American Cable house on the Telegraph Field, Foilhommerum.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Reuters began transmitting messages electrically to London newspapers in 1883.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Reuters card states that the agency began transmitting messages electrically to London newspapers in 1883.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "technology",
+       "page_title": "Reuters",
+       "url": "https://en.wikipedia.org/wiki/Reuters",
+       "snippet": "In 1872, Reuter's expanded into the Far East , followed by South America in 1874. Both expansions were made possible by advances in overland telegraphs and undersea cables. In 1878, Reuter retired as managing director, and was succeeded by his eldest son, Herbert de Reuter . In 1883, Reuter's began transmitting messages electrically to London newspapers.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Pigeons, cables, and the birth of Reuters",
+    "The race to wire the Atlantic",
+    "When speed reshaped the financial market"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The electric telegraph made messages travel faster than a person could carry them.",
+      "verdict": "fact",
+      "explanation": "Electric telegraphy sent signals over wires to communicate across distance, sending text more quickly than physically carrying it. [E11]",
+      "evidence_ids": [
+       "E11"
+      ],
+      "evidence": [
+       {
+        "id": "E11",
+        "pack": "technology",
+        "page_title": "Electrical telegraph",
+        "url": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+        "snippet": "Electrical telegraphy is point-to-point distance communicating via sending electric signals over wire, a system primarily used from the 1840s until the late 20th century. It was the first electrical telecommunications system and the most widely used of a number of early messaging systems called telegraphs , that were devised to send text messages more quickly than physically carrying them.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Reuter’s first news service used only electric telegraphy from the start.",
+      "verdict": "myth",
+      "explanation": "Reuter’s 1850 Aachen prototype used homing pigeons; electric telegraphy was used from 1851 to send messages between Brussels and Aachen. [E19]",
+      "evidence_ids": [
+       "E19"
+      ],
+      "evidence": [
+       {
+        "id": "E19",
+        "pack": "technology",
+        "page_title": "Reuters",
+        "url": "https://en.wikipedia.org/wiki/Reuters",
+        "snippet": "Paul Julius Reuter worked at a book-publishing firm in Berlin and was involved in distributing radical pamphlets at the beginning of the revolutions of 1848 . These publications brought much attention to Reuter, who in 1850 developed a prototype news service in Aachen using homing pigeons and electric telegraphy from 1851 on, in order to transmit messages between Brussels and Aachen, in what …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The first transatlantic cable provided fast, reliable service when communication began in 1858.",
+      "verdict": "myth",
+      "explanation": "Communication began on August 16, 1858, but the line’s speed was poor. [E16]",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "technology",
+        "page_title": "Transatlantic telegraph cable",
+        "url": "https://en.wikipedia.org/wiki/Transatlantic_telegraph_cable",
+        "snippet": "The Atlantic Telegraph Company led by Cyrus West Field constructed the first transatlantic telegraph cable. The project began in 1854 with the first cable laid from Valentia Island off the west coast of Ireland to Bay of Bulls , Trinity Bay , Newfoundland . The first communications occurred on August 16, 1858, but the line speed was poor.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The 1865 transatlantic cable breaks more than halfway across. What happens next?",
+     "options": [
+      "The rescue attempts are abandoned.",
+      "The cable is repaired and put into service.",
+      "A third cable is laid immediately."
+     ],
+     "answer_index": 0,
+     "reveal_para": 8,
+     "explanation": "After the cable broke, rescue attempts were abandoned; a third cable was laid in July 1866. [E17]"
+    }
+   }
+  },
+  "When distance shrinks, what changes for ordinary people?": {
+   "index": 2,
+   "title": "The World Gets Smaller",
+   "narration": "We left you at the wire: a signal moving faster than the person who might carry it. You chose the ordinary people at the far end of that shrinking distance. So let’s follow the message into the newsroom, the business, and the home.\n\nIn eighteen forty-six, war gives the telegraph an urgent new job. Journalists use it to report on the Mexican–American War, and news agencies form to gather and distribute reports by telegraph. [c1] Imagine the reporter’s problem: the event may be unfolding far from the reader, but the words can travel ahead of any returning traveler. The wire does not make the news complete or impartial. It changes how quickly news can be gathered and sent.\n\nThat speed reshapes commerce, too. By eighteen sixty-one, the first transcontinental telegraph lets messages cross the United States from coast to coast in hours rather than weeks. [c2] In the late eighteen sixties and seventies, lines spread westward, connecting Chicago, St. Louis, Denver, and San Francisco. [c3] A merchant no longer has to wait for a person to cross the continent before a distant city can answer. The wire turns faraway markets into places one can address quickly, even when bodies, goods, and weather still move at their old pace.\n\nAnd that mismatch is the revolution. A message can arrive before the traveler carrying the same news would. A business can ask a question across a continent, then make a decision while the answer is still fresh. The network does not erase distance. It splits distance in two: the time it takes to move a body, and the time it takes to move information.\n\nBy nineteen hundred, the telegraph is an integral part of American life, linking people and businesses across the country and around the world. [c4] That is a broad transformation, but it is built from small acts: sending a report, checking a shipment, asking a question, answering one. The story of a network is also the story of its users learning what they can ask when the answer no longer takes weeks.\n\nThen the communication landscape changes again. Alexander Graham Bell invents the telephone in eighteen seventy-six, and after nineteen twenty the telephone replaces the telegraph as the primary means of communication between cities. [c5] But the telegraph’s habit of sending written messages does not simply vanish. In nineteen thirty-one, AT&T introduces the Teletypewriter Exchange Service, or TWX, connecting machines in private businesses over telephone circuits. A secretary can type a message to another machine without using Western Union or going to a telegraph office. [c6]\n\nHere’s my read: that office-to-office message feels like a bridge between the telegraph desk and the networked workplace. Not a straight road to the internet, but a familiar human desire in new machinery: send words to someone distant, and make the wait shorter.\n\nThe internet’s own story has different people, problems, and technical steps. After discussions with J. C. R. Licklider in nineteen sixty-five, Donald Davies became interested in data communications for computer networks. Later that year, at Britain’s National Physical Laboratory, Davies designed and proposed a national commercial data network based on packet switching. [c7] In nineteen sixty-nine, ARPA awarded contracts for ARPANET, directed by Robert Taylor and managed by Lawrence Roberts. ARPANET adopted packet switching proposed by Davies and sought input from Paul Baran. [c8]\n\nThe internet originated in efforts by scientists and engineers to build and interconnect computer networks. Its Internet Protocol Suite arose through research and development in the United States, with international collaboration, particularly involving researchers in the United Kingdom and France. [c9] So the telegraph did not inevitably become the internet. The two stories meet in a larger question: how do people make distant communication faster, and how do they connect separate systems? The answers were not one invention marching forward, but successive choices by people facing different needs.\n\nReturn to that opening image: a signal outrunning a traveler. First, it outruns the messenger on a road. Later, written messages move between offices, and computer networks learn to exchange data across systems. The machines change; the human wish to reach someone far away stays recognizable.\n\nSo: the telegraph changed news, commerce, and daily communication by making messages travel across distances in hours. And later networks arose through their own collaborations and designs, not through an inevitable line from wire to internet.\n\nWhere next? Follow the news agencies racing to report a war; enter the private office where TWX sends its typed message; or trace the engineers who connected computer networks.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Journalists used the telegraph for war reporting during the Mexican–American War in 1846, and news agencies formed to report news by telegraph.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says journalists used the telegraph for Mexican–American War reporting in 1846 and that news agencies formed to report news by telegraph.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "technology",
+       "page_title": "Telegraphy",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy",
+       "snippet": "Worldwide telegraphy changed the gathering of information for news reporting. Journalists were using the telegraph for war reporting as early as 1846 when the Mexican–American War broke out. News agencies were formed, such as the Associated Press , for the purpose of reporting news by telegraph.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The first transcontinental telegraph was completed in 1861, allowing coast-to-coast messages in hours rather than weeks.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the first transcontinental telegraph was completed in 1861 and enabled coast-to-coast messages in hours rather than weeks.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "The completion of the First transcontinental telegraph in 1861 allowed messages to be sent from coast to coast in a matter of hours rather than weeks. In the late 1860s and 1870s, the telegraph expanded rapidly westward, connecting cities like Chicago, St. Louis, Denver, and San Francisco.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "In the late 1860s and 1870s, telegraph lines expanded westward and connected Chicago, St. Louis, Denver, and San Francisco.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that telegraph lines expanded rapidly westward in the late 1860s and 1870s, connecting the listed cities.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "The completion of the First transcontinental telegraph in 1861 allowed messages to be sent from coast to coast in a matter of hours rather than weeks. In the late 1860s and 1870s, the telegraph expanded rapidly westward, connecting cities like Chicago, St. Louis, Denver, and San Francisco.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "By 1900, the telegraph linked people and businesses across the United States and around the world and had become integral to American life.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says that by 1900 the telegraph was integral to American life and linked people and businesses across the country and around the world.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "By 1900, the telegraph had become an integral part of American life, linking people and businesses across the country and around the world. In 1876, Alexander Graham Bell invented the telephone. After 1920 it replaced the telegraph as the primary means of communication between cities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Bell invented the telephone in 1876, and after 1920 it replaced the telegraph as the primary means of communication between cities.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states both that Bell invented the telephone in 1876 and that it replaced the telegraph as the primary means of communication between cities after 1920.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "By 1900, the telegraph had become an integral part of American life, linking people and businesses across the country and around the world. In 1876, Alexander Graham Bell invented the telephone. After 1920 it replaced the telegraph as the primary means of communication between cities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "AT&T introduced TWX in 1931, allowing private businesses to send written messages between machines over telephone circuits without Western Union or a telegraph office.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says AT&T introduced TWX in 1931 and that businesses could send written messages between machines over telephone circuits without Western Union or a telegraph office.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "technology",
+       "page_title": "Telegraphy in the United States",
+       "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+       "snippet": "In 1931, the American Telephone and Telegraph Company (AT&T) introduced the Teletypewriter Exchange Service (TWX) which operated over telephone circuits between devices located directly in private businesses. This enabled a secretary to type and send a written message to another TWX machine elsewhere, without using Western Union services, or going to a telegraph office.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "After discussions with Licklider in 1965, Davies pursued computer network data communications and proposed a packet-switching commercial network at Britain’s NPL that year.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that after discussions with Licklider in 1965, Davies pursued computer-network data communications and proposed a packet-switching commercial network at NPL later that year.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "technology",
+       "page_title": "History of the Internet",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+       "snippet": "Following discussions with J. C. R. Licklider in 1965, Donald Davies became interested in data communications for computer networks. Later that year, at the National Physical Laboratory (NPL) in the United Kingdom, Davies designed and proposed a national commercial data network based on packet switching.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "ARPA awarded contracts for ARPANET in 1969; it was directed by Robert Taylor, managed by Lawrence Roberts, adopted Davies’s packet-switching proposal, and sought input from Baran.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says ARPA awarded ARPANET contracts in 1969, Taylor directed it, Roberts managed it, it adopted Davies’s packet-switching technology, and it sought input from Baran.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "technology",
+       "page_title": "History of the Internet",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+       "snippet": "ARPA awarded contracts in 1969 for the development of the ARPANET project, directed by Robert Taylor and managed by Lawrence Roberts . ARPANET adopted the packet switching technology proposed by Davies and sought input from Baran. The network of Interface Message Processors (IMPs) was built by a team at Bolt, Beranek, and Newman , with the design and specification led by Bob Kahn .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The internet grew from efforts to build and interconnect computer networks, with its Internet Protocol Suite developed through U.S. research and international collaboration, especially with the United Kingdom and France.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes the Internet’s origins in efforts to interconnect computer networks and says its protocol suite arose from U.S. research with international collaboration, particularly with the United Kingdom and France.",
+     "evidence": [
+      {
+       "id": "E33",
+       "pack": "technology",
+       "page_title": "History of the Internet",
+       "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+       "snippet": "The Internet originated in the efforts of scientists and engineers to build and interconnect computer networks . The Internet Protocol Suite , the set of rules used to communicate between networks and devices on the Internet, arose from research and development in the United States and involved international collaboration, particularly with researchers in the United Kingdom and France .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "War dispatches: the newsroom learns to race the battlefield",
+    "Inside the office: a secretary sends words by TWX",
+    "The internet’s builders: how separate networks learned to speak"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Journalists used the telegraph to report on the Mexican–American War in 1846.",
+      "verdict": "fact",
+      "explanation": "Journalists were using the telegraph for war reporting when the war broke out, and news agencies formed to report by telegraph.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "technology",
+        "page_title": "Telegraphy",
+        "url": "https://en.wikipedia.org/wiki/Telegraphy",
+        "snippet": "Worldwide telegraphy changed the gathering of information for news reporting. Journalists were using the telegraph for war reporting as early as 1846 when the Mexican–American War broke out. News agencies were formed, such as the Associated Press , for the purpose of reporting news by telegraph.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The transcontinental telegraph let messages cross the United States in hours rather than weeks by 1861.",
+      "verdict": "fact",
+      "explanation": "The first transcontinental telegraph was completed in 1861, enabling coast-to-coast messages in hours rather than weeks.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "technology",
+        "page_title": "Telegraphy in the United States",
+        "url": "https://en.wikipedia.org/wiki/Telegraphy_in_the_United_States",
+        "snippet": "The completion of the First transcontinental telegraph in 1861 allowed messages to be sent from coast to coast in a matter of hours rather than weeks. In the late 1860s and 1870s, the telegraph expanded rapidly westward, connecting cities like Chicago, St. Louis, Denver, and San Francisco.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The internet was simply the telegraph’s inevitable next step.",
+      "verdict": "myth",
+      "explanation": "The chapter says the internet developed through separate designs and collaborations to build and connect computer networks, not through an inevitable progression from telegraphy.",
+      "evidence_ids": [
+       "E31",
+       "E32",
+       "E33"
+      ],
+      "evidence": [
+       {
+        "id": "E31",
+        "pack": "technology",
+        "page_title": "History of the Internet",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+        "snippet": "Following discussions with J. C. R. Licklider in 1965, Donald Davies became interested in data communications for computer networks. Later that year, at the National Physical Laboratory (NPL) in the United Kingdom, Davies designed and proposed a national commercial data network based on packet switching.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E32",
+        "pack": "technology",
+        "page_title": "History of the Internet",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+        "snippet": "ARPA awarded contracts in 1969 for the development of the ARPANET project, directed by Robert Taylor and managed by Lawrence Roberts . ARPANET adopted the packet switching technology proposed by Davies and sought input from Baran. The network of Interface Message Processors (IMPs) was built by a team at Bolt, Beranek, and Newman , with the design and specification led by Bob Kahn .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E33",
+        "pack": "technology",
+        "page_title": "History of the Internet",
+        "url": "https://en.wikipedia.org/wiki/History_of_the_Internet",
+        "snippet": "The Internet originated in the efforts of scientists and engineers to build and interconnect computer networks . The Internet Protocol Suite , the set of rules used to communicate between networks and devices on the Internet, arose from research and development in the United States and involved international collaboration, particularly with researchers in the United Kingdom and France .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After the telephone became the primary means of communication between cities, what new service let private businesses send written messages between machines?",
+     "options": [
+      "A telegraph network run by Western Union",
+      "AT&T’s TWX service over telephone circuits",
+      "A packet-switched service designed at Britain’s NPL"
+     ],
+     "answer_index": 1,
+     "reveal_para": 5,
+     "explanation": "In 1931, AT&T introduced TWX, which connected machines in private businesses over telephone circuits."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Communication in history",
+   "author": "D. J. Crowley, Paul Heyer",
+   "year": 2010,
+   "why": "A broad history of communication that offers context for the telegraph’s place in the longer story of how new technologies connected people.",
+   "url": "https://openlibrary.org/works/OL18817402W"
+  },
+  {
+   "title": "Communication in history",
+   "author": "D. J. Crowley",
+   "year": 2011,
+   "why": "A useful next read for tracing how communication technologies reshaped society, extending the episode’s story of the world getting smaller.",
+   "url": "https://openlibrary.org/works/OL15413043W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9013,
+   "cached_tokens": 2000,
+   "cache_write_tokens": 6509,
+   "output_tokens": 638,
+   "cost_usd": 0.00120301
+  },
+  {
+   "agent": "researcher",
+   "requests": 20,
+   "input_tokens": 65391,
+   "cached_tokens": 52099,
+   "cache_write_tokens": 10772,
+   "output_tokens": 1549,
+   "cost_usd": 0.00289398
+  },
+  {
+   "agent": "storyteller",
+   "requests": 4,
+   "input_tokens": 16519,
+   "cached_tokens": 9978,
+   "cache_write_tokens": 6037,
+   "output_tokens": 6506,
+   "cost_usd": 0.0041578
+  },
+  {
+   "agent": "skeptic",
+   "requests": 4,
+   "input_tokens": 17904,
+   "cached_tokens": 7332,
+   "cache_write_tokens": 10068,
+   "output_tokens": 2264,
+   "cost_usd": 0.00251422
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1905,
+   "cached_tokens": 0,
+   "cache_write_tokens": 1779,
+   "output_tokens": 147,
+   "cost_usd": 0.00030848
+  }
+ ],
+ "build_cost_usd": 0.011077,
+ "build_seconds": 89.8
+}

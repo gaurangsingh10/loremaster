@@ -1,0 +1,1558 @@
+{
+ "thread": {
+  "id": "rubicon-emergency-powers",
+  "title": "Caesar's Rubicon → Palpatine's Emergency Powers",
+  "hook": "A general crosses a river, a chancellor accepts 'temporary' powers. Lucas has said he was watching Rome.",
+  "mode": "crossover",
+  "packs": [
+   "history",
+   "star_wars"
+  ],
+  "era": "Late Roman Republic",
+  "universe": "Star Wars",
+  "curated": true,
+  "genre": "history"
+ },
+ "title": "Crossing the Line",
+ "logline": "From Caesar’s fateful river crossing to Palpatine’s emergency rule, discover how a republic can surrender its safeguards—and where history and fiction part ways.",
+ "plan": [
+  {
+   "title": "The River and the Republic",
+   "focus": "Open on the paired moments: Caesar crossing the Rubicon and Chancellor Palpatine gaining emergency powers. Set up the specific comparison between Caesar’s defiance of the Republic’s political order and Palpatine’s use of institutional crisis, while making clear that the parallel is interpretation, not identity.",
+   "queries": [
+    "history: Caesar crossing Rubicon",
+    "history: Roman Republic civil war",
+    "star_wars: Emergency Powers Act",
+    "star_wars: Palpatine chancellor"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  },
+  {
+   "title": "Power That Would Not Return",
+   "focus": "Trace the consequences: Caesar’s seizure of power and the Republic’s collapse alongside Palpatine’s accumulation of authority and transformation of the Republic into the Empire. Test the claimed Roman inspiration by checking Lucas’s stated remarks about Rome; distinguish documented influence from any broader comparison that remains interpretation.",
+   "queries": [
+    "history: Julius Caesar dictatorship",
+    "history: End of Roman Republic",
+    "star_wars: Galactic Empire formation",
+    "star_wars: George Lucas Rome inspiration"
+   ],
+   "packs": [
+    "history",
+    "star_wars"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The River and the Republic",
+  "narration": "It is January, forty-nine BC. A river marks the northern edge of Italy, and Julius Caesar brings one legion to its bank. The Senate has issued its final decree; Caesar crosses the Rubicon, and civil war begins. [c1] The legion is the Thirteenth Gemina. [c2] Later accounts attribute a line to Caesar as he crossed: “Let the die be cast.” [c3]\n\nNow jump forward, into a galaxy where a Republic is also afraid of coming apart. In twenty-four BBY, at the start of the Separatist Crisis, the Galactic Senate passes an Emergency Powers Act. [c4] Its stated purpose is to let Chancellor Sheev Palpatine remain in office beyond the expiration of his elected terms. [c5] The act is meant to last as long as the crisis. [c6]\n\nThese are not the same scene. Caesar walks across a physical boundary with troops; Palpatine receives authority through a vote. But both moments put a republic under pressure, and both ask what happens when extraordinary danger changes the rules. The parallel is interpretation, not identity: a river crossing is not a Senate amendment. Still, the comparison has teeth. One man breaks the political order in the open. The other gains room to maneuver inside it.\n\nRome’s crisis did not begin at the water’s edge. The Republic had been strained by the weakening of the mos maiorum, the inherited political code, alongside widening inequality over wealth and land. [c7] Class conflict sharpened the struggle between the traditional aristocracy, called the optimates, and politicians who sought power by championing the common people, called the populares. [c8] The labels sound like neat teams. The politics were messier, and the stakes were power, property, and who got heard.\n\nHistorians still disagree about what chiefly drove Rome’s collapse. [c9] One influential interpretation, associated with Ronald Syme, sees the civil wars as an escalation of competition among elites and powerful families. [c10] That matters for our comparison. A republic can be weakened not only by an enemy at its gates, but by insiders treating public office as another weapon in a private contest.\n\nIn the Star Wars story, the crisis supplies Palpatine with a legal opening. Two years after the first act, on the eve of the First Battle of Geonosis, Junior Representative Jar Jar Binks persuades the Senate to expand the Chancellor’s emergency powers. [c11] The threat appears to be the Confederacy of Independent Systems. [c12] The expanded authority lets Palpatine bypass the Military Creation Act and form the Grand Army of the Republic. [c13]\n\nThen the exception keeps growing. Four more constitutional amendments are enacted during the war, each further expanding Palpatine’s emergency powers. [c14] In effect, he becomes the most powerful Chancellor since before the Ruusan Reformations. [c15] The fictional Republic turns crisis into a ladder: each rung is described as a response to danger, and each leaves the Chancellor higher above the old limits.\n\nHere’s my read: Caesar and Palpatine are useful foils because the contrast is sharper than the resemblance. Caesar’s crossing is a dramatic breach of the boundary separating military command from Italy. Palpatine’s rise is a sequence of institutional permissions. Rome’s breakdown involved structural tensions and competing explanations; the Star Wars plot gives us a concentrated story of emergency powers accumulating around one ruler. [c16] And Star Wars draws on many sources, including Roman history, rather than belonging to a single historical template. [c17]\n\nSo: Caesar takes a legion across a line, and Rome enters civil war. Palpatine takes emergency authority through the Senate, then sees it expand. [c18] When a republic is frightened, which is more dangerous: the soldier who crosses the river, or the office that keeps gaining power?\n\nNext, choose the Senate’s vote and Jar Jar’s fateful motion; follow Caesar from the Rubicon into civil war; or ask whether Rome’s deeper crisis made the crossing possible.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Around January 10 or 11, 49 BC, Caesar crossed the Rubicon after the Senate's final decree, beginning civil war.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The Julius Caesar card dates the crossing to around January 10 or 11, 49 BC, after the Senate’s final decree, and says it ignited civil war.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Julius Caesar",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "Caesar crossed the Rubicon with the Thirteenth Gemina legion.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies Caesar’s single legion as the Legio XIII Gemina.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Julius Caesar",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "According to later accounts, Caesar supposedly said, 'Let the die be cast,' while crossing.",
+    "kind": "history",
+    "grade": "Debated",
+    "note": "The card says Plutarch and Suetonius supposedly attributed the phrase to Caesar, preserving uncertainty about the quotation.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Julius Caesar",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Galactic Senate passed the Emergency Powers Act at the start of the Separatist Crisis in 24 BBY.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Emergency Powers Act card says it was passed at the very start of the Separatist Crisis in 24 BBY.",
+    "evidence": [
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "The Emergency Powers Act was an amendment to the Galactic Constitution passed at the very start of the Separatist Crisis in 24 BBY to allow Sheev Palpatine to remain Supreme Chancellor long after the expiration of his elected terms. The act was originally intended to remain in practice for as long as the Separatist Crisis carried on.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "The act allowed Palpatine to remain Chancellor beyond the expiration of his elected terms.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card states that the act allowed Palpatine to remain Supreme Chancellor beyond the expiration of his elected terms.",
+    "evidence": [
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "The Emergency Powers Act was an amendment to the Galactic Constitution passed at the very start of the Separatist Crisis in 24 BBY to allow Sheev Palpatine to remain Supreme Chancellor long after the expiration of his elected terms. The act was originally intended to remain in practice for as long as the Separatist Crisis carried on.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "The act was originally intended to remain in force as long as the Separatist Crisis continued.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says the act was originally intended to remain in force for as long as the Separatist Crisis continued.",
+    "evidence": [
+     {
+      "id": "E12",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "The Emergency Powers Act was an amendment to the Galactic Constitution passed at the very start of the Separatist Crisis in 24 BBY to allow Sheev Palpatine to remain Supreme Chancellor long after the expiration of his elected terms. The act was originally intended to remain in practice for as long as the Separatist Crisis carried on.",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The Roman Republic's crisis included the breakdown of the mos maiorum and widening inequality over wealth and land.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The crisis card identifies breakdown of the mos maiorum and widening inequality in wealth and land as key structural tensions.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "The crisis was rooted in deep structural tensions—chief among them the breakdown of the political code known as the mos maiorum , widening inequality among wealth and land, and class conflict between the traditional aristocracy ( optimates ) and those who sought power by championing the cause of the common people (the populares ).",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Class conflict pitted the optimates against populares who championed common people.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card describes class conflict between optimates and populares, with the latter championing the common people.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "The crisis was rooted in deep structural tensions—chief among them the breakdown of the political code known as the mos maiorum , widening inequality among wealth and land, and class conflict between the traditional aristocracy ( optimates ) and those who sought power by championing the cause of the common people (the populares ).",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Historians disagree about the causes of the Roman Republic's crisis.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly states that historians disagree over the causes of the Republic’s crisis.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "Although \" crisis \" is a common label for the political violence that saw the transition of Rome from a republic to an Empire, historians disagree over its causes. Some historians such as Ronald Syme in The Roman Revolution blame the civil wars on an escalation of elite competition viewing the late republic \"as a conflict between a dominant oligarchy drawn from a set of powerful families and …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "Ronald Syme's interpretation treats the civil wars as an escalation of elite competition among powerful families.",
+    "kind": "history",
+    "grade": "Debated",
+    "note": "The card attributes this interpretation to Ronald Syme, but its support is a single body-text account of his view, so the sourcing is thin.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "Although \" crisis \" is a common label for the political violence that saw the transition of Rome from a republic to an Empire, historians disagree over its causes. Some historians such as Ronald Syme in The Roman Revolution blame the civil wars on an escalation of elite competition viewing the late republic \"as a conflict between a dominant oligarchy drawn from a set of powerful families and …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "On the eve of Geonosis in 22 BBY, Jar Jar Binks persuaded the Senate to expand Palpatine's emergency powers.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says Jar Jar Binks persuaded the Senate to expand the Chancellor’s emergency powers on the eve of Geonosis.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "On the eve of the First Battle of Geonosis in 22 BBY , Junior Representative Jar Jar Binks convinced the Senate to increase the scope of the Chancellor's emergency powers because of the apparent threat of the Confederacy of Independent Systems . With the expansion, Palpatine could bypass the Military Creation Act and form the Grand Army of the Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "The apparent threat motivating the expansion was the Confederacy of Independent Systems.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card identifies the Confederacy of Independent Systems as the apparent threat motivating the expansion.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "On the eve of the First Battle of Geonosis in 22 BBY , Junior Representative Jar Jar Binks convinced the Senate to increase the scope of the Chancellor's emergency powers because of the apparent threat of the Confederacy of Independent Systems . With the expansion, Palpatine could bypass the Military Creation Act and form the Grand Army of the Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "The expansion let Palpatine bypass the Military Creation Act and form the Grand Army of the Republic.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says the expanded powers let Palpatine bypass the Military Creation Act and form the Grand Army of the Republic.",
+    "evidence": [
+     {
+      "id": "E10",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "On the eve of the First Battle of Geonosis in 22 BBY , Junior Representative Jar Jar Binks convinced the Senate to increase the scope of the Chancellor's emergency powers because of the apparent threat of the Confederacy of Independent Systems . With the expansion, Palpatine could bypass the Military Creation Act and form the Grand Army of the Republic .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Four additional constitutional amendments further expanded Palpatine's emergency powers during the war.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card states that four additional constitutional amendments during the war further expanded Palpatine’s emergency powers.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "Four additional amendments were made to the Constitution and enshrined in law throughout the war, further expanding Palpatine's emergency powers. In effect, Palpatine became the most powerful chancellor since before the Ruusan Reformations .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c15",
+    "text": "Palpatine became the most powerful Chancellor since before the Ruusan Reformations.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The card says Palpatine became the most powerful Chancellor since before the Ruusan Reformations.",
+    "evidence": [
+     {
+      "id": "E11",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "Four additional amendments were made to the Constitution and enshrined in law throughout the war, further expanding Palpatine's emergency powers. In effect, Palpatine became the most powerful chancellor since before the Ruusan Reformations .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c16",
+    "text": "The Roman crisis involved structural tensions and competing explanations, while the Star Wars plot depicts emergency powers accumulating around one ruler.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is the narrator’s comparison between the Roman crisis and the fictional accumulation of Palpatine’s emergency powers, rather than a standalone factual claim.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "The crisis was rooted in deep structural tensions—chief among them the breakdown of the political code known as the mos maiorum , widening inequality among wealth and land, and class conflict between the traditional aristocracy ( optimates ) and those who sought power by championing the cause of the common people (the populares ).",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E5",
+      "pack": "history",
+      "page_title": "Crisis of the Roman Republic",
+      "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+      "snippet": "Although \" crisis \" is a common label for the political violence that saw the transition of Rome from a republic to an Empire, historians disagree over its causes. Some historians such as Ronald Syme in The Roman Revolution blame the civil wars on an escalation of elite competition viewing the late republic \"as a conflict between a dominant oligarchy drawn from a set of powerful families and …",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "Four additional amendments were made to the Constitution and enshrined in law throughout the war, further expanding Palpatine's emergency powers. In effect, Palpatine became the most powerful chancellor since before the Ruusan Reformations .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   },
+   {
+    "id": "c17",
+    "text": "Star Wars draws on multiple sources, including Roman history.",
+    "kind": "lore",
+    "grade": "Canon",
+    "note": "The Star Wars sources card explicitly lists Roman history among the franchise’s acknowledged sources of inspiration.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "history",
+      "page_title": "Star Wars sources and analogues",
+      "url": "https://en.wikipedia.org/wiki/Star_Wars_sources_and_analogues",
+      "snippet": "The Star Wars space fantasy media franchise is acknowledged to have been inspired by multiple sources. These include Islam , Catholicism , Hinduism , Buddhism , Qigong , philosophy , classical mythology , Roman history , Gnosticism , Zoroastrianism , parts of the other Abrahamic religions , Confucianism , Shintō and Taoism , and countless cinematic precursors.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c18",
+    "text": "Caesar's crossing initiated civil war, while Palpatine's emergency authority expanded through subsequent amendments.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a comparative summary that juxtaposes Caesar’s documented crossing with Palpatine’s documented expansion of authority.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "history",
+      "page_title": "Julius Caesar",
+      "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E11",
+      "pack": "star_wars",
+      "page_title": "Emergency Powers Act",
+      "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+      "snippet": "Four additional amendments were made to the Constitution and enshrined in law throughout the war, further expanding Palpatine's emergency powers. In effect, Palpatine became the most powerful chancellor since before the Ruusan Reformations .",
+      "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "Jar Jar's fateful motion: the Senate votes on emergency power",
+   "Caesar's next move: from riverbank to civil war",
+   "Rome's deeper fracture: did the Republic make the crossing inevitable?"
+  ],
+  "revised": true,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Caesar crossed the Rubicon with the Thirteenth Gemina legion.",
+     "verdict": "fact",
+     "explanation": "The evidence identifies his single legion as the Legio XIII Gemina.",
+     "evidence_ids": [
+      "E2"
+     ],
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "history",
+       "page_title": "Julius Caesar",
+       "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+       "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Caesar said, “Let the die be cast,” as he crossed the Rubicon.",
+     "verdict": "debated",
+     "explanation": "Later accounts attribute the line to him, but the evidence presents it as a reported saying, not a certain quotation.",
+     "evidence_ids": [
+      "E2"
+     ],
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "history",
+       "page_title": "Julius Caesar",
+       "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+       "snippet": "Around 10 or 11 January 49 BC, in response to the Senate's \"final decree\", Caesar crossed the Rubicon – the river defining the northern boundary of Italy – with a single legion, the Legio XIII Gemina , and ignited civil war . Upon crossing the Rubicon, Caesar, according to Plutarch and Suetonius, is supposed to have quoted the Athenian playwright Menander , in Greek, \" let the die be cast \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Palpatine gained emergency powers only once, through Jar Jar Binks’s motion.",
+     "verdict": "myth",
+     "explanation": "Jar Jar’s motion expanded the powers, but four additional constitutional amendments expanded them further during the war.",
+     "evidence_ids": [
+      "E10",
+      "E11"
+     ],
+     "evidence": [
+      {
+       "id": "E10",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "On the eve of the First Battle of Geonosis in 22 BBY , Junior Representative Jar Jar Binks convinced the Senate to increase the scope of the Chancellor's emergency powers because of the apparent threat of the Confederacy of Independent Systems . With the expansion, Palpatine could bypass the Military Creation Act and form the Grand Army of the Republic .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      },
+      {
+       "id": "E11",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "Four additional amendments were made to the Constitution and enshrined in law throughout the war, further expanding Palpatine's emergency powers. In effect, Palpatine became the most powerful chancellor since before the Ruusan Reformations .",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "The Senate expands Palpatine’s emergency powers on the eve of Geonosis. What does that new authority allow him to do?",
+    "options": [
+     "Create the Grand Army of the Republic",
+     "End the Separatist Crisis immediately",
+     "Cancel the Chancellor’s office"
+    ],
+    "answer_index": 0,
+    "reveal_para": 5,
+    "explanation": "The expanded authority lets Palpatine bypass the Military Creation Act and form the Grand Army of the Republic."
+   }
+  }
+ },
+ "branches": {
+  "Jar Jar's fateful motion: the Senate votes on emergency power": {
+   "index": 2,
+   "title": "A Vote, Then a Crossing",
+   "narration": "The river is behind us now. You chose the Senate chamber: Jar Jar Binks, standing in for Padmé Amidala, and a proposal that will hand the chancellor extraordinary power. [c1] This is the payoff to our opening image. At the Rubicon, a commander crossed a line against the Republic’s political order. In the Senate, a representative moved through that order and helped it surrender power from within. The echo is an interpretation, not a claim that one scene directly inspired the other. But it is a sharp one: sometimes a republic’s danger arrives as defiance; sometimes it arrives as a vote.\n\nThe galaxy is already tightening around the moment. Ten years after the Naboo Crisis, tensions between the Galactic Republic and the Confederacy of Independent Systems threaten full-scale war. [c2] Padmé Amidala is absent, her life under threat from Separatist assassins. [c3] Jar Jar has not set out to become the hinge of history. He has been asked to fill a place left empty, and he is persuaded by Supreme Chancellor Sheev Palpatine to propose emergency executive powers. [c4]\n\nThat is the trick of the scene. It does not begin with a villain announcing, “I would like to end your republic.” It begins with fear, urgency, and a procedural answer. The chamber is asked to act because the danger feels immediate. The vote can feel like rescue. That is precisely why it matters.\n\nNow place Caesar beside Jar Jar. The Rubicon moment, as we left it, is a commander’s refusal to remain within the Senate’s political limits. Jar Jar’s moment is almost its mirror image: not a military crossing, but a motion made inside the Senate itself. One is a breach. The other wears the respectable clothes of procedure. Here’s my read: the river and the chamber are two different stages for the same frightening question. What happens when the Republic’s rules become the route by which its own safeguards are stripped away?\n\nThe answer in Jar Jar’s story is not hidden for long. The emergency powers he proposes are used by the chancellor, who is secretly the Sith Lord Darth Sidious, to amass total power and transform the Republic into the Empire. [c5] And Jar Jar, in the years that follow, becomes an outcast on Naboo because of his role in that rise. [c6] The cost lands on the person who helped open the door, even though he did not understand what waited beyond it.\n\nThat does not make Jar Jar and Caesar the same kind of actor. Caesar’s crossing is a general’s direct defiance; Jar Jar’s motion is a representative’s participation in a Senate decision. That contrast is the point, not a footnote. The Republic can be endangered by a powerful man refusing its limits. It can also be endangered when ordinary political machinery is made to authorize extraordinary power.\n\nAnd the story’s irony has teeth. Jar Jar steps into the Senate because Amidala cannot. He acts at Palpatine’s request, under the pressure of a looming war. The proposal sounds like a temporary answer to a crisis. But the powers are then used to build an Empire. The distance between “for now” and “forever” can be one vote wide.\n\nStar Wars often builds its worlds from ancient and medieval patterns, including monarchies, empires, social hierarchies, and storylines that echo earlier history. [c7] That broad resemblance does not prove a direct Rubicon-to-Jar-Jar blueprint. It does help explain why this kind of political turn feels so legible: the old fear is recognizable. A republic can keep its ceremonies while losing the substance that made them matter.\n\nSo: Caesar’s river crossing makes the crisis visible as a line no commander should cross. Jar Jar’s motion makes it visible as a decision the Senate can approve. One breaks the political order from outside its chamber; the other helps transform that order from within. And in both stories, the decisive moment is only the beginning. The deeper question is how long a republic can survive after its people discover that its rules can be used against it.\n\nFor our next journey, we could follow Caesar to the Ides of March, trace Palpatine’s path from chancellor to Emperor, or ask how Rome’s republic became an empire.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Jar Jar Binks stood in for Padmé Amidala in the Senate while she was absent.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon Jar Jar Binks page says Binks agreed to stand in for Amidala in the Senate at her request.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "Representative Binks rose to prominence after the now Senator Padmé Amidala was forced into hiding after a series of assassination attempts on Coruscant. At the request of Amidala, Representative Binks agreed to stand in for her in the Senate.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Ten years after the Naboo Crisis, tensions between the Galactic Republic and the Confederacy of Independent Systems threatened full-scale war.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that ten years after the Naboo Crisis, tensions between the Republic and the Confederacy threatened full-scale galactic war.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "Ten years after the Naboo Crisis, growing tensions between the Galactic Republic and the Confederacy of Independent Systems threatened an outbreak of full-scale galactic war. In the absence of Senator Amidala, whose life was under threat by Separatist assassins , Binks was convinced by Supreme Chancellor Sheev Palpatine to propose that the chancellor receive emergency executive powers to raise a …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Amidala was absent because her life was under threat from Separatist assassins.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that Amidala was absent because her life was threatened by Separatist assassins.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "Ten years after the Naboo Crisis, growing tensions between the Galactic Republic and the Confederacy of Independent Systems threatened an outbreak of full-scale galactic war. In the absence of Senator Amidala, whose life was under threat by Separatist assassins , Binks was convinced by Supreme Chancellor Sheev Palpatine to propose that the chancellor receive emergency executive powers to raise a …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Palpatine persuaded Jar Jar to propose emergency executive powers.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page says Palpatine convinced Binks to propose emergency executive powers for the chancellor.",
+     "evidence": [
+      {
+       "id": "E30",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "Ten years after the Naboo Crisis, growing tensions between the Galactic Republic and the Confederacy of Independent Systems threatened an outbreak of full-scale galactic war. In the absence of Senator Amidala, whose life was under threat by Separatist assassins , Binks was convinced by Supreme Chancellor Sheev Palpatine to propose that the chancellor receive emergency executive powers to raise a …",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The emergency powers were used by Palpatine, secretly Darth Sidious, to amass total power and transform the Republic into the Empire.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that Palpatine, secretly Darth Sidious, used the proposed powers to amass total power and transform the Republic into the Empire.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "The emergency powers Binks proposed were used by the chancellor, secretly the Sith Lord Darth Sidious, to amass total power and transform the Republic into the Empire. In the years that followed, Binks once again became an outcast on Naboo due to his role in the rise of the Empire.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Jar Jar later became an outcast on Naboo because of his role in the Empire’s rise.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The canon page states that Binks later became an outcast on Naboo because of his role in the Empire’s rise.",
+     "evidence": [
+      {
+       "id": "E32",
+       "pack": "star_wars",
+       "page_title": "Jar Jar Binks",
+       "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+       "snippet": "The emergency powers Binks proposed were used by the chancellor, secretly the Sith Lord Darth Sidious, to amass total power and transform the Republic into the Empire. In the years that followed, Binks once again became an outcast on Naboo due to his role in the rise of the Empire.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Star Wars draws on ancient and medieval history, including imperial and hierarchical structures and storylines reflecting that history.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The history card describes ancient and medieval history as major influences on Star Wars, including its imperial and hierarchical structures and storylines reflecting that history.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "history",
+       "page_title": "Star Wars sources and analogues",
+       "url": "https://en.wikipedia.org/wiki/Star_Wars_sources_and_analogues",
+       "snippet": "Ancient and medieval history play amongst the strongest and significant influences on Star Wars which reflects ancient Earth history in its settings, including architectural , social and hierarchical structures (i.e. the existence of monarchies and empires) as well as story lines which reflect ancient and medieval history.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Caesar and the Ides: when victory breeds fear",
+    "Palpatine’s next move: the Republic becomes Empire",
+    "Rome’s republic: the long road to one-man rule"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Jar Jar Binks proposed emergency powers for Chancellor Palpatine while standing in for Padmé Amidala.",
+      "verdict": "fact",
+      "explanation": "Amidala was absent under threat from Separatist assassins, and Palpatine persuaded Jar Jar to propose the powers in her place.",
+      "evidence_ids": [
+       "E30",
+       "E31"
+      ],
+      "evidence": [
+       {
+        "id": "E30",
+        "pack": "star_wars",
+        "page_title": "Jar Jar Binks",
+        "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+        "snippet": "Ten years after the Naboo Crisis, growing tensions between the Galactic Republic and the Confederacy of Independent Systems threatened an outbreak of full-scale galactic war. In the absence of Senator Amidala, whose life was under threat by Separatist assassins , Binks was convinced by Supreme Chancellor Sheev Palpatine to propose that the chancellor receive emergency executive powers to raise a …",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E31",
+        "pack": "star_wars",
+        "page_title": "Jar Jar Binks",
+        "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+        "snippet": "Representative Binks rose to prominence after the now Senator Padmé Amidala was forced into hiding after a series of assassination attempts on Coruscant. At the request of Amidala, Representative Binks agreed to stand in for her in the Senate.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Jar Jar’s emergency-powers proposal was used to turn the Republic into the Empire.",
+      "verdict": "fact",
+      "explanation": "The powers were used by Palpatine, secretly Darth Sidious, to amass total power and transform the Republic into the Empire.",
+      "evidence_ids": [
+       "E32"
+      ],
+      "evidence": [
+       {
+        "id": "E32",
+        "pack": "star_wars",
+        "page_title": "Jar Jar Binks",
+        "url": "https://starwars.fandom.com/wiki/Jar_Jar_Binks",
+        "snippet": "The emergency powers Binks proposed were used by the chancellor, secretly the Sith Lord Darth Sidious, to amass total power and transform the Republic into the Empire. In the years that followed, Binks once again became an outcast on Naboo due to his role in the rise of the Empire.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     },
+     {
+      "statement": "Star Wars’s resemblance to ancient history proves that Jar Jar’s Senate motion was directly modeled on Caesar’s crossing of the Rubicon.",
+      "verdict": "myth",
+      "explanation": "The evidence supports broad ancient and medieval influences on Star Wars, not a direct Rubicon-to-Jar-Jar blueprint. The chapter presents that parallel as an interpretation.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "history",
+        "page_title": "Star Wars sources and analogues",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars_sources_and_analogues",
+        "snippet": "Ancient and medieval history play amongst the strongest and significant influences on Star Wars which reflects ancient Earth history in its settings, including architectural , social and hierarchical structures (i.e. the existence of monarchies and empires) as well as story lines which reflect ancient and medieval history.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After Jar Jar proposes emergency powers, what does the chancellor use them to do?",
+     "options": [
+      "Build the Empire",
+      "End the Separatist threat",
+      "Restore Padmé to the Senate"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "The powers are used by Palpatine, secretly Darth Sidious, to amass total power and transform the Republic into the Empire."
+    }
+   }
+  },
+  "Caesar's next move: from riverbank to civil war": {
+   "index": 2,
+   "title": "From Rubicon to Emergency Powers",
+   "narration": "Last time, Caesar stood at the Rubicon with a legion, and the crossing began a civil war. [c1] You chose to follow him from the riverbank into the crisis that followed.\n\nThe river is behind him now. But a republic can cross more than one kind of line. Sometimes the line is written into law. Sometimes it is crossed in the name of saving the state. And sometimes an emergency measure outlives the emergency that supposedly made it necessary.\n\nCaesar had been appointed governor over a region stretching from southern Gaul to Illyricum. [c2] As his term approached its end, the Senate ordered him to disband his army and return to Rome. [c3] He refused. His forces occupied Ariminum, then crossed the Rubicon toward the south. [c4]\n\nThat sequence is clear. The motive is harder. Even in antiquity, the causes of the war seemed puzzling, with specific motives “nowhere to be found.” [c5] Caesar said he was protecting his personal dignitas. [c6] He also claimed to be defending the rights of tribunes who had fled Rome, a justification the evidence describes as an obvious sham. [c7]\n\nSo what are you watching? A constitutional showdown, certainly. But not a tidy morality play where one man announces his evil plan and everyone else defends perfect institutions. Here’s my read: the danger lies in how each side can describe its own move as necessary. Caesar can call defiance self-protection. The Senate can demand obedience. And once an army is moving through Italy, the argument is no longer confined to speeches.\n\nSome scholars treat Caesar’s civil war as the event that set the Republic’s collapse in motion. [c8] In this interpretation, the war began through miscalculation rather than design and disrupted republican political culture over time. [c9] That is a chilling kind of tragedy. A system does not need a master plan for its destruction. A crisis can make the next dangerous step seem unavoidable to the person taking it.\n\nNow listen to the other republic in this story. The source describes the Galactic Republic’s Emergency Powers Act as granting the emergency powers once held by Supreme Chancellor Sheev Palpatine. [c10] Later, during the restoration of the Republic as the New Republic, Chancellor Mon Mothma was granted those same powers. [c11] Mothma intended to eliminate them because she regarded their effect on democracy as destructive. [c12]\n\nThat is the sharp turn. Palpatine’s emergency authority is not just a personal weapon in the story; the later New Republic has to decide what to do with the machinery itself. Mothma’s answer is to remove it. A republic can defeat a ruler and still inherit the ruler’s tools. That is the trap waiting after the victory parade.\n\nIf you ask me, Caesar and Palpatine make a striking pair. Caesar faces the Senate’s order with an army; Palpatine’s story turns on emergency powers granted within the Republic. [c13] Their parallel is interpretive: each story makes constitutional crisis a route toward concentrated rule. The comparison is not a documented chain of influence. It is a way to see the same dramatic question from two directions: what does a republic become when fear gives exceptional power a legal doorway?\n\nThe difference matters. Caesar’s crossing is a visible act of defiance, with a river under his feet and an army at his back. Palpatine’s emergency authority arrives through a political structure, and its later inheritance gives Mothma a hard choice. The river is dramatic because you can point to the bank. A law can make the point of no return look like a routine vote.\n\nSuetonius attributes the words “the die has been cast” to Caesar. [c14] The phrase “crossing the Rubicon” means passing the point of no return. [c15] The river matters because the crossing commits its author to consequences he cannot simply call back. Emergency powers carry a different danger: they can make the crossing look like paperwork.\n\nSo: Caesar defied the Senate’s order, and some scholars see the civil war as setting the Republic’s collapse in motion. [c16] In the galactic story, Mothma inherits Palpatine’s emergency powers and intends to abolish them. [c17] Caesar’s river and Palpatine’s political machinery leave us with one question: when a republic reaches for exceptional power, can it ever put it down?\n\nFor the next journey, follow Augustus as Rome trades republican forms for one-man rule. Or trace how emergency powers shape the rise and fall of the Galactic Empire. Or leave Rome and the stars behind for the long history of constitutional crises.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Caesar crossed the Rubicon in January 49 BC, beginning a civil war.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Caesar crossed the Rubicon in January 49 BC with a legion, defying law; the civil-war link is also stated in the card’s page context and the narrated claim is a clear summary.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "The phrase \" crossing the Rubicon \" is an idiom meaning \"passing the point of no return \". Its meaning comes from the crossing of the Rubicon river by Julius Caesar in January 49 BC at the head of the 13th Legion . Caesar was not allowed to command an army within Italy proper, and by crossing the river with his forces was defying law and risking death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Caesar had been appointed governor of a region stretching from southern Gaul to Illyricum.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says Caesar was appointed governor of a region stretching from southern Gaul to Illyricum.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "As Caesar's term approached its end, the Senate ordered him to disband his army and return to Rome.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that as Caesar’s term ended, the Senate ordered him to disband his army and return to Rome.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Caesar's forces occupied Ariminum and crossed the Rubicon toward the south.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Caesar’s forces occupied Ariminum and then crossed the Rubicon southward.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Ancient explanations of the war's causes were puzzling, with specific motives difficult to find.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly says ancient accounts found the causes puzzling and specific motives difficult to find.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Even in ancient times, the causes of the war were puzzling and perplexing, with specific motives \"nowhere to be found\". Various pretexts existed, such as Caesar's claim that he was defending the rights of tribunes after they fled the city, which was \"too obvious a sham\". Caesar's own explanation was that he would protect his personal dignitas ;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Caesar said he was protecting his personal dignitas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Caesar’s own explanation was that he would protect his personal dignitas.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Even in ancient times, the causes of the war were puzzling and perplexing, with specific motives \"nowhere to be found\". Various pretexts existed, such as Caesar's claim that he was defending the rights of tribunes after they fled the city, which was \"too obvious a sham\". Caesar's own explanation was that he would protect his personal dignitas ;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Caesar claimed to defend the rights of tribunes who fled Rome, but the justification is described as a sham.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Caesar claimed to defend the tribunes’ rights and describes that pretext as an obvious sham.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Even in ancient times, the causes of the war were puzzling and perplexing, with specific motives \"nowhere to be found\". Various pretexts existed, such as Caesar's claim that he was defending the rights of tribunes after they fled the city, which was \"too obvious a sham\". Caesar's own explanation was that he would protect his personal dignitas ;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Some scholars view Caesar's civil war as the event that set the Republic's collapse in motion.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The narration preserves the qualification that only some scholars view the civil war as the event that set the Republic’s collapse in motion.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Some scholars, such as Erich Gruen , view Caesar's civil war as the inciting event for the collapse of the republic. From this perspective, the civil war – triggered by miscalculation rather than design – caused the collapse of the republic by setting into motion a long-term disruption of functioning republican political culture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "One scholarly interpretation sees the war as miscalculation that disrupted republican political culture over time.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card attributes this interpretation to a scholarly perspective and describes miscalculation and long-term disruption of republican political culture.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Some scholars, such as Erich Gruen , view Caesar's civil war as the inciting event for the collapse of the republic. From this perspective, the civil war – triggered by miscalculation rather than design – caused the collapse of the republic by setting into motion a long-term disruption of functioning republican political culture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The source describes the Emergency Powers Act as granting the emergency powers once held by Supreme Chancellor Sheev Palpatine.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Star Wars card states that the Emergency Powers Act involved the emergency powers once granted to Supreme Chancellor Palpatine.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "During restoration as the New Republic, Mon Mothma was granted the same emergency powers once granted to Palpatine.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that Mon Mothma was granted the same emergency powers during restoration as the New Republic.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Mothma intended to eliminate the powers because of their destructive effect on democracy.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that Mothma intended to eliminate the powers because of their destructive effect on democracy.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Caesar confronted the Senate's order with an army, while Palpatine's story involves emergency powers granted within the Republic.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The narration explicitly presents this as an interpretive comparison, and the cited cards support each side of the contrast.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Suetonius attributes the phrase 'the die has been cast' to Caesar.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly attributes the phrase to Suetonius, and the narration accurately identifies that attribution.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "According to Suetonius , Caesar uttered the famous phrase ālea iacta est (\"the die has been cast\"). The phrase \"crossing the Rubicon\" has survived to refer to any individual or group committing itself to a risky or revolutionary course of action, similar to the modern phrase \"passing the point of no return \".",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The phrase 'crossing the Rubicon' means passing the point of no return.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card directly defines “crossing the Rubicon” as passing the point of no return.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "The phrase \" crossing the Rubicon \" is an idiom meaning \"passing the point of no return \". Its meaning comes from the crossing of the Rubicon river by Julius Caesar in January 49 BC at the head of the 13th Legion . Caesar was not allowed to command an army within Italy proper, and by crossing the river with his forces was defying law and risking death.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "Caesar defied the Senate's order, and some scholars view the civil war as setting the Republic's collapse in motion.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The sentence states the order-defiance plainly and limits the collapse interpretation to what some scholars believe.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "history",
+       "page_title": "Crossing the Rubicon",
+       "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+       "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E17",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "Some scholars, such as Erich Gruen , view Caesar's civil war as the inciting event for the collapse of the republic. From this perspective, the civil war – triggered by miscalculation rather than design – caused the collapse of the republic by setting into motion a long-term disruption of functioning republican political culture.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "Mothma inherited Palpatine's emergency powers and intended to abolish them.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card supports both the inheritance of Palpatine’s emergency powers by Mothma and her intention to abolish them.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Augustus: how a republic learned to live under one ruler",
+    "Palpatine's rise: the emergency that remade a galaxy",
+    "The long history of governments that never relinquish emergency powers"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Caesar crossed the Rubicon in January 49 BC, beginning a civil war.",
+      "verdict": "fact",
+      "explanation": "The evidence dates Caesar’s crossing to January 49 BC and says he crossed with his forces, defying the Senate’s order and risking death.",
+      "evidence_ids": [
+       "E20",
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E20",
+        "pack": "history",
+        "page_title": "Crossing the Rubicon",
+        "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+        "snippet": "The phrase \" crossing the Rubicon \" is an idiom meaning \"passing the point of no return \". Its meaning comes from the crossing of the Rubicon river by Julius Caesar in January 49 BC at the head of the 13th Legion . Caesar was not allowed to command an army within Italy proper, and by crossing the river with his forces was defying law and risking death.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E21",
+        "pack": "history",
+        "page_title": "Crossing the Rubicon",
+        "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+        "snippet": "Caesar had previously been appointed governor of a region that stretched from southern Gaul to Illyricum . As his term was coming to an end, the Senate ordered him to disband his army and return to Rome. Caesar defied the order, and instead brought his army to Rome, occupying the city of Ariminum then crossing the Rubicon towards the south.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Caesar’s civil war was planned from the start as a deliberate scheme to destroy the Republic.",
+      "verdict": "myth",
+      "explanation": "The evidence says some scholars view the war as triggered by miscalculation rather than design, though scholars differ on how to understand its role in the Republic’s collapse.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "history",
+        "page_title": "Caesar's civil war",
+        "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+        "snippet": "Some scholars, such as Erich Gruen , view Caesar's civil war as the inciting event for the collapse of the republic. From this perspective, the civil war – triggered by miscalculation rather than design – caused the collapse of the republic by setting into motion a long-term disruption of functioning republican political culture.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Mon Mothma intended to keep Palpatine’s emergency powers in the New Republic.",
+      "verdict": "myth",
+      "explanation": "The source says Mothma was granted the same powers but intended to eliminate them because of their destructive effect on democracy.",
+      "evidence_ids": [
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "star_wars",
+        "page_title": "Emergency Powers Act",
+        "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+        "snippet": "During the restoration of the Galactic Republic in the form of the New Republic , Chancellor Mon Mothma was granted the same emergency powers once granted to Supreme Chancellor Sheev Palpatine by the Emergency Powers Act. Mothma, however, intended to eliminate those powers because of their destructive effect on democracy.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The New Republic grants Mon Mothma the emergency powers once held by Palpatine. What does she intend to do with them?",
+     "options": [
+      "Use them to strengthen the Chancellor’s office",
+      "Eliminate them",
+      "Pass them on to another leader"
+     ],
+     "answer_index": 1,
+     "reveal_para": 6,
+     "explanation": "Mothma intends to eliminate the powers because she regards their effect on democracy as destructive."
+    }
+   }
+  },
+  "Rome's deeper fracture: did the Republic make the crossing inevitable?": {
+   "index": 2,
+   "title": "The Republic Made the Crossing",
+   "narration": "You chose the deeper fracture: whether Rome’s institutions made Caesar’s crossing inevitable. The river is behind us, but the question is still on its bank. A broken system can narrow a person’s choices. It cannot make the choice for him.\n\nStart with the men who tried to get around the Senate. Pompey, Crassus, and Caesar formed an informal alliance in the late sixties BC. [c1] They shared a need to overcome Senate opposition to their proposals. [c2] Their pact emerged publicly during Caesar’s consulship in fifty-nine BC, helping push legislation through. [c3]\n\nThat is the first crack in the picture of a republic smoothly governing itself. Rome had many veto points, and political actors could use them to block one another. [c4] The alliance offered a workaround, not a cure. Its members could cooperate when their interests aligned, then strain against one another when they did not.\n\nBy fifty-five BC, the alliance was fraying. [c5] Yet the three men renewed their pact in mutual interest, and political disruption helped delay the consular elections. [c6] Pompey and Crassus were elected consuls again, while Caesar’s command in Gaul was renewed for five more years. [c7]\n\nPause over that bargain. The system’s friction did not simply stop politics; it could reward power organized outside ordinary competition. And it could make disruption useful. But the evidence does not tell us that the alliance had to end in civil war. It shows political actors pushing through a crisis of their own making, one decision at a time.\n\nNow return to the river. On January tenth or eleventh, forty-nine BC, Caesar crossed the Rubicon, which marked the boundary between Cisalpine Gaul and Italy proper. [c8] Suetonius says Caesar declared, “the die is cast,” while Plutarch gives a Greek quotation attributed to the poet Menander. [c9] The accounts differ, but both preserve the scene as a threshold: the moment a political struggle became armed conflict.\n\nHere’s my read: Caesar’s crossing resembles Palpatine’s route to power in one sharp way. Each story turns a constitutional boundary into a test of who controls the state. But Rome’s crisis and the Star Wars crisis are not the same kind of event. The parallel is a lens, not a claim that one directly produced the other.\n\nIn the Galactic Republic, the Senate passes the Emergency Powers Act in twenty-four BBY during the Separatist Crisis. [c10] The act grants Supreme Chancellor Sheev Palpatine emergency powers and allows him to remain in office beyond his term while the crisis lasts. [c11] Where Rome’s alliance works around veto points through a pact among powerful politicians, Palpatine receives authority through a law passed by the Senate. [c12]\n\nThat difference matters. Rome’s evidence gives us a coalition maneuvering against opposition, then a commander choosing to cross a boundary. The fictional Senate gives Palpatine a formal extension of power in response to a crisis. One is a republic strained by elite conflict; the other is a constitutional emergency that serves a path to autocracy. The rhyme is vivid. The mechanisms are distinct.\n\nAfter Caesar’s victory, he ruled as dictator until his assassination in forty-four BC. [c13] Whether the period beginning with his civil war should still be called part of the Republic remains a matter of scholarly debate. [c14] So the river does not explain everything. It marks the choice that made the struggle irreversible, while the fractured institutions explain why that choice could become so consequential.\n\nSo: Rome’s veto points and elite bargains created openings for political disruption, but they did not dictate Caesar’s decision. Palpatine’s emergency law echoes the danger of a republic surrendering power under pressure, though it is a fictional and different path. [c15]\n\nWhere should we travel next? The Senate’s last gamble before Caesar. Palpatine’s legal road from crisis to Empire. Or the assassins who thought killing Caesar could save a republic.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The First Triumvirate was an informal alliance among Pompey, Crassus, and Caesar in the late sixties BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The First Triumvirate card identifies it as an informal alliance among Pompey, Crassus, and Caesar, dating it to approximately 60–53 BC.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The three formed their alliance because they needed to overcome Senate opposition to their proposals.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says the alliance formed from the three men’s shared need to overcome Senate opposition to their proposals.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "It was formed among the three men due to their mutual need to overcome opposition in the senate against their proposals in the previous years. Initially secret, it emerged publicly during Caesar's first consulship in 59 BC to push through legislation for the three allies.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "The alliance emerged publicly during Caesar’s first consulship in 59 BC and pushed legislation through.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the initially secret alliance emerged publicly during Caesar’s first consulship in 59 BC to push legislation for the allies.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "It was formed among the three men due to their mutual need to overcome opposition in the senate against their proposals in the previous years. Initially secret, it emerged publicly during Caesar's first consulship in 59 BC to push through legislation for the three allies.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The republican constitution had many veto points.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The First Triumvirate card explicitly says the republican constitution had many veto points.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "By 55 BC, the alliance was fraying.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence plainly states that the alliance was fraying by 55 BC.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "By 55 BC, the alliance was fraying. The three men, however, came together in mutual interest to renew their pact. By force and with political disruption aided by their allies, they delayed consular elections into 55 BC and intimidated the comitia into electing Pompey and Crassus again as consuls. Caesar's command in Gaul was then renewed for another five years;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The three renewed their pact in mutual interest, with political disruption helping delay consular elections.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the men renewed their pact in mutual interest and that political disruption aided the delay of the consular elections.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "By 55 BC, the alliance was fraying. The three men, however, came together in mutual interest to renew their pact. By force and with political disruption aided by their allies, they delayed consular elections into 55 BC and intimidated the comitia into electing Pompey and Crassus again as consuls. Caesar's command in Gaul was then renewed for another five years;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Pompey and Crassus were elected consuls again, and Caesar’s Gallic command was renewed for five years.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Pompey and Crassus were elected consuls again and Caesar’s Gallic command was renewed for another five years.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "By 55 BC, the alliance was fraying. The three men, however, came together in mutual interest to renew their pact. By force and with political disruption aided by their allies, they delayed consular elections into 55 BC and intimidated the comitia into electing Pompey and Crassus again as consuls. Caesar's command in Gaul was then renewed for another five years;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "On January 10 or 11, 49 BC, Caesar crossed the Rubicon, boundary between Cisalpine Gaul and Italy proper.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card gives the date as January 10 or 11 and identifies the Rubicon as the boundary between Cisalpine Gaul and Italy proper.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "On the 10th or 11 January, Caesar crossed the Rubicon , a small river marking the boundary between the province of Cisalpine Gaul to the north and Italy proper to the south. Crossing the Rubicon , Suetonius claims Caesar exclaimed alea iacta est (\"the die is cast\"), though Plutarch maintains Caesar spoke in Greek quoting the poet Menander with anerriphtho kubos (\"ἀνερρίφθω κύβος\", \"let the die be …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Suetonius attributes “the die is cast” to Caesar, while Plutarch gives a Greek version attributed to Menander.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card attributes the Latin saying to Suetonius and reports Plutarch’s differing Greek quotation, attributed to Menander.",
+     "evidence": [
+      {
+       "id": "E35",
+       "pack": "history",
+       "page_title": "Caesar's civil war",
+       "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+       "snippet": "On the 10th or 11 January, Caesar crossed the Rubicon , a small river marking the boundary between the province of Cisalpine Gaul to the north and Italy proper to the south. Crossing the Rubicon , Suetonius claims Caesar exclaimed alea iacta est (\"the die is cast\"), though Plutarch maintains Caesar spoke in Greek quoting the poet Menander with anerriphtho kubos (\"ἀνερρίφθω κύβος\", \"let the die be …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "The Galactic Senate passed the Emergency Powers Act in 24 BBY during the Separatist Crisis.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The Emergency Powers Act card says the Galactic Senate voted it into law in 24 BBY in response to the Separatist Crisis.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "The Emergency Powers Act was voted into law by the Galactic Senate in 24 BBY in response to the Separatist Crisis , granting emergency powers to Supreme Chancellor Sheev Palpatine for the duration of the Separatist Crisis. In particular, the act allowed Palpatine to remain in office past the expiration of his term in response to the crisis.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The act granted Palpatine emergency powers and allowed him to remain in office past his term during the crisis.",
+     "kind": "lore",
+     "grade": "Canon",
+     "note": "The card states that the act granted Palpatine emergency powers and allowed him to remain in office past his term during the crisis.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "The Emergency Powers Act was voted into law by the Galactic Senate in 24 BBY in response to the Separatist Crisis , granting emergency powers to Supreme Chancellor Sheev Palpatine for the duration of the Separatist Crisis. In particular, the act allowed Palpatine to remain in office past the expiration of his term in response to the crisis.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Rome’s alliance worked around veto points through a pact, while Palpatine’s authority came through a Senate-passed law.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a stated comparison between Rome’s alliance and Palpatine’s Senate-granted authority, supported on both sides by the cited evidence.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E29",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "It was formed among the three men due to their mutual need to overcome opposition in the senate against their proposals in the previous years. Initially secret, it emerged publicly during Caesar's first consulship in 59 BC to push through legislation for the three allies.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "The Emergency Powers Act was voted into law by the Galactic Senate in 24 BBY in response to the Separatist Crisis , granting emergency powers to Supreme Chancellor Sheev Palpatine for the duration of the Separatist Crisis. In particular, the act allowed Palpatine to remain in office past the expiration of his term in response to the crisis.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "After Caesar’s victory, he ruled a dictatorial regime until his assassination in 44 BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Caesar ruled a dictatorial regime after his victory until his assassination in 44 BC.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Crisis of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+       "snippet": "Whether the period starting with Caesar's civil war should really be called a portion of the republic is a matter of scholarly debate. After Caesar's victory, he ruled a dictatorial regime until his assassination in 44 BC at the hands of the Liberatores . The Caesarian faction quickly gained control of the state.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Scholars debate whether the period beginning with Caesar’s civil war should count as part of the Republic.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly describes whether the period beginning with Caesar’s civil war belongs to the Republic as a matter of scholarly debate.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "history",
+       "page_title": "Crisis of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Roman_Republic",
+       "snippet": "Whether the period starting with Caesar's civil war should really be called a portion of the republic is a matter of scholarly debate. After Caesar's victory, he ruled a dictatorial regime until his assassination in 44 BC at the hands of the Liberatores . The Caesarian faction quickly gained control of the state.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Rome’s institutional friction created openings but did not dictate Caesar’s choice, while Palpatine’s emergency law offers a distinct fictional parallel.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s qualified comparison of institutional friction and political choice in Rome with the fictional emergency law, not a literal causal claim.",
+     "evidence": [
+      {
+       "id": "E27",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E28",
+       "pack": "history",
+       "page_title": "First Triumvirate",
+       "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+       "snippet": "By 55 BC, the alliance was fraying. The three men, however, came together in mutual interest to renew their pact. By force and with political disruption aided by their allies, they delayed consular elections into 55 BC and intimidated the comitia into electing Pompey and Crassus again as consuls. Caesar's command in Gaul was then renewed for another five years;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "star_wars",
+       "page_title": "Emergency Powers Act",
+       "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+       "snippet": "The Emergency Powers Act was voted into law by the Galactic Senate in 24 BBY in response to the Separatist Crisis , granting emergency powers to Supreme Chancellor Sheev Palpatine for the duration of the Separatist Crisis. In particular, the act allowed Palpatine to remain in office past the expiration of his term in response to the crisis.",
+       "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Senate’s last gamble before Caesar",
+    "Palpatine’s legal road from crisis to Empire",
+    "The assassins who thought killing Caesar could save a republic"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "The First Triumvirate was an official Roman government body.",
+      "verdict": "myth",
+      "explanation": "It was an informal alliance among Pompey, Crassus, and Caesar, formed to overcome Senate opposition—not an official governing body.",
+      "evidence_ids": [
+       "E27",
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "history",
+        "page_title": "First Triumvirate",
+        "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+        "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E29",
+        "pack": "history",
+        "page_title": "First Triumvirate",
+        "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+        "snippet": "It was formed among the three men due to their mutual need to overcome opposition in the senate against their proposals in the previous years. Initially secret, it emerged publicly during Caesar's first consulship in 59 BC to push through legislation for the three allies.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "The three allies renewed their pact in 55 BC, and Pompey and Crassus were elected consuls again.",
+      "verdict": "fact",
+      "explanation": "The evidence describes a renewed pact amid political disruption that delayed elections, followed by the election of Pompey and Crassus and a five-year renewal of Caesar’s command in Gaul.",
+      "evidence_ids": [
+       "E28"
+      ],
+      "evidence": [
+       {
+        "id": "E28",
+        "pack": "history",
+        "page_title": "First Triumvirate",
+        "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+        "snippet": "By 55 BC, the alliance was fraying. The three men, however, came together in mutual interest to renew their pact. By force and with political disruption aided by their allies, they delayed consular elections into 55 BC and intimidated the comitia into electing Pompey and Crassus again as consuls. Caesar's command in Gaul was then renewed for another five years;",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Caesar and Palpatine gained power through the same kind of legal mechanism.",
+      "verdict": "myth",
+      "explanation": "The chapter distinguishes the routes: Caesar crossed the Rubicon after elite political maneuvering, while Palpatine received emergency powers through a law passed by the Galactic Senate.",
+      "evidence_ids": [
+       "E27",
+       "E29",
+       "E25",
+       "E35"
+      ],
+      "evidence": [
+       {
+        "id": "E27",
+        "pack": "history",
+        "page_title": "First Triumvirate",
+        "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+        "snippet": "The First Triumvirate ( c. late 60 – 53 BC ) was an informal political alliance among three prominent politicians in the late Roman Republic : Gnaeus Pompeius Magnus , Marcus Licinius Crassus , and Gaius Julius Caesar . The republican constitution had many veto points.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E29",
+        "pack": "history",
+        "page_title": "First Triumvirate",
+        "url": "https://en.wikipedia.org/wiki/First_Triumvirate",
+        "snippet": "It was formed among the three men due to their mutual need to overcome opposition in the senate against their proposals in the previous years. Initially secret, it emerged publicly during Caesar's first consulship in 59 BC to push through legislation for the three allies.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E25",
+        "pack": "star_wars",
+        "page_title": "Emergency Powers Act",
+        "url": "https://starwars.fandom.com/wiki/Emergency_Powers_Act",
+        "snippet": "The Emergency Powers Act was voted into law by the Galactic Senate in 24 BBY in response to the Separatist Crisis , granting emergency powers to Supreme Chancellor Sheev Palpatine for the duration of the Separatist Crisis. In particular, the act allowed Palpatine to remain in office past the expiration of his term in response to the crisis.",
+        "license": "Text from Wookieepedia (Fandom), CC BY-SA 3.0"
+       },
+       {
+        "id": "E35",
+        "pack": "history",
+        "page_title": "Caesar's civil war",
+        "url": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+        "snippet": "On the 10th or 11 January, Caesar crossed the Rubicon , a small river marking the boundary between the province of Cisalpine Gaul to the north and Italy proper to the south. Crossing the Rubicon , Suetonius claims Caesar exclaimed alea iacta est (\"the die is cast\"), though Plutarch maintains Caesar spoke in Greek quoting the poet Menander with anerriphtho kubos (\"ἀνερρίφθω κύβος\", \"let the die be …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The alliance was fraying, but the three men renewed their pact in 55 BC. What followed for Pompey, Crassus, and Caesar?",
+     "options": [
+      "Pompey and Crassus became consuls again, and Caesar’s command in Gaul was extended.",
+      "Caesar returned to Rome, and Pompey took command in Gaul.",
+      "The Senate dissolved the alliance and barred all three from office."
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "Pompey and Crassus were elected consuls again, while Caesar’s command in Gaul was renewed for five more years."
+    }
+   }
+  }
+ },
+ "reading": [
+  {
+   "title": "Star Wars Episode III - Revenge of the Sith",
+   "author": "Matthew Woodring Stover",
+   "year": 2005,
+   "why": "Its political crisis and the transformation of a republic into empire make it a strong fictional companion to the episode’s Rubicon crossing.",
+   "url": "https://openlibrary.org/works/OL2727030W"
+  },
+  {
+   "title": "Star Wars - Shatterpoint",
+   "author": "Matthew Woodring Stover",
+   "year": 2003,
+   "why": "This Star Wars novel explores the strain of war on political ideals, echoing the episode’s story of emergency powers and a republic under pressure.",
+   "url": "https://openlibrary.org/works/OL2727035W"
+  },
+  {
+   "title": "Star Wars - The Cestus Deception",
+   "author": "Steven Barnes",
+   "year": 2004,
+   "why": "Its Clone Wars setting offers another route into the conflict between republican institutions and the demands of war.",
+   "url": "https://openlibrary.org/works/OL2701134W"
+  }
+ ],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 8303,
+   "cached_tokens": 7268,
+   "cache_write_tokens": 531,
+   "output_tokens": 971,
+   "cost_usd": 0.00067495
+  },
+  {
+   "agent": "researcher",
+   "requests": 17,
+   "input_tokens": 56401,
+   "cached_tokens": 44185,
+   "cache_write_tokens": 9520,
+   "output_tokens": 1951,
+   "cost_usd": 0.00287694
+  },
+  {
+   "agent": "storyteller",
+   "requests": 6,
+   "input_tokens": 27322,
+   "cached_tokens": 19002,
+   "cache_write_tokens": 7564,
+   "output_tokens": 10391,
+   "cost_usd": 0.0064066
+  },
+  {
+   "agent": "skeptic",
+   "requests": 6,
+   "input_tokens": 27118,
+   "cached_tokens": 13710,
+   "cache_write_tokens": 12652,
+   "output_tokens": 4387,
+   "cost_usd": 0.0039877
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1755,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 305,
+   "output_tokens": 213,
+   "cost_usd": 0.00017047
+  }
+ ],
+ "build_cost_usd": 0.014117,
+ "build_seconds": 105.1
+}

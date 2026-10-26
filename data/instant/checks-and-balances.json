@@ -1,0 +1,1439 @@
+{
+ "thread": {
+  "id": "checks-and-balances",
+  "title": "From Athens to the Federalist Papers: Why Power Is Split",
+  "hook": "Ostracism, Roman consuls and Madison's 'ambition must counteract ambition': the long idea behind checks and balances.",
+  "mode": "history",
+  "packs": [
+   "politics"
+  ],
+  "era": "Athens to 1788",
+  "universe": "",
+  "curated": true,
+  "genre": "politics"
+ },
+ "title": "Who Checks the Powerful?",
+ "logline": "Trace how Athens, Rome, and the American founders wrestled with the same danger: power gathering in too few hands.",
+ "plan": [
+  {
+   "title": "A City Fears One Man",
+   "focus": "Open with the hook: Athens used ostracism to guard against a citizen becoming too powerful, while Roman consuls divided executive authority. Set up the shared problem of concentrated power without claiming these ancient practices directly produced the U.S. Constitution.",
+   "queries": [
+    "politics: Athenian ostracism",
+    "politics: Roman consuls",
+    "politics: checks and balances"
+   ],
+   "packs": [
+    "politics"
+   ]
+  },
+  {
+   "title": "Ambition Meets Ambition",
+   "focus": "Turn to Madison’s argument in Federalist No. 51 and the Constitution’s separation of powers: institutions should check one another because officeholders have their own ambitions. Pay off the ancient comparisons as parallels, not a straight line of influence, and clarify what the founders’ institutional design added.",
+   "queries": [
+    "politics: Federalist No. 51",
+    "politics: separation of powers",
+    "politics: United States Constitution"
+   ],
+   "packs": [
+    "politics"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "A City Fears One Man",
+  "narration": "Imagine a city with a brilliant citizen at its center. He wins arguments. People listen when he speaks. His rivals begin to wonder whether the city still commands him—or whether he is beginning to command the city.\n\nThat fear is older than the modern language of constitutional checks. Athens had a striking answer: ostracism. A citizen could be sent away for ten years. [c1] The procedure could express popular anger, but it could also be used before a feared danger became a crisis. [c2] Athenian citizens could use it to neutralize someone they considered a threat to the state or a potential tyrant. [c3]\n\nThere is the sharp edge of the idea. The city does not wait for a tyrant to seize power. It can act against the person it suspects might become one. That may sound like prevention. It may also sound like a city punishing a citizen for what he might do. The same tool can look like a shield from one angle and a weapon from another.\n\nNow shift from Athens to Rome. The Roman Republic, conventionally dated from about five hundred nine BC to twenty-seven BC, placed its highest elected public offices in the hands of two consuls. [c4] They were not two names for one ruler. They were two officeholders sharing the consulship, an arrangement that divided executive authority between colleagues.\n\nThe Roman story began with the expulsion of kings. In the traditional account, powers once held by the kings were transferred to two offices: the consulship and the office of rex sacrorum. [c5] The rex sacrorum took on the royal priestly position, while religious duties also passed to the pontiffs. [c6] The consuls received the remaining civil and military responsibilities. [c7]\n\nThat split matters. Rome did not simply erase every function associated with kingship. It redistributed functions, and the consuls inherited much of the work of governing and war. Their authority was practical: decrees had to be carried out, laws had to be executed, and foreign representatives had to be received.\n\nThe consuls carried into effect decrees of the Senate and laws passed by the assemblies. [c8] They also served as Rome’s chief diplomats; foreign ambassadors met with them before reaching the Senate. [c9] And in great emergencies, the consuls could sometimes act on their own authority and responsibility. [c10]\n\nThat last detail complicates the neat picture of power safely divided. A system can share authority in ordinary times and still allow a powerful officeholder room to move in a crisis. The question is never only, “Who has power?” It is also, “Who can stop them, and when?”\n\nPut the Athenian practice beside the Roman offices. Athens could remove a particular citizen from the city for a long stretch of time. Rome placed executive responsibilities in two elected hands. [c11] Here’s my read: these are two different answers to one political anxiety. One asks whether a dangerous person can be pushed out. The other asks whether executive authority should be shared rather than handed to a single officeholder.\n\nBut neither picture is a simple recipe for modern democracy. Ostracism could be a response to fear and suspicion. Divided office did not make Roman power disappear; consuls still carried military and civil responsibilities, and emergency authority could matter. The design question is easier to admire from a distance than to live inside. A city may fear the ambitious citizen, then fear the officials empowered to restrain him.\n\nModern political language often groups separation of powers with checks and balances. The two ideas developed alongside one another, drawing on the ancient theory of mixed government, but they are not identical and can conflict. [c12] So the broad family resemblance is real: political thinkers have wrestled with how to prevent power from gathering in one place. But this evidence does not establish a direct line from Athens or Rome to the United States Constitution.\n\nThat distinction matters. Similar problems can produce similar inventions without one institution simply becoming another. Athens’ ostracism and Rome’s paired consulship are not interchangeable mechanisms. One acts on a citizen through expulsion; the other divides executive responsibilities between two elected officials. [c13]\n\nSo: Athens tried to guard against a potential tyrant by sending a citizen away. Rome divided major executive duties between two consuls, while leaving them real power. [c14] The next question is what happens when the safeguards themselves become dangerous. Do we follow the citizen cast out of Athens, the Roman colleagues sharing command, or the modern argument over checks and balances?\n\nChoose the Athenian exile: when protection becomes punishment. Choose the Roman colleagues: two consuls, one uneasy republic. Or choose the modern debate: when checks begin to check each other.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "Athenian ostracism could expel a citizen from the city-state for ten years.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Athenian ostracism could expel any citizen from Athens for ten years.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "Ostracism sometimes expressed popular anger and was also used preemptively.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says some instances expressed popular anger and that ostracism was often used preemptively.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Ostracism could neutralize someone considered a threat to the state or a potential tyrant.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says ostracism was often used to neutralize someone thought to threaten the state or to be a potential tyrant.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "The Roman Republic is dated approximately from 509 BC to 27 BC, and its two consuls were its highest elected public officials.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card dates the Republic approximately from 509 BC to 27 BC and calls the consuls its two highest elected public officials.",
+    "evidence": [
+     {
+      "id": "E3",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "The consuls were the two highest elected public officials of the Roman Republic ( c. 509 BC to 27 BC). Romans considered the consulship the second-highest level of the cursus honorum —an ascending sequence of public offices to which politicians aspired—after that of the censor , which was reserved for former consuls.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "Tradition holds that powers of the kings were transferred to the consulship and the office of rex sacrorum.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly frames the transfer of royal powers to the consulship and rex sacrorum as the traditional account.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "The rex sacrorum inherited the kings' royal priestly position, and religious functions also went to the pontiffs.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the rex sacrorum inherited the royal priestly position and that various religious functions went to the pontiffs.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "The consuls received the kings' remaining civil and military responsibilities.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the consuls received the remaining civil and military responsibilities.",
+    "evidence": [
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Consuls carried out Senate decrees and laws of the assemblies.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that consuls carried out Senate decrees and assembly laws.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "As part of their executive functions, the consuls were responsible for carrying into effect the decrees of the Senate and the laws of the assemblies . Sometimes, in great emergencies, they might act on their own authority and responsibility. The consuls also served as the chief diplomats of the Roman state. Before any foreign ambassadors reached the Senate, they met with the consuls.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "Consuls served as chief diplomats, and foreign ambassadors met them before reaching the Senate.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card identifies consuls as chief diplomats and says foreign ambassadors met them before the Senate.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "As part of their executive functions, the consuls were responsible for carrying into effect the decrees of the Senate and the laws of the assemblies . Sometimes, in great emergencies, they might act on their own authority and responsibility. The consuls also served as the chief diplomats of the Roman state. Before any foreign ambassadors reached the Senate, they met with the consuls.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "In great emergencies, consuls might act on their own authority and responsibility.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says consuls might act on their own authority and responsibility in great emergencies.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "As part of their executive functions, the consuls were responsible for carrying into effect the decrees of the Senate and the laws of the assemblies . Sometimes, in great emergencies, they might act on their own authority and responsibility. The consuls also served as the chief diplomats of the Roman state. Before any foreign ambassadors reached the Senate, they met with the consuls.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Athens could expel a citizen while Rome vested executive responsibilities in two consuls.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a comparison of two documented but distinct political arrangements, not a separate institutional fact.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c12",
+    "text": "Separation of powers and checks and balances developed alongside one another from ancient mixed-government theory, though they can conflict.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says the concepts developed alongside one another from ancient mixed-government theory and are in conflict to some extent.",
+    "evidence": [
+     {
+      "id": "E7",
+      "pack": "politics",
+      "page_title": "Separation of powers",
+      "url": "https://en.wikipedia.org/wiki/Separation_of_powers",
+      "snippet": "In most modern constitutions, the separation of powers doctrine is modified by the notion of moderate, balanced government or checks and balances – a distinct idea that was developed from the ancient theory of mixed government . Since the two concepts developed alongside each other, they have been closely associated, even though they are in conflict to some extent.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c13",
+    "text": "Athenian ostracism and the Roman consulship were different mechanisms: expulsion of a citizen versus divided executive duties.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The contrast between ostracism and divided consular responsibilities is an interpretive summary grounded in the cards.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c14",
+    "text": "Athens used ostracism against potential threats, while Roman consuls shared executive responsibilities and held real authority.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "This is a framing comparison of documented ostracism and consular duties, with “safeguards” serving as the narrator’s interpretation.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "politics",
+      "page_title": "Ostracism",
+      "url": "https://en.wikipedia.org/wiki/Ostracism",
+      "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E1",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     },
+     {
+      "id": "E2",
+      "pack": "politics",
+      "page_title": "Roman consul",
+      "url": "https://en.wikipedia.org/wiki/Roman_consul",
+      "snippet": "As part of their executive functions, the consuls were responsible for carrying into effect the decrees of the Senate and the laws of the assemblies . Sometimes, in great emergencies, they might act on their own authority and responsibility. The consuls also served as the chief diplomats of the Roman state. Before any foreign ambassadors reached the Senate, they met with the consuls.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The Athenian exile: when protection becomes punishment",
+   "The Roman colleagues: two consuls, one uneasy republic",
+   "The modern debate: when checks begin to check each other"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Athenian ostracism could send a citizen away for ten years.",
+     "verdict": "fact",
+     "explanation": "Ostracism was a procedure that could expel a citizen from Athens for ten years.",
+     "evidence_ids": [
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Ostracism ( Greek : ὀστρακισμός , ostrakismos ) was an Athenian democratic procedure in which any citizen could be expelled from the city-state of Athens for ten years. While some instances clearly expressed popular anger at the citizen, ostracism was often used preemptively as a way of neutralizing someone thought to be a threat to the state or a potential tyrant .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Rome’s consuls received every power once held by the kings.",
+     "verdict": "myth",
+     "explanation": "The traditional account says royal powers were divided: the rex sacrorum inherited the royal priestly position, religious functions also went to the pontiffs, and consuls received the remaining civil and military responsibilities.",
+     "evidence_ids": [
+      "E1"
+     ],
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "politics",
+       "page_title": "Roman consul",
+       "url": "https://en.wikipedia.org/wiki/Roman_consul",
+       "snippet": "Traditionally, after the expulsion of the kings, all the powers that had belonged to the kings were transferred to two offices: the consulship and the office of rex sacrorum . While the rex sacrorum inherited the kings' position as royal priest and various religious functions were handed off to the pontiffs , the consuls were given the remaining civil and military responsibilities.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Roman consuls had to wait for the Senate before acting in every emergency.",
+     "verdict": "myth",
+     "explanation": "The evidence says that in great emergencies consuls might act on their own authority and responsibility.",
+     "evidence_ids": [
+      "E2"
+     ],
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "politics",
+       "page_title": "Roman consul",
+       "url": "https://en.wikipedia.org/wiki/Roman_consul",
+       "snippet": "As part of their executive functions, the consuls were responsible for carrying into effect the decrees of the Senate and the laws of the assemblies . Sometimes, in great emergencies, they might act on their own authority and responsibility. The consuls also served as the chief diplomats of the Roman state. Before any foreign ambassadors reached the Senate, they met with the consuls.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "In the traditional account of Rome’s transition from kingship, which responsibilities went to the consuls?",
+    "options": [
+     "The remaining civil and military responsibilities",
+     "Only royal religious duties",
+     "The power to expel citizens for ten years"
+    ],
+    "answer_index": 0,
+    "reveal_para": 4,
+    "explanation": "The traditional account assigns the consuls the kings’ remaining civil and military responsibilities."
+   }
+  }
+ },
+ "branches": {
+  "The Athenian exile: when protection becomes punishment": {
+   "index": 2,
+   "title": "Protection Becomes Punishment",
+   "narration": "Athens has already learned the terror inside the opening question. A city can fear that one citizen will become greater than its laws. Peisistratos overthrew the emerging democracy in five hundred sixty-one BC, and his son Hippias was expelled in five hundred ten BC. [c1] Then Cleisthenes’ reforms, in five hundred eight and five hundred seven BC, weakened aristocratic family domination and tied Athenians more closely to the city’s rule. [c2]\n\nNow the safeguard has a name: ostracism. The procedure gave Athens a way to send a citizen into exile. [c3] Here is my interpretation of its promise: a community could remove someone it feared might dominate it, rather than wait for that fear to become a crisis. [c4]\n\nBut watch the hinge. The power to protect the community also lets it punish a citizen through political exclusion. That is a reading of the procedure’s danger, not a documented account of every exile’s motive. [c5]\n\nThe ostracized citizen had ten days to leave Athens. If he tried to return, the penalty was death. [c6] Yet the banishment did not confiscate his property or strip away his status. After ten years, he could return without stigma, and the assembly could recall him sooner. [c7]\n\nTen years sounds brutal when it is your life being uprooted. But compared with what Athenian juries could impose on politicians judged to oppose the people’s interests, ostracism was comparatively lenient. Courts could condemn a person to death, impose crushing fines, seize property, order permanent exile, or remove citizenship rights. [c8]\n\nSo ostracism sits in a strange middle ground. It was less severe than those possible court penalties, but it still meant exile from the city for a decade. [c9] A citizen sent away could be kept from taking part in public life in Athens during that period. [c10] The safeguard was gentler than the alternatives, yet powerful enough to make someone leave.\n\nHere’s my read: Athens is trying to solve a problem every democracy inherits. How do you protect the people from a would-be master without giving the people’s guardians a master’s power? Ostracism answers with a temporary removal, not a permanent confiscation or a final verdict. But the target is chosen through politics, where fear and rivalry can wear the same mask. [c11]\n\nNow jump forward, carefully, to a different argument. Federalist No. 51 describes a system that divides power between the national government and the states, and among legislative, executive, and judicial branches. [c12] Madison presents those divisions as safeguards for the rights of the people and the country. [c13] The essay calls the resulting protection a “double security” for the people’s rights. [c14]\n\nAthens’ ostracism and Madison’s divided government are not a proven chain of direct influence. They are different answers to a shared political riddle: how do you keep power from gathering in one place? Athens could send a citizen into exile. The Federalist design divides authority among institutions and levels of government. [c15]\n\nAnd here is the payoff. A community may need protection from a person who could dominate it. But the power to name that danger can become dangerous too. Split power, and you make domination harder; use the people’s power against one citizen, and protection can look very much like punishment. [c16]\n\nSo: Athens had a temporary, severe instrument of exile, milder than several penalties juries could impose. [c17] Federalist No. 51 later presents divided government as a safeguard for rights. [c18] The question is still waiting for us: who checks the people doing the checking?\n\nFor the next journey, we could follow Caesar across the Rubicon and ask whether Rome was already broken. We could enter the Federalist debate over factions and discover why disagreement worried the founders. Or we could trace another ancient safeguard that promised order—and ask what it cost.\n\nWhich road do you want next?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Peisistratos overthrew the nascent democracy in 561 BC, and Hippias was expelled in 510 BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Peisistratos overthrew the nascent democracy in 561 BC and Hippias was expelled in 510 BC.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "In 561 BC, the nascent democracy was overthrown by the tyrant Peisistratos but was reinstated after the expulsion of his son, Hippias , in 510. Cleisthenes issued reforms in 508 and 507 BC that undermined the domination of the aristocratic families and connected every Athenian to the city's rule.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Cleisthenes issued reforms in 508 and 507 BC that weakened aristocratic domination and connected Athenians to the city's rule.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Cleisthenes issued reforms in 508 and 507 BC that undermined aristocratic domination and connected Athenians to the city's rule.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "In 561 BC, the nascent democracy was overthrown by the tyrant Peisistratos but was reinstated after the expulsion of his son, Hippias , in 510. Cleisthenes issued reforms in 508 and 507 BC that undermined the domination of the aristocratic families and connected every Athenian to the city's rule.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Ostracism provided a procedure for sending a citizen into exile.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The ostracism evidence describes the procedure as banishing a citizen from the city.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "The chapter interprets ostracism as a way to remove a citizen perceived as a threat before a crisis.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The evidence establishes exile as the procedure, while the claim explicitly presents its preventive purpose as the narrator's interpretation.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E29",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "In 561 BC, the nascent democracy was overthrown by the tyrant Peisistratos but was reinstated after the expulsion of his son, Hippias , in 510. Cleisthenes issued reforms in 508 and 507 BC that undermined the domination of the aristocratic families and connected every Athenian to the city's rule.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The political-punishment interpretation is a reading of the procedure, not a documented motive for every exile.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is explicitly framed as a reading of the procedure rather than a claim about documented motives for individual exiles.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Although ten years of exile may have been challenging for Athenians, it was a lenient punishment compared to the sentences that courts could impose. When dealing with politicians held to be acting against the interests of the people, Athenian juries could inflict severe penalties such as death, unpayably large fines, confiscation of property, permanent exile, or loss of citizens' rights through …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "An ostracized person had ten days to leave, and returning was punishable by death.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that the newly ostracized had ten days to leave and faced death if they attempted to return.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Ostracism did not confiscate property or remove status, and return was permitted after ten years or by earlier assembly recall.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says ostracism did not confiscate property or remove status, and allowed return after ten years or an earlier assembly recall.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Athenian juries could impose death, enormous fines, property confiscation, permanent exile, or loss of citizenship rights on politicians.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence lists death, enormous fines, confiscation, permanent exile, and loss of citizens' rights among penalties juries could impose on politicians.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Although ten years of exile may have been challenging for Athenians, it was a lenient punishment compared to the sentences that courts could impose. When dealing with politicians held to be acting against the interests of the people, Athenian juries could inflict severe penalties such as death, unpayably large fines, confiscation of property, permanent exile, or loss of citizens' rights through …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Ostracism was less severe than the listed possible court penalties, but entailed a decade of exile.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence calls ostracism lenient compared with court sentences and specifies a ten-year exile.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Although ten years of exile may have been challenging for Athenians, it was a lenient punishment compared to the sentences that courts could impose. When dealing with politicians held to be acting against the interests of the people, Athenian juries could inflict severe penalties such as death, unpayably large fines, confiscation of property, permanent exile, or loss of citizens' rights through …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "A citizen in exile was removed from participation in public life in Athens during the exile.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "The cited evidence gives the duration and terms of exile but does not say that exile barred participation in Athens's public life.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The chapter interprets ostracism as temporary removal selected in a political context where fear and rivalry could overlap.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is explicitly framed as the narrator's interpretation, while the cards establish temporary exile and its relative severity but not the role of fear and rivalry in particular cases.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Although ten years of exile may have been challenging for Athenians, it was a lenient punishment compared to the sentences that courts could impose. When dealing with politicians held to be acting against the interests of the people, Athenian juries could inflict severe penalties such as death, unpayably large fines, confiscation of property, permanent exile, or loss of citizens' rights through …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Federalist No. 51 describes dividing power between federal and state governments and among legislative, executive, and judicial branches.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Federalist No. 51 is described as dividing power between federal and state governments and among the legislative, executive, and judicial branches.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Madison presented the safeguards as protecting people's rights and the country.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Madison described the convention's safeguards as protecting the rights of the people and the country.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "The purpose of No. 51 is, according to Madison, to inform the reader of the safeguards created by the convention to maintain the separate branches of government and to protect the rights of the people and of the country.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Federalist No. 51 describes the division of power as a “double security” for people's rights.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly calls the division of power a source of “double security” for the people's rights.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "Athens’ exile procedure and the Federalist design are different approaches to the risk of concentrated power.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The cards support the distinct descriptions of ostracism and divided government, while their comparison as different approaches is interpretive.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c16",
+     "text": "The chapter interprets political exclusion and divided government as illustrating the tension between protection and punishment.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is the narrator's stated thematic reading of political exclusion and divided government, not a factual claim established by the cards.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E24",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c17",
+     "text": "Ostracism was temporary and comparatively less severe than several penalties Athenian juries could impose.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes ostracism as ten years of exile and comparatively lenient against several possible court penalties.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "Although ten years of exile may have been challenging for Athenians, it was a lenient punishment compared to the sentences that courts could impose. When dealing with politicians held to be acting against the interests of the people, Athenian juries could inflict severe penalties such as death, unpayably large fines, confiscation of property, permanent exile, or loss of citizens' rights through …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E13",
+       "pack": "politics",
+       "page_title": "Ostracism",
+       "url": "https://en.wikipedia.org/wiki/Ostracism",
+       "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c18",
+     "text": "Federalist No. 51 presents divided government as a safeguard for rights.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence presents Federalist No. 51's divided government as a safeguard for people's rights.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E25",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "The purpose of No. 51 is, according to Madison, to inform the reader of the safeguards created by the convention to maintain the separate branches of government and to protect the rights of the people and of the country.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Caesar crosses the Rubicon: was Rome already broken?",
+    "Federalist factions: why did disagreement worry the founders?",
+    "Ancient safeguards: when does order demand too much?"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "An ostracized Athenian had ten days to leave, and returning could be punished by death.",
+      "verdict": "fact",
+      "explanation": "The procedure gave the person ten days to depart and prescribed death for an attempted return. (That states the penalty, not that every return resulted in execution.)",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "politics",
+        "page_title": "Ostracism",
+        "url": "https://en.wikipedia.org/wiki/Ostracism",
+        "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Ostracism permanently stripped a citizen of property and civic status.",
+      "verdict": "myth",
+      "explanation": "The evidence says an ostracized person kept their property and status, and could return after ten years or be recalled earlier.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "politics",
+        "page_title": "Ostracism",
+        "url": "https://en.wikipedia.org/wiki/Ostracism",
+        "snippet": "The person newly ostracized had ten days to leave the city. If he attempted to return, the penalty was death . The banished man's property was not confiscated and there was no loss of status. After ten years, he was allowed to return without stigma. It was possible for the assembly to recall an ostracized person ahead of time;",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Federalist No. 51 calls divided government a “double security” for the people’s rights.",
+      "verdict": "fact",
+      "explanation": "The essay describes power divided between federal and state governments and among branches as a double security for rights.",
+      "evidence_ids": [
+       "E24"
+      ],
+      "evidence": [
+       {
+        "id": "E24",
+        "pack": "politics",
+        "page_title": "Federalist No. 51",
+        "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+        "snippet": "In 1787, power over people was divided both through federalism (between the federal government and the state governments ) and through branches ( legislative , executive , and judicial ) within the national (or federal) government. Because of the division of power, a \"double security arises to the rights of the people.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "After describing ostracism’s severe terms, what made it comparatively lenient beside penalties Athenian juries could impose?",
+     "options": [
+      "It did not confiscate property or strip away status.",
+      "It lasted only a few months.",
+      "It required the assembly to approve a return each year."
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "The chapter explains that ostracism did not confiscate property or remove status, while courts could impose much harsher penalties."
+    }
+   }
+  },
+  "The Roman colleagues: two consuls, one uneasy republic": {
+   "index": 2,
+   "title": "Two Consuls, Many Fears",
+   "narration": "Rome, in the branch you chose, does not answer fear with a promise that power will become harmless. It answers with a collision. Put two consuls in the same high office, and each can block the other. [c1] The arrangement reflects a republican belief that powers once held by Rome’s kings should be spread across multiple offices. [c2]\n\nThat is the first payoff: a check does not need to make leaders virtuous. It can make one leader’s will meet another leader’s resistance. That is my read of the Roman design—not a machine that removes ambition, but a structure that expects ambition to exist.\n\nAnd the veto is not just a dramatic hand raised at the right moment. It changes the calculation before the moment arrives. If you know your colleague can stop you, you must reckon with a second will. The republic’s safeguard is also its tension: two officials may restrain each other, or make government harder to move. The evidence gives us the power to veto; the tension is the human problem inside it.\n\nNow widen the frame. Rome’s assemblies theoretically held all power, but magistrates called them and governed them, shaping discussion and exercising dominating influence. [c3] In those assemblies, citizens heard speakers put forward by the presiding officer, then faced an up-or-down vote. [c4] Other magistrates could veto assembly proceedings, though that was rare until the late republic. [c5]\n\nSo the Roman republic is not a simple story of “the people rule.” Authority runs through offices, meetings, speakers, and votes. The assembly may possess power in theory, while the official controlling the room can shape what that power means in practice. Here’s the line worth keeping: a vote is not the whole story if someone else controls the question.\n\nSet that arrangement beside the Federalist Papers. Treat the comparison as a comparison, not a family tree. The supplied evidence tells us how Rome divided authority; it does not give us the Federalist argument in detail. So we can ask the useful shared question without pretending we have proved a direct inheritance: how do you make capable leaders govern, while keeping the community from becoming their possession?\n\nThe Roman answer, in the material before us, has several moving parts: colleagues who can veto, magistrates who manage assemblies, and citizens who vote on proposals. [c6] It also has an emergency office with a boundary. In the early and middle Republic, a dictator’s authority was tied to an assigned mandate and customarily expected to end once the crisis was resolved. [c7] Even extraordinary power comes with a question attached: for what task, and for how long?\n\nThen Athens returns—not as a perfect answer, but as a warning about what “the people” can mean. Only adult male citizens who had completed military training as ephebes could vote there. [c8] The share of the whole population that participated in government was estimated at ten to twenty percent, varying between the fifth and fourth centuries BC. [c9]\n\nThat number changes the sound of the word democracy. A community can speak in the name of its citizens while leaving most inhabitants outside the decision-making body. Athens reminds us that control is never only about stopping one powerful person. It is also about deciding who counts as the community entitled to do the stopping.\n\nAcross Rome, Athens, and the question posed by the Federalist Papers, the challenge is not to find a leader with no power. A community needs people who can decide and act. The harder task is to keep authority answerable: divided among offices, exposed to resistance, and connected to a public whose boundaries must be faced honestly.\n\nSo: Rome put colleagues beside one another, and built other checks around its assemblies. Athens makes us ask who was included when the people were said to rule. For our next journey, choose the Ides of March and a republic’s final gamble; the Federalist Papers and the argument over divided power; or Athens and the people left outside democracy.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Each Roman consul could veto the other.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that each consul could veto the actions of the other.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "politics",
+       "page_title": "Roman consul",
+       "url": "https://en.wikipedia.org/wiki/Roman_consul",
+       "snippet": "Having two consuls created a check on the power of any one individual, in accordance with the republican belief that the powers of the former kings of Rome should be spread out into multiple offices. To that end, each consul could veto the actions of the other consul.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The two-consul arrangement reflected the republican belief that the powers of Rome’s former kings should be spread among multiple offices.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence directly says the arrangement reflected a republican belief that royal powers should be spread across multiple offices.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "politics",
+       "page_title": "Roman consul",
+       "url": "https://en.wikipedia.org/wiki/Roman_consul",
+       "snippet": "Having two consuls created a check on the power of any one individual, in accordance with the republican belief that the powers of the former kings of Rome should be spread out into multiple offices. To that end, each consul could veto the actions of the other consul.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Although Roman assemblies theoretically held all power, magistrates convened and governed them, shaping discussion and exercising dominating influence.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says assemblies theoretically held all power, while magistrates convened and governed them, controlled discussion, and exercised dominating influence.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "A complex set of checks and balances developed amongst these three branches. For example, the assemblies theoretically held all power, but were called and governed by the magistrates, who, controlling discussion, exercised dominating influence over them. Other magistrates could also veto proceedings before the assemblies, though until the late republic, this was rare.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Roman assembly citizens heard speakers selected by the presiding officer before an up-or-down vote.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says assemblies heard speakers put forward by the presiding officer before that officer could call an up-or-down vote.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "There were two necessary components to any assembly: (1) the convening magistrate and (2) the citizens in the assembly itself. Assemblies did not participate or discuss matters laid before them, they heard the speakers put forth by the presiding officer. And after such discussion, the presiding officer could call for a direct up or down vote.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Other magistrates could veto assembly proceedings, but this was rare until the late Republic.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that other magistrates could veto assembly proceedings and that this was rare until the late Republic.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "A complex set of checks and balances developed amongst these three branches. For example, the assemblies theoretically held all power, but were called and governed by the magistrates, who, controlling discussion, exercised dominating influence over them. Other magistrates could also veto proceedings before the assemblies, though until the late republic, this was rare.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Roman republican authority involved consular vetoes, magistrates managing assemblies, and citizens voting on proposals.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cited cards support the stated combination of consular vetoes, magistrates managing assemblies, and citizens voting on proposals.",
+     "evidence": [
+      {
+       "id": "E34",
+       "pack": "politics",
+       "page_title": "Roman consul",
+       "url": "https://en.wikipedia.org/wiki/Roman_consul",
+       "snippet": "Having two consuls created a check on the power of any one individual, in accordance with the republican belief that the powers of the former kings of Rome should be spread out into multiple offices. To that end, each consul could veto the actions of the other consul.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "A complex set of checks and balances developed amongst these three branches. For example, the assemblies theoretically held all power, but were called and governed by the magistrates, who, controlling discussion, exercised dominating influence over them. Other magistrates could also veto proceedings before the assemblies, though until the late republic, this was rare.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E23",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "There were two necessary components to any assembly: (1) the convening magistrate and (2) the citizens in the assembly itself. Assemblies did not participate or discuss matters laid before them, they heard the speakers put forth by the presiding officer. And after such discussion, the presiding officer could call for a direct up or down vote.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "In the early and middle Republic, a dictator’s authority was limited to an assigned mandate and was expected to end after the issue was resolved.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says a dictator's authority was limited to an assigned mandate and that customarily the dictator was expected to resolve the issue quickly and resign.",
+     "evidence": [
+      {
+       "id": "E22",
+       "pack": "politics",
+       "page_title": "Constitution of the Roman Republic",
+       "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+       "snippet": "In the early and middle Republic, the dictatorship was largely a customary institution where the dictator's supreme authority was limited to the mandate ( Latin : provincia ) assigned along with the almost-universally-realised expectation that the dictator would quickly resolve the issue and resign to restore ordinary government.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Only adult male Athenian citizens who had completed military training as ephebes could vote.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that adult male Athenian citizens who had completed ephebic military training had the right to vote.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Only adult male Athenian citizens who had completed their military training as ephebes had the right to vote in Athens. The percentage of the population that actually participated in the government was 10% to 20% of the total number of inhabitants, but this varied from the fifth to the fourth century BC.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The share of Athens’s total population participating in government was estimated at ten to twenty percent, varying between the fifth and fourth centuries BC.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence gives the participating share as 10% to 20% of inhabitants and says it varied between the fifth and fourth centuries BC.",
+     "evidence": [
+      {
+       "id": "E31",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Only adult male Athenian citizens who had completed their military training as ephebes had the right to vote in Athens. The percentage of the population that actually participated in the government was 10% to 20% of the total number of inhabitants, but this varied from the fifth to the fourth century BC.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "The Ides of March: a republic’s final gamble",
+    "The Federalist Papers and divided power",
+    "Athens: who was left outside democracy"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Each Roman consul could veto the other.",
+      "verdict": "fact",
+      "explanation": "The two-consul arrangement was designed as a check on any one individual, and each consul could veto the other’s actions.",
+      "evidence_ids": [
+       "E34"
+      ],
+      "evidence": [
+       {
+        "id": "E34",
+        "pack": "politics",
+        "page_title": "Roman consul",
+        "url": "https://en.wikipedia.org/wiki/Roman_consul",
+        "snippet": "Having two consuls created a check on the power of any one individual, in accordance with the republican belief that the powers of the former kings of Rome should be spread out into multiple offices. To that end, each consul could veto the actions of the other consul.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Roman assemblies directly debated proposals before voting on them.",
+      "verdict": "myth",
+      "explanation": "Assembly citizens heard speakers put forward by the presiding officer, then voted up or down; they did not themselves debate the matters laid before them.",
+      "evidence_ids": [
+       "E23"
+      ],
+      "evidence": [
+       {
+        "id": "E23",
+        "pack": "politics",
+        "page_title": "Constitution of the Roman Republic",
+        "url": "https://en.wikipedia.org/wiki/Constitution_of_the_Roman_Republic",
+        "snippet": "There were two necessary components to any assembly: (1) the convening magistrate and (2) the citizens in the assembly itself. Assemblies did not participate or discuss matters laid before them, they heard the speakers put forth by the presiding officer. And after such discussion, the presiding officer could call for a direct up or down vote.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Only ten to twenty percent of Athens’s total population participated in government.",
+      "verdict": "fact",
+      "explanation": "The evidence estimates participation at ten to twenty percent, with the share varying between the fifth and fourth centuries BC.",
+      "evidence_ids": [
+       "E31"
+      ],
+      "evidence": [
+       {
+        "id": "E31",
+        "pack": "politics",
+        "page_title": "Athenian democracy",
+        "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+        "snippet": "Only adult male Athenian citizens who had completed their military training as ephebes had the right to vote in Athens. The percentage of the population that actually participated in the government was 10% to 20% of the total number of inhabitants, but this varied from the fifth to the fourth century BC.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "In the early and middle Roman Republic, what was supposed to happen once a dictator resolved the assigned crisis?",
+     "options": [
+      "The dictator was expected to resign and restore ordinary government.",
+      "The dictator was expected to become consul for the next year.",
+      "The dictator was expected to keep ruling until the Senate dismissed him."
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "The dictator was expected to resolve the assigned issue and resign, restoring ordinary government."
+    }
+   }
+  },
+  "The modern debate: when checks begin to check each other": {
+   "index": 2,
+   "title": "When the Checks Collide",
+   "narration": "Last time, we stood in a city watching one brilliant citizen grow larger in the public imagination. You chose the modern question: what happens when the checks begin checking one another? Imagine the room after a decision stalls. Nobody gets everything they want. Nobody can quite make the others move. That silence can mean restraint. It can also mean a problem left waiting.\n\nThe ancient fear was not abstract. Athens created ostracism, a vote that could exile citizens judged dangerous to the state’s stability. [c1] It was meant as prevention: a way to answer the threat of a would-be tyrant or a faction before either seized control. [c2] Picture the logic. If one citizen becomes too powerful, the city can push him away from the center. The safeguard is blunt because the fear is blunt.\n\nBut Athens did not build its democracy in one dramatic stroke. Solon’s reforms came in five hundred ninety-four BC, Cleisthenes’ in five hundred eight to five hundred seven BC, and Ephialtes’ in four hundred sixty-two BC. [c3] Cleisthenes weakened the nobility’s unlimited power by organizing citizens into ten groups based on where they lived rather than on wealth. [c4] Later, Pericles led Athens from four hundred sixty-one to four hundred twenty-nine BC, the longest-lasting democratic leader named in this account. [c5]\n\nThat is a sequence of safeguards and reorganizations, not a promise that power disappears. The city still had to decide who belonged, who could persuade, and when a popular figure had become a danger. The system’s answer to concentrated influence could itself be severe. A vote could restrain a potential tyrant, but it could also send a citizen into exile. [c6]\n\nNow jump across centuries, from the assembly’s vote to the American argument over constitutional design. The doctrine of separating powers draws on Montesquieu, who argued for three branches with defined authority to check one another. [c7] Madison’s Federalist argument starts with a stubborn fact about politics: public officials have their own ideas and causes they want to advance. [c8] The proposed answer was not to hope that every official would be modest. It was to arrange government so that power met other power.\n\nMadison’s design also depended on independence. The branches had to be able to do their own work, with checks coming into play when disagreement or trouble arose. [c9] That distinction matters. A check is not supposed to turn every ordinary decision into a permanent collision. Independence lets an institution act; the possibility of resistance makes it answerable.\n\nHere’s my read: the Athenian ostracism and the American separation of powers are two different answers to one recurring fear. Athens could remove a citizen judged dangerous. The American constitutional idea distributes authority among institutions that can check one another. [c10] One is a dramatic vote against a person; the other is an ongoing arrangement among branches. That parallel is useful, but it does not make them the same system.\n\nAnd then the safeguard acquires its cost. Many legislators understand separated powers to mean that branches share authority, so one branch cannot act alone on major issues and must win some form of agreement across branches. [c11] Agreement can protect people from a decision made by one unchecked institution. It can also be hard to obtain. When disagreement persists, the machinery meant to prevent unilateral action may leave action waiting.\n\nThat is the modern dilemma you chose. A check can stop an abuse. A check can also stop a response. Those are not opposites; they are the two edges of the same design. The system aims to keep any one branch from gaining superior power or overthrowing another, and to hold each branch to standards of conduct. [c12] But a balance of power is not a guarantee that the result will be wise, timely, or kind. That last sentence is my judgment, not a constitutional promise.\n\nSo: Athens tried to guard against a dangerous citizen, even with the harsh tool of exile. The American model puts the friction inside government, where institutions can restrain one another and sometimes stall one another. What should we follow next: Montesquieu’s influence on constitutional design, the hard bargain behind federalism, or the moments when checks become gridlock?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Athenian ostracism allowed the Assembly to exile citizens deemed threats to state stability.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says ostracism allowed the Assembly to exile citizens judged threats to the state’s stability.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Ostracism , a unique feature of Athenian democracy introduced in the early 5th century BCE, allowed the Assembly to exile citizens deemed threats to the state's stability. This annual practice, conducted through a vote, was a preventive measure against potential tyrants and factions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Ostracism was intended as a preventive measure against potential tyrants and factions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly describes ostracism as preventive and directed against potential tyrants and factions.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Ostracism , a unique feature of Athenian democracy introduced in the early 5th century BCE, allowed the Assembly to exile citizens deemed threats to the state's stability. This annual practice, conducted through a vote, was a preventive measure against potential tyrants and factions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Solon, Cleisthenes, and Ephialtes contributed to Athenian democracy in the stated years.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence gives these three figures’ contributions and the stated dates.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Solon (in 594 BC), Cleisthenes (in 508–07 BC), and Ephialtes (in 462 BC) contributed to the development of Athenian democracy. Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than by their wealth. The longest-lasting democratic leader was Pericles , who led Athens from 461 to 429 BC.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Cleisthenes organized citizens into ten groups based on residence rather than wealth, weakening noble power.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Cleisthenes organized citizens into ten groups by residence rather than wealth, breaking up the nobility’s power.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Solon (in 594 BC), Cleisthenes (in 508–07 BC), and Ephialtes (in 462 BC) contributed to the development of Athenian democracy. Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than by their wealth. The longest-lasting democratic leader was Pericles , who led Athens from 461 to 429 BC.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Pericles led Athens from 461 to 429 BC and was its longest-lasting democratic leader.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Pericles led Athens from 461 to 429 BC and calls him its longest-lasting democratic leader.",
+     "evidence": [
+      {
+       "id": "E28",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Solon (in 594 BC), Cleisthenes (in 508–07 BC), and Ephialtes (in 462 BC) contributed to the development of Athenian democracy. Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than by their wealth. The longest-lasting democratic leader was Pericles , who led Athens from 461 to 429 BC.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Athenian ostracism could exile a citizen through a vote.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says ostracism was conducted through a vote and could exile a citizen.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Ostracism , a unique feature of Athenian democracy introduced in the early 5th century BCE, allowed the Assembly to exile citizens deemed threats to the state's stability. This annual practice, conducted through a vote, was a preventive measure against potential tyrants and factions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Montesquieu argued for three branches with defined authority to check one another.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Montesquieu argued for three branches with defined authority to check one another.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "Separation of powers under the United States Constitution",
+       "url": "https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution",
+       "snippet": "Separation of powers is a political doctrine originating in the writings of Charles de Secondat, Baron de Montesquieu in The Spirit of the Laws , in which he argued for a constitutional government with three separate branches, each of which would have defined authority to check the powers of the others.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Madison described public officials as having ideas and causes they wished to advance.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes Madison’s view that public officials had ideas and causes they wanted to enact.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "Madison's idea was that the politicians and the individuals in public service in the U.S. would all have proclamations and ideas that they were passionate about and that they wanted to enact. The logical solution to ensure that laws and strong ideas were not enacted by a small group of partisan individuals was to use a federalist system where each level of government had different branches, each …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Madison emphasized branch independence, with checks becoming active when disagreements or issues arose.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Madison emphasized branch independence and that checks would come into play when disagreements or issues arose.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "politics",
+       "page_title": "Federalist No. 51",
+       "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+       "snippet": "Furthermore, Madison emphasized that although the branches were meant to have checks and balances, the branches would only function to their fullest extent if they were independent of one another. By being independent of one another, the branches would be able to focus on their purpose and the system of checks and balances would only really come into play if disagreements and issues arose within …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Athenian ostracism and American separated powers offer distinct institutional responses to concentrated power.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is the narrator’s comparative framing, supported by evidence describing ostracism and the separate-powers doctrine as different institutional arrangements.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "politics",
+       "page_title": "Athenian democracy",
+       "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+       "snippet": "Ostracism , a unique feature of Athenian democracy introduced in the early 5th century BCE, allowed the Assembly to exile citizens deemed threats to the state's stability. This annual practice, conducted through a vote, was a preventive measure against potential tyrants and factions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E18",
+       "pack": "politics",
+       "page_title": "Separation of powers under the United States Constitution",
+       "url": "https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution",
+       "snippet": "Separation of powers is a political doctrine originating in the writings of Charles de Secondat, Baron de Montesquieu in The Spirit of the Laws , in which he argued for a constitutional government with three separate branches, each of which would have defined authority to check the powers of the others.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Many legislators view separated powers as requiring agreement across branches for significant action.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence explicitly attributes to many legislators the view that significant action may require agreement across branches.",
+     "evidence": [
+      {
+       "id": "E20",
+       "pack": "politics",
+       "page_title": "Separation of powers under the United States Constitution",
+       "url": "https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution",
+       "snippet": "Many legislators hold the view that separation of powers means that powers are shared among different branches; no one branch may act unilaterally on issues (other than perhaps minor questions), but must obtain some form of agreement across branches.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Checks and balances are intended to prevent one branch from dominating or overthrowing another and to promote standards of conduct.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes checks and balances as preventing one branch from overpowering or overthrowing another and as holding branches to standards of conduct.",
+     "evidence": [
+      {
+       "id": "E19",
+       "pack": "politics",
+       "page_title": "Separation of powers under the United States Constitution",
+       "url": "https://en.wikipedia.org/wiki/Separation_of_powers_under_the_United_States_Constitution",
+       "snippet": "The system of checks and balances makes it so that no one branch of government has more power than another and cannot overthrow another. It creates a balance of power that is necessary for a government to function, if it is to function well. This, in most situations, makes it so that each branch is held to a certain standard of conduct.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Montesquieu’s blueprint: how three branches became a constitutional ideal",
+    "Federalism’s hard bargain: who gets the final say?",
+    "When checks become gridlock: the cost of a government that waits"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Athenian ostracism was a preventive vote that could exile citizens seen as threats to the state.",
+      "verdict": "fact",
+      "explanation": "The evidence describes ostracism as an annual vote allowing exile, intended to guard against potential tyrants and factions.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "politics",
+        "page_title": "Athenian democracy",
+        "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+        "snippet": "Ostracism , a unique feature of Athenian democracy introduced in the early 5th century BCE, allowed the Assembly to exile citizens deemed threats to the state's stability. This annual practice, conducted through a vote, was a preventive measure against potential tyrants and factions.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Cleisthenes organized Athenian citizens into groups based on their wealth.",
+      "verdict": "myth",
+      "explanation": "The evidence says he organized citizens into ten groups based on where they lived, not their wealth, weakening the nobility’s power.",
+      "evidence_ids": [
+       "E28"
+      ],
+      "evidence": [
+       {
+        "id": "E28",
+        "pack": "politics",
+        "page_title": "Athenian democracy",
+        "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+        "snippet": "Solon (in 594 BC), Cleisthenes (in 508–07 BC), and Ephialtes (in 462 BC) contributed to the development of Athenian democracy. Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than by their wealth. The longest-lasting democratic leader was Pericles , who led Athens from 461 to 429 BC.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Madison wanted the branches to stay independent, with checks coming into play when disagreements arose.",
+      "verdict": "fact",
+      "explanation": "The evidence says Madison emphasized independence so branches could focus on their purposes, with checks becoming active when disagreements or issues arose.",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "politics",
+        "page_title": "Federalist No. 51",
+        "url": "https://en.wikipedia.org/wiki/Federalist_No._51",
+        "snippet": "Furthermore, Madison emphasized that although the branches were meant to have checks and balances, the branches would only function to their fullest extent if they were independent of one another. By being independent of one another, the branches would be able to focus on their purpose and the system of checks and balances would only really come into play if disagreements and issues arose within …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "The chapter contrasts Athens’ way of restraining a dangerous citizen with the American constitutional approach. What is the key difference?",
+     "options": [
+      "Athens used a vote to exile a person; the American model distributes checking power among branches.",
+      "Athens divided authority among branches; the American model exiled officials by vote.",
+      "Both systems used the same kind of vote to restrain citizens."
+     ],
+     "answer_index": 0,
+     "reveal_para": 6,
+     "explanation": "Athens could exile a citizen by vote, while the American constitutional idea distributes authority among institutions that check one another."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9022,
+   "cached_tokens": 8040,
+   "cache_write_tokens": 478,
+   "output_tokens": 902,
+   "cost_usd": 0.00064154
+  },
+  {
+   "agent": "researcher",
+   "requests": 15,
+   "input_tokens": 49096,
+   "cached_tokens": 38962,
+   "cache_write_tokens": 8201,
+   "output_tokens": 1474,
+   "cost_usd": 0.00234506
+  },
+  {
+   "agent": "storyteller",
+   "requests": 5,
+   "input_tokens": 22103,
+   "cached_tokens": 16630,
+   "cache_write_tokens": 4843,
+   "output_tokens": 8470,
+   "cost_usd": 0.00506969
+  },
+  {
+   "agent": "skeptic",
+   "requests": 5,
+   "input_tokens": 22160,
+   "cached_tokens": 12220,
+   "cache_write_tokens": 9310,
+   "output_tokens": 3316,
+   "cost_usd": 0.00300695
+  }
+ ],
+ "build_cost_usd": 0.011063,
+ "build_seconds": 76.8
+}

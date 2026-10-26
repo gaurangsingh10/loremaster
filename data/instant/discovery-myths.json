@@ -1,0 +1,1213 @@
+{
+ "thread": {
+  "id": "discovery-myths",
+  "title": "Newton's Apple & Other Myths of Discovery",
+  "hook": "Did an apple really hit Newton? Did Einstein fail math? Famous eureka stories, put on trial.",
+  "mode": "history",
+  "packs": [
+   "science"
+  ],
+  "era": "The Scientific Revolution onward",
+  "universe": "",
+  "curated": true,
+  "genre": "science"
+ },
+ "title": "Eureka, Put on Trial",
+ "logline": "Did an apple truly inspire Newton, and did Einstein really struggle with math? Follow two famous discovery stories from catchy legend to what the evidence can actually support.",
+ "plan": [
+  {
+   "title": "The Apple in the Garden",
+   "focus": "Open with the irresistible image of an apple prompting Newton’s great insight, then examine what accounts of the story say and what they leave uncertain. Put the popular version on trial rather than treating it as a documented moment of sudden discovery.",
+   "queries": [
+    "science: Newton apple",
+    "science: Isaac Newton biography",
+    "science: Newton's law of universal gravitation"
+   ],
+   "packs": [
+    "science"
+   ]
+  },
+  {
+   "title": "Einstein and the Report Card",
+   "focus": "Test the claim that Einstein failed mathematics against evidence about his education and abilities, distinguishing a persistent popular myth from the documented record. Close by comparing both stories: why we turn long, difficult work into a single dramatic eureka, and what the evidence supports about discovery instead.",
+   "queries": [
+    "science: Einstein failed mathematics",
+    "science: Albert Einstein education",
+    "science: History of special relativity"
+   ],
+   "packs": [
+    "science"
+   ]
+  }
+ ],
+ "chapter1": {
+  "index": 1,
+  "title": "The Apple in the Garden",
+  "narration": "Picture the scene: an English garden, a quiet afternoon, and an apple dropping through the air. In the irresistible version, Isaac Newton watches it fall and suddenly sees the heavens in the fruit. The same force that pulls the apple down, he realizes, reaches all the way to the Moon. One falling apple, one flash of genius, and the universe clicks into place.\n\nIt is a beautiful story. It is also the story we are putting on trial.\n\nThe first question is not whether Newton thought deeply about gravity. He did. It is whether the familiar garden scene records a precise instant of discovery. The cards before us identify an apple cultivar reputed to have inspired Newton’s analogy, but they do not supply a firsthand account of the event. [c1] That gap matters. A remembered image can preserve a real conversation, while leaving the timing, setting, and dramatic “aha” uncertain.\n\nAnd the apple itself is not a signed witness. The Flower of Kent is reputed to be the cultivar connected to Newton’s apple analogy. [c2] “Reputed” is the hinge in that sentence. It lets the fruit into the story without pretending the label proves which apple fell, where it fell, or what Newton thought at that instant.\n\nSo let’s separate the memorable picture from the work that can be firmly described. Newton was an English polymath and a key figure in the Scientific Revolution. [c3] His achievement was not merely to notice that things fall. It was to build a mathematical account of motion and attraction that could connect events on Earth with the movement of celestial bodies.\n\nThat is where the story gets bigger than the garden. Newton’s law of universal gravitation describes an attractive force between particles, proportional to their masses and decreasing with the square of the distance between them. [c4] In plain language, distance matters enormously: double the separation, and the force becomes a quarter as strong. For separated, spherically symmetrical bodies, the law treats their mass as if it were concentrated at their centers. [c5]\n\nThat is not a casual leap from fruit to Moon. It is a framework with a rule, a scale, and consequences. Newton’s universal gravitation was an empirical law, developed through observations and what he called inductive reasoning. [c6] The apple makes the idea easy to picture. The mathematics makes it powerful enough to travel beyond the garden.\n\nAnd Newton did not arrive in an empty intellectual landscape. Around sixteen hundred, the scientific method began to take root. [c7] René Descartes developed ideas about matter and action independent of theology; Galileo wrote about measured experiments with falling and rolling objects; and Johannes Kepler summarized Tycho Brahe’s astronomical observations in laws of planetary motion. [c8] Those names do not reduce Newton’s achievement. They show the landscape he worked in: questions, measurements, and explanations accumulating before the famous apple entered the popular imagination.\n\nHere’s my take: the apple is less a photograph of one miraculous second than a compact symbol for a much longer act of thinking. That reading fits what we can say about the finished work, but it does not establish exactly how the anecdote began. The cards identify the cultivar as reputed and describe the law’s eventual formulation; they leave the dramatic instant unsettled.\n\nThe durable result appears in Newton’s Principia, first published on July fifth, sixteen eighty-seven. [c9] There he formulated the laws of motion and universal gravitation. [c10] Those laws shaped the dominant scientific viewpoint for centuries, and they remain useful approximations for low speeds and weak gravitational fields, even though relativity superseded them as a broader account. [c11]\n\nSo: the apple gives us a vivid image, not a certified transcript of discovery. The documented achievement is a mathematical law built from observation and published in the Principia. Now the question is what made the legend so hard to resist: the craft behind Newton’s theory, or the public life of the falling apple?\n\nNext, we can follow the method that carried gravity from observations to mathematics; trace the apple story’s uncertain trail; or see how Newton’s law changed the picture of the cosmos.",
+  "claims": [
+   {
+    "id": "c1",
+    "text": "The Flower of Kent is reputed to be the apple cultivar that inspired Newton’s apple analogy, but these cards do not establish the exact event or its details.",
+    "kind": "history",
+    "grade": "Interpretation",
+    "note": "The card only calls the cultivar reputed; describing the exact discovery details as unestablished is a cautious reading of what the evidence does not say.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "science",
+      "page_title": "Newton's apple",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_apple",
+      "snippet": "Flower of Kent , reputed to be the apple cultivar that inspired Isaac Newton's apple analogy of gravitation",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c2",
+    "text": "The Flower of Kent is reputed to be the cultivar connected to Newton’s apple analogy.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card explicitly identifies the Flower of Kent as reputed to be the cultivar connected to Newton’s apple analogy.",
+    "evidence": [
+     {
+      "id": "E2",
+      "pack": "science",
+      "page_title": "Newton's apple",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_apple",
+      "snippet": "Flower of Kent , reputed to be the apple cultivar that inspired Isaac Newton's apple analogy of gravitation",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c3",
+    "text": "Newton was an English polymath and a key figure in the Scientific Revolution.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card plainly describes Newton as an English polymath and a key figure in the Scientific Revolution.",
+    "evidence": [
+     {
+      "id": "E8",
+      "pack": "science",
+      "page_title": "Isaac Newton",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "snippet": "Sir Isaac Newton ( / ˈ nj uː t ən / ⓘ ; 4 January 1643 [ O.S. 25 December 1642 ] – 31 March 1727 [ O.S. 20 March 1726 ] ) was an English polymath who was a mathematician, physicist, astronomer, alchemist, theologian, historian and inventor. He was a key figure in the Scientific Revolution and the Enlightenment that followed.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c4",
+    "text": "Newton’s law describes attraction proportional to the product of masses and inversely proportional to the square of distance.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the force is proportional to the product of the masses and inversely proportional to the square of the distance between their centers of mass.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "Newton's law of universal gravitation describes gravity as a force : any particle attracts any other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centers of mass. Separated, spherically symmetrical objects attract and are attracted as if all their mass were concentrated at their centers .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c5",
+    "text": "For separated, spherically symmetrical bodies, the law treats their mass as concentrated at their centers.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that separated, spherically symmetrical objects act as if their mass were concentrated at their centers.",
+    "evidence": [
+     {
+      "id": "E5",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "Newton's law of universal gravitation describes gravity as a force : any particle attracts any other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centers of mass. Separated, spherically symmetrical objects attract and are attracted as if all their mass were concentrated at their centers .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c6",
+    "text": "Newton’s universal gravitation was an empirical law developed through observation and what he called inductive reasoning.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card describes universal gravitation as derived from empirical observations by Newton’s inductive reasoning.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning . It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica (Latin for 'Mathematical Principles of Natural Philosophy' (the Principia )), first published on 5 July 1687.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c7",
+    "text": "Around sixteen hundred, the scientific method began to take root.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that the scientific method began to take root around 1600.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "Around 1600, the scientific method began to take root. René Descartes started over with a more fundamental view, developing ideas of matter and action independent of theology. Galileo Galilei wrote about experimental measurements of falling and rolling objects. Johannes Kepler 's laws of planetary motion summarized Tycho Brahe 's astronomical observations.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c8",
+    "text": "Descartes developed ideas about matter and action independent of theology, Galileo wrote about experimental measurements of falling and rolling objects, and Kepler summarized Brahe’s observations in laws of planetary motion.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card supports each of these summaries of Descartes, Galileo, and Kepler’s work.",
+    "evidence": [
+     {
+      "id": "E4",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "Around 1600, the scientific method began to take root. René Descartes started over with a more fundamental view, developing ideas of matter and action independent of theology. Galileo Galilei wrote about experimental measurements of falling and rolling objects. Johannes Kepler 's laws of planetary motion summarized Tycho Brahe 's astronomical observations.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c9",
+    "text": "The Principia was first published on July fifth, sixteen eighty-seven.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card gives the Principia’s first publication date as 5 July 1687.",
+    "evidence": [
+     {
+      "id": "E6",
+      "pack": "science",
+      "page_title": "Newton's law of universal gravitation",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+      "snippet": "This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning . It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica (Latin for 'Mathematical Principles of Natural Philosophy' (the Principia )), first published on 5 July 1687.",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c10",
+    "text": "In the Principia, Newton formulated the laws of motion and universal gravitation.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card states that Newton formulated the laws of motion and universal gravitation in the Principia.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "science",
+      "page_title": "Isaac Newton",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "snippet": "In the Principia , Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity . While this is the case, his laws still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light ) and weak gravitational fields .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   },
+   {
+    "id": "c11",
+    "text": "Newton’s laws shaped the dominant scientific viewpoint for centuries and remain useful approximations at low speeds and in weak gravitational fields, although relativity superseded them as a broader account.",
+    "kind": "history",
+    "grade": "Documented",
+    "note": "The card says Newton’s laws dominated for centuries, were superseded by relativity, and remain sufficient approximations at low speeds and in weak gravitational fields.",
+    "evidence": [
+     {
+      "id": "E9",
+      "pack": "science",
+      "page_title": "Isaac Newton",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "snippet": "In the Principia , Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity . While this is the case, his laws still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light ) and weak gravitational fields .",
+      "license": "Text from Wikipedia, CC BY-SA 4.0"
+     }
+    ]
+   }
+  ],
+  "branch_options": [
+   "The method: how observations became mathematics",
+   "The apple’s uncertain trail through memory and legend",
+   "Gravity’s grand consequence: a changed cosmos"
+  ],
+  "revised": false,
+  "chosen_branch": null,
+  "games": {
+   "myth_or_fact": [
+    {
+     "statement": "Newton discovered universal gravitation in a single flash of insight when an apple fell in his garden.",
+     "verdict": "myth",
+     "explanation": "The apple is associated with Newton’s gravity analogy, but the cards do not establish a precise garden scene or instant of discovery. The documented account is of a law developed through observation and inductive reasoning.",
+     "evidence_ids": [
+      "E2",
+      "E6"
+     ],
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "science",
+       "page_title": "Newton's apple",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_apple",
+       "snippet": "Flower of Kent , reputed to be the apple cultivar that inspired Isaac Newton's apple analogy of gravitation",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E6",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning . It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica (Latin for 'Mathematical Principles of Natural Philosophy' (the Principia )), first published on 5 July 1687.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "Newton’s law says gravitational force decreases with the square of the distance between masses.",
+     "verdict": "fact",
+     "explanation": "The law describes force as proportional to the product of the masses and inversely proportional to the square of the distance between their centers of mass.",
+     "evidence_ids": [
+      "E5"
+     ],
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Newton's law of universal gravitation describes gravity as a force : any particle attracts any other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between their centers of mass. Separated, spherically symmetrical objects attract and are attracted as if all their mass were concentrated at their centers .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "statement": "The Principia was first published in 1687.",
+     "verdict": "fact",
+     "explanation": "The card dates its first publication to July 5, 1687, and says Newton formulated the laws of motion and universal gravitation in it.",
+     "evidence_ids": [
+      "E6",
+      "E9"
+     ],
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "This is a general physical law derived from empirical observations by what Isaac Newton called inductive reasoning . It is a part of classical mechanics and was formulated in Newton's work Philosophiæ Naturalis Principia Mathematica (Latin for 'Mathematical Principles of Natural Philosophy' (the Principia )), first published on 5 July 1687.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E9",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "In the Principia , Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity . While this is the case, his laws still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light ) and weak gravitational fields .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "call_it": {
+    "question": "Newton’s gravity story is often pictured as one sudden revelation. What does the chapter identify as the documented achievement behind the legend?",
+    "options": [
+     "A mathematical law developed through observation",
+     "A confirmed record of the exact apple-fall moment",
+     "A discovery made before other astronomers studied motion"
+    ],
+    "answer_index": 0,
+    "reveal_para": 10,
+    "explanation": "The chapter says the documented achievement was a mathematical law built from observation and published in the Principia."
+   }
+  }
+ },
+ "branches": {
+  "The method: how observations became mathematics": {
+   "index": 2,
+   "title": "From Falling Apple to Law",
+   "narration": "You chose the method: how observations became mathematics. We left Newton beneath the apple tree, with a story so vivid it can make discovery look like a single falling fruit. The payoff is not one instant. It is a way of connecting motions that seem to belong to different worlds.\n\nStart with the apple, and keep your feet on the ground. The apple story is vivid, but the evidence here does not document its later recollections or establish a precise moment of discovery. [c1] So the apple can open the door, but it cannot carry the whole argument.\n\nThe real turn is a change of question. Instead of asking only what makes an apple fall, ask whether the same kind of explanation can reach beyond the garden. Newton wrote that he had explained the phenomena of the heavens and the sea by gravity, while leaving gravity’s cause unassigned. [c2] That sentence is a model of intellectual restraint: describe what a force does, and do not pretend that naming it explains its ultimate cause.\n\nHere is the leap in scale. The falling fruit and the moving planets become parts of one mathematical problem. Newton described gravity as a force reaching the centers of the Sun and planets without any diminution of its force. [c3] The point is not that the apple contains a tiny solar system. The point is that observation gives you events to explain, while mathematics lets you ask whether one rule can account for both.\n\nAnd the rule has to handle change. A planet does not sit still while you measure it; its motion unfolds. Calculus is used in classical mechanics, where its concepts connect the mathematics of motion and forces. [c4] That is why the method matters: it gives physics tools for describing quantities that vary, rather than treating motion as a stack of frozen pictures.\n\nBut do not turn that into a lone-genius fairy tale. Calculus has more than one rigorous foundation, and a later approach called non-standard analysis uses infinitesimal and infinite numbers. [c5] The mathematics itself has a history of refinement. A powerful tool can survive even as people debate how best to build its foundations.\n\nThere is an even bigger payoff. Calculus is useful far beyond gravity, wherever a problem can be mathematically modeled and a solution sought. [c6] The garden story is small; the method is not. It offers a way to turn changing things into questions mathematics can work on.\n\nStill, mathematics does not abolish explanation. Newton’s own sentence draws a boundary: he says what gravity explains, then admits he has not assigned its cause. [c7] That distinction is one of science’s most durable virtues. A law can tell you how nature behaves without pretending every mystery is solved.\n\nAnd the story keeps moving after Newton. Later formulations of classical mechanics can make its conceptual structure clearer than beginning with Newton’s laws, and Lagrangian mechanics helps connect symmetries with conservation laws. [c8] So Newton’s framework is not a final room with the door locked. It is a foundation later thinkers can reorganize, deepen, and extend.\n\nIf you ask me, that is the better miracle. Not a fruit falling at exactly the right moment, but a mind refusing to keep the heavens in a separate box from the earth. The apple gives us a scene. The mathematics gives us a method.\n\nSo: observation supplies the motions, and mathematics makes them comparable. Newton’s account uses gravity to explain phenomena in the heavens and sea, while leaving its cause open. [c9] For what comes next, we could follow calculus and its rival foundations, Newton’s laws of motion, or the conservation principles hidden in symmetry.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The available evidence cards do not document the apple story’s later recollections or establish a precise discovery moment.",
+     "kind": "history",
+     "grade": "Unsupported",
+     "note": "No evidence card documents the apple story’s later recollections or whether Newton had a precise moment of discovery.",
+     "evidence": []
+    },
+    {
+     "id": "c2",
+     "text": "Newton wrote that he explained phenomena of the heavens and sea by gravity but had not assigned gravity's cause.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Newton’s quoted statement says he explained phenomena of the heavens and sea by gravity but had not assigned gravity’s cause.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "I have explained the Phænomena of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Newton described gravity as reaching the centers of the Sun and planets without diminution of its force.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Newton’s quoted statement describes gravity as reaching the centers of the Sun and planets without diminution of its force.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "I have explained the Phænomena of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Calculus is used in classical mechanics and connects concepts in that field.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The calculus card says physics makes particular use of calculus and relates classical-mechanics concepts through it.",
+     "evidence": [
+      {
+       "id": "E24",
+       "pack": "science",
+       "page_title": "Calculus",
+       "url": "https://en.wikipedia.org/wiki/Calculus",
+       "snippet": "Physics makes particular use of calculus; all concepts in classical mechanics and electromagnetism are related through calculus. The mass of an object of known density , the moment of inertia of objects, and the potential energies due to gravitational and electromagnetic forces can all be found by the use of calculus.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Non-standard analysis, developed by Abraham Robinson in the 1960s, offers a rigorous foundation for calculus using infinitesimal and infinite numbers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies non-standard analysis as a rigorous approach developed by Abraham Robinson in the 1960s using infinitesimal and infinite numbers.",
+     "evidence": [
+      {
+       "id": "E25",
+       "pack": "science",
+       "page_title": "Calculus",
+       "url": "https://en.wikipedia.org/wiki/Calculus",
+       "snippet": "Limits are not the only rigorous approach to the foundation of calculus. Another way is to use Abraham Robinson 's non-standard analysis . Robinson's approach, developed in the 1960s, uses technical machinery from mathematical logic to augment the real number system with infinitesimal and infinite numbers, as in the original Newton-Leibniz conception.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Calculus is used in many fields wherever problems can be mathematically modeled and solutions sought.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The calculus card lists many fields where it is used when problems can be mathematically modeled and solutions sought.",
+     "evidence": [
+      {
+       "id": "E23",
+       "pack": "science",
+       "page_title": "Calculus",
+       "url": "https://en.wikipedia.org/wiki/Calculus",
+       "snippet": "Calculus is used in every branch of the physical sciences, actuarial science , computer science , statistics , engineering , economics , business , medicine , demography , and in other fields wherever a problem can be mathematically modeled and an optimal solution is desired.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Newton distinguished explaining phenomena by gravity from assigning gravity's cause.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Newton’s statement explicitly distinguishes explaining phenomena by gravity from assigning gravity’s cause.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "I have explained the Phænomena of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Lagrangian mechanics offers a framework for classical mechanics and relates symmetries with conservation laws through Noether's theorem.",
+     "kind": "history",
+     "grade": "Debated",
+     "note": "The card reports that Landau and Lifshitz argue the Lagrangian formulation clarifies classical mechanics, so the claim about its greater clarity has thin sourcing; its link to Noether’s theorem is stated directly.",
+     "evidence": [
+      {
+       "id": "E29",
+       "pack": "science",
+       "page_title": "Newton's laws of motion",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+       "snippet": "Landau and Lifshitz argue that the Lagrangian formulation makes the conceptual content of classical mechanics more clear than starting with Newton's laws. Lagrangian mechanics provides a convenient framework in which to prove Noether's theorem , which relates symmetries and conservation laws.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Newton's account links gravity to explaining celestial and sea phenomena while leaving its cause unassigned.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Newton’s statement links gravity to explaining phenomena of the heavens and sea while saying its cause was not assigned.",
+     "evidence": [
+      {
+       "id": "E18",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "I have explained the Phænomena of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do;",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Calculus: the infinitesimal idea that changed everything",
+    "Newton’s laws: motion, force, and the limits of a framework",
+    "Noether’s theorem: how symmetry becomes conservation"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Newton’s apple story marks a precisely documented moment when he discovered gravity.",
+      "verdict": "myth",
+      "explanation": "The available evidence does not establish a precise discovery moment or document the later recollections behind the story. The apple works as a familiar story, but not as a documented account of one exact breakthrough.",
+      "evidence_ids": [],
+      "evidence": []
+     },
+     {
+      "statement": "Newton said gravity explained phenomena in the heavens and the sea, while leaving gravity’s cause unassigned.",
+      "verdict": "fact",
+      "explanation": "Newton explicitly distinguished explaining those phenomena by gravity from assigning a cause to gravity itself.",
+      "evidence_ids": [
+       "E18"
+      ],
+      "evidence": [
+       {
+        "id": "E18",
+        "pack": "science",
+        "page_title": "Newton's law of universal gravitation",
+        "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+        "snippet": "I have explained the Phænomena of the Heavens and the Sea, by the Force of Gravity; but the Cause of Gravity I have not yet assigned. It is a Force arising from some Cause, which reaches to the very Centers of the Sun and Planets, without any diminution of its Force: And it acts, not proportionally to the Surfaces of the Particles it acts upon, as Mechanical Causes use to do;",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Lagrangian mechanics connects symmetries with conservation laws.",
+      "verdict": "debated",
+      "explanation": "The chapter presents this connection through Noether’s theorem, while marking the claim debated. The evidence describes the relationship as a feature of the Lagrangian framework.",
+      "evidence_ids": [
+       "E29"
+      ],
+      "evidence": [
+       {
+        "id": "E29",
+        "pack": "science",
+        "page_title": "Newton's laws of motion",
+        "url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+        "snippet": "Landau and Lifshitz argue that the Lagrangian formulation makes the conceptual content of classical mechanics more clear than starting with Newton's laws. Lagrangian mechanics provides a convenient framework in which to prove Noether's theorem , which relates symmetries and conservation laws.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Newton links gravity to phenomena both on Earth and in the heavens. What broader claim does he make about gravity’s reach?",
+     "options": [
+      "It reaches the centers of the Sun and planets without diminishing.",
+      "It acts only on the surfaces of objects.",
+      "It explains gravity’s ultimate cause."
+     ],
+     "answer_index": 0,
+     "reveal_para": 3,
+     "explanation": "Newton describes gravity as reaching the centers of the Sun and planets without any diminution of its force."
+    }
+   }
+  },
+  "The apple’s uncertain trail through memory and legend": {
+   "index": 2,
+   "title": "What the Apple Can Prove",
+   "narration": "We left Newton in the garden, with an apple falling and a universe waiting to be explained. You chose to follow the story’s uncertain trail through memory and legend. [c1]\n\nNow move forward in time, away from the tree and toward the people who remembered the story. Newton told his contemporary William Stukeley that an apple tree in the orchard had inspired him to work on universal gravitation. [c2] Stukeley was Newton’s friend, and he wrote a memoir of Newton’s life in seventeen fifty-two. [c3] That memoir is one of the earliest sources for the falling-apple story. [c4]\n\nThat gives us something firmer than a tale floating free of its witnesses. There is a named friend, a remembered conversation, and a written account. But even a good witness can preserve a story’s shape better than its exact details. The card we have tells us Newton recounted the orchard apple to Stukeley; it does not give us a transcript of every word or prove that one falling fruit contained the whole theory. [c5]\n\nHere’s the distinction that saves the story from both worship and ridicule: an apple may have prompted a question, without supplying the answer. The remembered incident can be plausible while the polished legend of a single flash of discovery goes further than the evidence. The surviving account links the apple to Newton’s work; it does not document every step from the garden to a law governing the heavens. [c6]\n\nAnd Newton’s work did have a long road beyond the orchard. In sixteen eighty-seven, he published the Principia, combining his laws of motion with new mathematical analysis to explain Kepler’s empirical results. [c7] That is not a fruit falling into place. It is a book doing difficult work: joining motion, mathematics, and observations of planetary paths. The apple makes a superb opening scene. The Principia is the scale of the achievement.\n\nWoolsthorpe gives the scene a real landscape. Newton returned there in sixteen sixty-six, when Cambridge University closed because of plague, and carried out important experiments, especially in light and optics. [c8] Woolsthorpe is also said to be where he watched an apple fall and found inspiration for universal gravitation. [c9] Notice the difference in the verbs: returned, performed, said. A place can be tied to documented work while a particular moment there remains a remembered story.\n\nThe orchard has its own afterlife. Dendrochronology confirms that one tree there is more than four hundred years old, and it regrew from roots surviving after a tree blew down in eighteen twenty. [c10] It is cared for by gardeners and protected by a fence. [c11] That living tree is not a witness. It cannot confirm what Newton thought, or when the thought arrived. It can make the story feel touchable, which is not the same thing as making every version true.\n\nAnd here’s my read: the apple matters most not as a magic answer, but as a question with extraordinary consequences. Newton’s reported recollection gives the incident a credible place in the story of his thinking. [c12] The leap from that incident to a complete theory, delivered in one brilliant instant, is the legend’s extra flourish. [c13] The fruit may have set the mind moving; the mathematics had to carry it the rest of the way.\n\nSo: Newton’s friend Stukeley recorded the apple story in a memoir, and Newton’s great published synthesis came later, in the Principia. [c14] The garden can support a remembered prompt, not a whole theory appearing at once. [c15] The apple falls; the question opens. Where do we go next: to the Principia’s mathematical machinery, to the plague years at Woolsthorpe, or to another famous scientific discovery put on trial?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "The prior chapter presented the familiar image of Newton and a falling apple.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The apple scene is framed as a familiar image and narrative setup, not asserted as a fully verified event.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Newton told his contemporary William Stukeley that an apple tree in the orchard inspired him to work on universal gravitation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "Woolsthorpe Manor says Newton recounted to Stukeley that an orchard apple inspired him to work on universal gravitation.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Stukeley was Newton’s friend and wrote a memoir of his life in 1752.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Stukeley was Newton’s friend and wrote a memoir of his life in 1752.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "science",
+       "page_title": "William Stukeley",
+       "url": "https://en.wikipedia.org/wiki/William_Stukeley",
+       "snippet": "In late 1747, Stukeley became the rector for St George the Martyr , Queen Square , a parish in Bloomsbury , London. He moved permanently to the city in February 1748. Stukeley was a friend of Isaac Newton and wrote a memoir of his life in 1752. This is one of the earliest sources for the story of the falling apple that inspired Newton's formulation of the theory of gravitation.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Stukeley’s memoir is one of the earliest sources for the falling-apple story.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly identifies Stukeley’s memoir as one of the earliest sources for the falling-apple story.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "science",
+       "page_title": "William Stukeley",
+       "url": "https://en.wikipedia.org/wiki/William_Stukeley",
+       "snippet": "In late 1747, Stukeley became the rector for St George the Martyr , Queen Square , a parish in Bloomsbury , London. He moved permanently to the city in February 1748. Stukeley was a friend of Isaac Newton and wrote a memoir of his life in 1752. This is one of the earliest sources for the story of the falling apple that inspired Newton's formulation of the theory of gravitation.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The evidence card reports Newton recounting an orchard apple to Stukeley but provides no verbatim transcript or proof that the apple contained the complete theory.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card reports Newton recounting the apple story but supplies neither a verbatim transcript nor evidence that the apple contained the complete theory.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The account links the apple to Newton’s work but does not document every step from the garden to universal gravitation.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This appropriately distinguishes the documented apple-story link from the unproven sequence of Newton’s later reasoning.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Newton published the Principia in 1687, combining his laws of motion and mathematical analysis to explain Kepler’s empirical results.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Newton published the Principia in 1687, combining his laws of motion and mathematical analysis to explain Kepler’s results.",
+     "evidence": [
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Newton returned to Woolsthorpe in 1666 when Cambridge closed because of plague and performed important experiments there, especially on light and optics.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The Woolsthorpe card states that Newton returned in 1666 during the plague closure and performed notable experiments there, especially on light and optics.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Newton returned to Woolsthorpe in 1666 when Cambridge University closed due to the plague , and performed many of his most famous experiments there, most notably his work on light and optics . This is also said to be the site where Newton, observing an apple fall from a tree , was inspired to formulate his law of universal gravitation .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "Woolsthorpe is said to be the place where Newton observed a falling apple that inspired his formulation of universal gravitation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The claim is explicitly hedged as something said about Woolsthorpe, matching the card’s description of the location as the reported apple site.",
+     "evidence": [
+      {
+       "id": "E37",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Newton returned to Woolsthorpe in 1666 when Cambridge University closed due to the plague , and performed many of his most famous experiments there, most notably his work on light and optics . This is also said to be the site where Newton, observing an apple fall from a tree , was inspired to formulate his law of universal gravitation .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Dendrochronology confirms that one tree in the Woolsthorpe orchard is more than 400 years old and regrew from roots after a tree blew down in 1820.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that dendrochronology confirms an orchard tree is over 400 years old and that it regrew from roots after a tree blew down in 1820.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "The orchard tree is cared for by gardeners and protected by a fence.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the tree is attended to by gardeners and secured with a fence.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Newton’s reported recollection places the apple incident in the story of his thinking about gravitation.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The reported recollection is sourced, while describing its place in Newton’s thinking as credible is the narrator’s assessment.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "The evidence supports an apple-story link to Newton’s work but does not establish that a complete theory arrived in one instant.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "This is a cautious framing of what the cards do and do not establish about a single-instant discovery.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "Stukeley recorded the apple story in a memoir, and Newton published the Principia in 1687.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence supports both Stukeley’s memoir as an early source for the apple story and the Principia’s publication in 1687.",
+     "evidence": [
+      {
+       "id": "E26",
+       "pack": "science",
+       "page_title": "William Stukeley",
+       "url": "https://en.wikipedia.org/wiki/William_Stukeley",
+       "snippet": "In late 1747, Stukeley became the rector for St George the Martyr , Queen Square , a parish in Bloomsbury , London. He moved permanently to the city in February 1748. Stukeley was a friend of Isaac Newton and wrote a memoir of his life in 1752. This is one of the earliest sources for the story of the falling apple that inspired Newton's formulation of the theory of gravitation.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c15",
+     "text": "The evidence supports a remembered apple prompt but does not show the whole theory appearing at once.",
+     "kind": "history",
+     "grade": "Interpretation",
+     "note": "The claim draws a careful interpretive boundary between the reported apple prompt and an unsupported complete theory arriving at once.",
+     "evidence": [
+      {
+       "id": "E38",
+       "pack": "science",
+       "page_title": "Woolsthorpe Manor",
+       "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+       "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E21",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Inside the Principia: how mathematics made gravity universal",
+    "Plague-year Woolsthorpe: the experiments beyond the apple",
+    "Put another scientific discovery on trial"
+   ],
+   "revised": false,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Newton’s friend William Stukeley recorded the falling-apple story in a memoir published in 1752.",
+      "verdict": "fact",
+      "explanation": "Stukeley was Newton’s friend, and his 1752 memoir is one of the earliest sources for the story.",
+      "evidence_ids": [
+       "E26"
+      ],
+      "evidence": [
+       {
+        "id": "E26",
+        "pack": "science",
+        "page_title": "William Stukeley",
+        "url": "https://en.wikipedia.org/wiki/William_Stukeley",
+        "snippet": "In late 1747, Stukeley became the rector for St George the Martyr , Queen Square , a parish in Bloomsbury , London. He moved permanently to the city in February 1748. Stukeley was a friend of Isaac Newton and wrote a memoir of his life in 1752. This is one of the earliest sources for the story of the falling apple that inspired Newton's formulation of the theory of gravitation.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "A falling apple gave Newton the complete theory of universal gravitation in one instant.",
+      "verdict": "myth",
+      "explanation": "The sources connect Newton’s recollection of an orchard apple with his work, but do not establish that the whole theory arrived at once. The Principia’s mathematical synthesis came later.",
+      "evidence_ids": [
+       "E38",
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E38",
+        "pack": "science",
+        "page_title": "Woolsthorpe Manor",
+        "url": "https://en.wikipedia.org/wiki/Woolsthorpe_Manor",
+        "snippet": "Isaac Newton recounted to his contemporary William Stukeley how an apple tree in the orchard inspired him to work on his law of universal gravitation. Dendrochronology confirms one of the trees in the orchard to be over 400 years old, having regrown from roots surviving from a tree which blew down in 1820. It is attended to by gardeners, secured with a fence, and cared for by the National Trust .",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       },
+       {
+        "id": "E21",
+        "pack": "science",
+        "page_title": "Newton's law of universal gravitation",
+        "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+        "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Newton published the Principia in 1687, combining his laws of motion and mathematical analysis to explain Kepler’s results.",
+      "verdict": "fact",
+      "explanation": "The evidence card describes the Principia as published in 1687 and says it combined Newton’s laws of motion with new mathematical analysis to explain Kepler’s empirical results.",
+      "evidence_ids": [
+       "E21"
+      ],
+      "evidence": [
+       {
+        "id": "E21",
+        "pack": "science",
+        "page_title": "Newton's law of universal gravitation",
+        "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+        "snippet": "In 1687, Newton published his Principia which combined his laws of motion with new mathematical analysis to explain Kepler's empirical results. Newton's formulation was later condensed into the inverse-square law: where F is the force, m 1 and m 2 are the masses of the objects interacting, r is the distance between the centers of the masses and G is the gravitational constant 6.674 × 10 −11 m 3 …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Newton’s apple story has a named witness and an early written account. What did Newton later publish as his major mathematical synthesis?",
+     "options": [
+      "The Principia",
+      "A memoir of Stukeley",
+      "A study of optics"
+     ],
+     "answer_index": 0,
+     "reveal_para": 4,
+     "explanation": "Newton published the Principia in 1687, combining his laws of motion with mathematical analysis to explain Kepler’s results."
+    }
+   }
+  },
+  "Gravity’s grand consequence: a changed cosmos": {
+   "index": 2,
+   "title": "One Law, Two Worlds",
+   "narration": "We left Newton in the garden, with the apple story hanging in the air. You chose the larger question: what changes when a falling fruit becomes a doorway into a changed picture of the cosmos?\n\nFirst, let the apple do the work a good story can do. It gives the mind a scene: something drops, someone wonders why, and an everyday moment opens onto a vast question. But a scene is not the same as a secure record of discovery. So keep the apple as an anecdote, not a courtroom transcript, and let the science carry the weight.\n\nNewton’s achievement did not arrive as one polished flash. At Woolsthorpe, in the years after his bachelor’s degree, he developed theories of calculus, optics, and gravitation. [c1] Those years of private study have been described as exceptionally productive. [c2] That is a more interesting kind of drama than the instant revelation. A mind works, tests, connects, and keeps working after the memorable scene would have ended.\n\nThe public landmark in our evidence is the Principia. Newton’s 1713 General Scholium, included in its second edition, explains his model of gravity. [c3] We do not have the passage itself here, so I will not supply a quotation or pretend to reproduce Newton’s words. The title alone is not the whole achievement. The question is what a model of gravity lets us see.\n\nHere is the shift in scale. Instead of treating the sky as a place beyond description, we can ask what kind of path a celestial body follows. A celestial orbit can be described as a conic-section trajectory in its orbital plane. [c4] That phrase sounds like geometry wearing a formal coat. Underneath it is a bold possibility: the movements above us can be described with mathematical structure.\n\nAnd then the story turns back toward Earth. Newton accounted for the precession of the equinoxes through the Moon’s gravitational attraction on Earth’s oblateness. [c5] In that account, a body in the sky is not merely scenery. The Moon’s attraction enters an explanation of a feature of Earth. The scale has widened, then folded back on itself: from the heavens, to the shape and motion of our world.\n\nIf you ask me, that is where the apple story earns its keep. Not as proof that one afternoon contained the whole theory, but as a pocket-sized image for a much larger change in thought. The fruit falls. The Moon attracts. Between those images sits the work: models, mathematics, and explanations that reach beyond the garden.\n\nBut a powerful account is not the final account. Newton’s law was later superseded by Einstein’s general relativity, while Newtonian gravity remains an excellent approximation in most applications. [c6] That is no reason to sneer at Newton. A map can guide you brilliantly without being the landscape itself. Its limits do not erase what it made possible; they show where later inquiry had to go.\n\nSo do not ask the apple to carry the entire universe on its stem. Let it be the memorable opening image, and let Newton’s work be the larger story: a model of gravity, mathematical descriptions of motion, and consequences that reached from orbit back to Earth. The wonder is not that a fruit supposedly solved the cosmos in an instant. The wonder is that a human effort to understand motion could reshape the scale of the question.\n\nSo: Newton developed gravitation alongside other major work, and his model helped make the motions of the heavens and the features of Earth part of a mathematical conversation. [c7] His law was later superseded, yet it remains useful as an approximation. [c8] Where should we go next: Einstein and curved spacetime, the Moon’s influence on Earth, or the mathematics behind Newton’s cosmos?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "At Woolsthorpe, in the years after his bachelor's degree, Newton developed theories of calculus, optics, and gravitation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Newton developed theories of calculus, optics, and gravitation at Woolsthorpe in the years after his bachelor's degree.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "Although he had been undistinguished as a Cambridge student, his private studies and the years following his bachelor's degree have been described as \"the richest and most productive ever experienced by a scientist\". The next two years alone saw the development of theories on calculus, optics , and the law of gravitation , at his home in Woolsthorpe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "Newton's private studies and the years after his bachelor's degree were described as exceptionally productive.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence describes Newton's private studies and post-degree years as exceptionally productive.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "Although he had been undistinguished as a Cambridge student, his private studies and the years following his bachelor's degree have been described as \"the richest and most productive ever experienced by a scientist\". The next two years alone saw the development of theories on calculus, optics , and the law of gravitation , at his home in Woolsthorpe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Newton's 1713 General Scholium in the second edition of the Principia explains his model of gravity.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that the 1713 General Scholium in the second edition of the Principia explains Newton's model of gravity.",
+     "evidence": [
+      {
+       "id": "E14",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Newton's 1713 General Scholium in the second edition of Principia explains his model of gravity, translated in this case by Samuel Clarke :",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "A celestial orbit can be described as a conic-section trajectory in its orbital plane.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence defines a Kepler orbit as a conic-section trajectory in its orbital plane.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Kepler orbit – Celestial orbit whose trajectory is a conic section in the orbital plane",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Newton accounted for the precession of the equinoxes through the Moon's gravitational attraction on Earth's oblateness.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says Newton accounted for precession of the equinoxes through the Moon's gravitational attraction on Earth's oblateness.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "In the same work, Newton presented a calculus-like method of geometrical analysis using 'first and last ratios', gave the first analytical determination (based on Boyle's law ) of the speed of sound in air, inferred the oblateness of Earth's spheroidal figure, accounted for the precession of the equinoxes as a result of the Moon's gravitational attraction on the Earth's oblateness, initiated the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Einstein's general relativity later superseded Newton's law, which remains an excellent approximation in most applications.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence says general relativity superseded Newton's law while the law remains an excellent approximation in most applications.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Newton's law was later superseded by Albert Einstein 's theory of general relativity , but the universality of the gravitational constant is intact and the law still continues to be used as an excellent approximation of the effects of gravity in most applications.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "Newton developed gravitation alongside other major work, and his model had implications for orbital and terrestrial phenomena.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence links Newton's gravitation work with his other major work and describes implications for celestial orbits and terrestrial phenomena.",
+     "evidence": [
+      {
+       "id": "E17",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "Although he had been undistinguished as a Cambridge student, his private studies and the years following his bachelor's degree have been described as \"the richest and most productive ever experienced by a scientist\". The next two years alone saw the development of theories on calculus, optics , and the law of gravitation , at his home in Woolsthorpe.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E16",
+       "pack": "science",
+       "page_title": "Isaac Newton",
+       "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+       "snippet": "In the same work, Newton presented a calculus-like method of geometrical analysis using 'first and last ratios', gave the first analytical determination (based on Boyle's law ) of the speed of sound in air, inferred the oblateness of Earth's spheroidal figure, accounted for the precession of the equinoxes as a result of the Moon's gravitational attraction on the Earth's oblateness, initiated the …",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E15",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Kepler orbit – Celestial orbit whose trajectory is a conic section in the orbital plane",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "Newton's law was later superseded but remains useful as an approximation.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The evidence states that Newton's law was superseded but continues to be useful as an approximation.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "science",
+       "page_title": "Newton's law of universal gravitation",
+       "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+       "snippet": "Newton's law was later superseded by Albert Einstein 's theory of general relativity , but the universality of the gravitational constant is intact and the law still continues to be used as an excellent approximation of the effects of gravity in most applications.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Einstein and curved spacetime: gravity becomes geometry",
+    "The Moon's influence on Earth's shape and motion",
+    "Calculus: the mathematics behind Newton's cosmos"
+   ],
+   "revised": true,
+   "chosen_branch": null,
+   "games": {
+    "myth_or_fact": [
+     {
+      "statement": "Newton developed theories of calculus, optics, and gravitation during his years at Woolsthorpe.",
+      "verdict": "fact",
+      "explanation": "The evidence places this work at his home in Woolsthorpe in the years after his bachelor's degree.",
+      "evidence_ids": [
+       "E17"
+      ],
+      "evidence": [
+       {
+        "id": "E17",
+        "pack": "science",
+        "page_title": "Isaac Newton",
+        "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+        "snippet": "Although he had been undistinguished as a Cambridge student, his private studies and the years following his bachelor's degree have been described as \"the richest and most productive ever experienced by a scientist\". The next two years alone saw the development of theories on calculus, optics , and the law of gravitation , at his home in Woolsthorpe.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Newton explained the precession of the equinoxes through the Moon's gravitational pull on Earth's oblateness.",
+      "verdict": "fact",
+      "explanation": "The evidence attributes Newton's account of the precession to the Moon's gravitational attraction on Earth's oblateness.",
+      "evidence_ids": [
+       "E16"
+      ],
+      "evidence": [
+       {
+        "id": "E16",
+        "pack": "science",
+        "page_title": "Isaac Newton",
+        "url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+        "snippet": "In the same work, Newton presented a calculus-like method of geometrical analysis using 'first and last ratios', gave the first analytical determination (based on Boyle's law ) of the speed of sound in air, inferred the oblateness of Earth's spheroidal figure, accounted for the precession of the equinoxes as a result of the Moon's gravitational attraction on the Earth's oblateness, initiated the …",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     },
+     {
+      "statement": "Newton's law of gravity is still the final account of gravity and has not been superseded.",
+      "verdict": "myth",
+      "explanation": "The evidence says Einstein's general relativity later superseded Newton's law, although Newtonian gravity remains an excellent approximation in most applications.",
+      "evidence_ids": [
+       "E13"
+      ],
+      "evidence": [
+       {
+        "id": "E13",
+        "pack": "science",
+        "page_title": "Newton's law of universal gravitation",
+        "url": "https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation",
+        "snippet": "Newton's law was later superseded by Albert Einstein 's theory of general relativity , but the universality of the gravitational constant is intact and the law still continues to be used as an excellent approximation of the effects of gravity in most applications.",
+        "license": "Text from Wikipedia, CC BY-SA 4.0"
+       }
+      ]
+     }
+    ],
+    "call_it": {
+     "question": "Newton's account links the Moon to a change in Earth's motion. What did he explain?",
+     "options": [
+      "The precession of the equinoxes",
+      "The speed of sound in air",
+      "The shape of a celestial orbit"
+     ],
+     "answer_index": 0,
+     "reveal_para": 5,
+     "explanation": "Newton accounted for the precession of the equinoxes through the Moon's gravitational attraction on Earth's oblateness."
+    }
+   }
+  }
+ },
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 4,
+   "input_tokens": 9003,
+   "cached_tokens": 8040,
+   "cache_write_tokens": 459,
+   "output_tokens": 706,
+   "cost_usd": 0.00054117
+  },
+  {
+   "agent": "researcher",
+   "requests": 17,
+   "input_tokens": 56782,
+   "cached_tokens": 46057,
+   "cache_write_tokens": 8583,
+   "output_tokens": 1885,
+   "cost_usd": 0.00269015
+  },
+  {
+   "agent": "storyteller",
+   "requests": 6,
+   "input_tokens": 26713,
+   "cached_tokens": 19956,
+   "cache_write_tokens": 6001,
+   "output_tokens": 8390,
+   "cost_usd": 0.00522028
+  },
+  {
+   "agent": "skeptic",
+   "requests": 6,
+   "input_tokens": 25326,
+   "cached_tokens": 14664,
+   "cache_write_tokens": 9906,
+   "output_tokens": 3722,
+   "cost_usd": 0.00332149
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1762,
+   "cached_tokens": 1483,
+   "cache_write_tokens": 153,
+   "output_tokens": 17,
+   "cost_usd": 5.506e-05
+  }
+ ],
+ "build_cost_usd": 0.011828,
+ "build_seconds": 112.7
+}

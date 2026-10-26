@@ -1,0 +1,578 @@
+{
+ "id": "922be2ee2e",
+ "thread": {
+  "id": "texas-law-medieval-spain",
+  "title": "Texas Law & Medieval Spain",
+  "hook": "Why a Texas divorce court still splits property like a Visigothic king, and the 'Muslim Spain' legend.",
+  "mode": "history",
+  "packs": [
+   "history"
+  ],
+  "era": "Visigothic & Castilian Spain → Spanish Texas",
+  "universe": "",
+  "curated": true
+ },
+ "minutes": 10,
+ "total_chapters": 2,
+ "title": "Texas, Visigoths, and the Muslim Spain Myth",
+ "logline": "Trace the documented legal road from Visigothic codes through Castile to Texas—and test the tempting claim that Muslim Spain was the source.",
+ "chapters": [
+  {
+   "index": 1,
+   "title": "The King in the Courthouse",
+   "narration": "Here’s a question for your next trip to the courthouse: when a marriage ends, why might the law treat what you built together as belonging to both of you? Texas community-property law has a long ancestry. But the story is not a straight jump from a medieval Spanish king to a modern judge. [c1]\n\nThink of the “Visigothic king” as an image, not a man in a courtroom whispering into Texas law. The documented trail runs through legal systems and borders: from the Visigothic Code, through Spanish law, into Mexico’s system, and onward into parts of the American West. [c2] That chain is the story. And every link matters.\n\nSo what does community property mean in practice? In general, property owned by one spouse before marriage, along with gifts and inheritances received during marriage, can remain that spouse’s separate property. Other property acquired during marriage is treated as community property and is subject to division in a divorce. [c3] The exact rules depend on the jurisdiction. [c4]\n\nThat distinction sounds technical until you imagine the moment it matters. A home, a business, savings built over years: the court must decide what belongs to whom. The system offers a framework for sorting those claims. Depending on the jurisdiction, division can happen item by item or by assigning values. [c5]\n\nNow pull back. Community property began in civil-law jurisdictions, though it is also found in some common-law jurisdictions. [c6] The American states that use it draw primarily on marital-property laws from the civil law of France and Spain. [c7] That is already more complicated than the tidy legend. There isn’t one ancient switch that flips from a king’s code to your divorce decree. There are legal traditions carried, adapted, and adopted across time.\n\nHere’s the geographic clue. Community-property states in the United States are primarily in the West. [c8] One account traces the system through Mexico’s ganancial community system, inherited from Spanish law, which it describes as a Roman-derived civil-law tradition, and ultimately to the Visigothic Code. [c9] Another account says Spain adopted the Visigothic Code and brought it to the Americas, including territories of Mexico later ceded to the United States. [c10]\n\nThat is a lineage, not a magic spell. The code does not leap centuries intact into a Texas courthouse. Legal forms travel with people and governments; local systems inherit them and reshape them. The available account says each state had different motivations for adopting the Spanish approach, but one shared reason was that the approach had already been in place in the region for many years. [c11]\n\nAnd the transfer of territory was not an abstract map exercise. The Treaty of Guadalupe Hidalgo’s Articles Eight and Nine sought to protect existing property rights of Mexican citizens in transferred territories. [c12] Yet land grants made by the Mexican government were often not honored by the United States, despite those assurances, because of changes in treaty interpretation and American legal decisions. [c13] So when we tell a story about inherited law, we must also hear the harder story: legal continuity did not guarantee that every person’s property claim survived.\n\nIf you ask me, the king is a useful silhouette. He gives the distant past a face. But the real protagonist is a chain of legal traditions, carried through Spain and Mexico, then encountered by American states with their own choices. That chain helps explain why a modern property rule can have roots much older than the state that applies it. [c14]\n\nNext, we can follow the Visigothic Code through Spanish law, examine the Mexican legal bridge, or confront the treaty and the property rights it promised to protect. Which trail do you want?",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Texas community-property law has a long ancestry but is not a direct leap from medieval Spain to a modern courtroom.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support a long lineage through legal traditions, while the claim that it is not a direct leap is a reasonable summary of that chain.",
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Community property rights in California and other western states are based on the Visigothic Code which Spain adopted and then brought to the Americas, including the former territories of Mexico that were ceded to the U.S. Although each state had different motivations for adopting the Spanish approach, one common driver was that it was already in place in the region for many years.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The documented lineage runs from the Visigothic Code through Spanish and Mexican legal traditions into parts of the American West.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards trace the lineage from the Visigothic Code through Spanish law and Mexico to community-property law in western U.S. states.",
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Community property rights in California and other western states are based on the Visigothic Code which Spain adopted and then brought to the Americas, including the former territories of Mexico that were ceded to the U.S. Although each state had different motivations for adopting the Spanish approach, one common driver was that it was already in place in the region for many years.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Property owned before marriage and gifts or inheritances received during marriage may remain separate, while other marital acquisitions are community property subject to division.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that premarital property and gifts or inheritances may remain separate, while other marital acquisitions are community property subject to division.",
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Under a community property regime, depending on the jurisdiction, property owned by one spouse before marriage , and gifts and inheritances received during marriage, are treated as that spouse's separate property in the event of divorce. All other property acquired during the marriage is treated as community property and is subject to division between the spouses in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Treatment of property under community-property regimes depends on jurisdiction.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly qualifies the treatment of separate property as depending on jurisdiction.",
+     "evidence": [
+      {
+       "id": "E5",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "Under a community property regime, depending on the jurisdiction, property owned by one spouse before marriage , and gifts and inheritances received during marriage, are treated as that spouse's separate property in the event of divorce. All other property acquired during the marriage is treated as community property and is subject to division between the spouses in the event of divorce.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "Community property may be divided item by item or by assigning values, depending on jurisdiction.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes division by splitting items or by values, supporting the narration’s item-by-item or value-based summary.",
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The community property concept originated in civil law jurisdictions but is now also found in some common law jurisdictions. U.S. states with community property laws draw primarily from the marital property laws under the civil law of France and Spain. Division of community property may take place by item by splitting all items or by values.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "Community property originated in civil-law jurisdictions and is also found in some common-law jurisdictions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the concept originated in civil-law jurisdictions and is also found in some common-law jurisdictions.",
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The community property concept originated in civil law jurisdictions but is now also found in some common law jurisdictions. U.S. states with community property laws draw primarily from the marital property laws under the civil law of France and Spain. Division of community property may take place by item by splitting all items or by values.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "US states with community-property laws draw primarily from French and Spanish civil-law marital-property rules.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card plainly says U.S. states with community-property laws draw primarily from French and Spanish civil-law marital-property laws.",
+     "evidence": [
+      {
+       "id": "E6",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The community property concept originated in civil law jurisdictions but is now also found in some common law jurisdictions. U.S. states with community property laws draw primarily from the marital property laws under the civil law of France and Spain. Division of community property may take place by item by splitting all items or by values.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "US states recognizing community property are primarily in the West.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that U.S. states recognizing community property are primarily in the West.",
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "One account traces US community property through Mexico’s ganancial community system and Spanish law to the Visigothic Code.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card traces the system through Mexico’s ganancial community system and Spanish law to the Visigothic Code, and describes Spanish law as Roman-derived.",
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Spain adopted the Visigothic Code and brought it to the Americas, including former Mexican territories ceded to the United States.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Spain adopted the Visigothic Code and brought it to the Americas, including former Mexican territories ceded to the United States.",
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Community property rights in California and other western states are based on the Visigothic Code which Spain adopted and then brought to the Americas, including the former territories of Mexico that were ceded to the U.S. Although each state had different motivations for adopting the Spanish approach, one common driver was that it was already in place in the region for many years.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "States adopting the Spanish approach had different motivations, but a shared factor was its long-standing regional presence.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says state motivations differed and identifies the approach’s long-standing regional presence as one common driver.",
+     "evidence": [
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Community property rights in California and other western states are based on the Visigothic Code which Spain adopted and then brought to the Americas, including the former territories of Mexico that were ceded to the U.S. Although each state had different motivations for adopting the Spanish approach, one common driver was that it was already in place in the region for many years.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c12",
+     "text": "Articles VIII and IX of the Treaty of Guadalupe Hidalgo addressed protection of existing property rights of Mexican citizens in transferred territories.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that Articles VIII and IX ensured protection of existing property rights of Mexican citizens in transferred territories.",
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Articles VIII and IX ensured the safety of existing property rights of Mexican citizens living in the transferred territories. Despite assurances to the contrary, land grants by the Mexican government to its citizens were often not honored by the United States because of unilateral modifications to and interpretations of the Treaty and U.S. legal decisions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c13",
+     "text": "Mexican-government land grants were often not honored by the United States despite treaty assurances, amid unilateral modifications, interpretations, and legal decisions.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Mexican-government land grants were often not honored despite assurances, citing treaty modifications and interpretations and U.S. legal decisions.",
+     "evidence": [
+      {
+       "id": "E2",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Articles VIII and IX ensured the safety of existing property rights of Mexican citizens living in the transferred territories. Despite assurances to the contrary, land grants by the Mexican government to its citizens were often not honored by the United States because of unilateral modifications to and interpretations of the Treaty and U.S. legal decisions.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c14",
+     "text": "The modern rule is best understood as a chain of legal traditions that crossed Spain and Mexico and was adopted by American states.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The cards support a chain through Spain and Mexico and describe American states’ adoption of the Spanish approach, though the spoken framing correctly presents this as a synthesis rather than a direct, unchanged transfer.",
+     "evidence": [
+      {
+       "id": "E4",
+       "pack": "history",
+       "page_title": "Community property in the United States",
+       "url": "https://en.wikipedia.org/wiki/Community_property_in_the_United_States",
+       "snippet": "The states of the United States that recognize community property are primarily in the Western United States ; it was inherited from Mexico 's ganancial community system, which itself was inherited from Spanish law (a Roman -derived civil law system) and ultimately from the Visigothic Code .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      },
+      {
+       "id": "E1",
+       "pack": "history",
+       "page_title": "Treaty of Guadalupe Hidalgo",
+       "url": "https://en.wikipedia.org/wiki/Treaty_of_Guadalupe_Hidalgo",
+       "snippet": "Community property rights in California and other western states are based on the Visigothic Code which Spain adopted and then brought to the Americas, including the former territories of Mexico that were ceded to the U.S. Although each state had different motivations for adopting the Spanish approach, one common driver was that it was already in place in the region for many years.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Trace the Visigothic Code through Spanish law",
+    "Follow Mexico’s ganancial community system",
+    "Examine the treaty and contested property rights"
+   ],
+   "revised": false,
+   "chosen_branch": "Trace the Visigothic Code through Spanish law"
+  },
+  {
+   "index": 2,
+   "title": "From Visigothic Code to Texas",
+   "narration": "Last time, we put a courthouse question on the table: why can Texas treat some property as belonging to both spouses? You chose to follow the legal trail backward, toward the Visigothic Code.\n\nHere’s the payoff. Not a magic rule surviving unchanged for more than a thousand years. A chain of legal systems, each carrying, translating, and reshaping material from the one before it.\n\nStart with the Visigothic kingdom. King Chindasuinth began a law code in six hundred forty-two or six hundred forty-three, aiming to establish common legal status for Visigothic and Spanish-Roman subjects. [c1] That aim matters. This was not simply a private family custom. It was part of a larger effort to make a kingdom legible to its people through law.\n\nThe code did not freeze in place. The six hundred fifty-four code was enlarged by legislation under Recceswinth and later kings. [c2] Recceswinth’s version was edited by Braulio of Zaragoza, after Chindasuinth’s original code had been hastily written and promulgated. [c3] Already, the story is less like a baton passed untouched and more like a manuscript repeatedly revised. That image is my interpretation, but the revisions are the point: legal inheritance can be real without being motionless.\n\nNow jump forward to Castile. In twelve forty-one, Fernando the Third enacted the Fuero Juzgo, a Castilian legal codex that was essentially a translation of the Liber Iudiciorum, formulated by the Visigoths in six hundred fifty-four. [c4] There’s the clearest bridge in our story: not a vague resemblance, but a named later text built through translation from an earlier one.\n\nAnd translation is not the same thing as unchanged survival. The Fuero Juzgo was applied as a local law in several kingdoms in the middle of the Iberian Peninsula that Castile slowly reconquered from Muslim rulers. [c5] In thirteen forty-eight, the Ordenamiento de Alcalá gave the Fuero Juzgo legal preeminence over the Siete Partidas. [c6] A law’s place in the system could shift. Texts could be translated, applied locally, and ranked against other bodies of law. The lineage is documented; the idea of one identical rule marching straight from a Visigothic court into a Texas courtroom is not the story these milestones tell.\n\nThen comes the Siete Partidas, the great Castilian legal work associated with Alfonso the Tenth. It stands at the high point of the acceptance in Spain of common law drawn from Roman and canon-law traditions. [c7] It became one of the most important legal texts for governing Castile and later the Spanish Empire. [c8] This is a crucial turn: Spanish law was not one sealed inheritance. It absorbed and organized traditions, then carried legal texts into a much larger imperial world.\n\nFrom the beginnings of European expansion into the New World, the Siete Partidas was introduced to Spanish America along with Castilian law. [c9] That gives us a documented route toward the legal world that shaped Spanish Texas. And Texas did not simply keep every Spanish institution intact. It eventually adopted much of the Anglo-American legal system, while retaining some Spanish legal practices. [c10]\n\nAmong those practices, Texas retains community property and the homestead exemption. [c11] Here’s my take: the courthouse connection is powerful precisely because it is a history of adaptation, not a family heirloom sealed in glass. A legal idea crosses languages, kingdoms, and empires, then meets a new political system. What survives is not necessarily the same rule in the same form. It is a tradition with a traceable ancestry.\n\nAnd what about the popular claim that Texas community property comes directly from Islamic law? The chain we have traced gives us a much firmer path through Visigothic law, Castilian law, and Spanish legal practice carried into the Americas. It does not establish a direct Islamic-law origin. Treat that sweeping claim cautiously, not as the proven source of Texas law.\n\nSo the courthouse hook lands, but with a sharper edge. The Visigothic Code is not a secret Texas statute in disguise. It is an ancestor in a documented legal lineage, transformed along the way. The question now is what other Texas institutions carry Spanish legal inheritances—and where those inheritances changed beyond recognition.",
+   "claims": [
+    {
+     "id": "c1",
+     "text": "Chindasuinth began a code in 642–643 seeking common legal status for Visigothic and Spanish-Roman subjects.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Chindasuinth began the code in 642–643 and sought common legal status for Visigothic and Spanish-Roman subjects.",
+     "evidence": [
+      {
+       "id": "E9",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The Visigothic Code ( Latin : Forum Iudicum, Liber Iudiciorum , or Book of the Judgements; Spanish : Fuero Juzgo ), also called Lex Visigothorum (English: Law of the Visigoths ), is a set of laws begun by king Chindasuinth (642–653 AD) of the Visigothic Kingdom in his second year of rule (642–643) that sought to provide common legal status between his Visigothic and Spanish-Roman subjects.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c2",
+     "text": "The 654 code was enlarged by legislation under Recceswinth and later kings.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the 654 code was enlarged by Recceswinth and later kings.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c3",
+     "text": "Braulio of Zaragoza edited Recceswinth's code after Chindasuinth's original was hastily written and promulgated.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Braulio edited Recceswinth’s code because Chindasuinth’s original had been hastily written and promulgated.",
+     "evidence": [
+      {
+       "id": "E11",
+       "pack": "history",
+       "page_title": "Visigothic Code",
+       "url": "https://en.wikipedia.org/wiki/Visigothic_Code",
+       "snippet": "The code of 654 was enlarged by the novel legislation of Recceswinth (for which reason it is sometimes called the Code of Recceswinth ) and later kings Wamba , Erwig , Egica , and perhaps Wittiza . Recceswinth's code was edited by Braulio of Zaragoza , since Chindasuinth's original code had been hastily written and promulgated.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c4",
+     "text": "Fernando III enacted the Fuero Juzgo in Castile in 1241 as essentially a translation of the Visigothic Liber Iudiciorum, formulated in 654.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card identifies Fernando III’s 1241 enactment in Castile as essentially a translation of the Liber Iudiciorum formulated in 654.",
+     "evidence": [
+      {
+       "id": "E7",
+       "pack": "history",
+       "page_title": "Fuero Juzgo",
+       "url": "https://en.wikipedia.org/wiki/Fuero_Juzgo",
+       "snippet": "The Fuero Juzgo ( Spanish pronunciation: [ˈfweɾo ˈxuθɣo] ) was a codex of Spanish laws enacted in Castile in 1241 by Fernando III . It is essentially a translation of the Liber Iudiciorum that was formulated in 654 by the Visigoths .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c5",
+     "text": "The Fuero Juzgo was applied locally in several central Iberian kingdoms reconquered by Castile from Muslim rulers.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card states that the Fuero Juzgo was applied locally in several central Iberian kingdoms Castile reconquered from Muslim rulers.",
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "history",
+       "page_title": "Fuero Juzgo",
+       "url": "https://en.wikipedia.org/wiki/Fuero_Juzgo",
+       "snippet": "The Fuero Juzgo was first applied legally as a fuero local in several kingdoms in the middle of the Iberian Peninsula that Castile slowly reconquered from Muslim rulers. The first known reference to the Fuero Juzgo in law was seen in Córdoba . In 1348, the Ordenamiento de Alcalá granted it legal preeminence over the Siete Partidas .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c6",
+     "text": "The 1348 Ordenamiento de Alcalá granted the Fuero Juzgo legal preeminence over the Siete Partidas.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the 1348 Ordenamiento de Alcalá granted the Fuero Juzgo legal preeminence over the Siete Partidas.",
+     "evidence": [
+      {
+       "id": "E8",
+       "pack": "history",
+       "page_title": "Fuero Juzgo",
+       "url": "https://en.wikipedia.org/wiki/Fuero_Juzgo",
+       "snippet": "The Fuero Juzgo was first applied legally as a fuero local in several kingdoms in the middle of the Iberian Peninsula that Castile slowly reconquered from Muslim rulers. The first known reference to the Fuero Juzgo in law was seen in Córdoba . In 1348, the Ordenamiento de Alcalá granted it legal preeminence over the Siete Partidas .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c7",
+     "text": "The Siete Partidas represented a high point of accepting common law from Roman and canonical traditions in Spain.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card describes the Siete Partidas as the high point of accepting common law from Roman and canonical traditions in Spain.",
+     "evidence": [
+      {
+       "id": "E12",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "The Siete Partidas , as the centerpiece of legislative activity under Alfonso X, represents the high point of the acceptance of common law (from Roman and canonical traditions) in Spain . Moreover, it constitutes one of the most important judicial works of the Middle Ages .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c8",
+     "text": "The Siete Partidas was important in governing Castile and later the Spanish Empire.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card calls the Siete Partidas one of the most important legal texts for governing Castile and later the Spanish Empire.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Likewise, it was one of the most important legal texts for the governing of Castile (given that it regulated so many matters) and, later, the Spanish Empire . From the beginnings of European expansion into the New World, it was introduced to Spanish America along with Castilian law, and to Brazil, with Portuguese law.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c9",
+     "text": "The Siete Partidas entered Spanish America with Castilian law from the beginnings of European expansion into the New World.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says the Siete Partidas was introduced to Spanish America with Castilian law from the beginnings of European expansion into the New World.",
+     "evidence": [
+      {
+       "id": "E13",
+       "pack": "history",
+       "page_title": "Siete Partidas",
+       "url": "https://en.wikipedia.org/wiki/Siete_Partidas",
+       "snippet": "Likewise, it was one of the most important legal texts for the governing of Castile (given that it regulated so many matters) and, later, the Spanish Empire . From the beginnings of European expansion into the New World, it was introduced to Spanish America along with Castilian law, and to Brazil, with Portuguese law.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c10",
+     "text": "Texas eventually adopted much of the Anglo-American legal system while retaining some Spanish legal practices.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card says Texas adopted much of the Anglo-American legal system while retaining some Spanish legal practices.",
+     "evidence": [
+      {
+       "id": "E15",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Although Texas eventually adopted much of the Anglo-American legal system, many Spanish legal practices were retained. Among these was the Spanish model of keeping certain personal property safe from creditors. Texas implemented the first homestead exemption in the United States in 1839, and its property exemption laws are now the most liberal in the United States.",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    },
+    {
+     "id": "c11",
+     "text": "Spanish legal practices retained in Texas include community property and the homestead exemption.",
+     "kind": "history",
+     "grade": "Documented",
+     "note": "The card explicitly identifies community property and the homestead exemption among Spanish legal practices that survive in Texas.",
+     "evidence": [
+      {
+       "id": "E16",
+       "pack": "history",
+       "page_title": "Spanish Texas",
+       "url": "https://en.wikipedia.org/wiki/Spanish_Texas",
+       "snippet": "Spanish influence in Texas is significant and Spanish architectural concepts continued to shape the built environment. Many cities and rivers in Texas were named by Spaniards, and many counties in southern and western Texas have majority-Hispanic populations. Many Spanish legal practices still survive, including the concepts of a homestead exemption and community property .",
+       "license": "Text from Wikipedia, CC BY-SA 4.0"
+      }
+     ]
+    }
+   ],
+   "branch_options": [
+    "Texas homestead law and the Spanish inheritance",
+    "How Castilian law crossed into New Spain",
+    "Compare Texas community property with other states"
+   ],
+   "revised": false,
+   "chosen_branch": null
+  }
+ ],
+ "plan": [
+  {
+   "title": "The King in the Courthouse",
+   "focus": "Open on the striking hook: Texas community-property law has roots in legal traditions carried across centuries, not a simple leap from medieval Spain to modern courtrooms. Introduce the Texas system and the documented Visigothic and Castilian lineage, while treating the “Visigothic king” image as a vivid analogy rather than a literal explanation.",
+   "queries": [
+    "history: Texas community property",
+    "history: Visigothic Code",
+    "history: Siete Partidas",
+    "history: Spanish law New Spain"
+   ],
+   "packs": [
+    "history"
+   ]
+  },
+  {
+   "title": "Testing the Muslim Spain Claim",
+   "focus": "Follow the legal trail through Castilian law and its transmission to New Spain, then weigh what evidence supports—and does not support—about Islamic influence on the Siete Partidas. Pay off the opening by distinguishing documented legal roots from a broader, debated influence, rather than presenting the popular “Muslim origins” line as settled fact.",
+   "queries": [
+    "history: Siete Partidas Islamic law",
+    "history: community property Texas Spanish law",
+    "history: Castilian law New Spain",
+    "history: Visigothic law property"
+   ],
+   "packs": [
+    "history"
+   ]
+  }
+ ],
+ "reading": [],
+ "usage": [
+  {
+   "agent": "showrunner",
+   "requests": 2,
+   "input_tokens": 3920,
+   "cached_tokens": 3454,
+   "cache_write_tokens": 214,
+   "output_tokens": 514,
+   "cost_usd": 0.00034349
+  },
+  {
+   "agent": "researcher",
+   "requests": 7,
+   "input_tokens": 19459,
+   "cached_tokens": 14463,
+   "cache_write_tokens": 4114,
+   "output_tokens": 717,
+   "cost_usd": 0.00110558
+  },
+  {
+   "agent": "storyteller",
+   "requests": 2,
+   "input_tokens": 6766,
+   "cached_tokens": 2546,
+   "cache_write_tokens": 3968,
+   "output_tokens": 3136,
+   "cost_usd": 0.00211466
+  },
+  {
+   "agent": "skeptic",
+   "requests": 2,
+   "input_tokens": 7439,
+   "cached_tokens": 3386,
+   "cache_write_tokens": 3801,
+   "output_tokens": 1211,
+   "cost_usd": 0.00113969
+  },
+  {
+   "agent": "librarian",
+   "requests": 1,
+   "input_tokens": 1561,
+   "cached_tokens": 1324,
+   "cache_write_tokens": 111,
+   "output_tokens": 39,
+   "cost_usd": 0.00005922
+  }
+ ],
+ "total_usd": 0.00476264,
+ "status": "done",
+ "stop_reason": "",
+ "demo": false
+}
