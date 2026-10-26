@@ -238,3 +238,18 @@ Re-captured every report and slide screenshot, added the SOM classmates' round t
 - six value-proposition cards and a comparison table
 - what each grade means and how the agents keep stories honest
 - who made it, plus credits and disclaimers)
+
+**Prompt 54**
+> now update the demo video, and all other deliverables so that i can submit the final project
+
+(Choices:
+- Placeholders: rewrite them honestly.
+- Judge spot-check: I'll do it myself.
+- Demo video: Claude records it.
+- Repo: publish publicly.
+
+Results:
+- Recorded a 2:13 narrated demo by scripting the real app.
+- Replaced every tester placeholder with honest text.
+- Published github.com/gaurangsingh10/loremaster.
+- Packaged report, slides and video in SUBMIT/.)
