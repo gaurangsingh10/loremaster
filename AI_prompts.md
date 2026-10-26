@@ -274,3 +274,8 @@ Slides:
 - slide 8 retitled to separate AI reviewers from real users
 
 Also built an interactive spot-check page, JUDGE_SPOTCHECK.html.)
+
+**Prompt 56**
+> Spot-check done: agreed on 7/10, not sure on 1. #3 (Unsupported): disagree · #5 (Interpretation): not sure · #9 (Unsupported): disagree
+
+(Added to the report's accuracy section and the Impact slide. Both disagreements were cases where the judge was too strict, so the 5% figure is conservative.)
