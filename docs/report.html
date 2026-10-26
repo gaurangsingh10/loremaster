@@ -73,8 +73,8 @@
 <p class="thesis"><b>Curiosity you can trust.</b> Loremaster turns passive listening into active, sourced curiosity: stories gripping enough to steer, honest enough to show which parts are legend.</p>
 <p class="pitch">Loremaster is an AI storyteller for your commute. It tells long, lecture-style episodes on real history, science, technology and politics, and on Warhammer 40,000 and Star Wars lore, lets you choose where the story goes at every chapter, and grades every claim so you know what's documented, debated, legend or fan theory. Twenty-one <b>instant stories</b> start in under a second, a <b>neural narrator</b> reads them in a deep British baritone (or the voice you choose), and you can <b>interrupt to ask the narrator a question</b>, play <b>Myth or Fact?</b>, and <b>call</b> what happens next before the reveal.</p>
 <p class="meta"><b>Gaurang Singh</b> · Yale SOM MBA 2028<br>
-GitHub repo: <a href="https://github.com/gaurangsingh10/loremaster">github.com/gaurangsingh10/loremaster</a> <span class="todo">[confirm URL once published]</span><br>
-App: runs locally from a fresh clone (README, about 5 minutes); no hosted link. A 2–3 minute demo video is attached on Canvas <span class="todo">[if recorded]</span>.</p>
+GitHub repo: <a href="https://github.com/gaurangsingh10/loremaster">github.com/gaurangsingh10/loremaster</a><br>
+App: runs locally from a fresh clone (README, about 5 minutes); no hosted link. A 2-minute narrated demo video is attached on Canvas (recorded by scripting the real app in Chrome; the voiceover uses the app's own neural voice).</p>
 
 <p class="small muted">Every number in this report comes from real runs logged in the repo (<code>output/usage_log.json</code>, <code>audit_trail.json</code>, <code>cache_test.md</code>, <code>accuracy_results.md</code>, <code>safety_results.md</code>, <code>costs.md</code>, <code>committee_review.md</code>). Built with Claude Code as my vibe coder; my prompts are in <code>AI_prompts.md</code>. Unofficial fan and educational project, not affiliated with Lucasfilm, Disney or Games Workshop.</p>
 <div class="toc small">
@@ -93,7 +93,7 @@ App: runs locally from a fresh clone (README, about 5 minutes); no hosted link. 
 </ul>
 <p><b>The myth problem, with my own example.</b> I'd heard, and believed, that Texas community-property divorce law "comes from Muslim Spain." When Loremaster researched it, the sources (Wikipedia's articles on the Siete Partidas, the Visigothic Code and community property; UT Austin's Tarlton Law Library) point to <b>Visigothic and Castilian</b> law as the documented line into Spanish and Mexican Texas, with Islamic law at most a general influence on the Partidas. The fun version is a <span class="grade g-deb">Debated</span> claim at best. Popular history is full of claims like this, and nobody in the listening experience tells you which ones they are.</p>
 <p><b>Why anyone should care.</b> Popular history and lore are how most adults learn about the past. If the medium can't separate documented history from good stories, it quietly spreads myths. Loremaster keeps the fun and adds a one-tap answer to "is that true?"</p>
-<div class="todobox"><b>Tester evidence to add here:</b> <span class="todo">[TESTER QUOTE: a commuter on how they listen to history/lore today and what frustrates them]</span> · <span class="todo">[N of M testers said they'd repeated a "fact" they later found was a myth]</span></div>
+
 
 <!-- ============================================================ 3 -->
 <h2>3. What is new here</h2>
@@ -312,17 +312,10 @@ App: runs locally from a fresh clone (README, about 5 minutes); no hosted link. 
 <tr><td>Cost to serve a daily commuter</td><td><b>~$0.20 / month</b> for live episodes, including the neural voice; <b>$0</b> for instant stories</td><td>13 measured episodes; shelf build, Section 5</td></tr>
 <tr><td>Onboarding</td><td>5 taps, about 5–15 s, to a persona ("The Lord Inquisitor") and a re-ranked shelf</td><td>Playwright timing</td></tr>
 <tr><td>Something impossible before</td><td>A 40-minute, listener-steered episode that connects Caesar to Palpatine and tells you which half is history, which is canon and which is interpretation</td><td>—</td></tr>
-<tr><td>Time to verify a claim by Googling vs one tap</td><td><span class="todo">[TESTER: avg minutes to check 5 claims by Google]</span> vs ~2 seconds</td><td>Tester timing</td></tr>
 </tbody></table>
 
 <h3>Curiosity, measured</h3>
-<p>The app logs every interaction anonymously (<code>output/interaction_log.json</code>) and summarizes it under Settings → Safety &amp; transparency. These numbers come from my tester sessions:</p>
-<table><thead><tr><th>Curiosity metric</th><th>Testers</th></tr></thead><tbody>
-<tr><td>"Is that true?" taps per episode</td><td><span class="todo">[x]</span></td></tr>
-<tr><td>Questions asked the narrator (per tester)</td><td><span class="todo">[x]</span></td></tr>
-<tr><td>Myth or Fact? accuracy · Call it accuracy</td><td><span class="todo">[x%] · [x%]</span></td></tr>
-<tr><td>Minutes listened · chose a branch · "would listen tomorrow"</td><td><span class="todo">[x] · [n/N] · [n/N]</span></td></tr>
-</tbody></table>
+<p>The app is built to measure curiosity, not just listening. It logs each interaction anonymously (<code>output/interaction_log.json</code>) and summarizes it under Settings → Safety &amp; transparency: "Is that true?" taps per episode, questions asked the narrator, Myth or Fact? and Call it accuracy, minutes listened, branches chosen and whether a listener would come back tomorrow. Listeners can switch the log off. So far it holds only my own and my classmates' informal tries, too few to report as evidence, so I don't quote numbers from it here.</p>
 
 <h3>If it launched</h3>
 <table><tbody>
@@ -356,16 +349,7 @@ App: runs locally from a fresh clone (README, about 5 minutes); no hosted link. 
 <tr><td>"See if the library can be optimised"</td><td>One card per story instead of 50 separate runs, a Continue listening banner, search, filters and progress bars (it also fixed a bug that hid older stories)</td></tr>
 <tr><td>"The interview is pausing after a full point" (Caesar on the Ides of March)</td><td>A real bug: answers were cut to their quick-start first sentence. Whole answers now play (82 words, 27 s, verified)</td></tr>
 </tbody></table>
-<div class="todobox">
-<p><b>Listener sessions on my laptop.</b> <span class="todo">[N]</span> testers (<span class="todo">[n]</span> SOM classmates, <span class="todo">[n]</span> friends and family outside SOM). Each played an instant story, asked the narrator a question, made the Call it, played Myth or Fact? and filled in the in-app feedback form. I watched without helping, to see whether a first-time user could find their way.</p>
-<ul>
-<li>Average rating <span class="todo">[x.x / 5]</span> · minutes listened <span class="todo">[avg]</span> · "would listen tomorrow" <span class="todo">[n / N]</span> · needed help to get started <span class="todo">[n / N]</span></li>
-<li>Quote: <span class="todo">["…" (SOM classmate)]</span></li>
-<li>Quote: <span class="todo">["…" (friend / family)]</span></li>
-<li>What confused or bothered them, and what I changed: <span class="todo">[e.g., …]</span></li>
-</ul>
-<p class="small">Fan accuracy check (optional): the blind true/false sheets for Star Wars and 40K fans are ready to share on WhatsApp (<code>scripts/build_blind_test.py</code>). <span class="todo">[results if any fans reply, otherwise delete this line]</span></p>
-</div>
+<p><b>What I haven't measured yet.</b> Round 1 was about usability: what my classmates asked for, and what I changed. I haven't yet run timed listener sessions with ratings, minutes listened and "would you listen tomorrow", or the blind true/false check with Star Wars and 40K fans. Both are ready to run: a 15-minute session guide (<code>output/user_tests/TESTER_GUIDE.md</code>) and offline quiz sheets built from the graded claims (<code>scripts/build_blind_test.py</code>). Those are the first things I'd do next, because they would show whether graded storytelling actually changes what people believe.</p>
 
 <h2>8. Limits and next steps</h2>
 <p><b>What doesn't work yet</b></p>

@@ -104,6 +104,7 @@ All scripts run from the repo root with the venv's Python (`.venv/bin/python` on
 | `python scripts/build_instant.py` | (Re)builds the 21 ⚡ Instant stories in `data/instant/` (chapter 1 + all 3 branches each; ~$0.27 total) |
 | `python scripts/build_games.py` | (Re)builds Myth or Fact? + Call it games for every instant-story chapter (~$0.03 total) |
 | `python scripts/capture_report.py` | Re-captures every screenshot the report and slides use (usage stats off, so tester metrics stay clean; ~$0.003) |
+| `python scripts/make_demo_video.py` | Records the ~3-minute demo video: drives the app in Chrome, adds a voiceover in the app's own neural voice, cuts the AI waits (needs ffmpeg + Kokoro; output in `output/demo/`) |
 | `python scripts/fetch_covers.py` | Downloads the public-domain / CC card pictures from Wikimedia Commons into `frontend/public/covers/` (credits in `credits.json`) |
 | `python scripts/costs.py` | Cost per episode / user / month and at 100 and 10,000 users, from `output/usage_log.json` |
 
