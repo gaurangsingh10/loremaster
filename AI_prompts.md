@@ -253,3 +253,24 @@ Results:
 - Replaced every tester placeholder with honest text.
 - Published github.com/gaurangsingh10/loremaster.
 - Packaged report, slides and video in SUBMIT/.)
+
+**Prompt 55**
+> Can we edit the reports and slides to fix the formatting, make sure everything looks great. have a committee review them, suggest improvements and implement those. Also what does the final project say about submitting these ? Also what is that out of 10 checklist that you wanted me to do. prompt me and tell me how to do it, so that i can do it and give you feedback on whether that is workin
+
+(Three reviewers: a print designer, a slide designer and a strict TA grading against the rubric.
+
+Report:
+- print layout fixed (page breaks, image crops, code font, white pages)
+- inconsistent numbers corrected (44%/28% spend, 14 episodes, 10/14 call limits, 9 quarantined, $0.20 vs $0.22 explained)
+- model-choice claim made honest
+- real users moved first in Impact, with screenshots
+- What's new cut to 4 points
+- now 12 pages
+
+Slides:
+- bigger text and takeaway headlines
+- Cost slide numbers corrected
+- demo slide rebuilt around the "Is that true?" panel
+- slide 8 retitled to separate AI reviewers from real users
+
+Also built an interactive spot-check page, JUDGE_SPOTCHECK.html.)
